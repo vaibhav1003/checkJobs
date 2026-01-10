@@ -1,0 +1,30 @@
+name: Salesforce Job Monitor
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:      # Adds the manual "Run" button
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+      - name: Run Scraper
+        env:
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+        run: python job_tracker.py
+      - name: Sync Database
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add seen_jobs.txt
+          git commit -m "Update seen jobs [skip ci]" || exit 0
+          git push
