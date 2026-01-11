@@ -2,21 +2,25 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
-# 1. State Management: Load seen jobs from a file
+# 1. State Management
 DB_FILE = "seen_jobs.txt"
 
 def load_seen_jobs():
+    """Loads only the Job IDs to check for duplicates."""
     if os.path.exists(DB_FILE):
         with open(DB_FILE, "r") as f:
-            return set(line.strip() for line in f)
+            # We split by '|' and take the first element (the ID)
+            return set(line.split('|')[0].strip() for line in f if '|' in line)
     return set()
 
-def save_seen_job(job_id):
+def save_seen_job(job_id, title, job_url):
+    """Saves ID, Title, and URL to the file."""
     with open(DB_FILE, "a") as f:
-        f.write(f"{job_id}\n")
+        # Saving as: ID | Title | URL
+        f.write(f"{job_id} | {title} | {job_url}\n")
 
 def send_slack_notification(title, company, link):
-    webhook_url = os.getenv("SLACK_WEBHOOK") # Securely pulled from GitHub Secrets
+    webhook_url = os.getenv("SLACK_WEBHOOK")
     if not webhook_url:
         print("⚠️ Skipping Slack: SLACK_WEBHOOK environment variable not set.")
         return
@@ -25,7 +29,8 @@ def send_slack_notification(title, company, link):
         "text": f"🚀 *New Salesforce Job!*\n*Role:* {title}\n*Company:* {company}\n*Link:* {link}"
     }
     try:
-        requests.post(webhook_url, json=payload)
+        r = requests.post(webhook_url, json=payload)
+        print(f"Slack Response: {r.status_code}") # Helpful for debugging
     except Exception as e:
         print(f"Failed to send Slack alert: {e}")
 
@@ -54,21 +59,15 @@ def fetch_salesforce_jobs():
                 title = title_tag.text.strip()
                 company = company_tag.text.strip()
                 job_url = link_tag['href'].split('?')[0]
-                
-                # Extract unique ID from the end of the URL
                 job_id = job_url.split('-')[-1] 
 
                 if job_id not in seen_ids:
                     found_new = True
-                    # Consolidated Console Output
-                    print(f"✨ NEW JOB DETECTED ✨")
-                    print(f"📌 Role: {title}")
-                    print(f"🏢 Company: {company}")
-                    print(f"🔗 URL: {job_url}")
-                    print("-" * 30)
+                    print(f"✨ NEW JOB DETECTED: {title}")
                     
                     send_slack_notification(title, company, job_url)
-                    save_seen_job(job_id)
+                    # Updated to pass all three pieces of info
+                    save_seen_job(job_id, title, job_url)
         
         if not found_new:
             print("No new jobs found since last check.")
