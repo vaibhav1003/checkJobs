@@ -10,3 +10,4 @@
 4359797014 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-grid-dynamics-4359797014
 4345355021 | Software Engineer III - JFrog, AWS, Java/Golang | https://in.linkedin.com/jobs/view/software-engineer-iii-jfrog-aws-java-golang-at-hackajob-4345355021
 4332584923 | Software Engineer III (Data Engineering, Java/Python) | https://in.linkedin.com/jobs/view/software-engineer-iii-data-engineering-java-python-at-hackajob-4332584923
+4360665748 | Fullstack developer Java | https://in.linkedin.com/jobs/view/fullstack-developer-java-at-grid-dynamics-4360665748
