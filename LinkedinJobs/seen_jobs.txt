@@ -23,3 +23,5 @@
 4351826421 | Java Azure Developer | https://in.linkedin.com/jobs/view/java-azure-developer-at-tata-consultancy-services-4351826421
 4352553039 | Salesforce Health Cloud Senior Associate | https://in.linkedin.com/jobs/view/salesforce-health-cloud-senior-associate-at-pwc-acceleration-center-india-4352553039
 4351866877 | Aws Data Engineer (Spark and Java on AWS) | https://in.linkedin.com/jobs/view/aws-data-engineer-spark-and-java-on-aws-at-tata-consultancy-services-4351866877
+4351837014 | Senior Engineering leader - Salesforce | https://in.linkedin.com/jobs/view/senior-engineering-leader-salesforce-at-vidpro-tech-hr-solutions-private-limited-4351837014
+4332537137 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-nexusnow-ai-4332537137
