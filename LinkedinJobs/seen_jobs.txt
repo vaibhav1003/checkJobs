@@ -17,3 +17,7 @@
 4330707810 | DevOps Engineer - Salesforce | https://in.linkedin.com/jobs/view/devops-engineer-salesforce-at-prudent-technologies-and-consulting-inc-4330707810
 4361140164 | Java Developer - Kafka | https://in.linkedin.com/jobs/view/java-developer-kafka-at-incedo-inc-4361140164
 4351846227 | Java Developer -Python | https://in.linkedin.com/jobs/view/java-developer-python-at-avance-consulting-4351846227
+4345316469 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-nexusnow-ai-4345316469
+4360740820 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-warner-bros-discovery-4360740820
+4360720721 | Salesforce CPQ Developer | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-at-cloudfulcrum-4360720721
+4351826421 | Java Azure Developer | https://in.linkedin.com/jobs/view/java-azure-developer-at-tata-consultancy-services-4351826421
