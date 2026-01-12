@@ -15,3 +15,5 @@
 4332565884 | Java Developer With PHP | https://in.linkedin.com/jobs/view/java-developer-with-php-at-people-prime-worldwide-4332565884
 4322945802 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-prudent-technologies-and-consulting-inc-4322945802
 4330707810 | DevOps Engineer - Salesforce | https://in.linkedin.com/jobs/view/devops-engineer-salesforce-at-prudent-technologies-and-consulting-inc-4330707810
+4361140164 | Java Developer - Kafka | https://in.linkedin.com/jobs/view/java-developer-kafka-at-incedo-inc-4361140164
+4351846227 | Java Developer -Python | https://in.linkedin.com/jobs/view/java-developer-python-at-avance-consulting-4351846227
