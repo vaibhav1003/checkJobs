@@ -42,3 +42,6 @@
 4345329449 | Salesforce Architect - Manager | https://in.linkedin.com/jobs/view/salesforce-architect-manager-at-deloitte-4345329449
 4332569896 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-prophecy-technologies-4332569896
 4361235341 | Software Engineer-Java | https://in.linkedin.com/jobs/view/software-engineer-java-at-cgi-4361235341
+4351881990 | Agentforce lead developer | https://in.linkedin.com/jobs/view/agentforce-lead-developer-at-cognizant-4351881990
+4352645714 | Manager, Data Cloud, Studio Operations | https://in.linkedin.com/jobs/view/manager-data-cloud-studio-operations-at-novartis-india-4352645714
+4352575579 | Manager, Campaign Solution Architect, Studio Operations | https://in.linkedin.com/jobs/view/manager-campaign-solution-architect-studio-operations-at-novartis-india-4352575579
