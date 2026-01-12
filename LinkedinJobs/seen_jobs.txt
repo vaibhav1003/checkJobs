@@ -13,3 +13,5 @@
 4360665748 | Fullstack developer Java | https://in.linkedin.com/jobs/view/fullstack-developer-java-at-grid-dynamics-4360665748
 4345345750 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4345345750
 4332565884 | Java Developer With PHP | https://in.linkedin.com/jobs/view/java-developer-with-php-at-people-prime-worldwide-4332565884
+4322945802 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-prudent-technologies-and-consulting-inc-4322945802
+4330707810 | DevOps Engineer - Salesforce | https://in.linkedin.com/jobs/view/devops-engineer-salesforce-at-prudent-technologies-and-consulting-inc-4330707810
