@@ -39,3 +39,5 @@
 4345348770 | Technical Architect - Salesforce Job | https://in.linkedin.com/jobs/view/technical-architect-salesforce-job-at-yash-technologies-middle-east-4345348770
 4345328893 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-zemoso-technologies-4345328893
 4332549006 | Technical Architect - Salesforce Job | https://in.linkedin.com/jobs/view/technical-architect-salesforce-job-at-yash-technologies-4332549006
+4345329449 | Salesforce Architect - Manager | https://in.linkedin.com/jobs/view/salesforce-architect-manager-at-deloitte-4345329449
+4332569896 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-prophecy-technologies-4332569896
