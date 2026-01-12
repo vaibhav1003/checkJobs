@@ -37,3 +37,5 @@
 4360772860 | Software Engineer II-Java, Microservices, API, (AWS/Azure) | https://in.linkedin.com/jobs/view/software-engineer-ii-java-microservices-api-aws-azure-at-blue-yonder-4360772860
 4361102867 | Staff Software Engineer II (Java Microservices) | https://in.linkedin.com/jobs/view/staff-software-engineer-ii-java-microservices-at-blue-yonder-4361102867
 4345348770 | Technical Architect - Salesforce Job | https://in.linkedin.com/jobs/view/technical-architect-salesforce-job-at-yash-technologies-middle-east-4345348770
+4345328893 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-zemoso-technologies-4345328893
+4332549006 | Technical Architect - Salesforce Job | https://in.linkedin.com/jobs/view/technical-architect-salesforce-job-at-yash-technologies-4332549006
