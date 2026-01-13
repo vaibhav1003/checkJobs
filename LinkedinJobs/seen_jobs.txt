@@ -71,3 +71,5 @@
 4354862477 | Salesforce Developer (CPQ) | https://in.linkedin.com/jobs/view/salesforce-developer-cpq-at-aveva-4354862477
 4361551557 | Software Engineer II - (Python/Java/Scala with Spark, AWS) | https://in.linkedin.com/jobs/view/software-engineer-ii-python-java-scala-with-spark-aws-at-jpmorganchase-4361551557
 4354447952 | TCS Walk in _ Java Developer with Python _ Hyderabad _ 17th Jan | https://in.linkedin.com/jobs/view/tcs-walk-in-java-developer-with-python-hyderabad-17th-jan-at-tata-consultancy-services-4354447952
+4354466565 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-techgene-solutions-4354466565
+4334658786 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-synectics-apac-4334658786
