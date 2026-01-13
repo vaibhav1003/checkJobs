@@ -52,3 +52,4 @@
 4354832304 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4354832304
 4352598135 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-intraedge-4352598135
 4354832209 | Java Backend Developer - Gen AI | https://in.linkedin.com/jobs/view/java-backend-developer-gen-ai-at-vidpro-tech-hr-solutions-private-limited-4354832209
+4361249090 | Java Full Stack Engineer - AWS | https://in.linkedin.com/jobs/view/java-full-stack-engineer-aws-at-tekit-software-solutions-pvt-ltd-india-usa-4361249090
