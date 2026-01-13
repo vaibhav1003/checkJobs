@@ -63,3 +63,5 @@
 4205904849 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-persistent-systems-4205904849
 4354415676 | Customer Tech-GIG-SalesForce-Tech Lead-GDS02 | https://in.linkedin.com/jobs/view/customer-tech-gig-salesforce-tech-lead-gds02-at-ey-4354415676
 4351878746 | BTP Integration suite | https://in.linkedin.com/jobs/view/btp-integration-suite-at-tata-consultancy-services-4351878746
+4361311371 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-rrootshell-technologiiss-pvt-ltd-4361311371
+4361311832 | Software Engineer III- Java with Amazon Connect | https://in.linkedin.com/jobs/view/software-engineer-iii-java-with-amazon-connect-at-jpmorganchase-4361311832
