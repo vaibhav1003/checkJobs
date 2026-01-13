@@ -60,3 +60,6 @@
 4361320670 | Salesforce Admin with Copado | https://in.linkedin.com/jobs/view/salesforce-admin-with-copado-at-rrootshell-technologiiss-pvt-ltd-4361320670
 4341200446 | Technical Lead | https://in.linkedin.com/jobs/view/technical-lead-at-mphasis-4341200446
 4339591565 | Software Engineer – Java, DSA, Rest API, Microservices, Spring Boot, JUnit | https://in.linkedin.com/jobs/view/software-engineer-%E2%80%93-java-dsa-rest-api-microservices-spring-boot-junit-at-epam-systems-4339591565
+4205904849 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-persistent-systems-4205904849
+4354415676 | Customer Tech-GIG-SalesForce-Tech Lead-GDS02 | https://in.linkedin.com/jobs/view/customer-tech-gig-salesforce-tech-lead-gds02-at-ey-4354415676
+4351878746 | BTP Integration suite | https://in.linkedin.com/jobs/view/btp-integration-suite-at-tata-consultancy-services-4351878746
