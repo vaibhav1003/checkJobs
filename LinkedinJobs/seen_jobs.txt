@@ -49,3 +49,6 @@
 4354404165 | Salesforce OmniStudio Developer | https://in.linkedin.com/jobs/view/salesforce-omnistudio-developer-at-umanist-na-4354404165
 4361138725 | Salesforce Automation Test Engineer | https://in.linkedin.com/jobs/view/salesforce-automation-test-engineer-at-osf-digital-4361138725
 4351884816 | Java PHP Developer | https://in.linkedin.com/jobs/view/java-php-developer-at-people-prime-worldwide-4351884816
+4354832304 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4354832304
+4352598135 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-intraedge-4352598135
+4354832209 | Java Backend Developer - Gen AI | https://in.linkedin.com/jobs/view/java-backend-developer-gen-ai-at-vidpro-tech-hr-solutions-private-limited-4354832209
