@@ -65,3 +65,5 @@
 4351878746 | BTP Integration suite | https://in.linkedin.com/jobs/view/btp-integration-suite-at-tata-consultancy-services-4351878746
 4361311371 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-rrootshell-technologiiss-pvt-ltd-4361311371
 4361311832 | Software Engineer III- Java with Amazon Connect | https://in.linkedin.com/jobs/view/software-engineer-iii-java-with-amazon-connect-at-jpmorganchase-4361311832
+4354436579 | Salesforce Developer - Senior Analyst | https://in.linkedin.com/jobs/view/salesforce-developer-senior-analyst-at-deloitte-4354436579
+4335830089 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-synectics-apac-4335830089
