@@ -68,3 +68,5 @@
 4354436579 | Salesforce Developer - Senior Analyst | https://in.linkedin.com/jobs/view/salesforce-developer-senior-analyst-at-deloitte-4354436579
 4335830089 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-synectics-apac-4335830089
 4361304086 | Salesforce Developer – CPQ, Sales Cloud & RLM | https://in.linkedin.com/jobs/view/salesforce-developer-%E2%80%93-cpq-sales-cloud-rlm-at-jade-global-4361304086
+4354862477 | Salesforce Developer (CPQ) | https://in.linkedin.com/jobs/view/salesforce-developer-cpq-at-aveva-4354862477
+4361551557 | Software Engineer II - (Python/Java/Scala with Spark, AWS) | https://in.linkedin.com/jobs/view/software-engineer-ii-python-java-scala-with-spark-aws-at-jpmorganchase-4361551557
