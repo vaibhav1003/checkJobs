@@ -84,3 +84,6 @@
 4361515085 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4361515085
 4361288301 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4361288301
 4361357475 | Java Developer - Spring Boot/Hibernate | https://in.linkedin.com/jobs/view/java-developer-spring-boot-hibernate-at-bluglint-solutions-4361357475
+4355000965 | Java Developer (JSP + Struts) | https://in.linkedin.com/jobs/view/java-developer-jsp-%2B-struts-at-nityo-infotech-4355000965
+4361508744 | Dynamic 365 CRM Developer | https://in.linkedin.com/jobs/view/dynamic-365-crm-developer-at-info-way-solutions-4361508744
+4354991196 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4354991196
