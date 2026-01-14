@@ -88,3 +88,6 @@
 4361508744 | Dynamic 365 CRM Developer | https://in.linkedin.com/jobs/view/dynamic-365-crm-developer-at-info-way-solutions-4361508744
 4354991196 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4354991196
 4353012933 | Java Backend Engineer | https://in.linkedin.com/jobs/view/java-backend-engineer-at-xperteez-technology-4353012933
+4354875658 | Salesforce FSL Developer | https://in.linkedin.com/jobs/view/salesforce-fsl-developer-at-metasys-technologies-4354875658
+4361349494 | Engineer, Software (Java) [T500-22426] | https://in.linkedin.com/jobs/view/engineer-software-java-t500-22426-at-tmus-global-solutions-4361349494
+4355021568 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4355021568
