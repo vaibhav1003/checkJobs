@@ -83,3 +83,4 @@
 4361395154 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4361395154
 4361515085 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4361515085
 4361288301 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4361288301
+4361357475 | Java Developer - Spring Boot/Hibernate | https://in.linkedin.com/jobs/view/java-developer-spring-boot-hibernate-at-bluglint-solutions-4361357475
