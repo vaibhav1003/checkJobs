@@ -103,3 +103,4 @@
 4354859725 | Salesforce Senior Developer/Senior Consultant | https://in.linkedin.com/jobs/view/salesforce-senior-developer-senior-consultant-at-infosys-4354859725
 4362313443 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4362313443
 4334708192 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-synectics-apac-4334708192
+4359100629 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-intraedge-4359100629
