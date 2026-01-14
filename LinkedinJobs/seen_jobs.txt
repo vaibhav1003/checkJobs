@@ -93,3 +93,6 @@
 4355021568 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4355021568
 4330215999 | Java+Python Developer | https://in.linkedin.com/jobs/view/java%2Bpython-developer-at-tata-consultancy-services-4330215999
 4361662907 | MS Dynamics CRM Developer | https://in.linkedin.com/jobs/view/ms-dynamics-crm-developer-at-xemplar-insights-4361662907
+4340735613 | Software Engineer III - Selenium, Java | https://in.linkedin.com/jobs/view/software-engineer-iii-selenium-java-at-jpmorganchase-4340735613
+4328954064 | Senior Success Guide, Service Cloud (Salesforce dev exp mandatory) | https://in.linkedin.com/jobs/view/senior-success-guide-service-cloud-salesforce-dev-exp-mandatory-at-salesforce-4328954064
+4354932566 | Java Developer (JSP + Struts) | https://in.linkedin.com/jobs/view/java-developer-jsp-%2B-struts-at-nityo-infotech-4354932566
