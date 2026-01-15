@@ -113,3 +113,9 @@
 4352095285 | Developer III - Enterprise Solutions (Salesforce Developer) | https://in.linkedin.com/jobs/view/developer-iii-enterprise-solutions-salesforce-developer-at-ust-4352095285
 4346253968 | Software Engineer III - Java , Kafka, AWS, SQL | https://in.linkedin.com/jobs/view/software-engineer-iii-java-kafka-aws-sql-at-jpmorganchase-4346253968
 4352978947 | Java Fullstack Developer (Java+ React) | https://in.linkedin.com/jobs/view/java-fullstack-developer-java%2B-react-at-ltimindtree-4352978947
+4348493808 | Software Engineer(Salesforce) | https://in.linkedin.com/jobs/view/software-engineer-salesforce-at-ge-vernova-4348493808
+4297292495 | Developer | https://in.linkedin.com/jobs/view/developer-at-ntt-data-north-america-4297292495
+4297289555 | Developer | https://in.linkedin.com/jobs/view/developer-at-ntt-data-north-america-4297289555
+4297286739 | Developer | https://in.linkedin.com/jobs/view/developer-at-ntt-data-north-america-4297286739
+4348412180 | Lead Engineer - Salesforce Devops | https://in.linkedin.com/jobs/view/lead-engineer-salesforce-devops-at-pepsico-4348412180
+4359025310 | Salesforce Omnistudio Technical Lead | https://in.linkedin.com/jobs/view/salesforce-omnistudio-technical-lead-at-umanist-na-4359025310
