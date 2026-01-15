@@ -119,3 +119,5 @@
 4297286739 | Developer | https://in.linkedin.com/jobs/view/developer-at-ntt-data-north-america-4297286739
 4348412180 | Lead Engineer - Salesforce Devops | https://in.linkedin.com/jobs/view/lead-engineer-salesforce-devops-at-pepsico-4348412180
 4359025310 | Salesforce Omnistudio Technical Lead | https://in.linkedin.com/jobs/view/salesforce-omnistudio-technical-lead-at-umanist-na-4359025310
+4205909170 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-persistent-systems-4205909170
+4297557989 | Senior Manager Salesforce- Sr. Tech Lead | https://in.linkedin.com/jobs/view/senior-manager-salesforce-sr-tech-lead-at-azurity-pharmaceuticals-4297557989
