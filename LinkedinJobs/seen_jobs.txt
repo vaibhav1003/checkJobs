@@ -121,3 +121,6 @@
 4359025310 | Salesforce Omnistudio Technical Lead | https://in.linkedin.com/jobs/view/salesforce-omnistudio-technical-lead-at-umanist-na-4359025310
 4205909170 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-persistent-systems-4205909170
 4297557989 | Senior Manager Salesforce- Sr. Tech Lead | https://in.linkedin.com/jobs/view/senior-manager-salesforce-sr-tech-lead-at-azurity-pharmaceuticals-4297557989
+4353272254 | Lead II - Enterprise Solutions ( Salesforce Technical Architect) | https://in.linkedin.com/jobs/view/lead-ii-enterprise-solutions-salesforce-technical-architect-at-ust-4353272254
+4353610018 | Java full stack developers | https://in.linkedin.com/jobs/view/java-full-stack-developers-at-concentrix-4353610018
+4353570029 | Java full stack developers | https://in.linkedin.com/jobs/view/java-full-stack-developers-at-concentrix-4353570029
