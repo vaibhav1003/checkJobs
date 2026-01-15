@@ -109,3 +109,4 @@
 4362730494 | Aurigene Pharmaceutical Services - Backend Developer - Java/Python | https://in.linkedin.com/jobs/view/aurigene-pharmaceutical-services-backend-developer-java-python-at-aurigene-pharmaceutical-services-limited-4362730494
 4362428265 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-ekloud-inc-4362428265
 4357654378 | Salesforce FSL Developer | https://in.linkedin.com/jobs/view/salesforce-fsl-developer-at-metasys-technologies-4357654378
+4359142222 | Salesforce OmniStudio Developer | https://in.linkedin.com/jobs/view/salesforce-omnistudio-developer-at-true-tech-professionals-4359142222
