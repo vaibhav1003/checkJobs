@@ -126,3 +126,10 @@
 4353570029 | Java full stack developers | https://in.linkedin.com/jobs/view/java-full-stack-developers-at-concentrix-4353570029
 4357658547 | Full Stack Engineer - Java and React JS | https://in.linkedin.com/jobs/view/full-stack-engineer-java-and-react-js-at-apple-4357658547
 4359018563 | Full stack Engineer - Java u0026 Angular/Vue | https://in.linkedin.com/jobs/view/full-stack-engineer-java-u0026-angular-vue-at-apple-4359018563
+4362852692 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4362852692
+4362708223 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4362708223
+4362833085 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4362833085
+4362892403 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4362892403
+4362852848 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4362852848
+4362813325 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4362813325
+4362862823 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4362862823
