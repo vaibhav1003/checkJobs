@@ -146,3 +146,7 @@
 4362973529 | Salesfroce Developer | https://in.linkedin.com/jobs/view/salesfroce-developer-at-blue-spire-inc-4362973529
 4359184923 | Salesforce FSL Developer | https://in.linkedin.com/jobs/view/salesforce-fsl-developer-at-metasys-technologies-4359184923
 4308605014 | Staff Software Engineer (Cloud Native Java) | https://in.linkedin.com/jobs/view/staff-software-engineer-cloud-native-java-at-experian-4308605014
+4322228805 | Developer, IT Business Applications | https://in.linkedin.com/jobs/view/developer-it-business-applications-at-shure-india-4322228805
+4348560897 | Salesforce Senior Developer | https://in.linkedin.com/jobs/view/salesforce-senior-developer-at-algoleap-4348560897
+4348407022 | Mulesoft Developer | https://in.linkedin.com/jobs/view/mulesoft-developer-at-algoleap-4348407022
+4348446840 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-algoleap-4348446840
