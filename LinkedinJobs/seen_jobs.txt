@@ -142,3 +142,5 @@
 4344482181 | Integrations Software Developer - NodeJS [T500-21897] | https://in.linkedin.com/jobs/view/integrations-software-developer-nodejs-t500-21897-at-talent500-4344482181
 4359231844 | Salesforce OmniStudio (Vlocity) Developer | https://in.linkedin.com/jobs/view/salesforce-omnistudio-vlocity-developer-at-bds-ai-digital-solutions-pvt-ltd-4359231844
 4359232049 | Salesforce Revenue Cloud Architect | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-at-tata-consultancy-services-4359232049
+4363702218 | QA Engineer – Salesforce & MuleSoft (Mid-Level) | https://in.linkedin.com/jobs/view/qa-engineer-%E2%80%93-salesforce-mulesoft-mid-level-at-stacknexus-4363702218
+4362973529 | Salesfroce Developer | https://in.linkedin.com/jobs/view/salesfroce-developer-at-blue-spire-inc-4362973529
