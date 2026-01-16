@@ -150,3 +150,6 @@
 4348560897 | Salesforce Senior Developer | https://in.linkedin.com/jobs/view/salesforce-senior-developer-at-algoleap-4348560897
 4348407022 | Mulesoft Developer | https://in.linkedin.com/jobs/view/mulesoft-developer-at-algoleap-4348407022
 4348446840 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-algoleap-4348446840
+4353454515 | Lead Salesforce Administrator | https://in.linkedin.com/jobs/view/lead-salesforce-administrator-at-accellor-4353454515
+4360053311 | Salesforce Senior Developer/Senior Consultant | https://in.linkedin.com/jobs/view/salesforce-senior-developer-senior-consultant-at-infosys-4360053311
+4353624314 | Senior Conversational AI Engineer (Healthcare ) | https://in.linkedin.com/jobs/view/senior-conversational-ai-engineer-healthcare-at-sid-information-technologies-4353624314
