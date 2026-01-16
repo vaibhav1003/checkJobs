@@ -135,3 +135,6 @@
 4362862823 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4362862823
 4362783740 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4362783740
 4353492697 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-zemoso-technologies-4353492697
+4353670053 | CRM Developer (MS Dynamics 365) | https://in.linkedin.com/jobs/view/crm-developer-ms-dynamics-365-at-tesslogs-it-solutions-4353670053
+4359184406 | Salesforce Technical Consultant | PC | 7-10 yrs | https://in.linkedin.com/jobs/view/salesforce-technical-consultant-pc-7-10-yrs-at-creator-city-4359184406
+4359202004 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4359202004
