@@ -134,3 +134,4 @@
 4362813325 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4362813325
 4362862823 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4362862823
 4362783740 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4362783740
+4353492697 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-zemoso-technologies-4353492697
