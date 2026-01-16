@@ -159,3 +159,8 @@
 4364030480 | Senior Software Engineer – Distributed Data Systems (Java/C++/Golang) | https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-distributed-data-systems-java-c%2B%2B-golang-at-talent-sutra-4364030480
 4360053264 | Java, DevOps Software Engineer | https://in.linkedin.com/jobs/view/java-devops-software-engineer-at-blackbaud-india-4360053264
 4359214523 | SAP BTP | https://in.linkedin.com/jobs/view/sap-btp-at-tata-consultancy-services-4359214523
+4359225904 | Salesforce Developer (Salesforce Billing) | https://in.linkedin.com/jobs/view/salesforce-developer-salesforce-billing-at-s-p-global-4359225904
+4363801604 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-cgi-4363801604
+4359265309 | Full Stack Engineer - Java and React JS | https://in.linkedin.com/jobs/view/full-stack-engineer-java-and-react-js-at-apple-4359265309
+4363781453 | Software Engineer II - Java, Camunda | https://in.linkedin.com/jobs/view/software-engineer-ii-java-camunda-at-jpmorganchase-4363781453
+4360074804 | Revenue Cloud Business Analyst (Billing) | https://in.linkedin.com/jobs/view/revenue-cloud-business-analyst-billing-at-s-p-global-4360074804
