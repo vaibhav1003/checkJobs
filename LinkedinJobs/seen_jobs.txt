@@ -170,3 +170,4 @@
 4360095076 | Quality Assurance Engineer - Java/Selenium | https://in.linkedin.com/jobs/view/quality-assurance-engineer-java-selenium-at-techno-comp-computer-services-pvt-ltd-4360095076
 4360027254 | Java Developer - Camunda/Drools | https://in.linkedin.com/jobs/view/java-developer-camunda-drools-at-deqode-4360027254
 4359277823 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-yati-technology-4359277823
+4359289042 | Salesforce OmniStudio (Vlocity) Developer | https://in.linkedin.com/jobs/view/salesforce-omnistudio-vlocity-developer-at-bds-ai-digital-solutions-pvt-ltd-4359289042
