@@ -165,3 +165,7 @@
 4363781453 | Software Engineer II - Java, Camunda | https://in.linkedin.com/jobs/view/software-engineer-ii-java-camunda-at-jpmorganchase-4363781453
 4360074804 | Revenue Cloud Business Analyst (Billing) | https://in.linkedin.com/jobs/view/revenue-cloud-business-analyst-billing-at-s-p-global-4360074804
 4360054857 | Full stack Engineer - Java & Angular/Vue | https://in.linkedin.com/jobs/view/full-stack-engineer-java-angular-vue-at-apple-4360054857
+4359207317 | Workato Developer - Solution Design | https://in.linkedin.com/jobs/view/workato-developer-solution-design-at-arting-digital-4359207317
+4359198672 | FPT Software - Java Developer | https://in.linkedin.com/jobs/view/fpt-software-java-developer-at-fpt-india-4359198672
+4360095076 | Quality Assurance Engineer - Java/Selenium | https://in.linkedin.com/jobs/view/quality-assurance-engineer-java-selenium-at-techno-comp-computer-services-pvt-ltd-4360095076
+4360027254 | Java Developer - Camunda/Drools | https://in.linkedin.com/jobs/view/java-developer-camunda-drools-at-deqode-4360027254
