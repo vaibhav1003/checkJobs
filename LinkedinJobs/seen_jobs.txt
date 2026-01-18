@@ -179,3 +179,5 @@
 4363897298 | Software Engineer III - Java AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4363897298
 4353860331 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-concentrix-4353860331
 4239109649 | Sr. Salesforce Developer-2 | https://in.linkedin.com/jobs/view/sr-salesforce-developer-2-at-zelis-4239109649
+4340810182 | Software Engineer II | https://in.linkedin.com/jobs/view/software-engineer-ii-at-celigo-4340810182
+4336150591 | SAP Sr ABAP CRM Developer | https://in.linkedin.com/jobs/view/sap-sr-abap-crm-developer-at-ntt-data-north-america-4336150591
