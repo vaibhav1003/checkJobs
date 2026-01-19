@@ -186,3 +186,5 @@
 4364320596 | Java Fullstack React AWS Developer | https://in.linkedin.com/jobs/view/java-fullstack-react-aws-developer-at-cgi-4364320596
 4360460922 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-devrabbit-it-solutions-4360460922
 4364390772 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-blue-spire-inc-4364390772
+4353744399 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-kresta-softech-private-limited-4353744399
+4360451557 | Java React Developer | https://in.linkedin.com/jobs/view/java-react-developer-at-tata-consultancy-services-4360451557
