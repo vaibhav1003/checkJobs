@@ -194,3 +194,6 @@
 4360831741 | Customer-S&S-Salesforce Technical -Life Sciences -Specialist Master | https://in.linkedin.com/jobs/view/customer-s-s-salesforce-technical-life-sciences-specialist-master-at-deloitte-4360831741
 4188319183 | Lead Consultant - Salesforce CPQ | https://in.linkedin.com/jobs/view/lead-consultant-salesforce-cpq-at-argano-4188319183
 4360442028 | Java MuleSoft Developer | https://in.linkedin.com/jobs/view/java-mulesoft-developer-at-vayuz-technologies-4360442028
+4353824073 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-1x2-network-4353824073
+4252169092 | SW Engineer III ( Full Stack Java Spring Boot) | https://in.linkedin.com/jobs/view/sw-engineer-iii-full-stack-java-spring-boot-at-ncr-atleos-4252169092
+4360803706 | Java Developer - Java Spring Hibernate, Maven, Git, Microservices | https://in.linkedin.com/jobs/view/java-developer-java-spring-hibernate-maven-git-microservices-at-tata-consultancy-services-4360803706
