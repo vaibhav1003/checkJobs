@@ -204,3 +204,7 @@
 4360484675 | Customer-S&S-Salesforce Technical-Life Sciences-Senior Consultant | https://in.linkedin.com/jobs/view/customer-s-s-salesforce-technical-life-sciences-senior-consultant-at-deloitte-4360484675
 4360915377 | Senior Salesforce QA Engineer | https://in.linkedin.com/jobs/view/senior-salesforce-qa-engineer-at-teksystems-4360915377
 4360835765 | Salesforce FSL Developer(Local to Hyderabad) | https://in.linkedin.com/jobs/view/salesforce-fsl-developer-local-to-hyderabad-at-tachyon-technologies-4360835765
+4364235495 | Java - Software Engineer (2-7 Yrs) | https://in.linkedin.com/jobs/view/java-software-engineer-2-7-yrs-at-cgi-4364235495
+4364365218 | Java - Software Engineer (2-7 Yrs) | https://in.linkedin.com/jobs/view/java-software-engineer-2-7-yrs-at-cgi-4364365218
+4364285359 | Java - Software Engineer (2-7 Yrs) | https://in.linkedin.com/jobs/view/java-software-engineer-2-7-yrs-at-cgi-4364285359
+4364365213 | Java production Support Engineer | https://in.linkedin.com/jobs/view/java-production-support-engineer-at-cgi-4364365213
