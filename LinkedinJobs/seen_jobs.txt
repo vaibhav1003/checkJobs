@@ -188,3 +188,7 @@
 4364390772 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-blue-spire-inc-4364390772
 4353744399 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-kresta-softech-private-limited-4353744399
 4360451557 | Java React Developer | https://in.linkedin.com/jobs/view/java-react-developer-at-tata-consultancy-services-4360451557
+4364091669 | Sr. Software Engr./Analyst | https://in.linkedin.com/jobs/view/sr-software-engr-analyst-at-mphasis-4364091669
+4360481700 | Customer-S&S-Salesforce Technical- Life Sciences- Specialist Senior | https://in.linkedin.com/jobs/view/customer-s-s-salesforce-technical-life-sciences-specialist-senior-at-deloitte-4360481700
+4360901743 | Staff Software Engineer - Java, Microservices | https://in.linkedin.com/jobs/view/staff-software-engineer-java-microservices-at-blue-yonder-4360901743
+4360831741 | Customer-S&S-Salesforce Technical -Life Sciences -Specialist Master | https://in.linkedin.com/jobs/view/customer-s-s-salesforce-technical-life-sciences-specialist-master-at-deloitte-4360831741
