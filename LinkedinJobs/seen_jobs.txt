@@ -192,3 +192,5 @@
 4360481700 | Customer-S&S-Salesforce Technical- Life Sciences- Specialist Senior | https://in.linkedin.com/jobs/view/customer-s-s-salesforce-technical-life-sciences-specialist-senior-at-deloitte-4360481700
 4360901743 | Staff Software Engineer - Java, Microservices | https://in.linkedin.com/jobs/view/staff-software-engineer-java-microservices-at-blue-yonder-4360901743
 4360831741 | Customer-S&S-Salesforce Technical -Life Sciences -Specialist Master | https://in.linkedin.com/jobs/view/customer-s-s-salesforce-technical-life-sciences-specialist-master-at-deloitte-4360831741
+4188319183 | Lead Consultant - Salesforce CPQ | https://in.linkedin.com/jobs/view/lead-consultant-salesforce-cpq-at-argano-4188319183
+4360442028 | Java MuleSoft Developer | https://in.linkedin.com/jobs/view/java-mulesoft-developer-at-vayuz-technologies-4360442028
