@@ -230,3 +230,6 @@
 4360869094 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-services-pvt-ltd-4360869094
 4364626337 | Lead Salesforce Developer | https://in.linkedin.com/jobs/view/lead-salesforce-developer-at-blue5green-4364626337
 4360449547 | Salesforce Ncino Developer | https://in.linkedin.com/jobs/view/salesforce-ncino-developer-at-infospeed-services-inc-4360449547
+4364259341 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-blue5green-4364259341
+4346050883 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-infotech-consultancy-4346050883
+4364660612 | Salesforce Marketing  Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-at-blue5green-4364660612
