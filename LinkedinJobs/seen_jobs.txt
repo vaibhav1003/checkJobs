@@ -220,3 +220,5 @@
 4360398861 | Walk in_ Java Full Stack Developer_ Hyderabad_24th Jan | https://in.linkedin.com/jobs/view/walk-in-java-full-stack-developer-hyderabad-24th-jan-at-tata-consultancy-services-4360398861
 4360838648 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-techcarrot-4360838648
 4364248746 | Java Full Stack Engineer | https://in.linkedin.com/jobs/view/java-full-stack-engineer-at-blue-spire-inc-4364248746
+4360972133 | Java Developer_PAN India | https://in.linkedin.com/jobs/view/java-developer-pan-india-at-viraaj-hr-solutions-private-limited-4360972133
+4364238602 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-bcforward-4364238602
