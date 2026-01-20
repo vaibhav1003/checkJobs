@@ -218,3 +218,5 @@
 4364388041 | Salesforce Revenue Cloud Consultant | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-consultant-at-infovision-inc-4364388041
 4364068394 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-ktree-com-4364068394
 4360398861 | Walk in_ Java Full Stack Developer_ Hyderabad_24th Jan | https://in.linkedin.com/jobs/view/walk-in-java-full-stack-developer-hyderabad-24th-jan-at-tata-consultancy-services-4360398861
+4360838648 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-techcarrot-4360838648
+4364248746 | Java Full Stack Engineer | https://in.linkedin.com/jobs/view/java-full-stack-engineer-at-blue-spire-inc-4364248746
