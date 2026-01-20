@@ -214,3 +214,4 @@
 4364297571 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-gc-technologies-pvt-ltd-4364297571
 4360487898 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4360487898
 4360487958 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4360487958
+4360838236 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-galaxy-i-technologies-inc-4360838236
