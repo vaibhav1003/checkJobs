@@ -239,3 +239,8 @@
 4364821233 | Technical Consultant / Senior Technical Consultant - Salesforce Loyalty Cloud | https://in.linkedin.com/jobs/view/technical-consultant-senior-technical-consultant-salesforce-loyalty-cloud-at-griddable-io-4364821233
 4364891139 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4364891139
 4360991842 | Senior Salesforce QC Administrator | https://in.linkedin.com/jobs/view/senior-salesforce-qc-administrator-at-cg-vak-software-exports-ltd-4360991842
+4346024380 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-people-tech-group-inc-4346024380
+4364643027 | Technical Consultant / Senior Technical Consultant - Salesforce Loyalty Cloud | https://in.linkedin.com/jobs/view/technical-consultant-senior-technical-consultant-salesforce-loyalty-cloud-at-salesforce-4364643027
+4342583071 | Full Stack Engineer - Java & React | https://in.linkedin.com/jobs/view/full-stack-engineer-java-react-at-resmed-4342583071
+4360964384 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-valuemomentum-4360964384
+4364908663 | Staff Software Engineer (Java Frontend Fullstack) | https://in.linkedin.com/jobs/view/staff-software-engineer-java-frontend-fullstack-at-servicenow-4364908663
