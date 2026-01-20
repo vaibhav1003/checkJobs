@@ -247,3 +247,9 @@
 4361553460 | Java Full Stack Developer (JAVA + React Programming) | https://in.linkedin.com/jobs/view/java-full-stack-developer-java-%2B-react-programming-at-synectics-apac-4361553460
 4364906605 | Principle Engineer - Java / Payments domain | https://in.linkedin.com/jobs/view/principle-engineer-java-payments-domain-at-wells-fargo-4364906605
 4362050202 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4362050202
+4364852964 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4364852964
+4364843033 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4364843033
+4364916640 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4364916640
+4364843015 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4364843015
+4364922279 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4364922279
+4364852776 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4364852776
