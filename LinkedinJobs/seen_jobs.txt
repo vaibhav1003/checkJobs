@@ -212,3 +212,5 @@
 4364306678 | FocalCXM - Salesforce Agentforce Lead Developer - Apex/LWC | https://in.linkedin.com/jobs/view/focalcxm-salesforce-agentforce-lead-developer-apex-lwc-at-focalcxm-4364306678
 4364366714 | VAYUZ Technologies - Java MuleSoft Developer | https://in.linkedin.com/jobs/view/vayuz-technologies-java-mulesoft-developer-at-vayuz-technologies-4364366714
 4364297571 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-gc-technologies-pvt-ltd-4364297571
+4360487898 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4360487898
+4360487958 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4360487958
