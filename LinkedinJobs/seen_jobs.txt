@@ -244,3 +244,6 @@
 4342583071 | Full Stack Engineer - Java & React | https://in.linkedin.com/jobs/view/full-stack-engineer-java-react-at-resmed-4342583071
 4360964384 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-valuemomentum-4360964384
 4364908663 | Staff Software Engineer (Java Frontend Fullstack) | https://in.linkedin.com/jobs/view/staff-software-engineer-java-frontend-fullstack-at-servicenow-4364908663
+4361553460 | Java Full Stack Developer (JAVA + React Programming) | https://in.linkedin.com/jobs/view/java-full-stack-developer-java-%2B-react-programming-at-synectics-apac-4361553460
+4364906605 | Principle Engineer - Java / Payments domain | https://in.linkedin.com/jobs/view/principle-engineer-java-payments-domain-at-wells-fargo-4364906605
+4362050202 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4362050202
