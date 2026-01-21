@@ -269,3 +269,4 @@
 4261941908 | Staff Engineer - Backend Java | https://in.linkedin.com/jobs/view/staff-engineer-backend-java-at-experian-4261941908
 4342729468 | Salesforce Senior Success Architect | https://in.linkedin.com/jobs/view/salesforce-senior-success-architect-at-salesforce-4342729468
 4346089485 | Lead II - Enterprise Solutions - Salesforce Technical Solution Architect | https://in.linkedin.com/jobs/view/lead-ii-enterprise-solutions-salesforce-technical-solution-architect-at-ust-4346089485
+4365030827 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-salesforce-4365030827
