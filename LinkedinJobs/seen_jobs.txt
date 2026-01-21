@@ -281,3 +281,6 @@
 4365055820 | Software Engineering Manager (Salesforce) | https://in.linkedin.com/jobs/view/software-engineering-manager-salesforce-at-experian-4365055820
 4362105940 | Senior Salesforce Developer (Minimum 4 years of experience in CPQ) | https://in.linkedin.com/jobs/view/senior-salesforce-developer-minimum-4-years-of-experience-in-cpq-at-outreach-4362105940
 4365059975 | Specialist CRM Software Engineer | https://in.linkedin.com/jobs/view/specialist-crm-software-engineer-at-amgen-4365059975
+4365064623 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-synergy-technologies-4365064623
+4353989317 | Consultant- SAP SD Job | https://in.linkedin.com/jobs/view/consultant-sap-sd-job-at-yash-technologies-middle-east-4353989317
+4365091254 | Salesforce Senior Technical Architect /Technical Architect | https://in.linkedin.com/jobs/view/salesforce-senior-technical-architect-technical-architect-at-griddable-io-4365091254
