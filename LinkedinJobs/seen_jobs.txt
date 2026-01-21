@@ -275,3 +275,5 @@
 4326285962 | Senior Salesforce Quality Engineer - Tietoevry Create (m/f/d) | https://in.linkedin.com/jobs/view/senior-salesforce-quality-engineer-tietoevry-create-m-f-d-at-tieto-4326285962
 4362113869 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-vation-digital-4362113869
 4336632566 | Developer Java / Data Migration | https://in.linkedin.com/jobs/view/developer-java-data-migration-at-equisoft-4336632566
+4319257678 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-cognizant-4319257678
+4365069369 | Full Stack Java Developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-bcforward-4365069369
