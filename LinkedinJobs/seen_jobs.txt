@@ -270,3 +270,8 @@
 4342729468 | Salesforce Senior Success Architect | https://in.linkedin.com/jobs/view/salesforce-senior-success-architect-at-salesforce-4342729468
 4346089485 | Lead II - Enterprise Solutions - Salesforce Technical Solution Architect | https://in.linkedin.com/jobs/view/lead-ii-enterprise-solutions-salesforce-technical-solution-architect-at-ust-4346089485
 4365030827 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-salesforce-4365030827
+4365055003 | Software Engineer- Salesforce , Integration | https://in.linkedin.com/jobs/view/software-engineer-salesforce-integration-at-optum-4365055003
+4326492198 | QE Automation Engineer – Salesforce - Tietoevry Create (m/f/d) | https://in.linkedin.com/jobs/view/qe-automation-engineer-%E2%80%93-salesforce-tietoevry-create-m-f-d-at-tieto-4326492198
+4326285962 | Senior Salesforce Quality Engineer - Tietoevry Create (m/f/d) | https://in.linkedin.com/jobs/view/senior-salesforce-quality-engineer-tietoevry-create-m-f-d-at-tieto-4326285962
+4362113869 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-vation-digital-4362113869
+4336632566 | Developer Java / Data Migration | https://in.linkedin.com/jobs/view/developer-java-data-migration-at-equisoft-4336632566
