@@ -284,3 +284,6 @@
 4365064623 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-synergy-technologies-4365064623
 4353989317 | Consultant- SAP SD Job | https://in.linkedin.com/jobs/view/consultant-sap-sd-job-at-yash-technologies-middle-east-4353989317
 4365091254 | Salesforce Senior Technical Architect /Technical Architect | https://in.linkedin.com/jobs/view/salesforce-senior-technical-architect-technical-architect-at-griddable-io-4365091254
+4354270565 | java backend developer - Hyderabad | https://in.linkedin.com/jobs/view/java-backend-developer-hyderabad-at-id4-consultancy-4354270565
+4365092019 | Principal Engineer - Java / Payments domain | https://in.linkedin.com/jobs/view/principal-engineer-java-payments-domain-at-wells-fargo-4365092019
+4365086181 | Principal Engineer - Java, Payments | https://in.linkedin.com/jobs/view/principal-engineer-java-payments-at-wells-fargo-4365086181
