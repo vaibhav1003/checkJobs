@@ -266,3 +266,6 @@
 4354107746 | Java, DevOps Software Engineer | https://in.linkedin.com/jobs/view/java-devops-software-engineer-at-blackbaud-india-4354107746
 4360969769 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-ashu-dividend-software-solutions-pvt-ltd-software-development-company-4360969769
 4361907031 | Java with Rust developer | https://in.linkedin.com/jobs/view/java-with-rust-developer-at-nexusnow-ai-4361907031
+4261941908 | Staff Engineer - Backend Java | https://in.linkedin.com/jobs/view/staff-engineer-backend-java-at-experian-4261941908
+4342729468 | Salesforce Senior Success Architect | https://in.linkedin.com/jobs/view/salesforce-senior-success-architect-at-salesforce-4342729468
+4346089485 | Lead II - Enterprise Solutions - Salesforce Technical Solution Architect | https://in.linkedin.com/jobs/view/lead-ii-enterprise-solutions-salesforce-technical-solution-architect-at-ust-4346089485
