@@ -256,3 +256,7 @@
 4364802744 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4364802744
 4364916463 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4364916463
 4365014055 | Salesforce Developer, GREF Tech | https://in.linkedin.com/jobs/view/salesforce-developer-gref-tech-at-amazon-4365014055
+4360969484 | Salesforce Ncino Developer | https://in.linkedin.com/jobs/view/salesforce-ncino-developer-at-infospeed-services-inc-4360969484
+4365017589 | Salesforce Automation Test Engineer | https://in.linkedin.com/jobs/view/salesforce-automation-test-engineer-at-osf-digital-4365017589
+4361955270 | Java Full Stack Developer || 6 - 15 Years Experience | https://in.linkedin.com/jobs/view/java-full-stack-developer-6-15-years-experience-at-people-prime-worldwide-4361955270
+4361975076 | Java Developer With PHP | https://in.linkedin.com/jobs/view/java-developer-with-php-at-people-prime-worldwide-4361975076
