@@ -326,3 +326,7 @@
 4354185322 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4354185322
 4362196403 | Java developer with Al coding tools | https://in.linkedin.com/jobs/view/java-developer-with-al-coding-tools-at-grid-dynamics-4362196403
 4365309350 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-ntt-data-north-america-4365309350
+4365359356 | Senior Software Engineer – L2 Production Support (Java / Unix / SQL) | https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-l2-production-support-java-unix-sql-at-cgi-4365359356
+4365330315 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4365330315
+4365323379 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4365323379
+4365333120 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4365333120
