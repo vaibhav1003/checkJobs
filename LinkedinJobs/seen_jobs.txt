@@ -292,3 +292,7 @@
 4354162180 | Java+React JS Full stack Developer | https://in.linkedin.com/jobs/view/java%2Breact-js-full-stack-developer-at-oracle-4354162180
 4354251701 | Java+React JS Full stack Developer | https://in.linkedin.com/jobs/view/java%2Breact-js-full-stack-developer-at-oracle-4354251701
 4362155319 | Salesforce Senior Developer/Senior Consultant | https://in.linkedin.com/jobs/view/salesforce-senior-developer-senior-consultant-at-infosys-4362155319
+4365229348 | Salesforce CRM Developer | https://in.linkedin.com/jobs/view/salesforce-crm-developer-at-otto-group-one-o-4365229348
+4365184829 | Senior Software Engineer – L2 Production Support (Java / Unix / SQL) | https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-l2-production-support-java-unix-sql-at-cgi-4365184829
+4365181867 | Software Engineer-Java Production Support | https://in.linkedin.com/jobs/view/software-engineer-java-production-support-at-cgi-4365181867
+4362581912 | Associate Director - Full Stack Java Developer | https://in.linkedin.com/jobs/view/associate-director-full-stack-java-developer-at-s-p-global-4362581912
