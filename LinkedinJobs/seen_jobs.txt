@@ -303,3 +303,7 @@
 4362572653 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-waferwire-cloud-technologies-4362572653
 4354253797 | Java SDET | https://in.linkedin.com/jobs/view/java-sdet-at-persistent-systems-4354253797
 4362563061 | Full Stack Developer - Java | https://in.linkedin.com/jobs/view/full-stack-developer-java-at-valuemomentum-4362563061
+4336941017 | Senior Salesforce Developer (Expertise- Service Cloud) | https://in.linkedin.com/jobs/view/senior-salesforce-developer-expertise-service-cloud-at-salesforce-4336941017
+4362563086 | Senior Mulesoft Developer | https://in.linkedin.com/jobs/view/senior-mulesoft-developer-at-enabled-analytics-4362563086
+4253966670 | Manager Technology|Architect|Salesforce B2B Commerce Cloud | https://in.linkedin.com/jobs/view/manager-technology-architect-salesforce-b2b-commerce-cloud-at-publicis-sapient-4253966670
+4362147621 | Salesforce FSL Developer(Local to Hyderabad)(8+ years of exp) | https://in.linkedin.com/jobs/view/salesforce-fsl-developer-local-to-hyderabad-8%2B-years-of-exp-at-tachyon-technologies-4362147621
