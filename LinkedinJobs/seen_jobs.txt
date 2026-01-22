@@ -323,3 +323,5 @@
 4354265385 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4354265385
 4354225357 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4354225357
 4355215272 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4355215272
+4354185322 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4354185322
+4362196403 | Java developer with Al coding tools | https://in.linkedin.com/jobs/view/java-developer-with-al-coding-tools-at-grid-dynamics-4362196403
