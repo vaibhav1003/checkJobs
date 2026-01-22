@@ -312,3 +312,4 @@
 4362119643 | Associate Java Developer | https://in.linkedin.com/jobs/view/associate-java-developer-at-waferwire-cloud-technologies-4362119643
 4328029875 | Sr Web Developer | https://in.linkedin.com/jobs/view/sr-web-developer-at-blue-yonder-4328029875
 4318990430 | Salesforce Platform Owner | https://in.linkedin.com/jobs/view/salesforce-platform-owner-at-macquarie-group-4318990430
+4343164587 | Salesforce - Financial Service Cloud Architect | https://in.linkedin.com/jobs/view/salesforce-financial-service-cloud-architect-at-ntt-data-north-america-4343164587
