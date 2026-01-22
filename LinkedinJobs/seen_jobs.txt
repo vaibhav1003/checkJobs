@@ -321,3 +321,5 @@
 4362644566 | Salesforce Automation Test Engineer (Playwright)- Full Time | https://in.linkedin.com/jobs/view/salesforce-automation-test-engineer-playwright-full-time-at-gravity-infosolutions-inc-4362644566
 4365305185 | Software Engineer III - Java FullStack | https://in.linkedin.com/jobs/view/software-engineer-iii-java-fullstack-at-jpmorganchase-4365305185
 4354265385 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4354265385
+4354225357 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4354225357
+4355215272 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4355215272
