@@ -301,3 +301,5 @@
 4362155991 | Java fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-people-prime-worldwide-4362155991
 4354262980 | Software Engineer II - Java, Spring Webflux & Cloud | https://in.linkedin.com/jobs/view/software-engineer-ii-java-spring-webflux-cloud-at-candescent-4354262980
 4362572653 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-waferwire-cloud-technologies-4362572653
+4354253797 | Java SDET | https://in.linkedin.com/jobs/view/java-sdet-at-persistent-systems-4354253797
+4362563061 | Full Stack Developer - Java | https://in.linkedin.com/jobs/view/full-stack-developer-java-at-valuemomentum-4362563061
