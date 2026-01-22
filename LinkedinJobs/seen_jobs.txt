@@ -297,3 +297,6 @@
 4365181867 | Software Engineer-Java Production Support | https://in.linkedin.com/jobs/view/software-engineer-java-production-support-at-cgi-4365181867
 4362581912 | Associate Director - Full Stack Java Developer | https://in.linkedin.com/jobs/view/associate-director-full-stack-java-developer-at-s-p-global-4362581912
 4362592266 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-people-prime-worldwide-4362592266
+4362193147 | Salesforce Omnistudio Developer | https://in.linkedin.com/jobs/view/salesforce-omnistudio-developer-at-lorven-technologies-inc-4362193147
+4362155991 | Java fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-people-prime-worldwide-4362155991
+4354262980 | Software Engineer II - Java, Spring Webflux & Cloud | https://in.linkedin.com/jobs/view/software-engineer-ii-java-spring-webflux-cloud-at-candescent-4354262980
