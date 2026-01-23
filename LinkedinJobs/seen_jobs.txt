@@ -353,3 +353,7 @@
 4349690875 | Software Engineer IV Java Backend Developer | https://in.linkedin.com/jobs/view/software-engineer-iv-java-backend-developer-at-candescent-4349690875
 4355316761 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-algoleap-4355316761
 4355400871 | java backend developer(7+) - Hyderabad | https://in.linkedin.com/jobs/view/java-backend-developer-7%2B-hyderabad-at-id4-consultancy-4355400871
+4355363643 | Associate Lead Consultant - Salesforce Job | https://in.linkedin.com/jobs/view/associate-lead-consultant-salesforce-job-at-yash-technologies-middle-east-4355363643
+4363453286 | Associate Lead Consultant - Salesforce Job | https://in.linkedin.com/jobs/view/associate-lead-consultant-salesforce-job-at-yash-technologies-4363453286
+4365480617 | Java full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-unison-group-4365480617
+4355381683 | Java MuleSoft Developer | https://in.linkedin.com/jobs/view/java-mulesoft-developer-at-vayuz-technologies-4355381683
