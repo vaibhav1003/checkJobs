@@ -357,3 +357,5 @@
 4363453286 | Associate Lead Consultant - Salesforce Job | https://in.linkedin.com/jobs/view/associate-lead-consultant-salesforce-job-at-yash-technologies-4363453286
 4365480617 | Java full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-unison-group-4365480617
 4355381683 | Java MuleSoft Developer | https://in.linkedin.com/jobs/view/java-mulesoft-developer-at-vayuz-technologies-4355381683
+4345491030 | Associate Software Engineer | https://in.linkedin.com/jobs/view/associate-software-engineer-at-amgen-4345491030
+4365495864 | SF Dev - Service Cloud + Integration | https://in.linkedin.com/jobs/view/sf-dev-service-cloud-%2B-integration-at-ntt-data-north-america-4365495864
