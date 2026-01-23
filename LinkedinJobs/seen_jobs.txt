@@ -334,3 +334,5 @@
 4365329236 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4365329236
 4355295067 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-concentrix-4355295067
 4355304319 | Java full stack developers | https://in.linkedin.com/jobs/view/java-full-stack-developers-at-concentrix-4355304319
+4363490269 | Salesforce QA Engineer | https://in.linkedin.com/jobs/view/salesforce-qa-engineer-at-p99soft-4363490269
+4365398664 | Core Java Developer - PL/SQL | https://in.linkedin.com/jobs/view/core-java-developer-pl-sql-at-acquire-bright-minds-4365398664
