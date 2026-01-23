@@ -343,3 +343,5 @@
 4363381417 | Java fullstack Developer with Angular | https://in.linkedin.com/jobs/view/java-fullstack-developer-with-angular-at-people-prime-worldwide-4363381417
 4320909540 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4320909540
 4363401593 | Java + Camunda Developer | https://in.linkedin.com/jobs/view/java-%2B-camunda-developer-at-immersive-infotech-pvt-ltd-4363401593
+4365449687 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-bcforward-4365449687
+4365437942 | Senior Software Engineer – Distributed Data Systems (Java/C++/Golang) | https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-distributed-data-systems-java-c%2B%2B-golang-at-agivant-technologies-4365437942
