@@ -337,3 +337,6 @@
 4363490269 | Salesforce QA Engineer | https://in.linkedin.com/jobs/view/salesforce-qa-engineer-at-p99soft-4363490269
 4365398664 | Core Java Developer - PL/SQL | https://in.linkedin.com/jobs/view/core-java-developer-pl-sql-at-acquire-bright-minds-4365398664
 4365408806 | Java Full Stack Developer -Officer | https://in.linkedin.com/jobs/view/java-full-stack-developer-officer-at-state-street-4365408806
+4363491383 | Java Developer With GCP | https://in.linkedin.com/jobs/view/java-developer-with-gcp-at-people-prime-worldwide-4363491383
+4320909289 | Java Developer With GCP | https://in.linkedin.com/jobs/view/java-developer-with-gcp-at-people-prime-worldwide-4320909289
+4363481389 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4363481389
