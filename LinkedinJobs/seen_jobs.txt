@@ -373,3 +373,5 @@
 4311463520 | Software Engineer - Java Fullstack Angular | https://in.linkedin.com/jobs/view/software-engineer-java-fullstack-angular-at-epam-systems-4311463520
 4355710236 | java backend developer(6+) - Hyderabad | https://in.linkedin.com/jobs/view/java-backend-developer-6%2B-hyderabad-at-id4-consultancy-4355710236
 4260383909 | FullStack Software Engineer (Java/ Python) | https://in.linkedin.com/jobs/view/fullstack-software-engineer-java-python-at-procter-gamble-4260383909
+4365675255 | Software Engineer III - Java Full Stack, AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-aws-at-jpmorganchase-4365675255
+4365673313 | Software Engineer III - Java Full Stack, AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-aws-at-jpmorganchase-4365673313
