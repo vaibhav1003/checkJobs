@@ -365,3 +365,5 @@
 4363435300 | Salesforce Senior Developer/Senior Consultant | https://in.linkedin.com/jobs/view/salesforce-senior-developer-senior-consultant-at-infosys-4363435300
 4365569173 | Full Stack Engineer (Angular with Java) | https://in.linkedin.com/jobs/view/full-stack-engineer-angular-with-java-at-solugenix-4365569173
 4365559306 | Software Engineer III - Java Full Stack, AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-aws-at-jpmorganchase-4365559306
+4365608358 | Revalsys Technologies - Test Engineer - Java/Selenium | https://in.linkedin.com/jobs/view/revalsys-technologies-test-engineer-java-selenium-at-revalsys-technologies-4365608358
+4365609374 | SutiSoft - Java Developer - J2EE/Spring Boot | https://in.linkedin.com/jobs/view/sutisoft-java-developer-j2ee-spring-boot-at-sutisoft-ind-4365609374
