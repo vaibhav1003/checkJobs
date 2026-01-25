@@ -379,3 +379,7 @@
 4321520616 | Java Spring boot Developer | https://in.linkedin.com/jobs/view/java-spring-boot-developer-at-tata-consultancy-services-4321520616
 4355781134 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-concentrix-4355781134
 4365703743 | Software Engineer II - Java, AWS | https://in.linkedin.com/jobs/view/software-engineer-ii-java-aws-at-jpmorganchase-4365703743
+4323557667 | Salesforce Software Engineer - Senior Analyst | https://in.linkedin.com/jobs/view/salesforce-software-engineer-senior-analyst-at-deloitte-4323557667
+4323687424 | Manager - Salesforce Architect - Hyderabad | https://in.linkedin.com/jobs/view/manager-salesforce-architect-hyderabad-at-deloitte-4323687424
+4329799862 | Salesforce Application Architect- Hyderabad | https://in.linkedin.com/jobs/view/salesforce-application-architect-hyderabad-at-deloitte-4329799862
+4297776470 | Software Engineer III - Java Backend developer | https://in.linkedin.com/jobs/view/software-engineer-iii-java-backend-developer-at-candescent-4297776470
