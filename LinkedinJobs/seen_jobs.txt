@@ -389,3 +389,5 @@
 4365815207 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4365815207
 4330214273 | Sr. Consultant - Salesforce Job | https://in.linkedin.com/jobs/view/sr-consultant-salesforce-job-at-yash-technologies-4330214273
 4153680958 | Technical Architect - Salesforce | https://in.linkedin.com/jobs/view/technical-architect-salesforce-at-argano-4153680958
+4321504472 | Salesforce CPQ Developer | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-at-tata-consultancy-services-4321504472
+4321315143 | Salesforce Consultant ( nCino ) | https://in.linkedin.com/jobs/view/salesforce-consultant-ncino-at-tata-consultancy-services-4321315143
