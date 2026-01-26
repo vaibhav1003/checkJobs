@@ -391,3 +391,7 @@
 4153680958 | Technical Architect - Salesforce | https://in.linkedin.com/jobs/view/technical-architect-salesforce-at-argano-4153680958
 4321504472 | Salesforce CPQ Developer | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-at-tata-consultancy-services-4321504472
 4321315143 | Salesforce Consultant ( nCino ) | https://in.linkedin.com/jobs/view/salesforce-consultant-ncino-at-tata-consultancy-services-4321315143
+4350190136 | Salesforce LWC Developer - SA | https://in.linkedin.com/jobs/view/salesforce-lwc-developer-sa-at-pwc-acceleration-center-india-4350190136
+4350230107 | Salesforce OmniStudio Developer | https://in.linkedin.com/jobs/view/salesforce-omnistudio-developer-at-pwc-acceleration-center-india-4350230107
+4350230087 | CRM Azure Integration Developer  - Senior Associate - Hyderabad | https://in.linkedin.com/jobs/view/crm-azure-integration-developer-senior-associate-hyderabad-at-pwc-acceleration-center-india-4350230087
+4350180061 | CRM Azure Integration Developer  - Senior Associate - Hyderabad | https://in.linkedin.com/jobs/view/crm-azure-integration-developer-senior-associate-hyderabad-at-pwc-acceleration-center-india-4350180061
