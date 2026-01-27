@@ -406,3 +406,6 @@
 4330422892 | Big Data Developer (Hadoop/Spark/Java) | https://in.linkedin.com/jobs/view/big-data-developer-hadoop-spark-java-at-s-p-global-4330422892
 4330188195 | Senior Consultant - Functional (Salesforce) | https://in.linkedin.com/jobs/view/senior-consultant-functional-salesforce-at-mtx-group-4330188195
 4330301405 | Senior Consultant - Technical (Salesforce) | https://in.linkedin.com/jobs/view/senior-consultant-technical-salesforce-at-mtx-group-4330301405
+4354586560 | Sr Associate CRM Software Engineer | https://in.linkedin.com/jobs/view/sr-associate-crm-software-engineer-at-amgen-4354586560
+4366291339 | Salesforce Developer - Data Cloud | https://in.linkedin.com/jobs/view/salesforce-developer-data-cloud-at-osf-digital-4366291339
+4365934306 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4365934306
