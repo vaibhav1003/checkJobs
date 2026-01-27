@@ -409,3 +409,6 @@
 4354586560 | Sr Associate CRM Software Engineer | https://in.linkedin.com/jobs/view/sr-associate-crm-software-engineer-at-amgen-4354586560
 4366291339 | Salesforce Developer - Data Cloud | https://in.linkedin.com/jobs/view/salesforce-developer-data-cloud-at-osf-digital-4366291339
 4365934306 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4365934306
+4366285843 | Salesforce Developer - Service Cloud Voice | https://in.linkedin.com/jobs/view/salesforce-developer-service-cloud-voice-at-osf-digital-4366285843
+4366293511 | Salesforce Data Cloud Consultant | https://in.linkedin.com/jobs/view/salesforce-data-cloud-consultant-at-osf-digital-4366293511
+4366284848 | Salesforce Automation Test Engineer | https://in.linkedin.com/jobs/view/salesforce-automation-test-engineer-at-osf-digital-4366284848
