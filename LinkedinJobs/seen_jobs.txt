@@ -415,3 +415,6 @@
 4365942970 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-services-pvt-ltd-4365942970
 4365951559 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-services-pvt-ltd-4365951559
 4343694673 | Salesforce Success Architect (Salesforce Exp is mandatory) | https://in.linkedin.com/jobs/view/salesforce-success-architect-salesforce-exp-is-mandatory-at-salesforce-4343694673
+4343793311 | Salesforce Developer and Admin, ISS | https://in.linkedin.com/jobs/view/salesforce-developer-and-admin-iss-at-amazon-4343793311
+4366327571 | Senior Salesforce Engineer | https://in.linkedin.com/jobs/view/senior-salesforce-engineer-at-accolite-4366327571
+4350282320 | Java Fullstack Developer - GO/JC/1975/2025 | https://in.linkedin.com/jobs/view/java-fullstack-developer-go-jc-1975-2025-at-golden-opportunities-4350282320
