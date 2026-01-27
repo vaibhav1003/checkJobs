@@ -425,3 +425,4 @@
 4366343978 | Senior Engineering Manager, Salesforce [T500-22767] | https://in.linkedin.com/jobs/view/senior-engineering-manager-salesforce-t500-22767-at-marriott-tech-accelerator-4366343978
 4366002857 | Senior Salesforce CPQ & Billing Developer (Enterprise SaaS) | https://in.linkedin.com/jobs/view/senior-salesforce-cpq-billing-developer-enterprise-saas-at-microtalent-is-becoming-inspyr-global-solutions-4366002857
 4365992882 | Java Developer - WALK IN DRIVE | https://in.linkedin.com/jobs/view/java-developer-walk-in-drive-at-tata-consultancy-services-4365992882
+4366015106 | Salesforce QA Tester | https://in.linkedin.com/jobs/view/salesforce-qa-tester-at-edurun-group-4366015106
