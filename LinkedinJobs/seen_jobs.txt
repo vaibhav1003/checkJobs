@@ -401,3 +401,7 @@
 4366175874 | Senior Vs Code Developer | https://in.linkedin.com/jobs/view/senior-vs-code-developer-at-cloudfulcrum-4366175874
 4365871995 | Salesforce Developer(FSL)(8+ Years of exp)(Local to Hyderabad) | https://in.linkedin.com/jobs/view/salesforce-developer-fsl-8%2B-years-of-exp-local-to-hyderabad-at-mejenta-systems-inc-4365871995
 4354384868 | SFMC + DC Senior Consultant | https://in.linkedin.com/jobs/view/sfmc-%2B-dc-senior-consultant-at-salesforce-4354384868
+4330078891 | Consultant - Functional (Salesforce) | https://in.linkedin.com/jobs/view/consultant-functional-salesforce-at-mtx-group-4330078891
+4330148637 | Consultant - Technical (Salesforce) | https://in.linkedin.com/jobs/view/consultant-technical-salesforce-at-mtx-group-4330148637
+4330422892 | Big Data Developer (Hadoop/Spark/Java) | https://in.linkedin.com/jobs/view/big-data-developer-hadoop-spark-java-at-s-p-global-4330422892
+4330188195 | Senior Consultant - Functional (Salesforce) | https://in.linkedin.com/jobs/view/senior-consultant-functional-salesforce-at-mtx-group-4330188195
