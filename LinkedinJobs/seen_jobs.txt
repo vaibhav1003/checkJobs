@@ -428,3 +428,5 @@
 4366015106 | Salesforce QA Tester | https://in.linkedin.com/jobs/view/salesforce-qa-tester-at-edurun-group-4366015106
 4366033902 | Software Engineer - Java, Spring Boot and Microservices | https://in.linkedin.com/jobs/view/software-engineer-java-spring-boot-and-microservices-at-apple-4366033902
 4330447879 | GeoSpatial Developer Java | https://in.linkedin.com/jobs/view/geospatial-developer-java-at-cognizant-4330447879
+4366656122 | Interesting Job Opportunity: Java Developer - Camunda/Drools | https://in.linkedin.com/jobs/view/interesting-job-opportunity-java-developer-camunda-drools-at-deqode-4366656122
+4366406339 | Java, DevOps Software Engineer | https://in.linkedin.com/jobs/view/java-devops-software-engineer-at-blackbaud-india-4366406339
