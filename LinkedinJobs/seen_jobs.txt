@@ -441,3 +441,10 @@
 4366418785 | Conga CPQ/ Salesforce Developer | https://in.linkedin.com/jobs/view/conga-cpq-salesforce-developer-at-forsys-inc-4366418785
 4366449075 | Senior Salesforce QA Tester | https://in.linkedin.com/jobs/view/senior-salesforce-qa-tester-at-edurun-group-4366449075
 4366730103 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-concentrix-4366730103
+4257563129 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-regal-rexnord-4257563129
+4366456628 | Software Developer - Salesforce Marketing Cloud | https://in.linkedin.com/jobs/view/software-developer-salesforce-marketing-cloud-at-zoetis-4366456628
+4313992323 | Staff Engineer - (Java,AWS,Kafka,GoLang) | https://in.linkedin.com/jobs/view/staff-engineer-java-aws-kafka-golang-at-experian-4313992323
+4366443615 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-live-connections-4366443615
+4366743122 | Full Stack Java Engineer | https://in.linkedin.com/jobs/view/full-stack-java-engineer-at-prodapt-4366743122
+4366718852 | Salesforce Technical Architect (Revenue Cloud Or Salesforce CPQ) | https://in.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-or-salesforce-cpq-at-salesforce-4366718852
+4366447205 | JAVA INTEGRATION ENGINEER | https://in.linkedin.com/jobs/view/java-integration-engineer-at-prophecy-technologies-4366447205
