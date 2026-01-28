@@ -456,3 +456,5 @@
 4366753104 | Software Engineer III -Java, Spring Boot, Microservices, AWS, Kafka, Python, AI ML | https://in.linkedin.com/jobs/view/software-engineer-iii-java-spring-boot-microservices-aws-kafka-python-ai-ml-at-jpmorganchase-4366753104
 4366459253 | Java +AWS Data Engineer+Spark | https://in.linkedin.com/jobs/view/java-%2Baws-data-engineer%2Bspark-at-tata-consultancy-services-4366459253
 4366797363 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-proarch-4366797363
+4366903742 | Salesforce Manager / Architect | https://in.linkedin.com/jobs/view/salesforce-manager-architect-at-egen-4366903742
+4366916019 | Security Engineer II - Java, React | https://in.linkedin.com/jobs/view/security-engineer-ii-java-react-at-jpmorganchase-4366916019
