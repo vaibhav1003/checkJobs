@@ -458,3 +458,4 @@
 4366797363 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-proarch-4366797363
 4366903742 | Salesforce Manager / Architect | https://in.linkedin.com/jobs/view/salesforce-manager-architect-at-egen-4366903742
 4366916019 | Security Engineer II - Java, React | https://in.linkedin.com/jobs/view/security-engineer-ii-java-react-at-jpmorganchase-4366916019
+4330842801 | Staff Software Engineer (Java/Microservices, Kubernetes, AWS/Azure/GCP - Golang or Python) | https://in.linkedin.com/jobs/view/staff-software-engineer-java-microservices-kubernetes-aws-azure-gcp-golang-or-python-at-teradata-4330842801
