@@ -448,3 +448,5 @@
 4366743122 | Full Stack Java Engineer | https://in.linkedin.com/jobs/view/full-stack-java-engineer-at-prodapt-4366743122
 4366718852 | Salesforce Technical Architect (Revenue Cloud Or Salesforce CPQ) | https://in.linkedin.com/jobs/view/salesforce-technical-architect-revenue-cloud-or-salesforce-cpq-at-salesforce-4366718852
 4366447205 | JAVA INTEGRATION ENGINEER | https://in.linkedin.com/jobs/view/java-integration-engineer-at-prophecy-technologies-4366447205
+4366481155 | Salesforce Senior Developer/Senior Consultant | https://in.linkedin.com/jobs/view/salesforce-senior-developer-senior-consultant-at-infosys-4366481155
+4366744540 | Java developer with Al coding tools | https://in.linkedin.com/jobs/view/java-developer-with-al-coding-tools-at-grid-dynamics-4366744540
