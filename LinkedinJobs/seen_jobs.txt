@@ -461,3 +461,9 @@
 4330842801 | Staff Software Engineer (Java/Microservices, Kubernetes, AWS/Azure/GCP - Golang or Python) | https://in.linkedin.com/jobs/view/staff-software-engineer-java-microservices-kubernetes-aws-azure-gcp-golang-or-python-at-teradata-4330842801
 4330694778 | Veeva CRM developer | https://in.linkedin.com/jobs/view/veeva-crm-developer-at-cognizant-4330694778
 4366565207 | Java, DevOps Software Engineer | https://in.linkedin.com/jobs/view/java-devops-software-engineer-at-blackbaud-india-4366565207
+4366983676 | Salesforce Administrator | https://in.linkedin.com/jobs/view/salesforce-administrator-at-mouri-tech-4366983676
+4356642701 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-thinkwise-consulting-llp-4356642701
+4366596175 | Salesforce Solutions Architect | https://in.linkedin.com/jobs/view/salesforce-solutions-architect-at-viseo-asia-4366596175
+4366593144 | Java developer | https://in.linkedin.com/jobs/view/java-developer-at-people-prime-worldwide-4366593144
+4366594044 | Java fullstack Developer with Angular | https://in.linkedin.com/jobs/view/java-fullstack-developer-with-angular-at-people-prime-worldwide-4366594044
+4366589223 | Java Integration Engineer | https://in.linkedin.com/jobs/view/java-integration-engineer-at-prophecy-technologies-4366589223
