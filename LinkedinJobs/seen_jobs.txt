@@ -490,3 +490,5 @@
 4366852554 | IN_Senior Manager_Salesforce Developer_Enterprise Apps-SFDC_Advisory_Hyderabad | https://in.linkedin.com/jobs/view/in-senior-manager-salesforce-developer-enterprise-apps-sfdc-advisory-hyderabad-at-pwc-india-4366852554
 4367151039 | Fullstack Developer - Java | https://in.linkedin.com/jobs/view/fullstack-developer-java-at-mco-mycomplianceoffice-4367151039
 4367123843 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-vmc-soft-technologies-inc-4367123843
+4366894231 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-lseg-4366894231
+4367179192 | Java AWS developer | https://in.linkedin.com/jobs/view/java-aws-developer-at-htc-global-services-4367179192
