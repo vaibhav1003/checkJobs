@@ -469,3 +469,6 @@
 4366589223 | Java Integration Engineer | https://in.linkedin.com/jobs/view/java-integration-engineer-at-prophecy-technologies-4366589223
 4366591362 | Java fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-people-prime-worldwide-4366591362
 4356503951 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-ziventra-4356503951
+4366593640 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-people-staffing-solutions-4366593640
+4366804108 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-smart-ims-inc-4366804108
+4366800502 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-tata-consultancy-services-4366800502
