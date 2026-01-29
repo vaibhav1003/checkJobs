@@ -475,3 +475,9 @@
 4366816247 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-viseo-4366816247
 4351608694 | Software Engineer- Java Developers-IBS Engineering | https://in.linkedin.com/jobs/view/software-engineer-java-developers-ibs-engineering-at-factset-4351608694
 4318457911 | Lead Software Engineer - Back-end (Java), Spring, Rest API, Microservices | https://in.linkedin.com/jobs/view/lead-software-engineer-back-end-java-spring-rest-api-microservices-at-epam-systems-4318457911
+4366818417 | Junior Software Engineer | https://in.linkedin.com/jobs/view/junior-software-engineer-at-enabled-analytics-4366818417
+4333727596 | Senior Developer - Salesforce PRM Cloud | https://in.linkedin.com/jobs/view/senior-developer-salesforce-prm-cloud-at-ntt-data-north-america-4333727596
+4367128235 | Frontend Developer_MTS/SMTS - Web Accessibility - Hyderabad | https://in.linkedin.com/jobs/view/frontend-developer-mts-smts-web-accessibility-hyderabad-at-salesforce-4367128235
+4333905500 | Senior Developer - Salesforce PRM Cloud | https://in.linkedin.com/jobs/view/senior-developer-salesforce-prm-cloud-at-ntt-data-north-america-4333905500
+4356565169 | Java with Bigdata Developer @Hyderabad | https://in.linkedin.com/jobs/view/java-with-bigdata-developer-%40hyderabad-at-hcltech-4356565169
+4366816481 | Salesforce Technofucntional Consultant | https://in.linkedin.com/jobs/view/salesforce-technofucntional-consultant-at-hypersoft-technologies-limited-4366816481
