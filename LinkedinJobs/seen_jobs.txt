@@ -459,3 +459,5 @@
 4366903742 | Salesforce Manager / Architect | https://in.linkedin.com/jobs/view/salesforce-manager-architect-at-egen-4366903742
 4366916019 | Security Engineer II - Java, React | https://in.linkedin.com/jobs/view/security-engineer-ii-java-react-at-jpmorganchase-4366916019
 4330842801 | Staff Software Engineer (Java/Microservices, Kubernetes, AWS/Azure/GCP - Golang or Python) | https://in.linkedin.com/jobs/view/staff-software-engineer-java-microservices-kubernetes-aws-azure-gcp-golang-or-python-at-teradata-4330842801
+4330694778 | Veeva CRM developer | https://in.linkedin.com/jobs/view/veeva-crm-developer-at-cognizant-4330694778
+4366565207 | Java, DevOps Software Engineer | https://in.linkedin.com/jobs/view/java-devops-software-engineer-at-blackbaud-india-4366565207
