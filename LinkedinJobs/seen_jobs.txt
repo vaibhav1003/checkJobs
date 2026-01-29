@@ -467,3 +467,5 @@
 4366593144 | Java developer | https://in.linkedin.com/jobs/view/java-developer-at-people-prime-worldwide-4366593144
 4366594044 | Java fullstack Developer with Angular | https://in.linkedin.com/jobs/view/java-fullstack-developer-with-angular-at-people-prime-worldwide-4366594044
 4366589223 | Java Integration Engineer | https://in.linkedin.com/jobs/view/java-integration-engineer-at-prophecy-technologies-4366589223
+4366591362 | Java fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-people-prime-worldwide-4366591362
+4356503951 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-ziventra-4356503951
