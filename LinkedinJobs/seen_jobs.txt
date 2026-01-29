@@ -485,3 +485,8 @@
 4343997496 | Developer Lead - TOMO - Tech Admin & Development | https://in.linkedin.com/jobs/view/developer-lead-tomo-tech-admin-development-at-google-operations-center-4343997496
 4324584012 | Salesforce LWC | https://in.linkedin.com/jobs/view/salesforce-lwc-at-cognizant-4324584012
 4367167803 | Frontend Developer_MTS/SMTS - Web Accessibility - Hyderabad | https://in.linkedin.com/jobs/view/frontend-developer-mts-smts-web-accessibility-hyderabad-at-griddable-io-4367167803
+4352090225 | Senior Software Engineer – Salesforce FSL | https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-salesforce-fsl-at-epam-systems-4352090225
+4367163650 | Software Engineer II - Java/Python, AWS, Spark, Databricks, Big Data | https://in.linkedin.com/jobs/view/software-engineer-ii-java-python-aws-spark-databricks-big-data-at-jpmorganchase-4367163650
+4366852554 | IN_Senior Manager_Salesforce Developer_Enterprise Apps-SFDC_Advisory_Hyderabad | https://in.linkedin.com/jobs/view/in-senior-manager-salesforce-developer-enterprise-apps-sfdc-advisory-hyderabad-at-pwc-india-4366852554
+4367151039 | Fullstack Developer - Java | https://in.linkedin.com/jobs/view/fullstack-developer-java-at-mco-mycomplianceoffice-4367151039
+4367123843 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-vmc-soft-technologies-inc-4367123843
