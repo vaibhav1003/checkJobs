@@ -481,3 +481,5 @@
 4333905500 | Senior Developer - Salesforce PRM Cloud | https://in.linkedin.com/jobs/view/senior-developer-salesforce-prm-cloud-at-ntt-data-north-america-4333905500
 4356565169 | Java with Bigdata Developer @Hyderabad | https://in.linkedin.com/jobs/view/java-with-bigdata-developer-%40hyderabad-at-hcltech-4356565169
 4366816481 | Salesforce Technofucntional Consultant | https://in.linkedin.com/jobs/view/salesforce-technofucntional-consultant-at-hypersoft-technologies-limited-4366816481
+4268563590 | Junior Salesforce DevOps Engineer | https://in.linkedin.com/jobs/view/junior-salesforce-devops-engineer-at-lseg-4268563590
+4343997496 | Developer Lead - TOMO - Tech Admin & Development | https://in.linkedin.com/jobs/view/developer-lead-tomo-tech-admin-development-at-google-operations-center-4343997496
