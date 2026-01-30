@@ -512,3 +512,6 @@
 4343111679 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-warner-bros-discovery-4343111679
 4331923744 | Product Support Engineer—Triage (BIS) | https://in.linkedin.com/jobs/view/product-support-engineer%E2%80%94triage-bis-at-boomi-4331923744
 4367443129 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-rrootshell-technologiiss-pvt-ltd-4367443129
+4367440875 | Software Engineer III - JFrog, AWS, Java/Golang | https://in.linkedin.com/jobs/view/software-engineer-iii-jfrog-aws-java-golang-at-jpmorganchase-4367440875
+4367449432 | Java developer with Al coding tools | https://in.linkedin.com/jobs/view/java-developer-with-al-coding-tools-at-grid-dynamics-4367449432
+4327302034 | Java Full Stack Developer (Angular) | https://in.linkedin.com/jobs/view/java-full-stack-developer-angular-at-intraedge-4327302034
