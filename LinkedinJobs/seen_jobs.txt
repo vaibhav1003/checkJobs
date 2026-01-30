@@ -506,3 +506,6 @@
 4367214152 | Backend Java Developer | https://in.linkedin.com/jobs/view/backend-java-developer-at-biblioso-4367214152
 4356599513 | Full Stack Developer (Java + React JS) | https://in.linkedin.com/jobs/view/full-stack-developer-java-%2B-react-js-at-tesslogs-it-solutions-4356599513
 4344716873 | Salesforce Senior Architect | https://in.linkedin.com/jobs/view/salesforce-senior-architect-at-salesforce-4344716873
+4367212639 | Salesforce Administrator | https://in.linkedin.com/jobs/view/salesforce-administrator-at-the-hartford-4367212639
+4331973234 | Mulesoft-Consultant | https://in.linkedin.com/jobs/view/mulesoft-consultant-at-deloitte-4331973234
+4367211781 | JAVA BACKEND DEVELOPER | https://in.linkedin.com/jobs/view/java-backend-developer-at-airisdata-4367211781
