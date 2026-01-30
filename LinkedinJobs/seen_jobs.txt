@@ -500,3 +500,6 @@
 4367388275 | Software Engineer III (Data Engineering, Java/Python) | https://in.linkedin.com/jobs/view/software-engineer-iii-data-engineering-java-python-at-jpmorganchase-4367388275
 4360963612 | Mobile Application Developer | https://in.linkedin.com/jobs/view/mobile-application-developer-at-townhall-4360963612
 4356578968 | Java Fullstack(React) Developer - Immediate preferred | https://in.linkedin.com/jobs/view/java-fullstack-react-developer-immediate-preferred-at-spectral-consultants-4356578968
+4367214212 | SFDC Developer | https://in.linkedin.com/jobs/view/sfdc-developer-at-tata-consultancy-services-4367214212
+4367215055 | SFDC Marketing Cloud Developer | https://in.linkedin.com/jobs/view/sfdc-marketing-cloud-developer-at-tata-consultancy-services-4367215055
+4367202451 | TCS Hiring for Java Full Stack Developer + UX Architect/ Sr developer_PAN India | https://in.linkedin.com/jobs/view/tcs-hiring-for-java-full-stack-developer-%2B-ux-architect-sr-developer-pan-india-at-tata-consultancy-services-4367202451
