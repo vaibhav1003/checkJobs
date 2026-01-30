@@ -519,3 +519,5 @@
 4367263396 | Senior Technical Consultant - Salesforce DevOps | https://in.linkedin.com/jobs/view/senior-technical-consultant-salesforce-devops-at-salesforce-4367263396
 4367226339 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-live-connections-4367226339
 4367467959 | Staff Data Platform Software Engineer_ Python/Java & Spark | https://in.linkedin.com/jobs/view/staff-data-platform-software-engineer-python-java-spark-at-servicenow-4367467959
+4367263691 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4367263691
+4367477823 | Senior Data Platform Software Engineer_ Python/Java & Spark | https://in.linkedin.com/jobs/view/senior-data-platform-software-engineer-python-java-spark-at-servicenow-4367477823
