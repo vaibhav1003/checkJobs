@@ -495,3 +495,6 @@
 4351929361 | Senior Software Engineer – Salesforce DevOps | https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-salesforce-devops-at-epam-systems-4351929361
 4366891534 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-nextmetaforce-4366891534
 4367197247 | AEM Full Stack | https://in.linkedin.com/jobs/view/aem-full-stack-at-rockwell-automation-4367197247
+4367039744 | Salesforce Senior Developer/Senior Consultant | https://in.linkedin.com/jobs/view/salesforce-senior-developer-senior-consultant-at-infosys-4367039744
+4367373426 | Java developer with Al coding tools | https://in.linkedin.com/jobs/view/java-developer-with-al-coding-tools-at-grid-dynamics-4367373426
+4367388275 | Software Engineer III (Data Engineering, Java/Python) | https://in.linkedin.com/jobs/view/software-engineer-iii-data-engineering-java-python-at-jpmorganchase-4367388275
