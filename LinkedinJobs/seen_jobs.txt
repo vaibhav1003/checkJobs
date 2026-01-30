@@ -515,3 +515,4 @@
 4367440875 | Software Engineer III - JFrog, AWS, Java/Golang | https://in.linkedin.com/jobs/view/software-engineer-iii-jfrog-aws-java-golang-at-jpmorganchase-4367440875
 4367449432 | Java developer with Al coding tools | https://in.linkedin.com/jobs/view/java-developer-with-al-coding-tools-at-grid-dynamics-4367449432
 4327302034 | Java Full Stack Developer (Angular) | https://in.linkedin.com/jobs/view/java-full-stack-developer-angular-at-intraedge-4327302034
+4367240658 | Java AWS Developer - LI-Hyderabad/Bengaluru | https://in.linkedin.com/jobs/view/java-aws-developer-li-hyderabad-bengaluru-at-deloitte-4367240658
