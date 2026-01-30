@@ -498,3 +498,5 @@
 4367039744 | Salesforce Senior Developer/Senior Consultant | https://in.linkedin.com/jobs/view/salesforce-senior-developer-senior-consultant-at-infosys-4367039744
 4367373426 | Java developer with Al coding tools | https://in.linkedin.com/jobs/view/java-developer-with-al-coding-tools-at-grid-dynamics-4367373426
 4367388275 | Software Engineer III (Data Engineering, Java/Python) | https://in.linkedin.com/jobs/view/software-engineer-iii-data-engineering-java-python-at-jpmorganchase-4367388275
+4360963612 | Mobile Application Developer | https://in.linkedin.com/jobs/view/mobile-application-developer-at-townhall-4360963612
+4356578968 | Java Fullstack(React) Developer - Immediate preferred | https://in.linkedin.com/jobs/view/java-fullstack-react-developer-immediate-preferred-at-spectral-consultants-4356578968
