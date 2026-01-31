@@ -541,3 +541,4 @@
 4357012551 | Java DROOL Developer | https://in.linkedin.com/jobs/view/java-drool-developer-at-persistent-systems-4357012551
 4357072375 | Java SDET Automation Testing | https://in.linkedin.com/jobs/view/java-sdet-automation-testing-at-persistent-systems-4357072375
 4367581125 | Java Developer with React | https://in.linkedin.com/jobs/view/java-developer-with-react-at-fuworx-innovations-4367581125
+4357002617 | Java + Kafka Developer | https://in.linkedin.com/jobs/view/java-%2B-kafka-developer-at-deqode-4357002617
