@@ -536,3 +536,5 @@
 4331574615 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-cognizant-4331574615
 4356962479 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-persistent-systems-4356962479
 4357052438 | Java IBM BAMOE Developer | https://in.linkedin.com/jobs/view/java-ibm-bamoe-developer-at-persistent-systems-4357052438
+4359972907 | Software Engineer III - JFrog, AWS, Java/Golang | https://in.linkedin.com/jobs/view/software-engineer-iii-jfrog-aws-java-golang-at-jpmorganchase-4359972907
+4356972612 | Java Kafka Camel Developer | https://in.linkedin.com/jobs/view/java-kafka-camel-developer-at-persistent-systems-4356972612
