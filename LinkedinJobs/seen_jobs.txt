@@ -534,3 +534,5 @@
 4367558669 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4367558669
 4352209141 | Java Fullsatck Engineer With Python | https://in.linkedin.com/jobs/view/java-fullsatck-engineer-with-python-at-algoleap-4352209141
 4331574615 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-cognizant-4331574615
+4356962479 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-persistent-systems-4356962479
+4357052438 | Java IBM BAMOE Developer | https://in.linkedin.com/jobs/view/java-ibm-bamoe-developer-at-persistent-systems-4357052438
