@@ -538,3 +538,4 @@
 4357052438 | Java IBM BAMOE Developer | https://in.linkedin.com/jobs/view/java-ibm-bamoe-developer-at-persistent-systems-4357052438
 4359972907 | Software Engineer III - JFrog, AWS, Java/Golang | https://in.linkedin.com/jobs/view/software-engineer-iii-jfrog-aws-java-golang-at-jpmorganchase-4359972907
 4356972612 | Java Kafka Camel Developer | https://in.linkedin.com/jobs/view/java-kafka-camel-developer-at-persistent-systems-4356972612
+4357012551 | Java DROOL Developer | https://in.linkedin.com/jobs/view/java-drool-developer-at-persistent-systems-4357012551
