@@ -526,3 +526,7 @@
 4367653949 | VAYUZ Technologies - MuleSoft Developer - Java Technologies | https://in.linkedin.com/jobs/view/vayuz-technologies-mulesoft-developer-java-technologies-at-vayuz-technologies-4367653949
 4356893993 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4356893993
 4367698731 | Java developer with Al coding tools | https://in.linkedin.com/jobs/view/java-developer-with-al-coding-tools-at-grid-dynamics-4367698731
+4359693889 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-ntt-data-north-america-4359693889
+4359665377 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-ntt-data-north-america-4359665377
+4359389526 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-ntt-data-north-america-4359389526
+4352351191 | Software Engineer - Java Developer | https://in.linkedin.com/jobs/view/software-engineer-java-developer-at-pegasystems-4352351191
