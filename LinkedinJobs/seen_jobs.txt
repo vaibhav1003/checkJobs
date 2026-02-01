@@ -543,3 +543,5 @@
 4367581125 | Java Developer with React | https://in.linkedin.com/jobs/view/java-developer-with-react-at-fuworx-innovations-4367581125
 4357002617 | Java + Kafka Developer | https://in.linkedin.com/jobs/view/java-%2B-kafka-developer-at-deqode-4357002617
 4356923374 | Sr. Consultant - Salesforce Job | https://in.linkedin.com/jobs/view/sr-consultant-salesforce-job-at-yash-technologies-middle-east-4356923374
+4367988487 | Java developer with Al coding tools | https://in.linkedin.com/jobs/view/java-developer-with-al-coding-tools-at-grid-dynamics-4367988487
+4367999297 | Software Engineer III - Java AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4367999297
