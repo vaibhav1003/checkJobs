@@ -557,3 +557,6 @@
 4367779849 | Java Developer With Angular & GCP | https://in.linkedin.com/jobs/view/java-developer-with-angular-gcp-at-people-prime-worldwide-4367779849
 4367779853 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4367779853
 4368158303 | Staff Software Engineer - Java | https://in.linkedin.com/jobs/view/staff-software-engineer-java-at-matillion-4368158303
+4367825232 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-sutherland-4367825232
+4367821262 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-lorven-technologies-inc-4367821262
+4367827134 | java Developer | https://in.linkedin.com/jobs/view/java-developer-at-people-prime-worldwide-4367827134
