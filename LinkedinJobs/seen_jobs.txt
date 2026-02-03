@@ -597,3 +597,7 @@
 4357499059 | Java SDET | https://in.linkedin.com/jobs/view/java-sdet-at-persistent-systems-4357499059
 4368226769 | Full Stack Salesforce Developer.. | https://in.linkedin.com/jobs/view/full-stack-salesforce-developer-at-truminds-clinical-4368226769
 4368804064 | Associate Salesforce Developer | https://in.linkedin.com/jobs/view/associate-salesforce-developer-at-amgen-4368804064
+4357751091 | Salesforce Developer (Sales & Service Cloud) | https://in.linkedin.com/jobs/view/salesforce-developer-sales-service-cloud-at-concentrix-4357751091
+4368802256 | Salesforce Developer - Service Cloud Voice | https://in.linkedin.com/jobs/view/salesforce-developer-service-cloud-voice-at-osf-digital-4368802256
+4368811224 | Salesforce Data Cloud Consultant | https://in.linkedin.com/jobs/view/salesforce-data-cloud-consultant-at-osf-digital-4368811224
+4368812200 | Salesforce Automation Test Engineer | https://in.linkedin.com/jobs/view/salesforce-automation-test-engineer-at-osf-digital-4368812200
