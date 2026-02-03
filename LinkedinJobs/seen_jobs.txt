@@ -592,3 +592,6 @@
 4368611921 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-dextara-datamatics-4368611921
 4368094566 | Salesforce Developer FSL(9+ years of exp)(Local to Hyd) | https://in.linkedin.com/jobs/view/salesforce-developer-fsl-9%2B-years-of-exp-local-to-hyd-at-tachyon-technologies-4368094566
 4368212265 | java Developer | https://in.linkedin.com/jobs/view/java-developer-at-people-prime-worldwide-4368212265
+4368205967 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-sonatype-4368205967
+4357428928 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-persistent-systems-4357428928
+4357499059 | Java SDET | https://in.linkedin.com/jobs/view/java-sdet-at-persistent-systems-4357499059
