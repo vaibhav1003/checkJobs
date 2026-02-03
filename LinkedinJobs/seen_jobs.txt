@@ -601,3 +601,7 @@
 4368802256 | Salesforce Developer - Service Cloud Voice | https://in.linkedin.com/jobs/view/salesforce-developer-service-cloud-voice-at-osf-digital-4368802256
 4368811224 | Salesforce Data Cloud Consultant | https://in.linkedin.com/jobs/view/salesforce-data-cloud-consultant-at-osf-digital-4368811224
 4368812200 | Salesforce Automation Test Engineer | https://in.linkedin.com/jobs/view/salesforce-automation-test-engineer-at-osf-digital-4368812200
+4368806002 | Java & React Developer - Assistant Manager | https://in.linkedin.com/jobs/view/java-react-developer-assistant-manager-at-state-street-4368806002
+4368232504 | Java Developer with Spring, Hibernate, REST APIs, and Agile Experience | https://in.linkedin.com/jobs/view/java-developer-with-spring-hibernate-rest-apis-and-agile-experience-at-synechron-4368232504
+4368814421 | Java Developer II | https://in.linkedin.com/jobs/view/java-developer-ii-at-realpage-india-4368814421
+4368266777 | Java Developer II | https://in.linkedin.com/jobs/view/java-developer-ii-at-realpage-inc-4368266777
