@@ -586,3 +586,8 @@
 4357577321 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-healthfirst-technologies-4357577321
 4368076772 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4368076772
 4368093101 | Java Fullstack developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-lorven-technologies-inc-4368093101
+4368499974 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-dextara-datamatics-4368499974
+4368603873 | Salesforce CPQ Developer | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-at-dextara-datamatics-4368603873
+4368090514 | Salesforce Developer(Local to Hyderabad)(9+ years of exp) | https://in.linkedin.com/jobs/view/salesforce-developer-local-to-hyderabad-9%2B-years-of-exp-at-mejenta-systems-inc-4368090514
+4368611921 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-dextara-datamatics-4368611921
+4368094566 | Salesforce Developer FSL(9+ years of exp)(Local to Hyd) | https://in.linkedin.com/jobs/view/salesforce-developer-fsl-9%2B-years-of-exp-local-to-hyd-at-tachyon-technologies-4368094566
