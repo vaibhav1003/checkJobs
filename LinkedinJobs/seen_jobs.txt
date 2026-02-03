@@ -605,3 +605,4 @@
 4368232504 | Java Developer with Spring, Hibernate, REST APIs, and Agile Experience | https://in.linkedin.com/jobs/view/java-developer-with-spring-hibernate-rest-apis-and-agile-experience-at-synechron-4368232504
 4368814421 | Java Developer II | https://in.linkedin.com/jobs/view/java-developer-ii-at-realpage-india-4368814421
 4368266777 | Java Developer II | https://in.linkedin.com/jobs/view/java-developer-ii-at-realpage-inc-4368266777
+4306000534 | Senior Salesforce Developer with Java | https://in.linkedin.com/jobs/view/senior-salesforce-developer-with-java-at-veeva-systems-4306000534
