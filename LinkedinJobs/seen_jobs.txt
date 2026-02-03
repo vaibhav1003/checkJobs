@@ -574,3 +574,11 @@
 4358431703 | Google Analytics Engineer  (GA4, GTM, SQL, Salesforce Integration) | https://in.linkedin.com/jobs/view/google-analytics-engineer-ga4-gtm-sql-salesforce-integration-at-criticalriver-inc-4358431703
 4368019290 | Java Developer – Spring Boot & Microservices | https://in.linkedin.com/jobs/view/java-developer-%E2%80%93-spring-boot-microservices-at-tata-consultancy-services-4368019290
 4368378353 | Software Engineer-Java Production Support | https://in.linkedin.com/jobs/view/software-engineer-java-production-support-at-cgi-4368378353
+4357437051 | Senior Salesforce CPQ Consultant (Lead) | https://in.linkedin.com/jobs/view/senior-salesforce-cpq-consultant-lead-at-weekday-ai-yc-w21-4357437051
+4368486462 | Java Developer IV | https://in.linkedin.com/jobs/view/java-developer-iv-at-highradius-4368486462
+4357585281 | Java Fullstack(React) Developer - Immediate preferred | https://in.linkedin.com/jobs/view/java-fullstack-react-developer-immediate-preferred-at-spectral-consultants-4357585281
+4368488039 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-people-prime-worldwide-4368488039
+4368474117 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-teamware-solutions-4368474117
+4368473241 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4368473241
+4368486107 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4368486107
+4368484305 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-concentrix-4368484305
