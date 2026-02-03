@@ -582,3 +582,6 @@
 4368473241 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4368473241
 4368486107 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4368486107
 4368484305 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-concentrix-4368484305
+4357477371 | Java MuleSoft Developer | https://in.linkedin.com/jobs/view/java-mulesoft-developer-at-vayuz-technologies-4357477371
+4357577321 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-healthfirst-technologies-4357577321
+4368076772 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4368076772
