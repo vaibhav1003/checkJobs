@@ -623,3 +623,5 @@
 4369028854 | Senior Vs Code Developer | https://in.linkedin.com/jobs/view/senior-vs-code-developer-at-cloudfulcrum-4369028854
 4358871771 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-sacha-4358871771
 4368596951 | java developer || fresher || LTI Mindtree | https://in.linkedin.com/jobs/view/java-developer-fresher-lti-mindtree-at-people-prime-worldwide-4368596951
+4358812725 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-celigo-4358812725
+4368700838 | JAVA Full-Stack developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-talentien-4368700838
