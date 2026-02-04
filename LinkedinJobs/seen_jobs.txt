@@ -618,3 +618,6 @@
 4369020718 | Java developer with Al coding tools | https://in.linkedin.com/jobs/view/java-developer-with-al-coding-tools-at-grid-dynamics-4369020718
 4368587361 | JAVA Backend Engineer | https://in.linkedin.com/jobs/view/java-backend-engineer-at-xperteez-technology-4368587361
 4368576681 | Java Automation Test Engineer | https://in.linkedin.com/jobs/view/java-automation-test-engineer-at-lvak-consulting-services-private-limited-4368576681
+4358081615 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-info-services-4358081615
+4358081481 | Customer Tech-Senior Salesforce Developer-GDS02 | https://in.linkedin.com/jobs/view/customer-tech-senior-salesforce-developer-gds02-at-ey-4358081481
+4369028854 | Senior Vs Code Developer | https://in.linkedin.com/jobs/view/senior-vs-code-developer-at-cloudfulcrum-4369028854
