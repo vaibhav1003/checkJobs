@@ -625,3 +625,5 @@
 4368596951 | java developer || fresher || LTI Mindtree | https://in.linkedin.com/jobs/view/java-developer-fresher-lti-mindtree-at-people-prime-worldwide-4368596951
 4358812725 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-celigo-4358812725
 4368700838 | JAVA Full-Stack developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-talentien-4368700838
+4368726239 | Senior Salesforce Developer (Billing) | https://in.linkedin.com/jobs/view/senior-salesforce-developer-billing-at-etg-digital-4368726239
+4369083290 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-latinem-private-limited-4369083290
