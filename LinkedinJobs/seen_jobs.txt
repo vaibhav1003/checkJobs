@@ -615,3 +615,6 @@
 4368581005 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4368581005
 4368567260 | Java fullstack Developer with react | https://in.linkedin.com/jobs/view/java-fullstack-developer-with-react-at-people-prime-worldwide-4368567260
 4368555801 | Java + Python Developer | https://in.linkedin.com/jobs/view/java-%2B-python-developer-at-rb-consultancy-services-4368555801
+4369020718 | Java developer with Al coding tools | https://in.linkedin.com/jobs/view/java-developer-with-al-coding-tools-at-grid-dynamics-4369020718
+4368587361 | JAVA Backend Engineer | https://in.linkedin.com/jobs/view/java-backend-engineer-at-xperteez-technology-4368587361
+4368576681 | Java Automation Test Engineer | https://in.linkedin.com/jobs/view/java-automation-test-engineer-at-lvak-consulting-services-private-limited-4368576681
