@@ -651,3 +651,4 @@
 4368986434 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-live-connections-4368986434
 4359873039 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-xperteez-technology-4359873039
 4368978521 | Java Backend Engineer | https://in.linkedin.com/jobs/view/java-backend-engineer-at-airisdata-4368978521
+4368969889 | Sr. Vlocity Developer | https://in.linkedin.com/jobs/view/sr-vlocity-developer-at-enabled-analytics-4368969889
