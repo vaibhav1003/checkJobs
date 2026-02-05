@@ -659,3 +659,6 @@
 4369489184 | Lead Salesforce Consultant (10+ Yr, Salesforce Revenue cloud Expert) | https://in.linkedin.com/jobs/view/lead-salesforce-consultant-10%2B-yr-salesforce-revenue-cloud-expert-at-innova-esi-4369489184
 4369491954 | Lead Software Engineer - Salesforce | https://in.linkedin.com/jobs/view/lead-software-engineer-salesforce-at-experian-4369491954
 4369485995 | Software Engineer II -Java, Kafka, No SQL DB, Full Stack, Java Cloud Micro service, ReactJS, Node, AWS | https://in.linkedin.com/jobs/view/software-engineer-ii-java-kafka-no-sql-db-full-stack-java-cloud-micro-service-reactjs-node-aws-at-jpmorganchase-4369485995
+4361040697 | Salesforce Engineer  (India based role – Hyderabad) | https://in.linkedin.com/jobs/view/salesforce-engineer-india-based-role-%E2%80%93-hyderabad-at-frazier-deeter-4361040697
+4361001925 | Certinia Engineer (India based role – Hyderabad) | https://in.linkedin.com/jobs/view/certinia-engineer-india-based-role-%E2%80%93-hyderabad-at-frazier-deeter-4361001925
+4369606834 | Salesforce Senior Success Guide (AMER/EMEA) | https://in.linkedin.com/jobs/view/salesforce-senior-success-guide-amer-emea-at-griddable-io-4369606834
