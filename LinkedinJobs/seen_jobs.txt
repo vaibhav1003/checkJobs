@@ -657,3 +657,5 @@
 4368984476 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4368984476
 4368992542 | Full Stack Java Developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-galaxy-i-technologies-inc-4368992542
 4369489184 | Lead Salesforce Consultant (10+ Yr, Salesforce Revenue cloud Expert) | https://in.linkedin.com/jobs/view/lead-salesforce-consultant-10%2B-yr-salesforce-revenue-cloud-expert-at-innova-esi-4369489184
+4369491954 | Lead Software Engineer - Salesforce | https://in.linkedin.com/jobs/view/lead-software-engineer-salesforce-at-experian-4369491954
+4369485995 | Software Engineer II -Java, Kafka, No SQL DB, Full Stack, Java Cloud Micro service, ReactJS, Node, AWS | https://in.linkedin.com/jobs/view/software-engineer-ii-java-kafka-no-sql-db-full-stack-java-cloud-micro-service-reactjs-node-aws-at-jpmorganchase-4369485995
