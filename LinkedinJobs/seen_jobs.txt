@@ -643,3 +643,5 @@
 4368962519 | Backend Java Developer | https://in.linkedin.com/jobs/view/backend-java-developer-at-airisdata-4368962519
 4368953444 | Java fullstack Developer with react | https://in.linkedin.com/jobs/view/java-fullstack-developer-with-react-at-people-prime-worldwide-4368953444
 4359559235 | Practice Lead – Technical Architect (Salesforce) | https://in.linkedin.com/jobs/view/practice-lead-%E2%80%93-technical-architect-salesforce-at-foundit-4359559235
+4368945853 | JAVA BACKEND DEVELOPER | https://in.linkedin.com/jobs/view/java-backend-developer-at-airisdata-4368945853
+4369447135 | SFMC/Salesforce Marketing Cloud/Technical Architect | https://in.linkedin.com/jobs/view/sfmc-salesforce-marketing-cloud-technical-architect-at-salesforce-4369447135
