@@ -637,3 +637,9 @@
 4368768430 | Java Developer with Oracle Xstore - Engineer II | https://in.linkedin.com/jobs/view/java-developer-with-oracle-xstore-engineer-ii-at-the-tjx-companies-inc-4368768430
 4368774325 | Fullstack Developer Fullstack Developer (React/Angular and Node Js/Java/Python) | https://in.linkedin.com/jobs/view/fullstack-developer-fullstack-developer-react-angular-and-node-js-java-python-at-massmutual-india-4368774325
 4369423021 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-vysystems-4369423021
+4360561476 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-info-services-4360561476
+4368961346 | Java Developer With Angular & GCP | https://in.linkedin.com/jobs/view/java-developer-with-angular-gcp-at-people-prime-worldwide-4368961346
+4368946351 | Java Engineer | https://in.linkedin.com/jobs/view/java-engineer-at-interas-labs-4368946351
+4368962519 | Backend Java Developer | https://in.linkedin.com/jobs/view/backend-java-developer-at-airisdata-4368962519
+4368953444 | Java fullstack Developer with react | https://in.linkedin.com/jobs/view/java-fullstack-developer-with-react-at-people-prime-worldwide-4368953444
+4359559235 | Practice Lead – Technical Architect (Salesforce) | https://in.linkedin.com/jobs/view/practice-lead-%E2%80%93-technical-architect-salesforce-at-foundit-4359559235
