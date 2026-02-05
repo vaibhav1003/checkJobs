@@ -645,3 +645,6 @@
 4359559235 | Practice Lead – Technical Architect (Salesforce) | https://in.linkedin.com/jobs/view/practice-lead-%E2%80%93-technical-architect-salesforce-at-foundit-4359559235
 4368945853 | JAVA BACKEND DEVELOPER | https://in.linkedin.com/jobs/view/java-backend-developer-at-airisdata-4368945853
 4369447135 | SFMC/Salesforce Marketing Cloud/Technical Architect | https://in.linkedin.com/jobs/view/sfmc-salesforce-marketing-cloud-technical-architect-at-salesforce-4369447135
+4369441586 | IN_Associate_Java backend Developer_GCC_Advisory_Hyderabad | https://in.linkedin.com/jobs/view/in-associate-java-backend-developer-gcc-advisory-hyderabad-at-pwc-india-4369441586
+4369441648 | Salesforce Developer (Salesforce Billing) - S&P Global | https://in.linkedin.com/jobs/view/salesforce-developer-salesforce-billing-s-p-global-at-jobs-via-efinancialcareers-4369441648
+4368956834 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-hiringhood-4368956834
