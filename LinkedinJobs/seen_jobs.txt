@@ -676,3 +676,7 @@
 4361042631 | Associate Full-Stack Java Developer | https://in.linkedin.com/jobs/view/associate-full-stack-java-developer-at-alithya-4361042631
 4369708598 | Java Application Support Engineer | https://in.linkedin.com/jobs/view/java-application-support-engineer-at-flipped-ai-transforming-talent-acquisition-with-ai-4369708598
 4369730000 | Développeur associé ou développeuse associée Java full-stack | https://in.linkedin.com/jobs/view/d%C3%A9veloppeur-associ%C3%A9-ou-d%C3%A9veloppeuse-associ%C3%A9e-java-full-stack-at-alithya-4369730000
+4360537692 | Lead/Senior Salesforce Developer | https://in.linkedin.com/jobs/view/lead-senior-salesforce-developer-at-sid-information-technologies-4360537692
+4369338587 | Sr.Salesforce QA Engineer | https://in.linkedin.com/jobs/view/sr-salesforce-qa-engineer-at-edurun-group-4369338587
+4369330632 | Java Developer (GIS / PostGIS) | https://in.linkedin.com/jobs/view/java-developer-gis-postgis-at-cognisol-4369330632
+4361040099 | Full Stack Developer - Java | https://in.linkedin.com/jobs/view/full-stack-developer-java-at-ziventra-4361040099
