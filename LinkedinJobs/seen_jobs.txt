@@ -684,3 +684,5 @@
 4361400602 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-ces-4361400602
 4369350038 | AEM Backend Developer (Java & AEMaaCS) ||  5 to 13 Years || Pan India || Full Time | https://in.linkedin.com/jobs/view/aem-backend-developer-java-aemaacs-5-to-13-years-pan-india-full-time-at-people-prime-worldwide-4369350038
 4361044261 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-grid-dynamics-4361044261
+4369351312 | Customer Tech-Senior Salesforce Developer-GDS02 | https://in.linkedin.com/jobs/view/customer-tech-senior-salesforce-developer-gds02-at-ey-4369351312
+4369350239 | Salesforce Marketing Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-at-tata-consultancy-services-4369350239
