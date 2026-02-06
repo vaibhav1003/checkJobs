@@ -689,3 +689,5 @@
 4369344969 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-services-pvt-ltd-4369344969
 4369357731 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-services-pvt-ltd-4369357731
 4369359705 | java Developer | https://in.linkedin.com/jobs/view/java-developer-at-people-prime-worldwide-4369359705
+4369395464 | Salesforce Administrator | https://in.linkedin.com/jobs/view/salesforce-administrator-at-thoughtfocus-4369395464
+4369522119 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-thoughtfocus-4369522119
