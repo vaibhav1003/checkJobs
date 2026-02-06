@@ -697,3 +697,5 @@
 4369531840 | Salesforce LWC Developer | https://in.linkedin.com/jobs/view/salesforce-lwc-developer-at-cognizant-4369531840
 4369507818 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-scoutit-4369507818
 4361421657 | Software Engineer - Java Developer | https://in.linkedin.com/jobs/view/software-engineer-java-developer-at-pegasystems-4361421657
+4369758399 | Software Engineer III - Java, AI | https://in.linkedin.com/jobs/view/software-engineer-iii-java-ai-at-jpmorganchase-4369758399
+4369776375 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-accenture-in-india-4369776375
