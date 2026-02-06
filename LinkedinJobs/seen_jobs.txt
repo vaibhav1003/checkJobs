@@ -691,3 +691,5 @@
 4369359705 | java Developer | https://in.linkedin.com/jobs/view/java-developer-at-people-prime-worldwide-4369359705
 4369395464 | Salesforce Administrator | https://in.linkedin.com/jobs/view/salesforce-administrator-at-thoughtfocus-4369395464
 4369522119 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-thoughtfocus-4369522119
+4369514951 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-dextara-datamatics-4369514951
+4369527270 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-dextara-datamatics-4369527270
