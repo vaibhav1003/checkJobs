@@ -701,3 +701,4 @@
 4369776375 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-accenture-in-india-4369776375
 4369773446 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4369773446
 4369933959 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-grid-dynamics-4369933959
+4369952385 | Associate Consultant- Java Backend Developer | https://in.linkedin.com/jobs/view/associate-consultant-java-backend-developer-at-cgi-4369952385
