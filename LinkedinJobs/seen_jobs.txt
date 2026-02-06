@@ -672,3 +672,7 @@
 4361031272 | MS-CRM technical - D365 CE Customizations -Developer-Manager | https://in.linkedin.com/jobs/view/ms-crm-technical-d365-ce-customizations-developer-manager-at-ey-4361031272
 4369148801 | Senior Salesforce Developer (Billing) | https://in.linkedin.com/jobs/view/senior-salesforce-developer-billing-at-s-p-global-4369148801
 4361060822 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-concentrix-4361060822
+4369712492 | VAYUZ Technologies - Java MuleSoft Developer - Anypoint Platform | https://in.linkedin.com/jobs/view/vayuz-technologies-java-mulesoft-developer-anypoint-platform-at-vayuz-technologies-4369712492
+4361042631 | Associate Full-Stack Java Developer | https://in.linkedin.com/jobs/view/associate-full-stack-java-developer-at-alithya-4361042631
+4369708598 | Java Application Support Engineer | https://in.linkedin.com/jobs/view/java-application-support-engineer-at-flipped-ai-transforming-talent-acquisition-with-ai-4369708598
+4369730000 | Développeur associé ou développeuse associée Java full-stack | https://in.linkedin.com/jobs/view/d%C3%A9veloppeur-associ%C3%A9-ou-d%C3%A9veloppeuse-associ%C3%A9e-java-full-stack-at-alithya-4369730000
