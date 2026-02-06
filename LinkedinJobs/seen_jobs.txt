@@ -693,3 +693,7 @@
 4369522119 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-thoughtfocus-4369522119
 4369514951 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-dextara-datamatics-4369514951
 4369527270 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-dextara-datamatics-4369527270
+4361402920 | Application Developer-Salesforce | https://in.linkedin.com/jobs/view/application-developer-salesforce-at-ibm-4361402920
+4369531840 | Salesforce LWC Developer | https://in.linkedin.com/jobs/view/salesforce-lwc-developer-at-cognizant-4369531840
+4369507818 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-scoutit-4369507818
+4361421657 | Software Engineer - Java Developer | https://in.linkedin.com/jobs/view/software-engineer-java-developer-at-pegasystems-4361421657
