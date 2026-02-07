@@ -709,3 +709,6 @@
 4369890192 | Salesforce Senior Developer | https://in.linkedin.com/jobs/view/salesforce-senior-developer-at-ness-digital-engineering-4369890192
 4370159045 | Full Stack Java developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-qualitest-acq-4370159045
 4370013803 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4370013803
+4370034155 | SFDC LWC DEVELOPER | https://in.linkedin.com/jobs/view/sfdc-lwc-developer-at-tata-consultancy-services-4370034155
+4370161510 | Manager of Software Engineering - Data Engineer (Spark,  Kafka, Java) | https://in.linkedin.com/jobs/view/manager-of-software-engineering-data-engineer-spark-kafka-java-at-jpmorganchase-4370161510
+4370166189 | Software Engineer III - Java Streaming & Insights Platform | https://in.linkedin.com/jobs/view/software-engineer-iii-java-streaming-insights-platform-at-jpmorganchase-4370166189
