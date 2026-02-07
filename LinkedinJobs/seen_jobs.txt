@@ -707,3 +707,4 @@
 4369987883 | Enabled Analytics - Salesforce Technical Lead - Apex Programming | https://in.linkedin.com/jobs/view/enabled-analytics-salesforce-technical-lead-apex-programming-at-enabled-analytics-4369987883
 4369999251 | Java Developer - Spring/Microservices Architecture | https://in.linkedin.com/jobs/view/java-developer-spring-microservices-architecture-at-cognitivzen-technologies-private-limited-4369999251
 4369890192 | Salesforce Senior Developer | https://in.linkedin.com/jobs/view/salesforce-senior-developer-at-ness-digital-engineering-4369890192
+4370159045 | Full Stack Java developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-qualitest-acq-4370159045
