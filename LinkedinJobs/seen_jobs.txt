@@ -739,3 +739,7 @@
 4370530007 | Salesforce Consultant | https://in.linkedin.com/jobs/view/salesforce-consultant-at-latinem-private-limited-4370530007
 4361823981 | Technical Architect - Salesforce Job | https://in.linkedin.com/jobs/view/technical-architect-salesforce-job-at-yash-technologies-middle-east-4361823981
 4370539164 | Full Stack Java Developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-jrd-systems-4370539164
+4370248453 | Java Backend Developer - 5 Years | https://in.linkedin.com/jobs/view/java-backend-developer-5-years-at-voxvalley-technologies-inc-4370248453
+4370299668 | Software Engineer III - Java | https://in.linkedin.com/jobs/view/software-engineer-iii-java-at-zinnia-4370299668
+4370540864 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4370540864
+4368573714 | Java + ReactJS,NextJS Fullstack Developer | https://in.linkedin.com/jobs/view/java-%2B-reactjs-nextjs-fullstack-developer-at-rb-consultancy-services-4368573714
