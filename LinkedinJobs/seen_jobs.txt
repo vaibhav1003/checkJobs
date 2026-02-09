@@ -733,3 +733,5 @@
 4370231787 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-prudent-technologies-and-consulting-inc-4370231787
 4370231960 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-forsys-inc-4370231960
 4370241228 | Salesforce Commerce Cloud Solution Architect | https://in.linkedin.com/jobs/view/salesforce-commerce-cloud-solution-architect-at-forsys-inc-4370241228
+4370397931 | Salesforce Marketing BSA | https://in.linkedin.com/jobs/view/salesforce-marketing-bsa-at-cloudfulcrum-4370397931
+4370396919 | Senior VS Code Developer | https://in.linkedin.com/jobs/view/senior-vs-code-developer-at-cloudfulcrum-4370396919
