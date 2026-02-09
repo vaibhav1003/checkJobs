@@ -725,3 +725,8 @@
 4370211813 | Salesforce developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-endava-4370211813
 4370221214 | java backend developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4370221214
 4370211739 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4370211739
+4362210240 | Customer Tech - Salesforce Developer - GDS02 | https://in.linkedin.com/jobs/view/customer-tech-salesforce-developer-gds02-at-ey-4362210240
+4370395179 | Salesforce Business Analyst | https://in.linkedin.com/jobs/view/salesforce-business-analyst-at-dextara-datamatics-4370395179
+4370235113 | Java Backend Software Development Engineer (SDE-2) | https://in.linkedin.com/jobs/view/java-backend-software-development-engineer-sde-2-at-smart-ims-inc-4370235113
+4370221449 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4370221449
+4361813698 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-cyient-4361813698
