@@ -743,3 +743,7 @@
 4370299668 | Software Engineer III - Java | https://in.linkedin.com/jobs/view/software-engineer-iii-java-at-zinnia-4370299668
 4370540864 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4370540864
 4368573714 | Java + ReactJS,NextJS Fullstack Developer | https://in.linkedin.com/jobs/view/java-%2B-reactjs-nextjs-fullstack-developer-at-rb-consultancy-services-4368573714
+4370556523 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-infolob-4370556523
+4370567014 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4370567014
+4370564049 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4370564049
+4370525566 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-navitas-business-consulting-inc-4370525566
