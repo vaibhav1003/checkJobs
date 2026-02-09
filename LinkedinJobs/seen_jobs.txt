@@ -747,3 +747,6 @@
 4370567014 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4370567014
 4370564049 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4370564049
 4370525566 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-navitas-business-consulting-inc-4370525566
+4370453243 | Full Stack Java Developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-strategystack-consulting-4370453243
+4370810772 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-cgi-4370810772
+4370420350 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4370420350
