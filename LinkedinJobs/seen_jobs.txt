@@ -736,3 +736,5 @@
 4370397931 | Salesforce Marketing BSA | https://in.linkedin.com/jobs/view/salesforce-marketing-bsa-at-cloudfulcrum-4370397931
 4370396919 | Senior VS Code Developer | https://in.linkedin.com/jobs/view/senior-vs-code-developer-at-cloudfulcrum-4370396919
 4370257478 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-scoutit-4370257478
+4370530007 | Salesforce Consultant | https://in.linkedin.com/jobs/view/salesforce-consultant-at-latinem-private-limited-4370530007
+4361823981 | Technical Architect - Salesforce Job | https://in.linkedin.com/jobs/view/technical-architect-salesforce-job-at-yash-technologies-middle-east-4361823981
