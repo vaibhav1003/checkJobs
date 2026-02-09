@@ -722,3 +722,6 @@
 4370073887 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-scoutit-4370073887
 4370227003 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-devrabbit-it-solutions-4370227003
 4370097935 | Java Developer (4- 10 Years), Bangalore / Chennai / Hyderabad / Mumbai / Indore / Ahmedabad | https://in.linkedin.com/jobs/view/java-developer-4-10-years-bangalore-chennai-hyderabad-mumbai-indore-ahmedabad-at-tata-consultancy-services-4370097935
+4370211813 | Salesforce developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-endava-4370211813
+4370221214 | java backend developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4370221214
+4370211739 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4370211739
