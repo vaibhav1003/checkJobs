@@ -763,3 +763,4 @@
 4370644203 | Full Stack +React , Spring Boot, Java,Developer ( 8  yrs Hyderbad) | https://in.linkedin.com/jobs/view/full-stack-%2Breact-spring-boot-java-developer-8-yrs-hyderbad-at-orbion-infotech-4370644203
 4064823449 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-cricchamp-game-4064823449
 4362212703 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-xperteez-technology-4362212703
+4370637567 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-people-prime-worldwide-4370637567
