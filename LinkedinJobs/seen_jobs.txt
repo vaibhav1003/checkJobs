@@ -772,3 +772,5 @@
 4370978689 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-unison-group-4370978689
 4370674178 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-technogen-india-pvt-ltd-4370674178
 4364384410 | IN_Senior Associate_SFDC_GCC_Advisory_Hyderabad | https://in.linkedin.com/jobs/view/in-senior-associate-sfdc-gcc-advisory-hyderabad-at-pwc-india-4364384410
+4363035292 | Lead Software Engineer / Senior Software Developer / Salesforce Product Owner | https://in.linkedin.com/jobs/view/lead-software-engineer-senior-software-developer-salesforce-product-owner-at-firstsource-4363035292
+4363110474 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-versatile-commerce-4363110474
