@@ -754,3 +754,4 @@
 4370875475 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-clean-harbors-4370875475
 4370892127 | MCO - Principal Software Engineer - Java | https://in.linkedin.com/jobs/view/mco-principal-software-engineer-java-at-mco-mycomplianceoffice-4370892127
 4370910651 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4370910651
+4370619370 | Java full stack developer+ Angular | https://in.linkedin.com/jobs/view/java-full-stack-developer%2B-angular-at-people-prime-worldwide-4370619370
