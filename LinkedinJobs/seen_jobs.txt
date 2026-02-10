@@ -758,3 +758,8 @@
 4370919830 | Salesforce Technical Consultant | https://in.linkedin.com/jobs/view/salesforce-technical-consultant-at-salesforce-4370919830
 4370620735 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-ltimindtree-4370620735
 4370614640 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-healthfirst-technologies-4370614640
+4370953122 | Software Development Engineer II- Java/React.js | https://in.linkedin.com/jobs/view/software-development-engineer-ii-java-react-js-at-entain-india-4370953122
+4370941047 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-innova-esi-4370941047
+4370644203 | Full Stack +React , Spring Boot, Java,Developer ( 8  yrs Hyderbad) | https://in.linkedin.com/jobs/view/full-stack-%2Breact-spring-boot-java-developer-8-yrs-hyderbad-at-orbion-infotech-4370644203
+4064823449 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-cricchamp-game-4064823449
+4362212703 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-xperteez-technology-4362212703
