@@ -755,3 +755,6 @@
 4370892127 | MCO - Principal Software Engineer - Java | https://in.linkedin.com/jobs/view/mco-principal-software-engineer-java-at-mco-mycomplianceoffice-4370892127
 4370910651 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4370910651
 4370619370 | Java full stack developer+ Angular | https://in.linkedin.com/jobs/view/java-full-stack-developer%2B-angular-at-people-prime-worldwide-4370619370
+4370919830 | Salesforce Technical Consultant | https://in.linkedin.com/jobs/view/salesforce-technical-consultant-at-salesforce-4370919830
+4370620735 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-ltimindtree-4370620735
+4370614640 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-healthfirst-technologies-4370614640
