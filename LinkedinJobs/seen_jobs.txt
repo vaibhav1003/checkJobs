@@ -768,3 +768,6 @@
 4370643879 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-scoutit-4370643879
 4370986042 | Java Backend developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-unison-group-4370986042
 4342694658 | Salesforce Service Cloud Architect | https://in.linkedin.com/jobs/view/salesforce-service-cloud-architect-at-ntt-data-north-america-4342694658
+4370980638 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-wissen-technology-4370980638
+4370978689 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-unison-group-4370978689
+4370674178 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-technogen-india-pvt-ltd-4370674178
