@@ -764,3 +764,7 @@
 4064823449 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-cricchamp-game-4064823449
 4362212703 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-xperteez-technology-4362212703
 4370637567 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-people-prime-worldwide-4370637567
+4370979395 | Software Engineering MTS | https://in.linkedin.com/jobs/view/software-engineering-mts-at-salesforce-4370979395
+4370643879 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-scoutit-4370643879
+4370986042 | Java Backend developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-unison-group-4370986042
+4342694658 | Salesforce Service Cloud Architect | https://in.linkedin.com/jobs/view/salesforce-service-cloud-architect-at-ntt-data-north-america-4342694658
