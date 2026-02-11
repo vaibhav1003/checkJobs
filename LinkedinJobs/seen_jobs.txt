@@ -804,3 +804,4 @@
 4363113623 | Camunda BPM Developer (Java | MySQL | Git) | https://in.linkedin.com/jobs/view/camunda-bpm-developer-java-mysql-git-at-zettamine-labs-pvt-ltd-4363113623
 4371406892 | Software Engineer III - Salesforce Development | https://in.linkedin.com/jobs/view/software-engineer-iii-salesforce-development-at-jpmorganchase-4371406892
 4371425437 | Software Engineer III - Java , ForgeRock | https://in.linkedin.com/jobs/view/software-engineer-iii-java-forgerock-at-jpmorganchase-4371425437
+4363270517 | Salesforce OmniStudio Developer LwC- Sr Associate | https://in.linkedin.com/jobs/view/salesforce-omnistudio-developer-lwc-sr-associate-at-pwc-acceleration-center-india-4363270517
