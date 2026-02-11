@@ -790,3 +790,5 @@
 4370775878 | Java  backend developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4370775878
 4370788353 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4370788353
 4363046896 | Java MuleSoft Developer | https://in.linkedin.com/jobs/view/java-mulesoft-developer-at-vayuz-technologies-4363046896
+4363152437 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-accellor-4363152437
+4371257162 | Salesforce Data Cloud Consultant | https://in.linkedin.com/jobs/view/salesforce-data-cloud-consultant-at-osf-digital-4371257162
