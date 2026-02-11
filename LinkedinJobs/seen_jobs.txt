@@ -809,3 +809,8 @@
 4363241708 | Java Drools Developer | https://in.linkedin.com/jobs/view/java-drools-developer-at-deqode-4363241708
 4371489288 | Java developer with Al coding tools | https://in.linkedin.com/jobs/view/java-developer-with-al-coding-tools-at-grid-dynamics-4371489288
 4371437161 | Backend Engineer (Java) | https://in.linkedin.com/jobs/view/backend-engineer-java-at-nymcard-4371437161
+4363191521 | Developer III -SFDC Developer | https://in.linkedin.com/jobs/view/developer-iii-sfdc-developer-at-ust-4363191521
+4371186927 | Salesforce Revenue Cloud Developer (Billing) | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-developer-billing-at-s-p-global-4371186927
+4371482471 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-grid-dynamics-4371482471
+4371177405 | Java Fullstack Developer (Redux) Walk in Drive @ Hyderabad Location | https://in.linkedin.com/jobs/view/java-fullstack-developer-redux-walk-in-drive-%40-hyderabad-location-at-tata-consultancy-services-4371177405
+4371180266 | Java Spring boot Microservices Developer Walk in Drive @ Hyderabad Location | https://in.linkedin.com/jobs/view/java-spring-boot-microservices-developer-walk-in-drive-%40-hyderabad-location-at-tata-consultancy-services-4371180266
