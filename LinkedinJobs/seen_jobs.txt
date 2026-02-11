@@ -814,3 +814,4 @@
 4371482471 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-grid-dynamics-4371482471
 4371177405 | Java Fullstack Developer (Redux) Walk in Drive @ Hyderabad Location | https://in.linkedin.com/jobs/view/java-fullstack-developer-redux-walk-in-drive-%40-hyderabad-location-at-tata-consultancy-services-4371177405
 4371180266 | Java Spring boot Microservices Developer Walk in Drive @ Hyderabad Location | https://in.linkedin.com/jobs/view/java-spring-boot-microservices-developer-walk-in-drive-%40-hyderabad-location-at-tata-consultancy-services-4371180266
+4363018714 | Developer II - Enterprise Solutions | https://in.linkedin.com/jobs/view/developer-ii-enterprise-solutions-at-ust-4363018714
