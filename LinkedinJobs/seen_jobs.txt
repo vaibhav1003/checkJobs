@@ -782,3 +782,10 @@
 4371231277 | Java developer with Al coding tools | https://in.linkedin.com/jobs/view/java-developer-with-al-coding-tools-at-grid-dynamics-4371231277
 4371214965 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-grid-dynamics-4371214965
 4371220266 | SRINAV - Java Full Stack Developer | https://in.linkedin.com/jobs/view/srinav-java-full-stack-developer-at-srinav-4371220266
+4371248775 | Salesforce Administrator | https://in.linkedin.com/jobs/view/salesforce-administrator-at-peoplefy-4371248775
+4371260020 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-peoplefy-4371260020
+4370790604 | Salesforce PSS Developer | https://in.linkedin.com/jobs/view/salesforce-pss-developer-at-zorba-ai-4370790604
+4371253643 | Salesforce Automation Test Engineer | https://in.linkedin.com/jobs/view/salesforce-automation-test-engineer-at-osf-digital-4371253643
+4370797163 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-people-prime-worldwide-4370797163
+4370775878 | Java  backend developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4370775878
+4370788353 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4370788353
