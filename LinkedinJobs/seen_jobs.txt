@@ -845,3 +845,4 @@
 4371379897 | CRM D365 Canvas App Developer | https://in.linkedin.com/jobs/view/crm-d365-canvas-app-developer-at-airisdata-4371379897
 4363217984 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-info-services-4363217984
 4363169738 | Sr Salesforce Developer | https://in.linkedin.com/jobs/view/sr-salesforce-developer-at-algoleap-4363169738
+4363973203 | Sr. Salesforce Engineer-1 | https://in.linkedin.com/jobs/view/sr-salesforce-engineer-1-at-assurant-4363973203
