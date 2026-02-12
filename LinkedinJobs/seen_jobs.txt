@@ -837,3 +837,6 @@
 4371501055 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-services-pvt-ltd-4371501055
 4371821823 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4371821823
 4371384992 | Salesforce CPQ Developer | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-at-tata-consultancy-services-4371384992
+4371869687 | Software Engineer III - Salesforce Developer | https://in.linkedin.com/jobs/view/software-engineer-iii-salesforce-developer-at-jpmorganchase-4371869687
+4371509099 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-avance-consulting-4371509099
+4371510420 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-oloop-technology-solutions-4371510420
