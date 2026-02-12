@@ -840,3 +840,6 @@
 4371869687 | Software Engineer III - Salesforce Developer | https://in.linkedin.com/jobs/view/software-engineer-iii-salesforce-developer-at-jpmorganchase-4371869687
 4371509099 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-avance-consulting-4371509099
 4371510420 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-oloop-technology-solutions-4371510420
+4371873493 | Software Engineer III - Java, AWS, SQL | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-sql-at-jpmorganchase-4371873493
+4362187253 | Java Developer- AWS - GO/JC/2243/2026 | https://in.linkedin.com/jobs/view/java-developer-aws-go-jc-2243-2026-at-golden-opportunities-4362187253
+4371379897 | CRM D365 Canvas App Developer | https://in.linkedin.com/jobs/view/crm-d365-canvas-app-developer-at-airisdata-4371379897
