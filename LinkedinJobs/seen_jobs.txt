@@ -829,3 +829,4 @@
 4371804862 | Salesforce CPQ Developer | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-at-rrootshell-technologiiss-pvt-ltd-4371804862
 4371806583 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-qualizeal-4371806583
 4371805898 | Software Engineer in Test - (Python/Java , Shell scripting,DB testing) | https://in.linkedin.com/jobs/view/software-engineer-in-test-python-java-shell-scripting-db-testing-at-experian-4371805898
+4371396001 | Software Platform Engineer II | https://in.linkedin.com/jobs/view/software-platform-engineer-ii-at-metlife-4371396001
