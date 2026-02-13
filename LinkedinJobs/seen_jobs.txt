@@ -865,3 +865,5 @@
 4363996805 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-xperteez-technology-4363996805
 4371749591 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4371749591
 4371760429 | JAVA Backend Engineer | https://in.linkedin.com/jobs/view/java-backend-engineer-at-xperteez-technology-4371760429
+4371764982 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4371764982
+4372709635 | Software Engineer III - Java, Python, AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-python-aws-at-jpmorganchase-4372709635
