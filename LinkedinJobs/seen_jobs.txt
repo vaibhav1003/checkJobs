@@ -867,3 +867,7 @@
 4371760429 | JAVA Backend Engineer | https://in.linkedin.com/jobs/view/java-backend-engineer-at-xperteez-technology-4371760429
 4371764982 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4371764982
 4372709635 | Software Engineer III - Java, Python, AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-python-aws-at-jpmorganchase-4372709635
+4364424305 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-brite-4364424305
+4364195016 | Application Developer-Salesforce | https://in.linkedin.com/jobs/view/application-developer-salesforce-at-ibm-4364195016
+4349518864 | Software Engineer II - Java Backend Developer | https://in.linkedin.com/jobs/view/software-engineer-ii-java-backend-developer-at-candescent-4349518864
+4349567999 | Software Engineer III - Java Backend Developer | https://in.linkedin.com/jobs/view/software-engineer-iii-java-backend-developer-at-candescent-4349567999
