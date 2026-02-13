@@ -850,3 +850,5 @@
 4372112649 | Fullstack Engineer - Java or .Net Fullstack( SG 25, 26, 27, 28, 29, 30) | https://in.linkedin.com/jobs/view/fullstack-engineer-java-or-net-fullstack-sg-25-26-27-28-29-30-at-optum-india-4372112649
 4371558559 | Sr. Software Platform Engineer I | https://in.linkedin.com/jobs/view/sr-software-platform-engineer-i-at-metlife-4371558559
 4336980998 | Senior Manager Technical Consulting (Salesforce experience is mandatory) | https://in.linkedin.com/jobs/view/senior-manager-technical-consulting-salesforce-experience-is-mandatory-at-salesforce-4336980998
+4371596449 | Salesforce Technical Lead / Senior Developer | https://in.linkedin.com/jobs/view/salesforce-technical-lead-senior-developer-at-rhythm-innovations-4371596449
+4372195185 | Java Full Stack Developer - React.js/AngularJS | https://in.linkedin.com/jobs/view/java-full-stack-developer-react-js-angularjs-at-humancloud-4372195185
