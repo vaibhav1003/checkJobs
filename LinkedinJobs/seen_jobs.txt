@@ -876,3 +876,4 @@
 4372755172 | Java Backend Engineer | https://in.linkedin.com/jobs/view/java-backend-engineer-at-keylent-inc-4372755172
 4372023037 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4372023037
 4372018702 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4372018702
+4372007870 | Java Fullstack (Angular) Lead Developer | https://in.linkedin.com/jobs/view/java-fullstack-angular-lead-developer-at-infosys-4372007870
