@@ -871,3 +871,5 @@
 4364195016 | Application Developer-Salesforce | https://in.linkedin.com/jobs/view/application-developer-salesforce-at-ibm-4364195016
 4349518864 | Software Engineer II - Java Backend Developer | https://in.linkedin.com/jobs/view/software-engineer-ii-java-backend-developer-at-candescent-4349518864
 4349567999 | Software Engineer III - Java Backend Developer | https://in.linkedin.com/jobs/view/software-engineer-iii-java-backend-developer-at-candescent-4349567999
+4372721917 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4372721917
+4372742005 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4372742005
