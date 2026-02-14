@@ -883,3 +883,4 @@
 4372081100 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4372081100
 4373223159 | Software Engineer III - SFDC | https://in.linkedin.com/jobs/view/software-engineer-iii-sfdc-at-jpmorganchase-4373223159
 4364459837 | Developer III - Java Fullstack | https://in.linkedin.com/jobs/view/developer-iii-java-fullstack-at-ust-4364459837
+4372071847 | Java Fullstack (Angular) Lead Developer | https://in.linkedin.com/jobs/view/java-fullstack-angular-lead-developer-at-infosys-4372071847
