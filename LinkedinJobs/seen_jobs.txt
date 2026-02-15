@@ -892,3 +892,4 @@
 4372318771 | Java Fullstack (Angular) Lead Developer | https://in.linkedin.com/jobs/view/java-fullstack-angular-lead-developer-at-infosys-4372318771
 4373292436 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4373292436
 4373297394 | Principal Engineer - Distributed Systems (Java)/Cloud & Containter Platforms | https://in.linkedin.com/jobs/view/principal-engineer-distributed-systems-java-cloud-containter-platforms-at-wells-fargo-4373297394
+4372324644 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4372324644
