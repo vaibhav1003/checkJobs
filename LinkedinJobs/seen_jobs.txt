@@ -893,3 +893,4 @@
 4373292436 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4373292436
 4373297394 | Principal Engineer - Distributed Systems (Java)/Cloud & Containter Platforms | https://in.linkedin.com/jobs/view/principal-engineer-distributed-systems-java-cloud-containter-platforms-at-wells-fargo-4373297394
 4372324644 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4372324644
+4372353584 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-id4-consultancy-4372353584
