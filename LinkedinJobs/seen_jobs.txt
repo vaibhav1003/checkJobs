@@ -926,3 +926,4 @@
 4373804760 | Salesforce Test Engineer, MTS (SDET) | https://in.linkedin.com/jobs/view/salesforce-test-engineer-mts-sdet-at-salesforce-4373804760
 4373820310 | Salesforce Developer - Software Engineering MTS | https://in.linkedin.com/jobs/view/salesforce-developer-software-engineering-mts-at-salesforce-4373820310
 4372551681 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4372551681
+4372582357 | Backend Developer (Java / Python) - AI/ ML (Healthcare) | https://in.linkedin.com/jobs/view/backend-developer-java-python-ai-ml-healthcare-at-bridgenexus-technologies-inc-4372582357
