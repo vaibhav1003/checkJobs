@@ -914,3 +914,12 @@
 4373571213 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-vmultiply-solutions-4373571213
 4372375635 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-services-pvt-ltd-4372375635
 4373563127 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4373563127
+4373801166 | Associate Vice President - Senior Lead Salesforce Engineer [T500-23411] | https://in.linkedin.com/jobs/view/associate-vice-president-senior-lead-salesforce-engineer-t500-23411-at-deutsche-b%C3%B6rse-4373801166
+4373801130 | Associate Vice President - Salesforce Solution Architect [T500-23412] | https://in.linkedin.com/jobs/view/associate-vice-president-salesforce-solution-architect-t500-23412-at-deutsche-b%C3%B6rse-4373801130
+4372518057 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-sonata-software-4372518057
+4364569190 | Java SDET Automation Testing | https://in.linkedin.com/jobs/view/java-sdet-automation-testing-at-persistent-systems-4364569190
+4373590931 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4373590931
+4372502027 | Java - Golang Developer | https://in.linkedin.com/jobs/view/java-golang-developer-at-scoutit-4372502027
+4372527179 | Salesforce Vlocity QA Engineer (Playwright)- Full Time | https://in.linkedin.com/jobs/view/salesforce-vlocity-qa-engineer-playwright-full-time-at-gravity-infosolutions-inc-4372527179
+4372360860 | JAVA Developer | https://in.linkedin.com/jobs/view/java-developer-at-mobillor-4372360860
+4373571260 | Salesforce Senior Manager, Technical Consulting - Health | https://in.linkedin.com/jobs/view/salesforce-senior-manager-technical-consulting-health-at-salesforce-4373571260
