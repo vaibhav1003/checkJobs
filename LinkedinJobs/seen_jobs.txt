@@ -894,3 +894,7 @@
 4373297394 | Principal Engineer - Distributed Systems (Java)/Cloud & Containter Platforms | https://in.linkedin.com/jobs/view/principal-engineer-distributed-systems-java-cloud-containter-platforms-at-wells-fargo-4373297394
 4372324644 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4372324644
 4372353584 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-id4-consultancy-4372353584
+4373528674 | Salesforce Data Cloud Consultant | https://in.linkedin.com/jobs/view/salesforce-data-cloud-consultant-at-osf-digital-4373528674
+4373546078 | Salesforce Automation Test Engineer | https://in.linkedin.com/jobs/view/salesforce-automation-test-engineer-at-osf-digital-4373546078
+4372350724 | Java Develoer | https://in.linkedin.com/jobs/view/java-develoer-at-people-prime-worldwide-4372350724
+4372361831 | Java Fullstack (Angular) Lead Developer | https://in.linkedin.com/jobs/view/java-fullstack-angular-lead-developer-at-infosys-4372361831
