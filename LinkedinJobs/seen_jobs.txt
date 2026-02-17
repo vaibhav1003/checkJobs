@@ -959,3 +959,7 @@
 4371984541 | Java Fullstack developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-ltimindtree-4371984541
 4374109070 | Java Angular Developer | https://in.linkedin.com/jobs/view/java-angular-developer-at-capgemini-4374109070
 4371983094 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-zemoso-technologies-4371983094
+4374105357 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4374105357
+4371998573 | Generative AI Engineer | https://in.linkedin.com/jobs/view/generative-ai-engineer-at-centrilogic-4371998573
+4373018571 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-insight-global-4373018571
+4373018352 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4373018352
