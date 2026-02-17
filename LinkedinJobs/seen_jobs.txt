@@ -954,3 +954,6 @@
 4373979813 | Salesforce Senior Success Guide (AMER/EMEA) | https://in.linkedin.com/jobs/view/salesforce-senior-success-guide-amer-emea-at-griddable-io-4373979813
 4371971561 | Salesforce Architect (Remote, Full-Time) [AS201] | https://in.linkedin.com/jobs/view/salesforce-architect-remote-full-time-as201-at-smart-working-4371971561
 4373973503 | Mulesoft Developer | https://in.linkedin.com/jobs/view/mulesoft-developer-at-ntt-data-north-america-4373973503
+4372898531 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-ideagen-4372898531
+4374117059 | Salesforce Support Engineer - Industries & Revenue Cloud | https://in.linkedin.com/jobs/view/salesforce-support-engineer-industries-revenue-cloud-at-salesforce-4374117059
+4371984541 | Java Fullstack developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-ltimindtree-4371984541
