@@ -957,3 +957,5 @@
 4372898531 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-ideagen-4372898531
 4374117059 | Salesforce Support Engineer - Industries & Revenue Cloud | https://in.linkedin.com/jobs/view/salesforce-support-engineer-industries-revenue-cloud-at-salesforce-4374117059
 4371984541 | Java Fullstack developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-ltimindtree-4371984541
+4374109070 | Java Angular Developer | https://in.linkedin.com/jobs/view/java-angular-developer-at-capgemini-4374109070
+4371983094 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-zemoso-technologies-4371983094
