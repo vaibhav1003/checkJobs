@@ -943,3 +943,6 @@
 4372832859 | Salesforce Tester-Consultant-HYD/BLR/CHE/PUNE | https://in.linkedin.com/jobs/view/salesforce-tester-consultant-hyd-blr-che-pune-at-deloitte-4372832859
 4373932680 | Salesforce Technical Solution Architect | https://in.linkedin.com/jobs/view/salesforce-technical-solution-architect-at-weekday-ai-yc-w21-4373932680
 4364778302 | Java Fullstack Engineer | https://in.linkedin.com/jobs/view/java-fullstack-engineer-at-oracle-4364778302
+4371965264 | Architect - Salesforce | https://in.linkedin.com/jobs/view/architect-salesforce-at-pepsico-4371965264
+4342782262 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-ntt-data-north-america-4342782262
+4373937661 | Java full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-stacknexus-4373937661
