@@ -963,3 +963,5 @@
 4371998573 | Generative AI Engineer | https://in.linkedin.com/jobs/view/generative-ai-engineer-at-centrilogic-4371998573
 4373018571 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-insight-global-4373018571
 4373018352 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4373018352
+4374103448 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4374103448
+4374118951 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4374118951
