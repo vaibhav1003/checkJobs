@@ -949,3 +949,7 @@
 4371970286 | Developer III - SFDC Developer | https://in.linkedin.com/jobs/view/developer-iii-sfdc-developer-at-ust-4371970286
 4372862331 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4372862331
 4373981091 | Software Engineer I - Java | https://in.linkedin.com/jobs/view/software-engineer-i-java-at-jpmorganchase-4373981091
+4373969596 | Software Engineer III - Java/Python, Kafka, React JS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-python-kafka-react-js-at-jpmorganchase-4373969596
+4373978156 | Software Engineer II - Java/ Python, Kafka, ReactJS. | https://in.linkedin.com/jobs/view/software-engineer-ii-java-python-kafka-reactjs-at-jpmorganchase-4373978156
+4373979813 | Salesforce Senior Success Guide (AMER/EMEA) | https://in.linkedin.com/jobs/view/salesforce-senior-success-guide-amer-emea-at-griddable-io-4373979813
+4371971561 | Salesforce Architect (Remote, Full-Time) [AS201] | https://in.linkedin.com/jobs/view/salesforce-architect-remote-full-time-as201-at-smart-working-4371971561
