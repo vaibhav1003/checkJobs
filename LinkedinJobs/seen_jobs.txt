@@ -995,3 +995,5 @@
 4374752442 | Software Engineer III - Java AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4374752442
 4375001233 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-conduent-4375001233
 4374783842 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-conduent-4374783842
+4374780984 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-conduent-4374780984
+4374797336 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-conduent-4374797336
