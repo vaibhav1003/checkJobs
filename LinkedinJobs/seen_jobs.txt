@@ -969,3 +969,10 @@
 4373073528 | Full Stack Java Developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-s-p-global-4373073528
 4373076629 | AI Engineer | https://in.linkedin.com/jobs/view/ai-engineer-at-centrilogic-4373076629
 4373090151 | Java Developer With Angular | https://in.linkedin.com/jobs/view/java-developer-with-angular-at-people-prime-worldwide-4373090151
+4373091158 | Salesforce Senior Developer | https://in.linkedin.com/jobs/view/salesforce-senior-developer-at-ness-digital-engineering-4373091158
+4373088221 | Salesforce Senior Developer | https://in.linkedin.com/jobs/view/salesforce-senior-developer-at-ness-digital-engineering-4373088221
+4374477750 | Full stack Java Developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-vmc-soft-technologies-inc-4374477750
+4374482747 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4374482747
+4374489328 | Java  backend developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4374489328
+4374485508 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4374485508
+4373092115 | Java backend developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4373092115
