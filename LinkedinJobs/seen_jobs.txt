@@ -976,3 +976,5 @@
 4374489328 | Java  backend developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4374489328
 4374485508 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4374485508
 4373092115 | Java backend developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4373092115
+4372466205 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-highradius-4372466205
+4372454477 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-teamware-solutions-4372454477
