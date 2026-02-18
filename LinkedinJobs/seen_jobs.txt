@@ -987,3 +987,7 @@
 4374728566 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-k2-partnering-solutions-4374728566
 4372494234 | Lead Salesforce Developer | https://in.linkedin.com/jobs/view/lead-salesforce-developer-at-intellistaff-services-pvt-ltd-4372494234
 4374726596 | Java Full Stack Engineer | https://in.linkedin.com/jobs/view/java-full-stack-engineer-at-blue-spire-inc-4374726596
+4374772064 | Salesforce Solution Consultant | https://in.linkedin.com/jobs/view/salesforce-solution-consultant-at-weekday-ai-yc-w21-4374772064
+4373330925 | Software Engineer II | https://in.linkedin.com/jobs/view/software-engineer-ii-at-metlife-4373330925
+4373345227 | Senior Salesforce Developer (6+Years Experience) IRC287762 | https://in.linkedin.com/jobs/view/senior-salesforce-developer-6%2Byears-experience-irc287762-at-globallogic-4373345227
+4372486930 | Java React Developer | https://in.linkedin.com/jobs/view/java-react-developer-at-deqode-4372486930
