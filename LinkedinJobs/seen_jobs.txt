@@ -983,3 +983,4 @@
 4374714573 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-incedo-inc-4374714573
 4373303887 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-people-prime-worldwide-4373303887
 4373088520 | Flutter Developer | https://in.linkedin.com/jobs/view/flutter-developer-at-townhall-4373088520
+4372479478 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-beamx-techlabs-4372479478
