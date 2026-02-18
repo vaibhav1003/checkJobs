@@ -997,3 +997,6 @@
 4374783842 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-conduent-4374783842
 4374780984 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-conduent-4374780984
 4374797336 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-conduent-4374797336
+4374777980 | Salesforce Success Architect (Agentforce) | https://in.linkedin.com/jobs/view/salesforce-success-architect-agentforce-at-salesforce-4374777980
+4373385758 | AVP, Marketing Cloud Developer (L10) | https://in.linkedin.com/jobs/view/avp-marketing-cloud-developer-l10-at-synchrony-4373385758
+4373381809 | AVP, Marketing Cloud Developer (L10) | https://in.linkedin.com/jobs/view/avp-marketing-cloud-developer-l10-at-synchrony-4373381809
