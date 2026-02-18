@@ -984,3 +984,5 @@
 4373303887 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-people-prime-worldwide-4373303887
 4373088520 | Flutter Developer | https://in.linkedin.com/jobs/view/flutter-developer-at-townhall-4373088520
 4372479478 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-beamx-techlabs-4372479478
+4374728566 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-k2-partnering-solutions-4374728566
+4372494234 | Lead Salesforce Developer | https://in.linkedin.com/jobs/view/lead-salesforce-developer-at-intellistaff-services-pvt-ltd-4372494234
