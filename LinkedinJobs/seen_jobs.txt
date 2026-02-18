@@ -966,3 +966,6 @@
 4374103448 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4374103448
 4374118951 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4374118951
 4374445232 | Software Engineer I - Java | https://in.linkedin.com/jobs/view/software-engineer-i-java-at-jpmorganchase-4374445232
+4373073528 | Full Stack Java Developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-s-p-global-4373073528
+4373076629 | AI Engineer | https://in.linkedin.com/jobs/view/ai-engineer-at-centrilogic-4373076629
+4373090151 | Java Developer With Angular | https://in.linkedin.com/jobs/view/java-developer-with-angular-at-people-prime-worldwide-4373090151
