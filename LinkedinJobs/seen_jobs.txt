@@ -1012,3 +1012,5 @@
 4372674593 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-xperteez-technology-4372674593
 4373657418 | Java backend developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4373657418
 4373670441 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4373670441
+4373655544 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-live-connections-4373655544
+4373658176 | Java Developer || 6-9 Years of Experience || | https://in.linkedin.com/jobs/view/java-developer-6-9-years-of-experience-at-people-prime-worldwide-4373658176
