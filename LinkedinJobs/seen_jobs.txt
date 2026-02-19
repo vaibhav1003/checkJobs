@@ -1022,3 +1022,7 @@
 4375168089 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4375168089
 4375165924 | Lead Software Engineer - Salesforce | https://in.linkedin.com/jobs/view/lead-software-engineer-salesforce-at-experian-4375165924
 4374026269 | Sr. Agentforce Developer – Salesforce | https://in.linkedin.com/jobs/view/sr-agentforce-developer-%E2%80%93-salesforce-at-people-prime-worldwide-4374026269
+4373115869 | Application Developer-Salesforce | https://in.linkedin.com/jobs/view/application-developer-salesforce-at-ibm-4373115869
+4375152803 | Salesforce CPQ Consultant (Apttus / Conga) | https://in.linkedin.com/jobs/view/salesforce-cpq-consultant-apttus-conga-at-vandey-global-services-4375152803
+4375162917 | Software Engineer III - Java Backend | https://in.linkedin.com/jobs/view/software-engineer-iii-java-backend-at-jpmorganchase-4375162917
+4375165154 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4375165154
