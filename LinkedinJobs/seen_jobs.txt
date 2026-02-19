@@ -1026,3 +1026,8 @@
 4375152803 | Salesforce CPQ Consultant (Apttus / Conga) | https://in.linkedin.com/jobs/view/salesforce-cpq-consultant-apttus-conga-at-vandey-global-services-4375152803
 4375162917 | Software Engineer III - Java Backend | https://in.linkedin.com/jobs/view/software-engineer-iii-java-backend-at-jpmorganchase-4375162917
 4375165154 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4375165154
+4375424439 | Full Stack Engineer (Angular with Java) | https://in.linkedin.com/jobs/view/full-stack-engineer-angular-with-java-at-solugenix-4375424439
+4375193843 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-epergne-solutions-4375193843
+4375163846 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4375163846
+4375196289 | Senior Manager, Technical Consulting (Finance or Insurance domain exp mandatory) | https://in.linkedin.com/jobs/view/senior-manager-technical-consulting-finance-or-insurance-domain-exp-mandatory-at-griddable-io-4375196289
+4375419121 | Senior Manager, Technical Consulting (Finance or Insurance domain exp mandatory) | https://in.linkedin.com/jobs/view/senior-manager-technical-consulting-finance-or-insurance-domain-exp-mandatory-at-salesforce-4375419121
