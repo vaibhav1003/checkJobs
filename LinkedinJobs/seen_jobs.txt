@@ -1018,3 +1018,5 @@
 4373663874 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-people-prime-worldwide-4373663874
 4372693858 | Java Support Engineer | https://in.linkedin.com/jobs/view/java-support-engineer-at-zenius-it-services-pvt-ltd-4372693858
 4373671716 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-live-connections-4373671716
+4374006742 | Salesforce CRM Developer | https://in.linkedin.com/jobs/view/salesforce-crm-developer-at-tata-consultancy-services-4374006742
+4375168089 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4375168089
