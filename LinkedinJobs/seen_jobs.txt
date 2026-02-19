@@ -1020,3 +1020,5 @@
 4373671716 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-live-connections-4373671716
 4374006742 | Salesforce CRM Developer | https://in.linkedin.com/jobs/view/salesforce-crm-developer-at-tata-consultancy-services-4374006742
 4375168089 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4375168089
+4375165924 | Lead Software Engineer - Salesforce | https://in.linkedin.com/jobs/view/lead-software-engineer-salesforce-at-experian-4375165924
+4374026269 | Sr. Agentforce Developer – Salesforce | https://in.linkedin.com/jobs/view/sr-agentforce-developer-%E2%80%93-salesforce-at-people-prime-worldwide-4374026269
