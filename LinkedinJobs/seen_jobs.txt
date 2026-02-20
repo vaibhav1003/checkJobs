@@ -1069,3 +1069,6 @@
 4374621614 | Product Support Engineer—Triage (BIS) Hyderabad | https://in.linkedin.com/jobs/view/product-support-engineer%E2%80%94triage-bis-hyderabad-at-boomi-4374621614
 4374610024 | Software Engineer III - Java Streaming & Insights Platform | https://in.linkedin.com/jobs/view/software-engineer-iii-java-streaming-insights-platform-at-hackajob-4374610024
 4374388985 | Software Engineer III - Java AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-hackajob-4374388985
+4373494743 | Software Engineer I- Salesforce | https://in.linkedin.com/jobs/view/software-engineer-i-salesforce-at-electronic-arts-ea-4373494743
+4373492763 | Software Engineer II- Salesforce Developer | https://in.linkedin.com/jobs/view/software-engineer-ii-salesforce-developer-at-electronic-arts-ea-4373492763
+4373478980 | Lead Salesforce Developer | https://in.linkedin.com/jobs/view/lead-salesforce-developer-at-electronic-arts-ea-4373478980
