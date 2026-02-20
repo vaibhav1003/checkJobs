@@ -1039,3 +1039,4 @@
 4375460495 | Salesforce Senior Developer | https://in.linkedin.com/jobs/view/salesforce-senior-developer-at-ness-digital-engineering-4375460495
 4375452489 | ERP NetSuite Developer | https://in.linkedin.com/jobs/view/erp-netsuite-developer-at-keylent-inc-4375452489
 4373172211 | Java, Microservices with Core Banking Lead Developer /Implementer | https://in.linkedin.com/jobs/view/java-microservices-with-core-banking-lead-developer-implementer-at-oracle-4373172211
+4375442958 | Integration Architect - Dell Boomi | https://in.linkedin.com/jobs/view/integration-architect-dell-boomi-at-keylent-inc-4375442958
