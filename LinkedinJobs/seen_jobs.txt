@@ -1062,3 +1062,5 @@
 4373462524 | Application Developer-Salesforce | https://in.linkedin.com/jobs/view/application-developer-salesforce-at-ibm-4373462524
 4373456597 | Application Developer-Salesforce | https://in.linkedin.com/jobs/view/application-developer-salesforce-at-ibm-4373456597
 4373459453 | Lead Software Engineer – Salesforce Testing | https://in.linkedin.com/jobs/view/lead-software-engineer-%E2%80%93-salesforce-testing-at-epam-systems-4373459453
+4374391485 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4374391485
+4375810066 | Software Engineer III - AWS , Springboot, Java | https://in.linkedin.com/jobs/view/software-engineer-iii-aws-springboot-java-at-jpmorganchase-4375810066
