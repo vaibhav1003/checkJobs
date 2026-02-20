@@ -1049,3 +1049,4 @@
 4373416551 | Salesforce CPQ Developer (Contract) | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-contract-at-crescent-techservices-4373416551
 4373426446 | salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-adp-4373426446
 4375652019 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-conduent-4375652019
+4373429660 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-persistent-systems-4373429660
