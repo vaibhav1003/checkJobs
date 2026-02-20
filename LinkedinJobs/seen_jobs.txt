@@ -1040,3 +1040,7 @@
 4375452489 | ERP NetSuite Developer | https://in.linkedin.com/jobs/view/erp-netsuite-developer-at-keylent-inc-4375452489
 4373172211 | Java, Microservices with Core Banking Lead Developer /Implementer | https://in.linkedin.com/jobs/view/java-microservices-with-core-banking-lead-developer-implementer-at-oracle-4373172211
 4375442958 | Integration Architect - Dell Boomi | https://in.linkedin.com/jobs/view/integration-architect-dell-boomi-at-keylent-inc-4375442958
+4374353089 | Agentforce Developer | https://in.linkedin.com/jobs/view/agentforce-developer-at-people-prime-worldwide-4374353089
+4374356022 | Sr Angentforce Developer | https://in.linkedin.com/jobs/view/sr-angentforce-developer-at-people-prime-worldwide-4374356022
+4374343622 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4374343622
+4374363075 | JAVA Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4374363075
