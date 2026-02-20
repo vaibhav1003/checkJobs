@@ -1056,3 +1056,5 @@
 4373434648 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-persistent-systems-4373434648
 4374375392 | Salesforce LWC Developer | https://in.linkedin.com/jobs/view/salesforce-lwc-developer-at-tata-consultancy-services-4374375392
 4373438689 | Java SDET | https://in.linkedin.com/jobs/view/java-sdet-at-persistent-systems-4373438689
+4374395168 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-people-prime-worldwide-4374395168
+4373462411 | Senior Software Engineer – Salesforce Testing | https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-salesforce-testing-at-epam-systems-4373462411
