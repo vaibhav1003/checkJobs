@@ -1081,3 +1081,6 @@
 4374698821 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-technogen-india-pvt-ltd-4374698821
 4374904857 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4374904857
 4374918138 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-nbits-it-company-4374918138
+4374919257 | Software Engineer III - Salesforce Developer | https://in.linkedin.com/jobs/view/software-engineer-iii-salesforce-developer-at-hackajob-4374919257
+4374915401 | Software Engineer III - Java AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-hackajob-4374915401
+4374908992 | Software Engineer III - Java Backend | https://in.linkedin.com/jobs/view/software-engineer-iii-java-backend-at-hackajob-4374908992
