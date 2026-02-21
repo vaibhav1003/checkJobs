@@ -1074,3 +1074,5 @@
 4373478980 | Lead Salesforce Developer | https://in.linkedin.com/jobs/view/lead-salesforce-developer-at-electronic-arts-ea-4373478980
 4373489799 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-electronic-arts-ea-4373489799
 4373481924 | Associate Architect | https://in.linkedin.com/jobs/view/associate-architect-at-electronic-arts-ea-4373481924
+4373713548 | Associate Lead Consultant - Salesforce Job | https://in.linkedin.com/jobs/view/associate-lead-consultant-salesforce-job-at-yash-technologies-middle-east-4373713548
+4375856677 | Principal Engineer - C#,.Net,AWS/Azure and Java | https://in.linkedin.com/jobs/view/principal-engineer-c%23-net-aws-azure-and-java-at-experian-4375856677
