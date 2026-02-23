@@ -1118,3 +1118,5 @@
 4375728245 | C&M-Digital Foundry-Salesforce Lightning-Consultant | https://in.linkedin.com/jobs/view/c-m-digital-foundry-salesforce-lightning-consultant-at-deloitte-4375728245
 4374260863 | Fullstack Java Developer_93607 | https://in.linkedin.com/jobs/view/fullstack-java-developer-93607-at-mycareernet-4374260863
 4375728866 | SMAX Developer | https://in.linkedin.com/jobs/view/smax-developer-at-carrier-4375728866
+4375711502 | Software Engineer III - Java AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-hackajob-4375711502
+4376817593 | Engineer - Java & Angular [T500-23649] | https://in.linkedin.com/jobs/view/engineer-java-angular-t500-23649-at-ansr-4376817593
