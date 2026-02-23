@@ -1125,3 +1125,6 @@
 4374525199 | Sr. Salesforce Engineer-1 | https://in.linkedin.com/jobs/view/sr-salesforce-engineer-1-at-assurant-4374525199
 4375754357 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4375754357
 4375763601 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-accenture-services-pvt-ltd-4375763601
+4375772693 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-viseo-4375772693
+4375766882 | Salesforce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-viseo-4375766882
+4375781156 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-viseo-4375781156
