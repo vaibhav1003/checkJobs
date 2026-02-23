@@ -1109,3 +1109,4 @@
 4376567129 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-people-tech-group-inc-4376567129
 4375336853 | Salesforce Consultant | https://in.linkedin.com/jobs/view/salesforce-consultant-at-regal-rexnord-4375336853
 4374243794 | Salesforce Conga CPQ Developer | https://in.linkedin.com/jobs/view/salesforce-conga-cpq-developer-at-vayuz-technologies-4374243794
+4376562771 | Salesforce Technical Consultant | https://in.linkedin.com/jobs/view/salesforce-technical-consultant-at-salesforce-4376562771
