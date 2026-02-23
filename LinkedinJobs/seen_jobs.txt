@@ -1120,3 +1120,5 @@
 4375728866 | SMAX Developer | https://in.linkedin.com/jobs/view/smax-developer-at-carrier-4375728866
 4375711502 | Software Engineer III - Java AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-hackajob-4375711502
 4376817593 | Engineer - Java & Angular [T500-23649] | https://in.linkedin.com/jobs/view/engineer-java-angular-t500-23649-at-ansr-4376817593
+4375718529 | C&M-Digital Foundry-Salesforce Lightning-Senior Consultant | https://in.linkedin.com/jobs/view/c-m-digital-foundry-salesforce-lightning-senior-consultant-at-deloitte-4375718529
+4376807403 | Readiness Architect | https://in.linkedin.com/jobs/view/readiness-architect-at-griddable-io-4376807403
