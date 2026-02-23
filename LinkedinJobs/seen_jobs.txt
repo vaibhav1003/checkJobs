@@ -1107,3 +1107,5 @@
 4375346508 | Software Engineer III - Java, AI | https://in.linkedin.com/jobs/view/software-engineer-iii-java-ai-at-hackajob-4375346508
 4376561298 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-trinity-technology-solutions-llc-4376561298
 4376567129 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-people-tech-group-inc-4376567129
+4375336853 | Salesforce Consultant | https://in.linkedin.com/jobs/view/salesforce-consultant-at-regal-rexnord-4375336853
+4374243794 | Salesforce Conga CPQ Developer | https://in.linkedin.com/jobs/view/salesforce-conga-cpq-developer-at-vayuz-technologies-4374243794
