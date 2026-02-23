@@ -1112,3 +1112,8 @@
 4376562771 | Salesforce Technical Consultant | https://in.linkedin.com/jobs/view/salesforce-technical-consultant-at-salesforce-4376562771
 4375705312 | GIG-Customer tech-Salesforce-Senior Developers | https://in.linkedin.com/jobs/view/gig-customer-tech-salesforce-senior-developers-at-ey-4375705312
 4375717113 | Salesforce Enterprise Architect | https://in.linkedin.com/jobs/view/salesforce-enterprise-architect-at-technogen-india-pvt-ltd-4375717113
+4374254967 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-zemoso-technologies-4374254967
+4376567719 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-synergy-technologies-4376567719
+4375713190 | Salesforce Vlocity QA Engineer (Playwright)- Full Time | https://in.linkedin.com/jobs/view/salesforce-vlocity-qa-engineer-playwright-full-time-at-gravity-infosolutions-inc-4375713190
+4375728245 | C&M-Digital Foundry-Salesforce Lightning-Consultant | https://in.linkedin.com/jobs/view/c-m-digital-foundry-salesforce-lightning-consultant-at-deloitte-4375728245
+4374260863 | Fullstack Java Developer_93607 | https://in.linkedin.com/jobs/view/fullstack-java-developer-93607-at-mycareernet-4374260863
