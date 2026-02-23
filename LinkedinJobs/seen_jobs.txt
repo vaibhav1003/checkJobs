@@ -1122,3 +1122,5 @@
 4376817593 | Engineer - Java & Angular [T500-23649] | https://in.linkedin.com/jobs/view/engineer-java-angular-t500-23649-at-ansr-4376817593
 4375718529 | C&M-Digital Foundry-Salesforce Lightning-Senior Consultant | https://in.linkedin.com/jobs/view/c-m-digital-foundry-salesforce-lightning-senior-consultant-at-deloitte-4375718529
 4376807403 | Readiness Architect | https://in.linkedin.com/jobs/view/readiness-architect-at-griddable-io-4376807403
+4374525199 | Sr. Salesforce Engineer-1 | https://in.linkedin.com/jobs/view/sr-salesforce-engineer-1-at-assurant-4374525199
+4375754357 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4375754357
