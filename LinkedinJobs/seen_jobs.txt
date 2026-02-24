@@ -1129,3 +1129,9 @@
 4375766882 | Salesforce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-viseo-4375766882
 4375781156 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-viseo-4375781156
 4377077197 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4377077197
+4376014961 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-people-prime-worldwide-4376014961
+4376018745 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-people-prime-worldwide-4376018745
+4376033186 | Salesforce Service cloud | https://in.linkedin.com/jobs/view/salesforce-service-cloud-at-zorba-ai-4376033186
+4377099674 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-teamware-solutions-4377099674
+4376024725 | Java full stack developer+ Angular | https://in.linkedin.com/jobs/view/java-full-stack-developer%2B-angular-at-people-prime-worldwide-4376024725
+4372835229 | Java Fullstack (Angular) Lead Developer | https://in.linkedin.com/jobs/view/java-fullstack-angular-lead-developer-at-infosys-4372835229
