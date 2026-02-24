@@ -1141,3 +1141,5 @@
 4376047748 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-people-prime-worldwide-4376047748
 4376050667 | Microsoft Dynamics CRM and Power apps developer | https://in.linkedin.com/jobs/view/microsoft-dynamics-crm-and-power-apps-developer-at-optimhire-it-solutions-pvt-ltd-4376050667
 4376071652 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4376071652
+4377197004 | Salesforce Consultant | https://in.linkedin.com/jobs/view/salesforce-consultant-at-teamware-solutions-4377197004
+4377168699 | Full Stack Developer - Java | https://in.linkedin.com/jobs/view/full-stack-developer-java-at-cloudangles-4377168699
