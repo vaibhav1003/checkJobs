@@ -1140,3 +1140,4 @@
 4377136039 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-grid-dynamics-4377136039
 4376047748 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-people-prime-worldwide-4376047748
 4376050667 | Microsoft Dynamics CRM and Power apps developer | https://in.linkedin.com/jobs/view/microsoft-dynamics-crm-and-power-apps-developer-at-optimhire-it-solutions-pvt-ltd-4376050667
+4376071652 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4376071652
