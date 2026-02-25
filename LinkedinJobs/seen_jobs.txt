@@ -1156,3 +1156,6 @@
 4376705308 | Microsoft Dynamics CRM Power apps developer | https://in.linkedin.com/jobs/view/microsoft-dynamics-crm-power-apps-developer-at-optimhire-it-solutions-pvt-ltd-4376705308
 4376715025 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-people-prime-worldwide-4376715025
 4376715035 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-lorven-technologies-inc-4376715035
+4376722021 | Salesforce Marketing Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-at-zorba-ai-4376722021
+4376719100 | Senior CRM Developer | https://in.linkedin.com/jobs/view/senior-crm-developer-at-orient-spectra-4376719100
+4376707439 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-fabric-4376707439
