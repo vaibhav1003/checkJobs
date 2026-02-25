@@ -1159,3 +1159,5 @@
 4376722021 | Salesforce Marketing Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-at-zorba-ai-4376722021
 4376719100 | Senior CRM Developer | https://in.linkedin.com/jobs/view/senior-crm-developer-at-orient-spectra-4376719100
 4376707439 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-fabric-4376707439
+4376722488 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-tech-t7-innovations-4376722488
+4377595559 | CRM Analytics | https://in.linkedin.com/jobs/view/crm-analytics-at-teamware-solutions-4377595559
