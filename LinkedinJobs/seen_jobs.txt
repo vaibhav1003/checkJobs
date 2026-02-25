@@ -1171,3 +1171,6 @@
 4375231733 | Salesforce QA Engineer | https://in.linkedin.com/jobs/view/salesforce-qa-engineer-at-algoleap-4375231733
 4377871528 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-capgemini-4377871528
 4377871527 | Java Developer + Kafka | 8 to 14 Years | https://in.linkedin.com/jobs/view/java-developer-%2B-kafka-8-to-14-years-at-capgemini-4377871527
+4375236891 | Java Python Engineer | https://in.linkedin.com/jobs/view/java-python-engineer-at-capgemini-engineering-4375236891
+4377891239 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4377891239
+4376794063 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4376794063
