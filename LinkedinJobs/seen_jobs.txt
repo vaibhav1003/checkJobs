@@ -1167,3 +1167,7 @@
 4377876158 | Agentforce Forward Deployed Engineer | https://in.linkedin.com/jobs/view/agentforce-forward-deployed-engineer-at-griddable-io-4377876158
 4377867290 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4377867290
 4354866818 | Java React Developer | https://in.linkedin.com/jobs/view/java-react-developer-at-synechron-4354866818
+4376761886 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-carrier-4376761886
+4375231733 | Salesforce QA Engineer | https://in.linkedin.com/jobs/view/salesforce-qa-engineer-at-algoleap-4375231733
+4377871528 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-capgemini-4377871528
+4377871527 | Java Developer + Kafka | 8 to 14 Years | https://in.linkedin.com/jobs/view/java-developer-%2B-kafka-8-to-14-years-at-capgemini-4377871527
