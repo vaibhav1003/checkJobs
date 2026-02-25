@@ -1146,3 +1146,6 @@
 4377190115 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4377190115
 4376085858 | Java Full Stack Developer (Angular or React) | https://in.linkedin.com/jobs/view/java-full-stack-developer-angular-or-react-at-intraedge-4376085858
 4376409099 | Copado DevOps | https://in.linkedin.com/jobs/view/copado-devops-at-carrier-4376409099
+4377543953 | Software Engineer III - Agentic AI, Java / Python | https://in.linkedin.com/jobs/view/software-engineer-iii-agentic-ai-java-python-at-jpmorganchase-4377543953
+4377540959 | Security Engineer II - Java ,React Full Stack Developer | https://in.linkedin.com/jobs/view/security-engineer-ii-java-react-full-stack-developer-at-jpmorganchase-4377540959
+4377537187 | AI/ML Engineer - JAVA and Microservices and  AI/ML | https://in.linkedin.com/jobs/view/ai-ml-engineer-java-and-microservices-and-ai-ml-at-optum-india-4377537187
