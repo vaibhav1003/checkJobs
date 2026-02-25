@@ -1154,3 +1154,5 @@
 4377580445 | Forward Deployed Engineer-Senior Technical Consulting | https://in.linkedin.com/jobs/view/forward-deployed-engineer-senior-technical-consulting-at-salesforce-4377580445
 4377573561 | Forward Deployed Engineer Senior - Technical Architect | https://in.linkedin.com/jobs/view/forward-deployed-engineer-senior-technical-architect-at-salesforce-4377573561
 4376705308 | Microsoft Dynamics CRM Power apps developer | https://in.linkedin.com/jobs/view/microsoft-dynamics-crm-power-apps-developer-at-optimhire-it-solutions-pvt-ltd-4376705308
+4376715025 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-people-prime-worldwide-4376715025
+4376715035 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-lorven-technologies-inc-4376715035
