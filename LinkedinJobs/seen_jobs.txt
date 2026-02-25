@@ -1164,3 +1164,6 @@
 4376725501 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4376725501
 4377830930 | Java developer | https://in.linkedin.com/jobs/view/java-developer-at-themesoft-inc-4377830930
 4376737845 | Java Developer with Oracle Xstore - Engineer II | https://in.linkedin.com/jobs/view/java-developer-with-oracle-xstore-engineer-ii-at-the-tjx-companies-inc-4376737845
+4377876158 | Agentforce Forward Deployed Engineer | https://in.linkedin.com/jobs/view/agentforce-forward-deployed-engineer-at-griddable-io-4377876158
+4377867290 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4377867290
+4354866818 | Java React Developer | https://in.linkedin.com/jobs/view/java-react-developer-at-synechron-4354866818
