@@ -1161,3 +1161,4 @@
 4376707439 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-fabric-4376707439
 4376722488 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-tech-t7-innovations-4376722488
 4377595559 | CRM Analytics | https://in.linkedin.com/jobs/view/crm-analytics-at-teamware-solutions-4377595559
+4376725501 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4376725501
