@@ -1203,3 +1203,5 @@
 4378366719 | Technical Consultant / Senior Technical Consultant - Salesforce Loyalty Cloud | https://in.linkedin.com/jobs/view/technical-consultant-senior-technical-consultant-salesforce-loyalty-cloud-at-griddable-io-4378366719
 4378374561 | Agentforce Forward Deployed Engineer | https://in.linkedin.com/jobs/view/agentforce-forward-deployed-engineer-at-griddable-io-4378374561
 4378367703 | Salesforce Success Architect (Agentforce) | https://in.linkedin.com/jobs/view/salesforce-success-architect-agentforce-at-griddable-io-4378367703
+4378361860 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-tekwissen-india-4378361860
+4375540091 | MS-CRM technical - D365 CE Customizations -Developer-Manager | https://in.linkedin.com/jobs/view/ms-crm-technical-d365-ce-customizations-developer-manager-at-ey-4375540091
