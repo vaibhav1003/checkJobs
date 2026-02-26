@@ -1200,3 +1200,5 @@
 4378326905 | Agentforce Forward Deployed Engineer | https://in.linkedin.com/jobs/view/agentforce-forward-deployed-engineer-at-salesforce-4378326905
 4378355736 | Software Engineer II - Spring Boot/Java & app Support | https://in.linkedin.com/jobs/view/software-engineer-ii-spring-boot-java-app-support-at-jpmorganchase-4378355736
 4377200777 | Software Engineer (Java/C#, Azure Integration Services) | https://in.linkedin.com/jobs/view/software-engineer-java-c%23-azure-integration-services-at-franklin-templeton-india-4377200777
+4378366719 | Technical Consultant / Senior Technical Consultant - Salesforce Loyalty Cloud | https://in.linkedin.com/jobs/view/technical-consultant-senior-technical-consultant-salesforce-loyalty-cloud-at-griddable-io-4378366719
+4378374561 | Agentforce Forward Deployed Engineer | https://in.linkedin.com/jobs/view/agentforce-forward-deployed-engineer-at-griddable-io-4378374561
