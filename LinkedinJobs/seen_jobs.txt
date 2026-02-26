@@ -1198,3 +1198,5 @@
 4376997930 | Support Engineer (Product Support, Java/C#) | https://in.linkedin.com/jobs/view/support-engineer-product-support-java-c%23-at-franklin-templeton-india-4376997930
 4377243019 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4377243019
 4378326905 | Agentforce Forward Deployed Engineer | https://in.linkedin.com/jobs/view/agentforce-forward-deployed-engineer-at-salesforce-4378326905
+4378355736 | Software Engineer II - Spring Boot/Java & app Support | https://in.linkedin.com/jobs/view/software-engineer-ii-spring-boot-java-app-support-at-jpmorganchase-4378355736
+4377200777 | Software Engineer (Java/C#, Azure Integration Services) | https://in.linkedin.com/jobs/view/software-engineer-java-c%23-azure-integration-services-at-franklin-templeton-india-4377200777
