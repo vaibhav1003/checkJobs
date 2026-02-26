@@ -1175,3 +1175,6 @@
 4377891239 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4377891239
 4376794063 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4376794063
 4378015525 | Solution Architect-Supply Chain-Salesforce | https://in.linkedin.com/jobs/view/solution-architect-supply-chain-salesforce-at-mattel-inc-4378015525
+4378014890 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-accenture-in-india-4378014890
+4378024749 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-accenture-in-india-4378024749
+4376936451 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4376936451
