@@ -1178,3 +1178,10 @@
 4378014890 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-accenture-in-india-4378014890
 4378024749 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-accenture-in-india-4378024749
 4376936451 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4376936451
+4376971576 | Salesforce Engineer – Agentforce & AI Solutions | https://in.linkedin.com/jobs/view/salesforce-engineer-%E2%80%93-agentforce-ai-solutions-at-people-prime-worldwide-4376971576
+4378085672 | AWS Cloud Java Developer | https://in.linkedin.com/jobs/view/aws-cloud-java-developer-at-innova-esi-4378085672
+4376987306 | Salesforce Vlocity QA Engineer (Playwright)- Full Time | https://in.linkedin.com/jobs/view/salesforce-vlocity-qa-engineer-playwright-full-time-at-gravity-infosolutions-inc-4376987306
+4376967778 | Java Full Stack Developer with Capital Markets | https://in.linkedin.com/jobs/view/java-full-stack-developer-with-capital-markets-at-people-prime-worldwide-4376967778
+4376977535 | Java Developer+Python | https://in.linkedin.com/jobs/view/java-developer%2Bpython-at-vmc-soft-technologies-inc-4376977535
+4376979047 | Microsoft dynamics 365  CRM lead  & Sr Developer ( CRM _Azure) | https://in.linkedin.com/jobs/view/microsoft-dynamics-365-crm-lead-sr-developer-crm-azure-at-people-prime-worldwide-4376979047
+4376979643 | Power Apps and Microsoft Dynamics CRM Developer 5 Years | https://in.linkedin.com/jobs/view/power-apps-and-microsoft-dynamics-crm-developer-5-years-at-optimhire-it-solutions-pvt-ltd-4376979643
