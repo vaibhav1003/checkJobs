@@ -1185,3 +1185,8 @@
 4376977535 | Java Developer+Python | https://in.linkedin.com/jobs/view/java-developer%2Bpython-at-vmc-soft-technologies-inc-4376977535
 4376979047 | Microsoft dynamics 365  CRM lead  & Sr Developer ( CRM _Azure) | https://in.linkedin.com/jobs/view/microsoft-dynamics-365-crm-lead-sr-developer-crm-azure-at-people-prime-worldwide-4376979047
 4376979643 | Power Apps and Microsoft Dynamics CRM Developer 5 Years | https://in.linkedin.com/jobs/view/power-apps-and-microsoft-dynamics-crm-developer-5-years-at-optimhire-it-solutions-pvt-ltd-4376979643
+4376977701 | Senior Salesforce Marketing Cloud(SFMC) Developer | https://in.linkedin.com/jobs/view/senior-salesforce-marketing-cloud-sfmc-developer-at-bilwaa-technologies-pvt-ltd-4376977701
+4376968991 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-people-prime-worldwide-4376968991
+4376973968 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-metasys-technologies-4376973968
+4378088708 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-nazztec-4378088708
+4376986621 | Full Stack Engineer (Java/Angular) | https://in.linkedin.com/jobs/view/full-stack-engineer-java-angular-at-tigi-hr-4376986621
