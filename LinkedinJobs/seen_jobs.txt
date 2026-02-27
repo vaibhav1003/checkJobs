@@ -1207,3 +1207,5 @@
 4375540091 | MS-CRM technical - D365 CE Customizations -Developer-Manager | https://in.linkedin.com/jobs/view/ms-crm-technical-d365-ce-customizations-developer-manager-at-ey-4375540091
 4378367662 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-tekwissen-india-4378367662
 4377601583 | Senior Salesforce Developer with Java | https://in.linkedin.com/jobs/view/senior-salesforce-developer-with-java-at-veeva-systems-4377601583
+4378684280 | Java developer with Al coding tools | https://in.linkedin.com/jobs/view/java-developer-with-al-coding-tools-at-grid-dynamics-4378684280
+4378691175 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-grid-dynamics-4378691175
