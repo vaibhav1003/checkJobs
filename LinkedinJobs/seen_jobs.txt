@@ -1211,3 +1211,8 @@
 4378691175 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-grid-dynamics-4378691175
 4378697550 | FullStack Software Engineer (Java/ Python) | https://in.linkedin.com/jobs/view/fullstack-software-engineer-java-python-at-procter-gamble-4378697550
 4378693712 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-gc-technologies-pvt-ltd-4378693712
+4377648751 | Senior Salesforce Marketing Cloud Developer | https://in.linkedin.com/jobs/view/senior-salesforce-marketing-cloud-developer-at-softclouds-4377648751
+4378725084 | Sr Salesforce Developer | https://in.linkedin.com/jobs/view/sr-salesforce-developer-at-vandey-global-services-4378725084
+4377655481 | Salesforce FSL Senior Developer | https://in.linkedin.com/jobs/view/salesforce-fsl-senior-developer-at-people-prime-worldwide-4377655481
+4377662300 | Java backend developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4377662300
+4378720624 | Java Developer || AWS Services Must || 6+ Yrs ||Hyderabad || | https://in.linkedin.com/jobs/view/java-developer-aws-services-must-6%2B-yrs-hyderabad-at-innova-esi-4378720624
