@@ -1209,3 +1209,5 @@
 4377601583 | Senior Salesforce Developer with Java | https://in.linkedin.com/jobs/view/senior-salesforce-developer-with-java-at-veeva-systems-4377601583
 4378684280 | Java developer with Al coding tools | https://in.linkedin.com/jobs/view/java-developer-with-al-coding-tools-at-grid-dynamics-4378684280
 4378691175 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-grid-dynamics-4378691175
+4378697550 | FullStack Software Engineer (Java/ Python) | https://in.linkedin.com/jobs/view/fullstack-software-engineer-java-python-at-procter-gamble-4378697550
+4378693712 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-gc-technologies-pvt-ltd-4378693712
