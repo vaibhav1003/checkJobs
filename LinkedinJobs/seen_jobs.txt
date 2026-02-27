@@ -1223,3 +1223,6 @@
 4377690309 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-people-prime-worldwide-4377690309
 4369475554 | Senior Technical Consultant – Salesforce Test Automation (Salesforce testing exp mandatory) | https://in.linkedin.com/jobs/view/senior-technical-consultant-%E2%80%93-salesforce-test-automation-salesforce-testing-exp-mandatory-at-salesforce-4369475554
 4378756634 | Salesforce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-osi-digital-4378756634
+4377685874 | Salesforce Experience cloud and Sales Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-experience-cloud-and-sales-cloud-developer-at-havata-technologies-llp-4377685874
+4377900253 | Sr Salesforce Marketing cloud email Developer | https://in.linkedin.com/jobs/view/sr-salesforce-marketing-cloud-email-developer-at-havata-technologies-llp-4377900253
+4378773493 | Junior Salesforce DevOps Engineer - London Stock Exchange Group | https://in.linkedin.com/jobs/view/junior-salesforce-devops-engineer-london-stock-exchange-group-at-jobs-via-efinancialcareers-4378773493
