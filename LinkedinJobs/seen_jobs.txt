@@ -1243,3 +1243,6 @@
 4369524300 | Salesforce Technical Architect - (Life Science Industry exp mandate) | https://in.linkedin.com/jobs/view/salesforce-technical-architect-life-science-industry-exp-mandate-at-salesforce-4369524300
 4378267106 | Software Engineer III - AWS , Springboot, Java | https://in.linkedin.com/jobs/view/software-engineer-iii-aws-springboot-java-at-hackajob-4378267106
 4378256178 | Software Engineer III - AWS , Springboot, Java | https://in.linkedin.com/jobs/view/software-engineer-iii-aws-springboot-java-at-hackajob-4378256178
+4378279176 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4378279176
+4379506071 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-grid-dynamics-4379506071
+4379507090 | Security Engineer II - Java, React | https://in.linkedin.com/jobs/view/security-engineer-ii-java-react-at-jpmorganchase-4379507090
