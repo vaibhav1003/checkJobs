@@ -1238,3 +1238,6 @@
 4379071801 | Senior Manager, Software Engineering | https://in.linkedin.com/jobs/view/senior-manager-software-engineering-at-salesforce-4379071801
 4377996585 | Senior Omnistudio Developer (Salesforce Vlocity) | https://in.linkedin.com/jobs/view/senior-omnistudio-developer-salesforce-vlocity-at-nbits-it-company-4377996585
 4378243220 | Full Stack Developer (Java, ReactJS,  PostgreSQL, Python) | https://in.linkedin.com/jobs/view/full-stack-developer-java-reactjs-postgresql-python-at-people-prime-worldwide-4378243220
+4369519385 | Salesforce Technical Architect (Automotive Industry exp mandate) | https://in.linkedin.com/jobs/view/salesforce-technical-architect-automotive-industry-exp-mandate-at-salesforce-4369519385
+4369530022 | Salesforce Technical Architect - (Manufacturing industry exp mandate) | https://in.linkedin.com/jobs/view/salesforce-technical-architect-manufacturing-industry-exp-mandate-at-salesforce-4369530022
+4369524300 | Salesforce Technical Architect - (Life Science Industry exp mandate) | https://in.linkedin.com/jobs/view/salesforce-technical-architect-life-science-industry-exp-mandate-at-salesforce-4369524300
