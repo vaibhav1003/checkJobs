@@ -1237,3 +1237,4 @@
 4377846683 | Systems Software Principal Engineer - Java | https://in.linkedin.com/jobs/view/systems-software-principal-engineer-java-at-ttec-digital-4377846683
 4379071801 | Senior Manager, Software Engineering | https://in.linkedin.com/jobs/view/senior-manager-software-engineering-at-salesforce-4379071801
 4377996585 | Senior Omnistudio Developer (Salesforce Vlocity) | https://in.linkedin.com/jobs/view/senior-omnistudio-developer-salesforce-vlocity-at-nbits-it-company-4377996585
+4378243220 | Full Stack Developer (Java, ReactJS,  PostgreSQL, Python) | https://in.linkedin.com/jobs/view/full-stack-developer-java-reactjs-postgresql-python-at-people-prime-worldwide-4378243220
