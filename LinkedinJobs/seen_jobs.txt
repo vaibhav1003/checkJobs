@@ -1250,3 +1250,4 @@
 4378266776 | Software Engineer II - Spring Boot/Java & app Support | https://in.linkedin.com/jobs/view/software-engineer-ii-spring-boot-java-app-support-at-hackajob-4378266776
 4379560283 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4379560283
 4378445452 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4378445452
+4342857882 | Salesforce Success Architect (Data Cloud/Agentforce) | https://in.linkedin.com/jobs/view/salesforce-success-architect-data-cloud-agentforce-at-salesforce-4342857882
