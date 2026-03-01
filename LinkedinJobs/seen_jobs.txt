@@ -1248,3 +1248,4 @@
 4379507090 | Security Engineer II - Java, React | https://in.linkedin.com/jobs/view/security-engineer-ii-java-react-at-jpmorganchase-4379507090
 4379292740 | Software Engineer III- Java, AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4379292740
 4378266776 | Software Engineer II - Spring Boot/Java & app Support | https://in.linkedin.com/jobs/view/software-engineer-ii-spring-boot-java-app-support-at-hackajob-4378266776
+4379560283 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4379560283
