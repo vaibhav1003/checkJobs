@@ -1251,3 +1251,6 @@
 4379560283 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4379560283
 4378445452 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4378445452
 4342857882 | Salesforce Success Architect (Data Cloud/Agentforce) | https://in.linkedin.com/jobs/view/salesforce-success-architect-data-cloud-agentforce-at-salesforce-4342857882
+4376577142 | Readiness Architect | https://in.linkedin.com/jobs/view/readiness-architect-at-salesforce-4376577142
+4378773067 | Consumer Goods Solution Architect | https://in.linkedin.com/jobs/view/consumer-goods-solution-architect-at-salesforce-4378773067
+4336941010 | Senior Salesforce Technical Architect - Life Sciences | https://in.linkedin.com/jobs/view/senior-salesforce-technical-architect-life-sciences-at-salesforce-4336941010
