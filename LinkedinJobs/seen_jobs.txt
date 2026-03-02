@@ -1258,3 +1258,5 @@
 4378477398 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-avk-tech-solutions-4378477398
 4378494257 | Salesforce Marketing Cloud | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-at-prudent-technologies-and-consulting-inc-4378494257
 4379787066 | Java backend developer +AWS | https://in.linkedin.com/jobs/view/java-backend-developer-%2Baws-at-innova-esi-4379787066
+4378491528 | Java Full Stack Developer | 7+ Years | Immediate Joiner | Hyderabad/Pune/ Bangalore/ Chennai | https://in.linkedin.com/jobs/view/java-full-stack-developer-7%2B-years-immediate-joiner-hyderabad-pune-bangalore-chennai-at-zetamicron-4378491528
+4376692139 | Staff Software Engineer - Java, Spring Boot, Microservices | https://in.linkedin.com/jobs/view/staff-software-engineer-java-spring-boot-microservices-at-ivanti-4376692139
