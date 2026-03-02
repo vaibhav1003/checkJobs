@@ -1255,3 +1255,6 @@
 4378773067 | Consumer Goods Solution Architect | https://in.linkedin.com/jobs/view/consumer-goods-solution-architect-at-salesforce-4378773067
 4336941010 | Senior Salesforce Technical Architect - Life Sciences | https://in.linkedin.com/jobs/view/senior-salesforce-technical-architect-life-sciences-at-salesforce-4336941010
 4379744929 | Director - Salesforce Success Architect | https://in.linkedin.com/jobs/view/director-salesforce-success-architect-at-griddable-io-4379744929
+4378477398 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-avk-tech-solutions-4378477398
+4378494257 | Salesforce Marketing Cloud | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-at-prudent-technologies-and-consulting-inc-4378494257
+4379787066 | Java backend developer +AWS | https://in.linkedin.com/jobs/view/java-backend-developer-%2Baws-at-innova-esi-4379787066
