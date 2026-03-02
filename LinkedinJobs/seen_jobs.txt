@@ -1262,3 +1262,6 @@
 4376692139 | Staff Software Engineer - Java, Spring Boot, Microservices | https://in.linkedin.com/jobs/view/staff-software-engineer-java-spring-boot-microservices-at-ivanti-4376692139
 4378494542 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-edurun-group-4378494542
 4378485997 | Salesforce Administrator | https://in.linkedin.com/jobs/view/salesforce-administrator-at-launch-india-4378485997
+4377390000 | Salesforce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-info-services-4377390000
+4377354739 | Developer, Java Development | https://in.linkedin.com/jobs/view/developer-java-development-at-transunion-4377354739
+4379784855 | UI Automation Engineer  - Selenium / Java | https://in.linkedin.com/jobs/view/ui-automation-engineer-selenium-java-at-cgi-4379784855
