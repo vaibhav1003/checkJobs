@@ -1266,3 +1266,5 @@
 4377354739 | Developer, Java Development | https://in.linkedin.com/jobs/view/developer-java-development-at-transunion-4377354739
 4379784855 | UI Automation Engineer  - Selenium / Java | https://in.linkedin.com/jobs/view/ui-automation-engineer-selenium-java-at-cgi-4379784855
 4377395277 | SFMC Developer | https://in.linkedin.com/jobs/view/sfmc-developer-at-algoleap-4377395277
+4377397197 | Java Full stack Developer with Angular | https://in.linkedin.com/jobs/view/java-full-stack-developer-with-angular-at-crisil-4377397197
+4377719034 | Salesforce Data Cloud Consultant | https://in.linkedin.com/jobs/view/salesforce-data-cloud-consultant-at-osf-digital-4377719034
