@@ -1268,3 +1268,4 @@
 4377395277 | SFMC Developer | https://in.linkedin.com/jobs/view/sfmc-developer-at-algoleap-4377395277
 4377397197 | Java Full stack Developer with Angular | https://in.linkedin.com/jobs/view/java-full-stack-developer-with-angular-at-crisil-4377397197
 4377719034 | Salesforce Data Cloud Consultant | https://in.linkedin.com/jobs/view/salesforce-data-cloud-consultant-at-osf-digital-4377719034
+4379798744 | Backend Java Developer (Java, Springboot, Microservices) | https://in.linkedin.com/jobs/view/backend-java-developer-java-springboot-microservices-at-capgemini-4379798744
