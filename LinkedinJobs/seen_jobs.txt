@@ -1272,3 +1272,5 @@
 4379925106 | Software Engineer-Java Full Stack (Angular/React), AWS, DynamoDB | https://in.linkedin.com/jobs/view/software-engineer-java-full-stack-angular-react-aws-dynamodb-at-experian-4379925106
 4379940182 | Software Development Engineer | https://in.linkedin.com/jobs/view/software-development-engineer-at-amgen-4379940182
 4379938201 | Software Development Engineer | https://in.linkedin.com/jobs/view/software-development-engineer-at-amgen-4379938201
+4378837415 | Java Full stack Developer with Angular | https://in.linkedin.com/jobs/view/java-full-stack-developer-with-angular-at-crisil-4378837415
+4377740269 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4377740269
