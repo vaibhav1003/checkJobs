@@ -1278,3 +1278,4 @@
 4378840468 | SFMC/Salesforce Marketing Cloud/Technical Architect | https://in.linkedin.com/jobs/view/sfmc-salesforce-marketing-cloud-technical-architect-at-griddable-io-4378840468
 4379945905 | Offshore- Salesforce MuleSoft Developer- Hyderabad, Bangalore, or Chennai | https://in.linkedin.com/jobs/view/offshore-salesforce-mulesoft-developer-hyderabad-bangalore-or-chennai-at-kpg99-inc-4379945905
 4378882840 | Hyderabad - Salesforce Local Admin - Analyst | https://in.linkedin.com/jobs/view/hyderabad-salesforce-local-admin-analyst-at-deloitte-4378882840
+4378892665 | Backend Integration Engineer (Java, REST/SOAP) | https://in.linkedin.com/jobs/view/backend-integration-engineer-java-rest-soap-at-meta-resources-group-4378892665
