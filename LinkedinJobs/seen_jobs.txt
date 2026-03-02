@@ -1275,3 +1275,4 @@
 4378837415 | Java Full stack Developer with Angular | https://in.linkedin.com/jobs/view/java-full-stack-developer-with-angular-at-crisil-4378837415
 4377740269 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4377740269
 4378840469 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-griddable-io-4378840469
+4378840468 | SFMC/Salesforce Marketing Cloud/Technical Architect | https://in.linkedin.com/jobs/view/sfmc-salesforce-marketing-cloud-technical-architect-at-griddable-io-4378840468
