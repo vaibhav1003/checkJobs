@@ -1270,3 +1270,5 @@
 4377719034 | Salesforce Data Cloud Consultant | https://in.linkedin.com/jobs/view/salesforce-data-cloud-consultant-at-osf-digital-4377719034
 4379798744 | Backend Java Developer (Java, Springboot, Microservices) | https://in.linkedin.com/jobs/view/backend-java-developer-java-springboot-microservices-at-capgemini-4379798744
 4379925106 | Software Engineer-Java Full Stack (Angular/React), AWS, DynamoDB | https://in.linkedin.com/jobs/view/software-engineer-java-full-stack-angular-react-aws-dynamodb-at-experian-4379925106
+4379940182 | Software Development Engineer | https://in.linkedin.com/jobs/view/software-development-engineer-at-amgen-4379940182
+4379938201 | Software Development Engineer | https://in.linkedin.com/jobs/view/software-development-engineer-at-amgen-4379938201
