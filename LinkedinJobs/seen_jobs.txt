@@ -1291,3 +1291,5 @@
 4380165365 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-innovative-information-technologies-inc-4380165365
 4378140563 | Software Engineer – Java, DSA, Rest API, Microservices, Spring Boot, JUnit | https://in.linkedin.com/jobs/view/software-engineer-%E2%80%93-java-dsa-rest-api-microservices-spring-boot-junit-at-epam-systems-4378140563
 4379176008 | Java Backend Developer - AWS Strong | https://in.linkedin.com/jobs/view/java-backend-developer-aws-strong-at-edvensoft-solutions-4379176008
+4379171980 | Technical Lead-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-lead-enterprise-apps-at-birlasoft-4379171980
+4380189716 | Java Developer || AWS Services Must || 6+ Yrs ||Hyderabad || | https://in.linkedin.com/jobs/view/java-developer-aws-services-must-6%2B-yrs-hyderabad-at-innova-esi-4380189716
