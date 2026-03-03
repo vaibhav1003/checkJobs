@@ -1304,3 +1304,4 @@
 4380397965 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-drucare-4380397965
 4380388037 | Sr. Mgr, Technical Consulting, Telecommunications | https://in.linkedin.com/jobs/view/sr-mgr-technical-consulting-telecommunications-at-salesforce-4380388037
 4379456265 | Architect | https://in.linkedin.com/jobs/view/architect-at-cognizant-4379456265
+4380542177 | CoE - Digital Engineering - Java/Python Developer - Gen AI | https://in.linkedin.com/jobs/view/coe-digital-engineering-java-python-developer-gen-ai-at-qualitest-acq-4380542177
