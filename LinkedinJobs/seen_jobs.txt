@@ -1298,3 +1298,4 @@
 4380316901 | AEM Full Stack | https://in.linkedin.com/jobs/view/aem-full-stack-at-rockwell-automation-4380316901
 4378171312 | Java Fullstack Engineer | https://in.linkedin.com/jobs/view/java-fullstack-engineer-at-algoleap-4378171312
 4380346829 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-amgen-4380346829
+4379412605 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-teradata-4379412605
