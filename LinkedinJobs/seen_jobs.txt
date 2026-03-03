@@ -1287,3 +1287,5 @@
 4379151513 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4379151513
 4379150606 | Full Stack Developer (Java, ReactJS,  PostgreSQL, Python) | https://in.linkedin.com/jobs/view/full-stack-developer-java-reactjs-postgresql-python-at-people-prime-worldwide-4379150606
 4380144014 | Fullstack Java + Angular Developer | https://in.linkedin.com/jobs/view/fullstack-java-%2B-angular-developer-at-luxoft-india-4380144014
+4379161221 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-people-prime-worldwide-4379161221
+4380165365 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-innovative-information-technologies-inc-4380165365
