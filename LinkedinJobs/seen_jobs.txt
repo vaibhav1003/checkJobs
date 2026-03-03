@@ -1301,3 +1301,5 @@
 4379412605 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-teradata-4379412605
 4380508139 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4380508139
 4380504471 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4380504471
+4380397965 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-drucare-4380397965
+4380388037 | Sr. Mgr, Technical Consulting, Telecommunications | https://in.linkedin.com/jobs/view/sr-mgr-technical-consulting-telecommunications-at-salesforce-4380388037
