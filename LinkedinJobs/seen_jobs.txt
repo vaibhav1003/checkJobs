@@ -1306,3 +1306,5 @@
 4379456265 | Architect | https://in.linkedin.com/jobs/view/architect-at-cognizant-4379456265
 4380542177 | CoE - Digital Engineering - Java/Python Developer - Gen AI | https://in.linkedin.com/jobs/view/coe-digital-engineering-java-python-developer-gen-ai-at-qualitest-acq-4380542177
 4379623093 | Engineering Manager (Salesforce) | https://in.linkedin.com/jobs/view/engineering-manager-salesforce-at-vidpro-tech-hr-solutions-private-limited-4379623093
+4380749880 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-qualizeal-4380749880
+4379621325 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4379621325
