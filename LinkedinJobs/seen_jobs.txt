@@ -1316,3 +1316,4 @@
 4342778356 | Salesforce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-ntt-data-north-america-4342778356
 4380914763 | Principal Engineer - Java Full Stack (Angular/React), AWS | https://in.linkedin.com/jobs/view/principal-engineer-java-full-stack-angular-react-aws-at-experian-4380914763
 4380934370 | Specialist CRM Software Engineer | https://in.linkedin.com/jobs/view/specialist-crm-software-engineer-at-amgen-4380934370
+4379691090 | Fullstack Developer (React/Java) | https://in.linkedin.com/jobs/view/fullstack-developer-react-java-at-insight-global-4379691090
