@@ -1313,3 +1313,4 @@
 4371066836 | Java React Developer | https://in.linkedin.com/jobs/view/java-react-developer-at-mphasis-4371066836
 4379652005 | Java fullstack developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-scube-4379652005
 4380776904 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-teamware-solutions-4380776904
+4342778356 | Salesforce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-ntt-data-north-america-4342778356
