@@ -1310,3 +1310,6 @@
 4379621325 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4379621325
 4379635005 | java backend developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4379635005
 4379635673 | Security Engineer II - Java ,React Full Stack Developer | https://in.linkedin.com/jobs/view/security-engineer-ii-java-react-full-stack-developer-at-hackajob-4379635673
+4371066836 | Java React Developer | https://in.linkedin.com/jobs/view/java-react-developer-at-mphasis-4371066836
+4379652005 | Java fullstack developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-scube-4379652005
+4380776904 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-teamware-solutions-4380776904
