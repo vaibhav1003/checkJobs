@@ -1337,3 +1337,5 @@
 4379832579 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-charter-global-4379832579
 4381462934 | Software Engineering MTS - Demos | https://in.linkedin.com/jobs/view/software-engineering-mts-demos-at-griddable-io-4381462934
 4381430788 | Software Engineering MTS - Demos | https://in.linkedin.com/jobs/view/software-engineering-mts-demos-at-salesforce-4381430788
+4380407434 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-optimhire-4380407434
+4371819931 | Principal Engineer - Java, US Payments | https://in.linkedin.com/jobs/view/principal-engineer-java-us-payments-at-wells-fargo-4371819931
