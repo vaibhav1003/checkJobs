@@ -1329,3 +1329,5 @@
 4379394840 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4379394840
 4380083810 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-code-ethics-4380083810
 4381416370 | Backend Engineer, Java | https://in.linkedin.com/jobs/view/backend-engineer-java-at-nymcard-4381416370
+4381413610 | Salesforce Health Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-health-cloud-developer-at-pmts-private-limited-4381413610
+4380407124 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-accenture-services-pvt-ltd-4380407124
