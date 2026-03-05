@@ -1322,3 +1322,7 @@
 4380066903 | Backend Java Developer | https://in.linkedin.com/jobs/view/backend-java-developer-at-airisdata-4380066903
 4380075457 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-healthfirst-technologies-4380075457
 4380084466 | Lead Salesforce Developer - Sales Cloud/Service Cloud | https://in.linkedin.com/jobs/view/lead-salesforce-developer-sales-cloud-service-cloud-at-silicon-labs-4380084466
+4381191925 | Senior Software Engineer I, Salesforce [T500-24033] | https://in.linkedin.com/jobs/view/senior-software-engineer-i-salesforce-t500-24033-at-marriott-tech-accelerator-4381191925
+4380083612 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-smartwaves-innovations-private-limited-4380083612
+4381407374 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-wipro-4381407374
+4381408334 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4381408334
