@@ -1342,3 +1342,4 @@
 4380448642 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-iitjobs-inc-4380448642
 4381616534 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-grid-dynamics-4381616534
 4380454247 | Java + Vue JS + Ai - Developer | https://in.linkedin.com/jobs/view/java-%2B-vue-js-%2B-ai-developer-at-transunion-4380454247
+4381671248 | Sr. Salesforce Commerce cloud Developer | https://in.linkedin.com/jobs/view/sr-salesforce-commerce-cloud-developer-at-forsys-inc-4381671248
