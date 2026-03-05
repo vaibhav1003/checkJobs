@@ -1339,3 +1339,6 @@
 4381430788 | Software Engineering MTS - Demos | https://in.linkedin.com/jobs/view/software-engineering-mts-demos-at-salesforce-4381430788
 4380407434 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-optimhire-4380407434
 4371819931 | Principal Engineer - Java, US Payments | https://in.linkedin.com/jobs/view/principal-engineer-java-us-payments-at-wells-fargo-4371819931
+4380448642 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-iitjobs-inc-4380448642
+4381616534 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-grid-dynamics-4381616534
+4380454247 | Java + Vue JS + Ai - Developer | https://in.linkedin.com/jobs/view/java-%2B-vue-js-%2B-ai-developer-at-transunion-4380454247
