@@ -1319,3 +1319,5 @@
 4379691090 | Fullstack Developer (React/Java) | https://in.linkedin.com/jobs/view/fullstack-developer-react-java-at-insight-global-4379691090
 4381103947 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4381103947
 4380010921 | Technical Lead-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-lead-enterprise-apps-at-birlasoft-4380010921
+4380066903 | Backend Java Developer | https://in.linkedin.com/jobs/view/backend-java-developer-at-airisdata-4380066903
+4380075457 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-healthfirst-technologies-4380075457
