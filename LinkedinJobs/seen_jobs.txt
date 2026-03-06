@@ -1352,3 +1352,4 @@
 4381948037 | Salesforce Data Cloud Consultant | https://in.linkedin.com/jobs/view/salesforce-data-cloud-consultant-at-osf-digital-4381948037
 4381943359 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-egen-4381943359
 4380675727 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4380675727
+4380236737 | Senior Salesforce consultant | https://in.linkedin.com/jobs/view/senior-salesforce-consultant-at-hj-software-private-limited-4380236737
