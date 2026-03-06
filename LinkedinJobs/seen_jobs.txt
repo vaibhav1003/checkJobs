@@ -1348,3 +1348,7 @@
 4380669351 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4380669351
 4381936251 | Staff Data Platform Software Engineer (Java, Kafka, Kubernetes) | https://in.linkedin.com/jobs/view/staff-data-platform-software-engineer-java-kafka-kubernetes-at-servicenow-4381936251
 4380664835 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-metasys-technologies-4380664835
+4381942281 | Salesforce Automation Test Engineer | https://in.linkedin.com/jobs/view/salesforce-automation-test-engineer-at-osf-digital-4381942281
+4381948037 | Salesforce Data Cloud Consultant | https://in.linkedin.com/jobs/view/salesforce-data-cloud-consultant-at-osf-digital-4381948037
+4381943359 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-egen-4381943359
+4380675727 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4380675727
