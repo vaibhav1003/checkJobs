@@ -1344,3 +1344,6 @@
 4380454247 | Java + Vue JS + Ai - Developer | https://in.linkedin.com/jobs/view/java-%2B-vue-js-%2B-ai-developer-at-transunion-4380454247
 4381671248 | Sr. Salesforce Commerce cloud Developer | https://in.linkedin.com/jobs/view/sr-salesforce-commerce-cloud-developer-at-forsys-inc-4381671248
 4381669541 | Salesforce Functional QA Engineer (Mid-Level) (TUR37FT RM 3995) | https://in.linkedin.com/jobs/view/salesforce-functional-qa-engineer-mid-level-tur37ft-rm-3995-at-source-right-4381669541
+4380231779 | Saturday Java Interview Drive(7th March 2026-Hyderabad Location)--(6+ Years exp.-->Only Immediate Joiner)- Java AWS (EKS, EC2) Developer @ Hyderabad (Hybrid) | https://in.linkedin.com/jobs/view/saturday-java-interview-drive-7th-march-2026-hyderabad-location-6%2B-years-exp-only-immediate-joiner-java-aws-eks-ec2-developer-%40-hyderabad-hybrid-at-e-solutions-4380231779
+4380669351 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4380669351
+4381936251 | Staff Data Platform Software Engineer (Java, Kafka, Kubernetes) | https://in.linkedin.com/jobs/view/staff-data-platform-software-engineer-java-kafka-kubernetes-at-servicenow-4381936251
