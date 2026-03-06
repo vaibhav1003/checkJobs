@@ -1357,3 +1357,5 @@
 4381950748 | Lead Salesforce Developer | https://in.linkedin.com/jobs/view/lead-salesforce-developer-at-accellor-4381950748
 4380698447 | Associate Developer - Java | https://in.linkedin.com/jobs/view/associate-developer-java-at-scoutit-4380698447
 4381975418 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-aditi-consulting-4381975418
+4380282055 | Salesforce Administrator | https://in.linkedin.com/jobs/view/salesforce-administrator-at-zettamine-labs-pvt-ltd-4380282055
+4381021064 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-metromax-group-4381021064
