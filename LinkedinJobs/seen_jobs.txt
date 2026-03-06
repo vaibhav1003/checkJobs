@@ -1355,3 +1355,4 @@
 4380236737 | Senior Salesforce consultant | https://in.linkedin.com/jobs/view/senior-salesforce-consultant-at-hj-software-private-limited-4380236737
 4380679863 | Full Stack Engineer - Java and React JS | https://in.linkedin.com/jobs/view/full-stack-engineer-java-and-react-js-at-apple-4380679863
 4381950748 | Lead Salesforce Developer | https://in.linkedin.com/jobs/view/lead-salesforce-developer-at-accellor-4381950748
+4380698447 | Associate Developer - Java | https://in.linkedin.com/jobs/view/associate-developer-java-at-scoutit-4380698447
