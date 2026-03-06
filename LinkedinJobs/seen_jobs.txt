@@ -1360,3 +1360,8 @@
 4380282055 | Salesforce Administrator | https://in.linkedin.com/jobs/view/salesforce-administrator-at-zettamine-labs-pvt-ltd-4380282055
 4381021064 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-metromax-group-4381021064
 4380683863 | Technical Lead-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-lead-enterprise-apps-at-birlasoft-4380683863
+4382107657 | Salesforce Administrator _Process lead _ Hyderabad | https://in.linkedin.com/jobs/view/salesforce-administrator-process-lead-hyderabad-at-broadridge-india-4382107657
+4381013486 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-viraaj-hr-solutions-private-limited-4381013486
+4382117009 | Technical Support Engineer | https://in.linkedin.com/jobs/view/technical-support-engineer-at-griddable-io-4382117009
+4381016218 | Lead Developer | https://in.linkedin.com/jobs/view/lead-developer-at-criticalriver-inc-4381016218
+4381041170 | Salesforce Revenue Cloud Architect | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-at-mejenta-systems-inc-4381041170
