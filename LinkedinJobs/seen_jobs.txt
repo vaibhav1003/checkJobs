@@ -1373,3 +1373,4 @@
 4382368265 | Software Engineer III - Java, PySpark, Cloud | https://in.linkedin.com/jobs/view/software-engineer-iii-java-pyspark-cloud-at-jpmorganchase-4382368265
 4381361363 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4381361363
 4382386745 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4382386745
+4381365771 | Salesforce CPQ Architect | https://in.linkedin.com/jobs/view/salesforce-cpq-architect-at-carrier-4381365771
