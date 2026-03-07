@@ -1367,3 +1367,5 @@
 4381041170 | Salesforce Revenue Cloud Architect | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-at-mejenta-systems-inc-4381041170
 4382153430 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4382153430
 4382184216 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4382184216
+4382340062 | Software Engineer III - JFrog, Java | https://in.linkedin.com/jobs/view/software-engineer-iii-jfrog-java-at-jpmorganchase-4382340062
+4381321481 | Parasoft Virulisation consultant | https://in.linkedin.com/jobs/view/parasoft-virulisation-consultant-at-nbits-it-company-4381321481
