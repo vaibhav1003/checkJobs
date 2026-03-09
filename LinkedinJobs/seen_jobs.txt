@@ -1402,3 +1402,6 @@
 4381578819 | Technical Lead-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-lead-enterprise-apps-at-birlasoft-4381578819
 4381817824 | Java Microservices Developer | Spring Boot, REST API, Cloud (AWS/Azure), Security, Agile | https://in.linkedin.com/jobs/view/java-microservices-developer-spring-boot-rest-api-cloud-aws-azure-security-agile-at-synechron-4381817824
 4383319224 | Salesforce CPQ Data Migration Consultant | https://in.linkedin.com/jobs/view/salesforce-cpq-data-migration-consultant-at-cloudely-inc-4383319224
+4381864597 | Java AWS Developer | https://in.linkedin.com/jobs/view/java-aws-developer-at-frenzoft-4381864597
+4383330336 | Manager/Senior Manager Technical Consulting (Salesforce Experience mandatory) | https://in.linkedin.com/jobs/view/manager-senior-manager-technical-consulting-salesforce-experience-mandatory-at-salesforce-4383330336
+4383335010 | Director, Customer Success Management | https://in.linkedin.com/jobs/view/director-customer-success-management-at-salesforce-4383335010
