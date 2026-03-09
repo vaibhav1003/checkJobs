@@ -1384,3 +1384,7 @@
 4381549687 | Java Developer(GCP) | https://in.linkedin.com/jobs/view/java-developer-gcp-at-people-prime-worldwide-4381549687
 4382929408 | Salesforce B2C Commerce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-b2c-commerce-solution-architect-at-osf-digital-4382929408
 4381561445 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-airisdata-4381561445
+4381561516 | Salesforce - Zuora Developer (Hyderabad,Mumbai,Bengaluru,Chennai,NCR,Pune) | https://in.linkedin.com/jobs/view/salesforce-zuora-developer-hyderabad-mumbai-bengaluru-chennai-ncr-pune-at-codernation-technologies-4381561516
+4381562457 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-metasys-technologies-4381562457
+4381564364 | Java Developer | Cloud + Spring Boot + Microservices | Fintech | https://in.linkedin.com/jobs/view/java-developer-cloud-%2B-spring-boot-%2B-microservices-fintech-at-hyrezy-tech-solutions-4381564364
+4382928648 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-gc-technologies-pvt-ltd-4382928648
