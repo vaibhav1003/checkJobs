@@ -1405,3 +1405,4 @@
 4381864597 | Java AWS Developer | https://in.linkedin.com/jobs/view/java-aws-developer-at-frenzoft-4381864597
 4383330336 | Manager/Senior Manager Technical Consulting (Salesforce Experience mandatory) | https://in.linkedin.com/jobs/view/manager-senior-manager-technical-consulting-salesforce-experience-mandatory-at-salesforce-4383330336
 4383335010 | Director, Customer Success Management | https://in.linkedin.com/jobs/view/director-customer-success-management-at-salesforce-4383335010
+4383365006 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-grid-dynamics-4383365006
