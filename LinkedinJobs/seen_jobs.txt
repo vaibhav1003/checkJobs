@@ -1401,3 +1401,4 @@
 4381836152 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4381836152
 4381578819 | Technical Lead-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-lead-enterprise-apps-at-birlasoft-4381578819
 4381817824 | Java Microservices Developer | Spring Boot, REST API, Cloud (AWS/Azure), Security, Agile | https://in.linkedin.com/jobs/view/java-microservices-developer-spring-boot-rest-api-cloud-aws-azure-security-agile-at-synechron-4381817824
+4383319224 | Salesforce CPQ Data Migration Consultant | https://in.linkedin.com/jobs/view/salesforce-cpq-data-migration-consultant-at-cloudely-inc-4383319224
