@@ -1388,3 +1388,5 @@
 4381562457 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-metasys-technologies-4381562457
 4381564364 | Java Developer | Cloud + Spring Boot + Microservices | Fintech | https://in.linkedin.com/jobs/view/java-developer-cloud-%2B-spring-boot-%2B-microservices-fintech-at-hyrezy-tech-solutions-4381564364
 4382928648 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-gc-technologies-pvt-ltd-4382928648
+4382936488 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-ntt-data-north-america-4382936488
+4382929847 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-ntt-data-north-america-4382929847
