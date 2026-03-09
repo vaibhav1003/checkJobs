@@ -1377,3 +1377,5 @@
 4382629645 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-grid-dynamics-4382629645
 4381515366 | Software Engineer III - JFrog, Java | https://in.linkedin.com/jobs/view/software-engineer-iii-jfrog-java-at-hackajob-4381515366
 4381505812 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4381505812
+4381280256 | Associate Architect - Salesforce Job | https://in.linkedin.com/jobs/view/associate-architect-salesforce-job-at-yash-technologies-middle-east-4381280256
+4382908130 | Full Stack Engineer - Java, SpringBoot, React | https://in.linkedin.com/jobs/view/full-stack-engineer-java-springboot-react-at-optum-india-4382908130
