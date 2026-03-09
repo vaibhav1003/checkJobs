@@ -1399,3 +1399,5 @@
 4381710738 | Solutions Architect | https://in.linkedin.com/jobs/view/solutions-architect-at-adp-4381710738
 4381829849 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-yati-technology-4381829849
 4381836152 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4381836152
+4381578819 | Technical Lead-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-lead-enterprise-apps-at-birlasoft-4381578819
+4381817824 | Java Microservices Developer | Spring Boot, REST API, Cloud (AWS/Azure), Security, Agile | https://in.linkedin.com/jobs/view/java-microservices-developer-spring-boot-rest-api-cloud-aws-azure-security-agile-at-synechron-4381817824
