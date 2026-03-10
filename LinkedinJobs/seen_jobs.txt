@@ -1425,3 +1425,4 @@
 4383755679 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4383755679
 4383754637 | Success Architect - B2B Commerce | https://in.linkedin.com/jobs/view/success-architect-b2b-commerce-at-griddable-io-4383754637
 4383774299 | Software Engineer II - Java,Springboot,Microservices,Rest API | https://in.linkedin.com/jobs/view/software-engineer-ii-java-springboot-microservices-rest-api-at-blue-yonder-4383774299
+4382438343 | Software Engineer II - Java,Springboot,Microservices,Rest API | https://in.linkedin.com/jobs/view/software-engineer-ii-java-springboot-microservices-rest-api-at-blue-yonder-4382438343
