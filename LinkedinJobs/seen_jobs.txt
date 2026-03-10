@@ -1418,3 +1418,5 @@
 4383483754 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-ingrain-systems-inc-4383483754
 4383493393 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4383493393
 4382044302 | Lead Salesforce Developer | https://in.linkedin.com/jobs/view/lead-salesforce-developer-at-intellistaff-services-pvt-ltd-4382044302
+4382281910 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4382281910
+4383716669 | Salesforce Administrator | https://in.linkedin.com/jobs/view/salesforce-administrator-at-uplers-4383716669
