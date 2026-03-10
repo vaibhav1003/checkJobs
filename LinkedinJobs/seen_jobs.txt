@@ -1407,3 +1407,9 @@
 4383335010 | Director, Customer Success Management | https://in.linkedin.com/jobs/view/director-customer-success-management-at-salesforce-4383335010
 4383365006 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-grid-dynamics-4383365006
 4382220418 | Salesforce Technical Lead / Senior Developer | https://in.linkedin.com/jobs/view/salesforce-technical-lead-senior-developer-at-rhythm-innovations-4382220418
+4382247978 | Salesforce Service Cloud & AI Administrator | https://in.linkedin.com/jobs/view/salesforce-service-cloud-ai-administrator-at-true-tech-professionals-4382247978
+4382250570 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-people-prime-worldwide-4382250570
+4382250925 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-zoetis-4382250925
+4382264154 | Java Developer with nodejs(3 to 5y exp) | https://in.linkedin.com/jobs/view/java-developer-with-nodejs-3-to-5y-exp-at-tezlogic-4382264154
+4382268083 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-tata-consultancy-services-4382268083
+4382267231 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-airisdata-4382267231
