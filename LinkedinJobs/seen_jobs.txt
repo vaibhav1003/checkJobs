@@ -1429,3 +1429,6 @@
 4383845944 | Salesforce Technical Consultant | https://in.linkedin.com/jobs/view/salesforce-technical-consultant-at-salesforce-4383845944
 4383844895 | Senior Technical Consultant | https://in.linkedin.com/jobs/view/senior-technical-consultant-at-salesforce-4383844895
 4383881647 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4383881647
+4383884661 | Software Engineer II-Java | https://in.linkedin.com/jobs/view/software-engineer-ii-java-at-jpmorganchase-4383884661
+4383880691 | AI ML Developer II - Java, Agentic AI | https://in.linkedin.com/jobs/view/ai-ml-developer-ii-java-agentic-ai-at-jpmorganchase-4383880691
+4383875950 | AI ML Developer III - Java, Agentic AI | https://in.linkedin.com/jobs/view/ai-ml-developer-iii-java-agentic-ai-at-jpmorganchase-4383875950
