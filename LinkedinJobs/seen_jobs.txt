@@ -1437,3 +1437,4 @@
 4384132133 | Java Developer (Spring Boot & AWS) | Hyderabad | https://in.linkedin.com/jobs/view/java-developer-spring-boot-aws-hyderabad-at-innova-esi-4384132133
 4382839705 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-cosette-network-pvt-ltd-4382839705
 4384105964 | Software Engineer - Java fullstack with React | https://in.linkedin.com/jobs/view/software-engineer-java-fullstack-with-react-at-optum-india-4384105964
+4382859381 | Sales force Developer ( Junior- Mid level) | https://in.linkedin.com/jobs/view/sales-force-developer-junior-mid-level-at-encore-it-solutions-4382859381
