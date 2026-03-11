@@ -1448,3 +1448,7 @@
 4382879207 | Salesforce ATM Engineer | https://in.linkedin.com/jobs/view/salesforce-atm-engineer-at-sanofi-4382879207
 4382870841 | Software Engineer II - Java | https://in.linkedin.com/jobs/view/software-engineer-ii-java-at-zinnia-4382870841
 4383208206 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4383208206
+4382575464 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-vayuz-technologies-4382575464
+4384197949 | Salesforce Success Architect (Agentforce) | https://in.linkedin.com/jobs/view/salesforce-success-architect-agentforce-at-griddable-io-4384197949
+4372495426 | Software Engineer – Java | https://in.linkedin.com/jobs/view/software-engineer-%E2%80%93-java-at-anblicks-4372495426
+4382578346 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-ltm-4382578346
