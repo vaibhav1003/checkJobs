@@ -1452,3 +1452,7 @@
 4384197949 | Salesforce Success Architect (Agentforce) | https://in.linkedin.com/jobs/view/salesforce-success-architect-agentforce-at-griddable-io-4384197949
 4372495426 | Software Engineer – Java | https://in.linkedin.com/jobs/view/software-engineer-%E2%80%93-java-at-anblicks-4372495426
 4382578346 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-ltm-4382578346
+4382889633 | Java J2EE Developer | https://in.linkedin.com/jobs/view/java-j2ee-developer-at-viraaj-hr-solutions-private-limited-4382889633
+4382896894 | C&M-Digital Foundry-Salesforce Functional BA-Consultant | https://in.linkedin.com/jobs/view/c-m-digital-foundry-salesforce-functional-ba-consultant-at-deloitte-4382896894
+4384184782 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4384184782
+4382896629 | Senior Quality Engineer | https://in.linkedin.com/jobs/view/senior-quality-engineer-at-s-p-global-4382896629
