@@ -1433,3 +1433,7 @@
 4383880691 | AI ML Developer II - Java, Agentic AI | https://in.linkedin.com/jobs/view/ai-ml-developer-ii-java-agentic-ai-at-jpmorganchase-4383880691
 4383875950 | AI ML Developer III - Java, Agentic AI | https://in.linkedin.com/jobs/view/ai-ml-developer-iii-java-agentic-ai-at-jpmorganchase-4383875950
 4382842255 | Java backend developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4382842255
+4382555426 | Salesforce Developer (Remote, Full-Time) [AS212] | https://in.linkedin.com/jobs/view/salesforce-developer-remote-full-time-as212-at-smart-working-4382555426
+4384132133 | Java Developer (Spring Boot & AWS) | Hyderabad | https://in.linkedin.com/jobs/view/java-developer-spring-boot-aws-hyderabad-at-innova-esi-4384132133
+4382839705 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-cosette-network-pvt-ltd-4382839705
+4384105964 | Software Engineer - Java fullstack with React | https://in.linkedin.com/jobs/view/software-engineer-java-fullstack-with-react-at-optum-india-4384105964
