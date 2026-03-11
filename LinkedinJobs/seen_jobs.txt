@@ -1443,3 +1443,7 @@
 4382873343 | Salesforce Health Cloud Engineer | https://in.linkedin.com/jobs/view/salesforce-health-cloud-engineer-at-sanofi-4382873343
 4373966935 | Software Engineer III - Java AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4373966935
 4382839659 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-live-connections-4382839659
+4382873344 | Salesforce SCV Engineer | https://in.linkedin.com/jobs/view/salesforce-scv-engineer-at-sanofi-4382873344
+4382874300 | Salesforce Health Cloud Engineer (High-touch) | https://in.linkedin.com/jobs/view/salesforce-health-cloud-engineer-high-touch-at-sanofi-4382874300
+4382879207 | Salesforce ATM Engineer | https://in.linkedin.com/jobs/view/salesforce-atm-engineer-at-sanofi-4382879207
+4382870841 | Software Engineer II - Java | https://in.linkedin.com/jobs/view/software-engineer-ii-java-at-zinnia-4382870841
