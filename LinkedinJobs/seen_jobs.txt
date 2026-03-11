@@ -1456,3 +1456,5 @@
 4382896894 | C&M-Digital Foundry-Salesforce Functional BA-Consultant | https://in.linkedin.com/jobs/view/c-m-digital-foundry-salesforce-functional-ba-consultant-at-deloitte-4382896894
 4384184782 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4384184782
 4382896629 | Senior Quality Engineer | https://in.linkedin.com/jobs/view/senior-quality-engineer-at-s-p-global-4382896629
+4382593703 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-centrilogic-4382593703
+4382708072 | Software Engineer- Java Developers-IBS Engineering | https://in.linkedin.com/jobs/view/software-engineer-java-developers-ibs-engineering-at-factset-4382708072
