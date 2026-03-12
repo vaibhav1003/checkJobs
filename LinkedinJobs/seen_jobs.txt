@@ -1475,3 +1475,4 @@
 4383552123 | Salesforce Lead | https://in.linkedin.com/jobs/view/salesforce-lead-at-trneops-4383552123
 4384586826 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-gc-technologies-pvt-ltd-4384586826
 4383543576 | CRM Developer | https://in.linkedin.com/jobs/view/crm-developer-at-people-prime-worldwide-4383543576
+4383535558 | Java Fullstack developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-people-prime-worldwide-4383535558
