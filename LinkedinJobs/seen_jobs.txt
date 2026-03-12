@@ -1468,3 +1468,7 @@
 4382752642 | Java Application Support Engineer | https://in.linkedin.com/jobs/view/java-application-support-engineer-at-ziventra-4382752642
 4383534136 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-l-t-technology-services-4383534136
 4383534337 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-devrabbit-it-solutions-4383534337
+4382773344 | Junior Software Engineer | https://in.linkedin.com/jobs/view/junior-software-engineer-at-enabled-analytics-4382773344
+4383526887 | Java Developer - GO/JC/1559/2025 | https://in.linkedin.com/jobs/view/java-developer-go-jc-1559-2025-at-golden-opportunities-4383526887
+4384587594 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4384587594
+4384586662 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4384586662
