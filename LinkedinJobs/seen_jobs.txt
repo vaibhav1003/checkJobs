@@ -1480,3 +1480,5 @@
 4383547553 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4383547553
 4384801723 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-bcforward-4384801723
 4375127558 | Java Developer – UI Focus (Payments Domain) | https://in.linkedin.com/jobs/view/java-developer-%E2%80%93-ui-focus-payments-domain-at-uplers-4375127558
+4383918655 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-thoughtfocus-4383918655
+4384839837 | Readiness Architect | https://in.linkedin.com/jobs/view/readiness-architect-at-griddable-io-4384839837
