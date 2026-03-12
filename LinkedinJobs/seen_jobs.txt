@@ -1476,3 +1476,5 @@
 4384586826 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-gc-technologies-pvt-ltd-4384586826
 4383543576 | CRM Developer | https://in.linkedin.com/jobs/view/crm-developer-at-people-prime-worldwide-4383543576
 4383535558 | Java Fullstack developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-people-prime-worldwide-4383535558
+4382793389 | Senior Software Engineer – Salesforce Testing with CPQ | https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-salesforce-testing-with-cpq-at-epam-systems-4382793389
+4383547553 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4383547553
