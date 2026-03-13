@@ -1516,3 +1516,6 @@
 4385392751 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-zensar-technologies-4385392751
 4385538258 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-zelis-4385538258
 4385522874 | Software Engineer II - JAVA, AWS | https://in.linkedin.com/jobs/view/software-engineer-ii-java-aws-at-jpmorganchase-4385522874
+4384277670 | Developer, Java Development | https://in.linkedin.com/jobs/view/developer-java-development-at-transunion-4384277670
+4385559255 | Principal Engineer - Java, US Payments | https://in.linkedin.com/jobs/view/principal-engineer-java-us-payments-at-wells-fargo-4385559255
+4385554345 | Principal Engineer - Distributed Systems (Java)/Cloud & Containter Platforms | https://in.linkedin.com/jobs/view/principal-engineer-distributed-systems-java-cloud-containter-platforms-at-wells-fargo-4385554345
