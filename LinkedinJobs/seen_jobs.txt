@@ -1489,3 +1489,7 @@
 4384208780 | Java backend developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4384208780
 4384217788 | Java Backend Developer With AWS | https://in.linkedin.com/jobs/view/java-backend-developer-with-aws-at-people-prime-worldwide-4384217788
 4384217795 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4384217795
+4384223578 | SalesForce Service Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-service-cloud-developer-at-people-prime-worldwide-4384223578
+4384216860 | Sr Service Cloud Developer | https://in.linkedin.com/jobs/view/sr-service-cloud-developer-at-people-prime-worldwide-4384216860
+4385310322 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-infotech-consultancy-4385310322
+4385307227 | Dynamics 365 Sr. CRM Developer | https://in.linkedin.com/jobs/view/dynamics-365-sr-crm-developer-at-3i-infotech-ltd-4385307227
