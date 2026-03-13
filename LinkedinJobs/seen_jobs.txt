@@ -1485,3 +1485,7 @@
 4383970428 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-accenture-services-pvt-ltd-4383970428
 4384200088 | Salesforce Technical Lead / Senior Developer | https://in.linkedin.com/jobs/view/salesforce-technical-lead-senior-developer-at-rhythm-innovations-4384200088
 4385170546 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4385170546
+4384227196 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-people-prime-worldwide-4384227196
+4384208780 | Java backend developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4384208780
+4384217788 | Java Backend Developer With AWS | https://in.linkedin.com/jobs/view/java-backend-developer-with-aws-at-people-prime-worldwide-4384217788
+4384217795 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4384217795
