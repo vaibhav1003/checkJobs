@@ -1504,3 +1504,7 @@
 4384263442 | Salesforce Ncino | https://in.linkedin.com/jobs/view/salesforce-ncino-at-tata-consultancy-services-4384263442
 4385346778 | Technical Support Engineer | https://in.linkedin.com/jobs/view/technical-support-engineer-at-salesforce-4385346778
 4385359171 | Java Developer | Cloud + Spring Boot + Microservices | Fintech-Hyderabad | https://in.linkedin.com/jobs/view/java-developer-cloud-%2B-spring-boot-%2B-microservices-fintech-hyderabad-at-hyrezy-tech-solutions-4385359171
+4383115978 | Java Developer(Kafka) - Contract Hiring - GO/JC/1326/2025 | https://in.linkedin.com/jobs/view/java-developer-kafka-contract-hiring-go-jc-1326-2025-at-golden-opportunities-4383115978
+4383119978 | Customer-S&S -Agentforce- Life Sciences- Consultant | https://in.linkedin.com/jobs/view/customer-s-s-agentforce-life-sciences-consultant-at-deloitte-4383119978
+4383135323 | Customer-S&S-Salesforce CPQ- Consultant | https://in.linkedin.com/jobs/view/customer-s-s-salesforce-cpq-consultant-at-deloitte-4383135323
+4383123812 | Customer-S&S-Agentforce-Life Sciences-Senior Consultant | https://in.linkedin.com/jobs/view/customer-s-s-agentforce-life-sciences-senior-consultant-at-deloitte-4383123812
