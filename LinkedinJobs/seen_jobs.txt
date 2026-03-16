@@ -1528,3 +1528,9 @@
 4384934386 | Salesforce CPQ consultant | https://in.linkedin.com/jobs/view/salesforce-cpq-consultant-at-futuristic-tech-pulse-4384934386
 4384923760 | Senior Web methods Integration Developer | https://in.linkedin.com/jobs/view/senior-web-methods-integration-developer-at-movate-4384923760
 4384927818 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4384927818
+4384982392 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-forsys-inc-4384982392
+4384983386 | Conga CPQ/ Salesforce Developer | https://in.linkedin.com/jobs/view/conga-cpq-salesforce-developer-at-forsys-inc-4384983386
+4384976582 | Salesforce Commerce Cloud Solution Architect | https://in.linkedin.com/jobs/view/salesforce-commerce-cloud-solution-architect-at-forsys-inc-4384976582
+4384975598 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-healthfirst-technologies-4384975598
+4384249630 | Java Back-end Developer - Spring Boot - (Immediate Joiner only) | https://in.linkedin.com/jobs/view/java-back-end-developer-spring-boot-immediate-joiner-only-at-innovya-technologies-4384249630
+4384985308 | Salesforce Commerce Cloud Technical Architect | https://in.linkedin.com/jobs/view/salesforce-commerce-cloud-technical-architect-at-forsys-inc-4384985308
