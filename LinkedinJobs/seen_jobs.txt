@@ -1552,3 +1552,6 @@
 4386368786 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4386368786
 4386362717 | Agentforce Forward Deployed Engineer Senior | https://in.linkedin.com/jobs/view/agentforce-forward-deployed-engineer-senior-at-griddable-io-4386362717
 4386504869 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-sourcingxpress-4386504869
+4384097319 | LWC Agentforce Developer | https://in.linkedin.com/jobs/view/lwc-agentforce-developer-at-pwc-acceleration-center-india-4384097319
+4386550097 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4386550097
+4386539290 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4386539290
