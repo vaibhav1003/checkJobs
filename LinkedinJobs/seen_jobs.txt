@@ -1534,3 +1534,6 @@
 4384975598 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-healthfirst-technologies-4384975598
 4384249630 | Java Back-end Developer - Spring Boot - (Immediate Joiner only) | https://in.linkedin.com/jobs/view/java-back-end-developer-spring-boot-immediate-joiner-only-at-innovya-technologies-4384249630
 4384985308 | Salesforce Commerce Cloud Technical Architect | https://in.linkedin.com/jobs/view/salesforce-commerce-cloud-technical-architect-at-forsys-inc-4384985308
+4384990265 | Java fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-tata-consultancy-services-4384990265
+4386312359 | Einstein Analytics Engineer | https://in.linkedin.com/jobs/view/einstein-analytics-engineer-at-ntt-data-north-america-4386312359
+4386319014 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4386319014
