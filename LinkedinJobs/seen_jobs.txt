@@ -1537,3 +1537,4 @@
 4384990265 | Java fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-tata-consultancy-services-4384990265
 4386312359 | Einstein Analytics Engineer | https://in.linkedin.com/jobs/view/einstein-analytics-engineer-at-ntt-data-north-america-4386312359
 4386319014 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4386319014
+4386323090 | Technical Support Engineer - Java Support | https://in.linkedin.com/jobs/view/technical-support-engineer-java-support-at-varite-inc-4386323090
