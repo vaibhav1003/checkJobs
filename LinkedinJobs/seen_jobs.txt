@@ -1580,3 +1580,6 @@
 4376039462 | Software Engineer II - Salesforce > | https://in.linkedin.com/jobs/view/software-engineer-ii-salesforce-at-redpin-4376039462
 4385935028 | Salesforce Data Cloud Consultant | https://in.linkedin.com/jobs/view/salesforce-data-cloud-consultant-at-rsm-us-llp-4385935028
 4385692307 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-jase-hr-solutions-4385692307
+4376029800 | Software Engineer II - Salesforce > | https://in.linkedin.com/jobs/view/software-engineer-ii-salesforce-at-redpin-4376029800
+4386936284 | Senior SFDC CPQ developers | https://in.linkedin.com/jobs/view/senior-sfdc-cpq-developers-at-jade-global-4386936284
+4386927642 | Senior SFDC CPQ developers | https://in.linkedin.com/jobs/view/senior-sfdc-cpq-developers-at-jade-global-4386927642
