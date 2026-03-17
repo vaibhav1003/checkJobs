@@ -1575,3 +1575,5 @@
 4386747754 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-ingrain-systems-inc-4386747754
 4385699425 | SFDC Health Cloud Technical Developers | https://in.linkedin.com/jobs/view/sfdc-health-cloud-technical-developers-at-zensar-technologies-4385699425
 4385694672 | Senior Salesforce Apex Developer ( 5 – 8 Years) | https://in.linkedin.com/jobs/view/senior-salesforce-apex-developer-5-%E2%80%93-8-years-at-mindbrain-4385694672
+4374501182 | Salesforce Health Cloud Senior Associate | https://in.linkedin.com/jobs/view/salesforce-health-cloud-senior-associate-at-pwc-acceleration-center-india-4374501182
+4385901250 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4385901250
