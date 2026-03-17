@@ -1568,3 +1568,5 @@
 4384447115 | Salesforce B2B Commerce Cloud Engineers | https://in.linkedin.com/jobs/view/salesforce-b2b-commerce-cloud-engineers-at-gspann-technologies-inc-4384447115
 4386715652 | Senior Salesforce CPQ Developer | https://in.linkedin.com/jobs/view/senior-salesforce-cpq-developer-at-emburse-4386715652
 4386706986 | Salesforce Technical Lead - OMS | https://in.linkedin.com/jobs/view/salesforce-technical-lead-oms-at-osf-digital-4386706986
+4386750081 | Salesforce CPQ Developer | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-at-dextara-datamatics-4386750081
+4386749076 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-dextara-datamatics-4386749076
