@@ -1594,3 +1594,6 @@
 4386816725 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-edurun-group-4386816725
 4384787062 | Back-end Engineers (Java / Node.js) | https://in.linkedin.com/jobs/view/back-end-engineers-java-node-js-at-innova-solutions-4384787062
 4386830281 | Salesforce LWC Developer | https://in.linkedin.com/jobs/view/salesforce-lwc-developer-at-tata-consultancy-services-4386830281
+4386828779 | Java Developer ( Retail ) - GO/JC/1424/2025 | https://in.linkedin.com/jobs/view/java-developer-retail-go-jc-1424-2025-at-golden-opportunities-4386828779
+4386845390 | Customer- S&S - SPPM FQV FTH - Senior Consultant | https://in.linkedin.com/jobs/view/customer-s-s-sppm-fqv-fth-senior-consultant-at-deloitte-4386845390
+4384794452 | Technical Architect-Salesforce | https://in.linkedin.com/jobs/view/technical-architect-salesforce-at-ibm-4384794452
