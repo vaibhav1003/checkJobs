@@ -1603,3 +1603,5 @@
 4386864070 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-tata-consultancy-services-4386864070
 4386880751 | Salesforce Software Engineer - Assistant Manager | https://in.linkedin.com/jobs/view/salesforce-software-engineer-assistant-manager-at-deloitte-4386880751
 4387429119 | Principal Engineer - Distributed Systems (Java)/Cloud & Containter Platforms | https://in.linkedin.com/jobs/view/principal-engineer-distributed-systems-java-cloud-containter-platforms-at-wells-fargo-4387429119
+4387109644 | GIG-Customer tech-Salesforce - Senior Developers | https://in.linkedin.com/jobs/view/gig-customer-tech-salesforce-senior-developers-at-ey-4387109644
+4374847136 | Full Stack Java Developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-kroll-4374847136
