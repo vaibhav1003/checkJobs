@@ -1601,3 +1601,5 @@
 4376451178 | Software Engineer - Java | https://in.linkedin.com/jobs/view/software-engineer-java-at-teradata-4376451178
 4386860172 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-scoutit-4386860172
 4386864070 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-tata-consultancy-services-4386864070
+4386880751 | Salesforce Software Engineer - Assistant Manager | https://in.linkedin.com/jobs/view/salesforce-software-engineer-assistant-manager-at-deloitte-4386880751
+4387429119 | Principal Engineer - Distributed Systems (Java)/Cloud & Containter Platforms | https://in.linkedin.com/jobs/view/principal-engineer-distributed-systems-java-cloud-containter-platforms-at-wells-fargo-4387429119
