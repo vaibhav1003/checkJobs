@@ -1590,3 +1590,6 @@
 4384747780 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4384747780
 4386817479 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-cosette-network-pvt-ltd-4386817479
 4386823148 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-people-prime-worldwide-4386823148
+4387238375 | Salesforce Developer, DSP Tech, Last Mile | https://in.linkedin.com/jobs/view/salesforce-developer-dsp-tech-last-mile-at-amazon-4387238375
+4386816725 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-edurun-group-4386816725
+4384787062 | Back-end Engineers (Java / Node.js) | https://in.linkedin.com/jobs/view/back-end-engineers-java-node-js-at-innova-solutions-4384787062
