@@ -1586,3 +1586,5 @@
 4384499375 | Java Software Engineer (WFO) | https://in.linkedin.com/jobs/view/java-software-engineer-wfo-at-extio-technology-consulting-llp-4384499375
 4386944081 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4386944081
 4386940212 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4386940212
+4384746936 | AI ML Developer II - Java, Agentic AI | https://in.linkedin.com/jobs/view/ai-ml-developer-ii-java-agentic-ai-at-jpmorganchase-4384746936
+4384747780 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4384747780
