@@ -1620,3 +1620,5 @@
 4355061195 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-synechron-4355061195
 4387720475 | Salesforce Consultant | https://in.linkedin.com/jobs/view/salesforce-consultant-at-whitelotus-talent-partners-4387720475
 4388126160 | Mulesoft Developer - Digital Solution Consultant Sr. Analyst | https://in.linkedin.com/jobs/view/mulesoft-developer-digital-solution-consultant-sr-analyst-at-ntt-data-north-america-4388126160
+4388128779 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4388128779
+4388122958 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4388122958
