@@ -1612,3 +1612,5 @@
 4387659375 | Software Engineer II - Java Full stack developer | https://in.linkedin.com/jobs/view/software-engineer-ii-java-full-stack-developer-at-jpmorganchase-4387659375
 4387306473 | Microsoft dynamics 365  CRM lead  & Sr Developer ( CRM _Azure) | https://in.linkedin.com/jobs/view/microsoft-dynamics-365-crm-lead-sr-developer-crm-azure-at-people-prime-worldwide-4387306473
 4387345100 | Salesforce CRM | https://in.linkedin.com/jobs/view/salesforce-crm-at-teknikoz-4387345100
+4345853648 | Lead Salesforce Engineer | https://in.linkedin.com/jobs/view/lead-salesforce-engineer-at-milestone-technologies-inc-4345853648
+4376743802 | C&M-Digital Foundry-Salesforce Architect- Specialist Senior | https://in.linkedin.com/jobs/view/c-m-digital-foundry-salesforce-architect-specialist-senior-at-deloitte-4376743802
