@@ -1616,3 +1616,5 @@
 4376743802 | C&M-Digital Foundry-Salesforce Architect- Specialist Senior | https://in.linkedin.com/jobs/view/c-m-digital-foundry-salesforce-architect-specialist-senior-at-deloitte-4376743802
 4387827016 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4387827016
 4387848895 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4387848895
+4387873083 | Full Stack Engineer (Angular with Java) | https://in.linkedin.com/jobs/view/full-stack-engineer-angular-with-java-at-solugenix-4387873083
+4355061195 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-synechron-4355061195
