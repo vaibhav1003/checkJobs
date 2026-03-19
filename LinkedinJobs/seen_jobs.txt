@@ -1607,3 +1607,6 @@
 4374847136 | Full Stack Java Developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-kroll-4374847136
 4387166485 | Salesforce Revenue Cloud Advanced Architect-Remote/ Nevada | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-advanced-architect-remote-nevada-at-wall-street-consulting-services-llc-4387166485
 4387159803 | Salesforce B2B Commerce Backend Developer(HYD) | https://in.linkedin.com/jobs/view/salesforce-b2b-commerce-backend-developer-hyd-at-katzion-a-globallogic-company-4387159803
+4387635396 | VAYUZ Technologies - Java MuleSoft Developer | https://in.linkedin.com/jobs/view/vayuz-technologies-java-mulesoft-developer-at-vayuz-technologies-4387635396
+4387627709 | Interesting Job Opportunity: Java Developer - Camunda/Drools | https://in.linkedin.com/jobs/view/interesting-job-opportunity-java-developer-camunda-drools-at-deqode-4387627709
+4387659375 | Software Engineer II - Java Full stack developer | https://in.linkedin.com/jobs/view/software-engineer-ii-java-full-stack-developer-at-jpmorganchase-4387659375
