@@ -1627,3 +1627,7 @@
 4387914166 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-indihire-4387914166
 4387916081 | Senior CRM Developer | https://in.linkedin.com/jobs/view/senior-crm-developer-at-rapinnotech-solutions-sdn-bhd-4387916081
 4388321334 | Java Backbase Developer | https://in.linkedin.com/jobs/view/java-backbase-developer-at-mavenlink-solutions-4388321334
+4387917352 | IT Application Developer - Salesforce | https://in.linkedin.com/jobs/view/it-application-developer-salesforce-at-tungsten-automation-4387917352
+4387924042 | IT Application Developer - Salesforce | https://in.linkedin.com/jobs/view/it-application-developer-salesforce-at-tungsten-automation-4387924042
+4387924032 | IT Application Developer - Salesforce | https://in.linkedin.com/jobs/view/it-application-developer-salesforce-at-tungsten-automation-4387924032
+4387920209 | IT Application Developer - Salesforce | https://in.linkedin.com/jobs/view/it-application-developer-salesforce-at-tungsten-automation-4387920209
