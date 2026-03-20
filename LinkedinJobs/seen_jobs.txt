@@ -1622,3 +1622,5 @@
 4388126160 | Mulesoft Developer - Digital Solution Consultant Sr. Analyst | https://in.linkedin.com/jobs/view/mulesoft-developer-digital-solution-consultant-sr-analyst-at-ntt-data-north-america-4388126160
 4388128779 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4388128779
 4388122958 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4388122958
+4387778004 | Estuate - Salesforce Architect - Apex/LWC | https://in.linkedin.com/jobs/view/estuate-salesforce-architect-apex-lwc-at-estuate-inc-4387778004
+4387770245 | Tech Lead – Salesforce Service Cloud (Immediate Joiners) | https://in.linkedin.com/jobs/view/tech-lead-%E2%80%93-salesforce-service-cloud-immediate-joiners-at-katzion-a-globallogic-company-4387770245
