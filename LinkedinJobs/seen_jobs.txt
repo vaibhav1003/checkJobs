@@ -1639,3 +1639,8 @@
 4387961490 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4387961490
 4387969637 | Software Engineer - Java Full Stack | https://in.linkedin.com/jobs/view/software-engineer-java-full-stack-at-optum-4387969637
 4388502022 | Agentforce Forward Deployed Engineer | https://in.linkedin.com/jobs/view/agentforce-forward-deployed-engineer-at-griddable-io-4388502022
+4388516239 | Salesforce Omni Engineer | https://in.linkedin.com/jobs/view/salesforce-omni-engineer-at-sanofi-4388516239
+4388506630 | Salesforce Health Cloud Engineer | https://in.linkedin.com/jobs/view/salesforce-health-cloud-engineer-at-sanofi-4388506630
+4388506649 | Salesforce ATM Engineer | https://in.linkedin.com/jobs/view/salesforce-atm-engineer-at-sanofi-4388506649
+4388394645 | Java Microservices Developer | https://in.linkedin.com/jobs/view/java-microservices-developer-at-tata-consultancy-services-4388394645
+4387961605 | AI ML Developer II - Java, Agentic AI | https://in.linkedin.com/jobs/view/ai-ml-developer-ii-java-agentic-ai-at-hackajob-4387961605
