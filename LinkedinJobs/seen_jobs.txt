@@ -1634,3 +1634,5 @@
 4387932069 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-services-pvt-ltd-4387932069
 4348166515 | Chief Test Automation Engineer - Java | https://in.linkedin.com/jobs/view/chief-test-automation-engineer-java-at-epam-systems-4348166515
 4388340491 | Developer - Java / J2ee [T500-24542] | https://in.linkedin.com/jobs/view/developer-java-j2ee-t500-24542-at-cibc-india-4388340491
+4387936227 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-cloud-peritus-4387936227
+4385740073 | FBS Full Stack Developer (Java and Angular) | https://in.linkedin.com/jobs/view/fbs-full-stack-developer-java-and-angular-at-capgemini-4385740073
