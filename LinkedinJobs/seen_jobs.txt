@@ -1646,3 +1646,6 @@
 4387961605 | AI ML Developer II - Java, Agentic AI | https://in.linkedin.com/jobs/view/ai-ml-developer-ii-java-agentic-ai-at-hackajob-4387961605
 4388578343 | Full Stack Engineer - Java, SpringBoot, React | https://in.linkedin.com/jobs/view/full-stack-engineer-java-springboot-react-at-optum-india-4388578343
 4385755927 | Java Backend Engineer | https://in.linkedin.com/jobs/view/java-backend-engineer-at-ascendion-4385755927
+4388228670 | Salesforce B2B Commerce Backend Developer | https://in.linkedin.com/jobs/view/salesforce-b2b-commerce-backend-developer-at-haparz-4388228670
+4388233560 | Associate Lead Consultant - Salesforce Job | https://in.linkedin.com/jobs/view/associate-lead-consultant-salesforce-job-at-yash-technologies-middle-east-4388233560
+4388243335 | Full Stack Developer (Java + React) | https://in.linkedin.com/jobs/view/full-stack-developer-java-%2B-react-at-qloron-pvt-ltd-4388243335
