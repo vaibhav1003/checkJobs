@@ -1661,3 +1661,4 @@
 4388777004 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-capgemini-4388777004
 4388761673 | Java + Angular Developer | 4 to 6 Years | Bangalore | https://in.linkedin.com/jobs/view/java-%2B-angular-developer-4-to-6-years-bangalore-at-capgemini-4388761673
 4388649293 | QA Engineer II - Java | https://in.linkedin.com/jobs/view/qa-engineer-ii-java-at-swiss-re-4388649293
+4388790883 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4388790883
