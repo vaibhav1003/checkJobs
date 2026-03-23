@@ -1674,3 +1674,6 @@
 4389072901 | Software Engineering MTS | https://in.linkedin.com/jobs/view/software-engineering-mts-at-salesforce-4389072901
 4389079607 | Software Engineering, LMTS | https://in.linkedin.com/jobs/view/software-engineering-lmts-at-salesforce-4389079607
 4389090202 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-firstsource-4389090202
+4389084922 | Lead Enterprise Applications Engineer [T500-24621] | https://in.linkedin.com/jobs/view/lead-enterprise-applications-engineer-t500-24621-at-inspire-4389084922
+4387000041 | Certinia Engineer (India based role – Hyderabad) | https://in.linkedin.com/jobs/view/certinia-engineer-india-based-role-%E2%80%93-hyderabad-at-frazier-deeter-4387000041
+4389090635 | Full Stack Java Developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-synergy-technologies-4389090635
