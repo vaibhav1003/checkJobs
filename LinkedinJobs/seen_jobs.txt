@@ -1664,3 +1664,6 @@
 4388790883 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4388790883
 4386615782 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-zemoso-technologies-4386615782
 4389042100 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4389042100
+4389042364 | Salesforce LWC Developer | https://in.linkedin.com/jobs/view/salesforce-lwc-developer-at-capgemini-4389042364
+4388667735 | Salesforce Technical Architect (Immediate Joiner) | https://in.linkedin.com/jobs/view/salesforce-technical-architect-immediate-joiner-at-katzion-a-globallogic-company-4388667735
+4389029745 | Backend Java Developer (Java, Springboot, Microservices) | https://in.linkedin.com/jobs/view/backend-java-developer-java-springboot-microservices-at-capgemini-4389029745
