@@ -1668,3 +1668,5 @@
 4388667735 | Salesforce Technical Architect (Immediate Joiner) | https://in.linkedin.com/jobs/view/salesforce-technical-architect-immediate-joiner-at-katzion-a-globallogic-company-4388667735
 4389029745 | Backend Java Developer (Java, Springboot, Microservices) | https://in.linkedin.com/jobs/view/backend-java-developer-java-springboot-microservices-at-capgemini-4389029745
 4388679635 | Salesforce Developer (6 months Contract | https://in.linkedin.com/jobs/view/salesforce-developer-6-months-contract-at-placeelements-hr-4388679635
+4388900624 | Consultant - Java Fullstack Developer (Angular) | https://in.linkedin.com/jobs/view/consultant-java-fullstack-developer-angular-at-engen-global-4388900624
+4388693799 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-valuelabs-4388693799
