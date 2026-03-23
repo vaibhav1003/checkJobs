@@ -1667,3 +1667,4 @@
 4389042364 | Salesforce LWC Developer | https://in.linkedin.com/jobs/view/salesforce-lwc-developer-at-capgemini-4389042364
 4388667735 | Salesforce Technical Architect (Immediate Joiner) | https://in.linkedin.com/jobs/view/salesforce-technical-architect-immediate-joiner-at-katzion-a-globallogic-company-4388667735
 4389029745 | Backend Java Developer (Java, Springboot, Microservices) | https://in.linkedin.com/jobs/view/backend-java-developer-java-springboot-microservices-at-capgemini-4389029745
+4388679635 | Salesforce Developer (6 months Contract | https://in.linkedin.com/jobs/view/salesforce-developer-6-months-contract-at-placeelements-hr-4388679635
