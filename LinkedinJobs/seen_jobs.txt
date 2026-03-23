@@ -1680,3 +1680,4 @@
 4387045730 | CRM MS Dynamics UI Developer | https://in.linkedin.com/jobs/view/crm-ms-dynamics-ui-developer-at-innova-solutions-4387045730
 4388969189 | Lead Consultant - Mulesoft | https://in.linkedin.com/jobs/view/lead-consultant-mulesoft-at-etg-digital-4388969189
 4389238380 | Software Engineer III - Java AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4389238380
+4389237289 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4389237289
