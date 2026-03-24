@@ -1694,3 +1694,4 @@
 4389509815 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-edurun-group-4389509815
 4389477709 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4389477709
 4389531651 | Java Developer - (Immediate Joiner only) | https://in.linkedin.com/jobs/view/java-developer-immediate-joiner-only-at-innovya-technologies-4389531651
+4389493932 | Salesforce + Java Developer - 42266 | https://in.linkedin.com/jobs/view/salesforce-%2B-java-developer-42266-at-fission-labs-4389493932
