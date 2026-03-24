@@ -1703,3 +1703,5 @@
 4389765130 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-mphasis-4389765130
 4389733662 | Software Engineer III - Java AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4389733662
 4389822372 | Technical Lead-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-lead-enterprise-apps-at-birlasoft-4389822372
+4389752057 | Sr Engineer, Software Development | https://in.linkedin.com/jobs/view/sr-engineer-software-development-at-lpl-financial-global-capability-center-4389752057
+4388463594 | Technical Architect | https://in.linkedin.com/jobs/view/technical-architect-at-crowe-4388463594
