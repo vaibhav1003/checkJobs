@@ -1714,3 +1714,5 @@
 4389996462 | Staff Software Engineer - Java | https://in.linkedin.com/jobs/view/staff-software-engineer-java-at-matillion-4389996462
 4389995572 | Software Engineer - Java Full Stack | https://in.linkedin.com/jobs/view/software-engineer-java-full-stack-at-the-depository-trust-clearing-corporation-dtcc-4389995572
 4389181362 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-adroit-india-4389181362
+4390104432 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-purple-austyn-technologies-4390104432
+4389186486 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-ltm-4389186486
