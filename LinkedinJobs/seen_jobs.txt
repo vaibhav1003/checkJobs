@@ -1716,3 +1716,7 @@
 4389181362 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-adroit-india-4389181362
 4390104432 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-purple-austyn-technologies-4390104432
 4389186486 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-ltm-4389186486
+4389185868 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-algoleap-4389185868
+4389189654 | Lead Salesforce Developer | https://in.linkedin.com/jobs/view/lead-salesforce-developer-at-algoleap-4389189654
+4389603092 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-algoleap-4389603092
+4390306483 | Salesforce Technical Architect - Data 360 | https://in.linkedin.com/jobs/view/salesforce-technical-architect-data-360-at-salesforce-4390306483
