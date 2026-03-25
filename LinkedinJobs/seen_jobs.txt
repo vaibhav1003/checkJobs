@@ -1709,3 +1709,5 @@
 4389777917 | Senior Manager, Forward Deployed Engineering | https://in.linkedin.com/jobs/view/senior-manager-forward-deployed-engineering-at-salesforce-4389777917
 4389902445 | Staff Solutions Architect | https://in.linkedin.com/jobs/view/staff-solutions-architect-at-trinet-4389902445
 4389880296 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-cognida-ai-4389880296
+4389104781 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-birlasoft-4389104781
+4389891182 | Java Developer || 8+ Years of Experience | https://in.linkedin.com/jobs/view/java-developer-8%2B-years-of-experience-at-people-prime-worldwide-4389891182
