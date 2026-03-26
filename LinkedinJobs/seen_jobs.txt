@@ -1748,3 +1748,4 @@
 4390713681 | Salesforce Commerce Cloud developer | https://in.linkedin.com/jobs/view/salesforce-commerce-cloud-developer-at-thrive-it-systems-4390713681
 4390727489 | Senior Software Engineer - Salesforce CPQ Administrator | https://in.linkedin.com/jobs/view/senior-software-engineer-salesforce-cpq-administrator-at-evoke-technologies-4390727489
 4390882230 | Full Stack Developer-JAVA, AWS, React | https://in.linkedin.com/jobs/view/full-stack-developer-java-aws-react-at-capgemini-4390882230
+4390705619 | Java fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-valuelabs-4390705619
