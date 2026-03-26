@@ -1759,3 +1759,5 @@
 4391917505 | Salesforce Commerce Cloud (SFCC) Developer | https://in.linkedin.com/jobs/view/salesforce-commerce-cloud-sfcc-developer-at-digitalxnode-4391917505
 4391918058 | Full Stack Java Developer - SAP BTP | https://in.linkedin.com/jobs/view/full-stack-java-developer-sap-btp-at-meta-resources-group-4391918058
 4391927386 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-digitalxnode-4391927386
+4391924715 | Software Engineer III - Salesforce Development | https://in.linkedin.com/jobs/view/software-engineer-iii-salesforce-development-at-jpmorganchase-4391924715
+4391925763 | Software Engineer III - Java, AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4391925763
