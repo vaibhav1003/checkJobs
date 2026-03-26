@@ -1744,3 +1744,7 @@
 4390847446 | Salesforce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-osf-digital-4390847446
 4380405379 | Technical Lead-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-lead-enterprise-apps-at-birlasoft-4380405379
 4390870051 | Senior Software Engineer - Salesforce, nCino, Apex, LWC, SOQL, Unit Testing, Agile | https://in.linkedin.com/jobs/view/senior-software-engineer-salesforce-ncino-apex-lwc-soql-unit-testing-agile-at-wells-fargo-4390870051
+4390867593 | Salesforce Agentforce & Data Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-agentforce-data-cloud-developer-at-ttc-group-tech-talent-consulting-4390867593
+4390713681 | Salesforce Commerce Cloud developer | https://in.linkedin.com/jobs/view/salesforce-commerce-cloud-developer-at-thrive-it-systems-4390713681
+4390727489 | Senior Software Engineer - Salesforce CPQ Administrator | https://in.linkedin.com/jobs/view/senior-software-engineer-salesforce-cpq-administrator-at-evoke-technologies-4390727489
+4390882230 | Full Stack Developer-JAVA, AWS, React | https://in.linkedin.com/jobs/view/full-stack-developer-java-aws-react-at-capgemini-4390882230
