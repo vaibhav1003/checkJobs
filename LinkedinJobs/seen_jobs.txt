@@ -1743,3 +1743,4 @@
 4390563806 | Salesforce Developer - B2B Commerce Cloud (6+ yrs experience) | https://in.linkedin.com/jobs/view/salesforce-developer-b2b-commerce-cloud-6%2B-yrs-experience-at-lean-it-inc-4390563806
 4390847446 | Salesforce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-osf-digital-4390847446
 4380405379 | Technical Lead-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-lead-enterprise-apps-at-birlasoft-4380405379
+4390870051 | Senior Software Engineer - Salesforce, nCino, Apex, LWC, SOQL, Unit Testing, Agile | https://in.linkedin.com/jobs/view/senior-software-engineer-salesforce-ncino-apex-lwc-soql-unit-testing-agile-at-wells-fargo-4390870051
