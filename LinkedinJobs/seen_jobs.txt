@@ -1749,3 +1749,8 @@
 4390727489 | Senior Software Engineer - Salesforce CPQ Administrator | https://in.linkedin.com/jobs/view/senior-software-engineer-salesforce-cpq-administrator-at-evoke-technologies-4390727489
 4390882230 | Full Stack Developer-JAVA, AWS, React | https://in.linkedin.com/jobs/view/full-stack-developer-java-aws-react-at-capgemini-4390882230
 4390705619 | Java fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-valuelabs-4390705619
+4390860456 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-bcforward-4390860456
+4390883138 | Java + AWS Developer | 5 to 8 Years | Hyderabad & Bangalore | https://in.linkedin.com/jobs/view/java-%2B-aws-developer-5-to-8-years-hyderabad-bangalore-at-capgemini-4390883138
+4390871493 | Java Developer + Kafka | 6 to 14 Years | Pune & Hyderabad | https://in.linkedin.com/jobs/view/java-developer-%2B-kafka-6-to-14-years-pune-hyderabad-at-capgemini-4390871493
+4391127360 | Backend Integration Engineer (Java, REST/SOAP) | https://in.linkedin.com/jobs/view/backend-integration-engineer-java-rest-soap-at-meta-resources-group-4391127360
+4391131052 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4391131052
