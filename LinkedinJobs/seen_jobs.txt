@@ -1756,3 +1756,6 @@
 4391131052 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4391131052
 4391493094 | Java Developer with min 7 years of exp with strong coding@ Hyderabad | https://in.linkedin.com/jobs/view/java-developer-with-min-7-years-of-exp-with-strong-coding%40-hyderabad-at-innovatz-global-4391493094
 4390775531 | Application Engineer, Salesforce | https://in.linkedin.com/jobs/view/application-engineer-salesforce-at-google-4390775531
+4391917505 | Salesforce Commerce Cloud (SFCC) Developer | https://in.linkedin.com/jobs/view/salesforce-commerce-cloud-sfcc-developer-at-digitalxnode-4391917505
+4391918058 | Full Stack Java Developer - SAP BTP | https://in.linkedin.com/jobs/view/full-stack-java-developer-sap-btp-at-meta-resources-group-4391918058
+4391927386 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-digitalxnode-4391927386
