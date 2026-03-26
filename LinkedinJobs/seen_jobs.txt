@@ -1740,3 +1740,6 @@
 4390429665 | Java backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-valuelabs-4390429665
 4390425841 | Salesforce Developer (6 months Contract) | https://in.linkedin.com/jobs/view/salesforce-developer-6-months-contract-at-placeelements-hr-4390425841
 4390456480 | SFCC Backend Developer(B2B) | https://in.linkedin.com/jobs/view/sfcc-backend-developer-b2b-at-haparz-4390456480
+4390563806 | Salesforce Developer - B2B Commerce Cloud (6+ yrs experience) | https://in.linkedin.com/jobs/view/salesforce-developer-b2b-commerce-cloud-6%2B-yrs-experience-at-lean-it-inc-4390563806
+4390847446 | Salesforce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-osf-digital-4390847446
+4380405379 | Technical Lead-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-lead-enterprise-apps-at-birlasoft-4380405379
