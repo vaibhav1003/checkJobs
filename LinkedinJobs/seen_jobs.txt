@@ -1733,3 +1733,4 @@
 4390168242 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-ss-c-technologies-4390168242
 4390379911 | SSE-  Java Full Stack Developer | https://in.linkedin.com/jobs/view/sse-java-full-stack-developer-at-cgi-4390379911
 4390274147 | GeoSpatial Developer Java | https://in.linkedin.com/jobs/view/geospatial-developer-java-at-cognizant-4390274147
+4390527936 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-adroit-india-4390527936
