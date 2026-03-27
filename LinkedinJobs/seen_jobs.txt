@@ -1782,3 +1782,6 @@
 4390930959 | Salesforce Experience & Sales Cloud Developer- 5543-1 | https://in.linkedin.com/jobs/view/salesforce-experience-sales-cloud-developer-5543-1-at-letitbex-ai-4390930959
 4390945264 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-ampcus-tech-pvt-ltd-4390945264
 4390954169 | Software Engineer II- Salesforce Development | https://in.linkedin.com/jobs/view/software-engineer-ii-salesforce-development-at-hackajob-4390954169
+4391712328 | Software Engineering MTS (Salesforce + Mulesoft Developer) | https://in.linkedin.com/jobs/view/software-engineering-mts-salesforce-%2B-mulesoft-developer-at-griddable-io-4391712328
+4390946818 | Sr. Salesforce Developers | https://in.linkedin.com/jobs/view/sr-salesforce-developers-at-jade-global-4390946818
+4391717173 | Salesforce ATM Engineer | https://in.linkedin.com/jobs/view/salesforce-atm-engineer-at-sanofi-4391717173
