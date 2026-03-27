@@ -1767,3 +1767,7 @@
 4392250766 | Software Engineer I- Salesforce | https://in.linkedin.com/jobs/view/software-engineer-i-salesforce-at-electronic-arts-ea-4392250766
 4392252604 | Customer Tech-Salesforce-Salesforce Manager | https://in.linkedin.com/jobs/view/customer-tech-salesforce-salesforce-manager-at-ey-4392252604
 4391540077 | Java Quality Engineer | https://in.linkedin.com/jobs/view/java-quality-engineer-at-grid-dynamics-4391540077
+4390906872 | Software Engineer III - Salesforce Development | https://in.linkedin.com/jobs/view/software-engineer-iii-salesforce-development-at-hackajob-4390906872
+4391547531 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4391547531
+4390928031 | Software Engineer III  -  JAVA AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-hackajob-4390928031
+4391549430 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4391549430
