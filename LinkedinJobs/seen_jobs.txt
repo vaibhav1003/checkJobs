@@ -1789,3 +1789,4 @@
 4390996161 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4390996161
 4391705497 | Success Architect - DevOps & Industries | https://in.linkedin.com/jobs/view/success-architect-devops-industries-at-salesforce-4391705497
 4391719307 | Success Architect (Life Sciences Domain) | https://in.linkedin.com/jobs/view/success-architect-life-sciences-domain-at-salesforce-4391719307
+4392762364 | LWC Agentforce Developer | https://in.linkedin.com/jobs/view/lwc-agentforce-developer-at-pwc-acceleration-center-india-4392762364
