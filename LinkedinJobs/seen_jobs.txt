@@ -1793,3 +1793,6 @@
 4391252016 | CRM Developer with CPQ | https://in.linkedin.com/jobs/view/crm-developer-with-cpq-at-people-prime-worldwide-4391252016
 4391241534 | Java Developer || 8+ Years of Experience | https://in.linkedin.com/jobs/view/java-developer-8%2B-years-of-experience-at-people-prime-worldwide-4391241534
 4392029625 | Success Architect (Life Sciences Domain) | https://in.linkedin.com/jobs/view/success-architect-life-sciences-domain-at-griddable-io-4392029625
+4392042794 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-trinity-technology-solutions-llc-4392042794
+4391244836 | Software Engineer III - Java, AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-hackajob-4391244836
+4391233847 | Java Developer (Java, Spring Boot, AWS, Terraform) | https://in.linkedin.com/jobs/view/java-developer-java-spring-boot-aws-terraform-at-massmutual-india-4391233847
