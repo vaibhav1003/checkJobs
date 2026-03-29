@@ -1799,3 +1799,4 @@
 4391601211 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4391601211
 4393637427 | Backend Developer - Java | https://in.linkedin.com/jobs/view/backend-developer-java-at-solvitecno-llp-4393637427
 4391653392 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-people-staffing-solutions-4391653392
+4391687264 | Salesforce Administrator/Salesforce Business Analyst | https://in.linkedin.com/jobs/view/salesforce-administrator-salesforce-business-analyst-at-haparz-4391687264
