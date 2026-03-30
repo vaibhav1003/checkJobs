@@ -1806,3 +1806,4 @@
 4392592387 | Software Engineer II - Java,Springboot,Microservices,Rest API | https://in.linkedin.com/jobs/view/software-engineer-ii-java-springboot-microservices-rest-api-at-blue-yonder-4392592387
 4391838647 | Java Backend Developer-ClickHouse | https://in.linkedin.com/jobs/view/java-backend-developer-clickhouse-at-valuelabs-4391838647
 4391846617 | Java Full stack developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-edurun-group-4391846617
+4395056143 | Staff Software Engineer - Java, Spring Boot, Microservices | https://in.linkedin.com/jobs/view/staff-software-engineer-java-spring-boot-microservices-at-ivanti-4395056143
