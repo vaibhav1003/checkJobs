@@ -1804,3 +1804,5 @@
 4392390501 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-infotech-consultancy-4392390501
 4395012039 | Salesforce Lead Consultant | https://in.linkedin.com/jobs/view/salesforce-lead-consultant-at-cloud-epitome-4395012039
 4392592387 | Software Engineer II - Java,Springboot,Microservices,Rest API | https://in.linkedin.com/jobs/view/software-engineer-ii-java-springboot-microservices-rest-api-at-blue-yonder-4392592387
+4391838647 | Java Backend Developer-ClickHouse | https://in.linkedin.com/jobs/view/java-backend-developer-clickhouse-at-valuelabs-4391838647
+4391846617 | Java Full stack developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-edurun-group-4391846617
