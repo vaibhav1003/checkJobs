@@ -1833,3 +1833,6 @@
 4392402904 | Salesforce BA | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-ba-salesforce-developer-at-sid-information-technologies-4392402904
 4392423140 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-fission-labs-4392423140
 4392411482 | Sr Salesforce Marketing cloud email Developer- 5542-1 | https://in.linkedin.com/jobs/view/sr-salesforce-marketing-cloud-email-developer-5542-1-at-letitbex-ai-4392411482
+4392433769 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-carrier-4392433769
+4392400606 | Salesforce Marketing Cloud Consultant | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-consultant-at-qloron-pvt-ltd-4392400606
+4392430628 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-compugra-systems-inc-4392430628
