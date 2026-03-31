@@ -1824,3 +1824,6 @@
 4393299489 | Software Engineer III - SFDC | https://in.linkedin.com/jobs/view/software-engineer-iii-sfdc-at-jpmorganchase-4393299489
 4393501354 | Software Engineer III - Salesforce Developer | https://in.linkedin.com/jobs/view/software-engineer-iii-salesforce-developer-at-jpmorganchase-4393501354
 4393285918 | Software Engineer III - JFrog, AWS, Java/Golang | https://in.linkedin.com/jobs/view/software-engineer-iii-jfrog-aws-java-golang-at-jpmorganchase-4393285918
+4392177898 | Salesforce Developer (CSM/ITSM) | https://in.linkedin.com/jobs/view/salesforce-developer-csm-itsm-at-metasys-technologies-4392177898
+4392192710 | Customer-S&S-Salesforce Functional-Consultant | https://in.linkedin.com/jobs/view/customer-s-s-salesforce-functional-consultant-at-deloitte-4392192710
+4392185592 | Salesforce Omni Studio | https://in.linkedin.com/jobs/view/salesforce-omni-studio-at-cognizant-4392185592
