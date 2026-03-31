@@ -1818,3 +1818,6 @@
 4392165059 | AVP, Marketing Cloud Developer (L10) | https://in.linkedin.com/jobs/view/avp-marketing-cloud-developer-l10-at-synchrony-4392165059
 4392148424 | AVP, Marketing Cloud Developer (L10) | https://in.linkedin.com/jobs/view/avp-marketing-cloud-developer-l10-at-synchrony-4392148424
 4392148750 | Java Developer || 8+ Years of Experience | https://in.linkedin.com/jobs/view/java-developer-8%2B-years-of-experience-at-people-prime-worldwide-4392148750
+4393273806 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4393273806
+4393270891 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4393270891
+4393282168 | SMTS, Zuora Revenue System Engineer | https://in.linkedin.com/jobs/view/smts-zuora-revenue-system-engineer-at-salesforce-4393282168
