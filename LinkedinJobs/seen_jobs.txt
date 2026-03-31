@@ -1841,3 +1841,5 @@
 4392451272 | Test Automation Engineer (BDD, Selenium, LeanFT, Webdriverio, SQl & Java) -- Anywhere in India but Hyderabad is preferred | https://in.linkedin.com/jobs/view/test-automation-engineer-bdd-selenium-leanft-webdriverio-sql-java-anywhere-in-india-but-hyderabad-is-preferred-at-ampstek-4392451272
 4393581303 | SMTS, Zuora Revenue System Engineer | https://in.linkedin.com/jobs/view/smts-zuora-revenue-system-engineer-at-griddable-io-4393581303
 4393948138 | Software Engineer III - Java AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4393948138
+4392463818 | Salesforce Revenue Cloud Developer (Billing) | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-developer-billing-at-s-p-global-4392463818
+4392468690 | Salesforce QA Engineer-Mobility | https://in.linkedin.com/jobs/view/salesforce-qa-engineer-mobility-at-s-p-global-4392468690
