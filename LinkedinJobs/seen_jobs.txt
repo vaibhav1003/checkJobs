@@ -1821,3 +1821,6 @@
 4393273806 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4393273806
 4393270891 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4393270891
 4393282168 | SMTS, Zuora Revenue System Engineer | https://in.linkedin.com/jobs/view/smts-zuora-revenue-system-engineer-at-salesforce-4393282168
+4393299489 | Software Engineer III - SFDC | https://in.linkedin.com/jobs/view/software-engineer-iii-sfdc-at-jpmorganchase-4393299489
+4393501354 | Software Engineer III - Salesforce Developer | https://in.linkedin.com/jobs/view/software-engineer-iii-salesforce-developer-at-jpmorganchase-4393501354
+4393285918 | Software Engineer III - JFrog, AWS, Java/Golang | https://in.linkedin.com/jobs/view/software-engineer-iii-jfrog-aws-java-golang-at-jpmorganchase-4393285918
