@@ -1836,3 +1836,7 @@
 4392433769 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-carrier-4392433769
 4392400606 | Salesforce Marketing Cloud Consultant | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-consultant-at-qloron-pvt-ltd-4392400606
 4392430628 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-compugra-systems-inc-4392430628
+4392419349 | Data Engineer – Hadoop, Spark, Java/Scala/Python, NoSQL & Big Data Analytics Expert | https://in.linkedin.com/jobs/view/data-engineer-%E2%80%93-hadoop-spark-java-scala-python-nosql-big-data-analytics-expert-at-synechron-4392419349
+4393535654 | IN_Senior Associate_Vlocity_Enterprise Apps-SFDC_Advisory_Hyderabad | https://in.linkedin.com/jobs/view/in-senior-associate-vlocity-enterprise-apps-sfdc-advisory-hyderabad-at-pwc-india-4393535654
+4392451272 | Test Automation Engineer (BDD, Selenium, LeanFT, Webdriverio, SQl & Java) -- Anywhere in India but Hyderabad is preferred | https://in.linkedin.com/jobs/view/test-automation-engineer-bdd-selenium-leanft-webdriverio-sql-java-anywhere-in-india-but-hyderabad-is-preferred-at-ampstek-4392451272
+4393581303 | SMTS, Zuora Revenue System Engineer | https://in.linkedin.com/jobs/view/smts-zuora-revenue-system-engineer-at-griddable-io-4393581303
