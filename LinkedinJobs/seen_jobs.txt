@@ -1850,3 +1850,5 @@
 4394377296 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-vmultiply-solutions-4394377296
 4394607156 | Salesforce Automation Test Engineer | https://in.linkedin.com/jobs/view/salesforce-automation-test-engineer-at-osf-digital-4394607156
 4394397602 | Salesforce Technical Architect - CPQ / Revenue Cloud | https://in.linkedin.com/jobs/view/salesforce-technical-architect-cpq-revenue-cloud-at-osf-digital-4394397602
+4396463144 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-1x2-network-4396463144
+4394613161 | Lead Software Engineer - Backend Java, Spring, Spring Boot, KAFKA, NOSQL, Python, SRE / Automation, Cloud, AI tools | https://in.linkedin.com/jobs/view/lead-software-engineer-backend-java-spring-spring-boot-kafka-nosql-python-sre-automation-cloud-ai-tools-at-wells-fargo-4394613161
