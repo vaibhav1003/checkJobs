@@ -1855,3 +1855,6 @@
 4392856755 | Functional Specialist-Enterprise Apps | https://in.linkedin.com/jobs/view/functional-specialist-enterprise-apps-at-birlasoft-4392856755
 4394615773 | Product Forward Deployed Engineer - Senior | https://in.linkedin.com/jobs/view/product-forward-deployed-engineer-senior-at-salesforce-4394615773
 4394641123 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-infotech-consultancy-4394641123
+4396643858 | Salesforce Systems Specialist | https://in.linkedin.com/jobs/view/salesforce-systems-specialist-at-solenis-4396643858
+4394638890 | Salesforce Solution Architect - Service Cloud | https://in.linkedin.com/jobs/view/salesforce-solution-architect-service-cloud-at-opella-4394638890
+4394677116 | Product Forward Deployed Engineer - Senior | https://in.linkedin.com/jobs/view/product-forward-deployed-engineer-senior-at-griddable-io-4394677116
