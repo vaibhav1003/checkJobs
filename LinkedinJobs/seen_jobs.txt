@@ -1846,3 +1846,7 @@
 4393969285 | Full Stack Developer ( Java+ Angular) | https://in.linkedin.com/jobs/view/full-stack-developer-java%2B-angular-at-egen-4393969285
 4392829003 | Java Developer || 8+ Years of Experience | https://in.linkedin.com/jobs/view/java-developer-8%2B-years-of-experience-at-people-prime-worldwide-4392829003
 4392806854 | Java Developer || 8+ Years of Experience | https://in.linkedin.com/jobs/view/java-developer-8%2B-years-of-experience-at-people-prime-worldwide-4392806854
+4392841640 | Salesforce Admin | https://in.linkedin.com/jobs/view/salesforce-admin-at-ampcus-tech-pvt-ltd-4392841640
+4394377296 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-vmultiply-solutions-4394377296
+4394607156 | Salesforce Automation Test Engineer | https://in.linkedin.com/jobs/view/salesforce-automation-test-engineer-at-osf-digital-4394607156
+4394397602 | Salesforce Technical Architect - CPQ / Revenue Cloud | https://in.linkedin.com/jobs/view/salesforce-technical-architect-cpq-revenue-cloud-at-osf-digital-4394397602
