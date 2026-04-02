@@ -1882,3 +1882,5 @@
 4395332771 | Salesforce Senior Developer | https://in.linkedin.com/jobs/view/salesforce-senior-developer-at-qnity-4395332771
 4384129631 | Java Full Stack Engineer - Manager | https://in.linkedin.com/jobs/view/java-full-stack-engineer-manager-at-state-street-4384129631
 4395339604 | Salesforce/Agentforce Developer (Software Engineering, MTS) | https://in.linkedin.com/jobs/view/salesforce-agentforce-developer-software-engineering-mts-at-griddable-io-4395339604
+4397132999 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-zelis-4397132999
+4397138515 | Sr. Salesforce Developer-2 | https://in.linkedin.com/jobs/view/sr-salesforce-developer-2-at-zelis-4397138515
