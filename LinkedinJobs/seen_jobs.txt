@@ -1884,3 +1884,7 @@
 4395339604 | Salesforce/Agentforce Developer (Software Engineering, MTS) | https://in.linkedin.com/jobs/view/salesforce-agentforce-developer-software-engineering-mts-at-griddable-io-4395339604
 4397132999 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-zelis-4397132999
 4397138515 | Sr. Salesforce Developer-2 | https://in.linkedin.com/jobs/view/sr-salesforce-developer-2-at-zelis-4397138515
+4395704197 | Software Engineer II- Salesforce Development | https://in.linkedin.com/jobs/view/software-engineer-ii-salesforce-development-at-jpmorganchase-4395704197
+4395709073 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4395709073
+4395394640 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4395394640
+4395390996 | Security Engineer II - Java ,React Full Stack Developer | https://in.linkedin.com/jobs/view/security-engineer-ii-java-react-full-stack-developer-at-jpmorganchase-4395390996
