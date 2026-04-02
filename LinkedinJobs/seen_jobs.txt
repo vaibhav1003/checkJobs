@@ -1879,3 +1879,5 @@
 4393447994 | Salesforce Agentforce Developer | https://in.linkedin.com/jobs/view/salesforce-agentforce-developer-at-spearsoft-4393447994
 4395319581 | Java Front End Developer | https://in.linkedin.com/jobs/view/java-front-end-developer-at-chubb-4395319581
 4393461888 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-oloop-technology-solutions-4393461888
+4395332771 | Salesforce Senior Developer | https://in.linkedin.com/jobs/view/salesforce-senior-developer-at-qnity-4395332771
+4384129631 | Java Full Stack Engineer - Manager | https://in.linkedin.com/jobs/view/java-full-stack-engineer-manager-at-state-street-4384129631
