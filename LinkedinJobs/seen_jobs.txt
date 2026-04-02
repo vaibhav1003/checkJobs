@@ -1877,3 +1877,5 @@
 4393432225 | Technical Specialist-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-specialist-enterprise-apps-at-birlasoft-4393432225
 4396954689 | Senior Solution Architect - Salesforce | https://in.linkedin.com/jobs/view/senior-solution-architect-salesforce-at-epam-systems-4396954689
 4393447994 | Salesforce Agentforce Developer | https://in.linkedin.com/jobs/view/salesforce-agentforce-developer-at-spearsoft-4393447994
+4395319581 | Java Front End Developer | https://in.linkedin.com/jobs/view/java-front-end-developer-at-chubb-4395319581
+4393461888 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-oloop-technology-solutions-4393461888
