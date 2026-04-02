@@ -1889,3 +1889,6 @@
 4395394640 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4395394640
 4395390996 | Security Engineer II - Java ,React Full Stack Developer | https://in.linkedin.com/jobs/view/security-engineer-ii-java-react-full-stack-developer-at-jpmorganchase-4395390996
 4395396844 | Java,Apigee Developer-Software Engineer | https://in.linkedin.com/jobs/view/java-apigee-developer-software-engineer-at-cgi-4395396844
+4397156706 | Azure Integration Services-Consultant-Hyderabad/Bengaluru | https://in.linkedin.com/jobs/view/azure-integration-services-consultant-hyderabad-bengaluru-at-deloitte-4397156706
+4397159773 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4397159773
+4397164327 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-clover-infotech-4397164327
