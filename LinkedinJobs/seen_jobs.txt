@@ -1893,3 +1893,5 @@
 4397159773 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4397159773
 4397164327 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-clover-infotech-4397164327
 4397508009 | Software Engineer III - Java/React Full stack Developer | https://in.linkedin.com/jobs/view/software-engineer-iii-java-react-full-stack-developer-at-jpmorganchase-4397508009
+4396553832 | Snowflake / SQL Developer + ETL + Python/Java | https://in.linkedin.com/jobs/view/snowflake-sql-developer-%2B-etl-%2B-python-java-at-infosys-4396553832
+4396549298 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4396549298
