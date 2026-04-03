@@ -1895,3 +1895,5 @@
 4397508009 | Software Engineer III - Java/React Full stack Developer | https://in.linkedin.com/jobs/view/software-engineer-iii-java-react-full-stack-developer-at-jpmorganchase-4397508009
 4396553832 | Snowflake / SQL Developer + ETL + Python/Java | https://in.linkedin.com/jobs/view/snowflake-sql-developer-%2B-etl-%2B-python-java-at-infosys-4396553832
 4396549298 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4396549298
+4396565777 | Salesforce Revenue Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-developer-at-osf-digital-4396565777
+4396583169 | Software Engineer - Backend Java, Spring, Restful Web Services, Microservices, AI | https://in.linkedin.com/jobs/view/software-engineer-backend-java-spring-restful-web-services-microservices-ai-at-wells-fargo-4396583169
