@@ -1901,3 +1901,6 @@
 4397545921 | IT.Developer Java Full Stack (Hyd) | https://in.linkedin.com/jobs/view/it-developer-java-full-stack-hyd-at-the-citco-group-limited-4397545921
 4393859213 | TCS - INTERVIEW - Salesforce Revenue Cloud – Functional Consultant (Business Analyst) | https://in.linkedin.com/jobs/view/tcs-interview-salesforce-revenue-cloud-%E2%80%93-functional-consultant-business-analyst-at-tata-consultancy-services-4393859213
 4383100889 | Salesforce Data Architect – Data Cloud & AI | https://in.linkedin.com/jobs/view/salesforce-data-architect-%E2%80%93-data-cloud-ai-at-rsm-us-llp-4383100889
+4397310608 | Product Forward Deployed Engineer | https://in.linkedin.com/jobs/view/product-forward-deployed-engineer-at-griddable-io-4397310608
+4397304924 | Manager, Forward Deployed Engineering (Salesforce exp must) | https://in.linkedin.com/jobs/view/manager-forward-deployed-engineering-salesforce-exp-must-at-griddable-io-4397304924
+4397302988 | Senior Manager, Forward Deployed Engineering (Salesforce exp must) | https://in.linkedin.com/jobs/view/senior-manager-forward-deployed-engineering-salesforce-exp-must-at-griddable-io-4397302988
