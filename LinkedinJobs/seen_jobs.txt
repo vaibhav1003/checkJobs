@@ -1924,3 +1924,9 @@
 4397764660 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4397764660
 4394436997 | Java Backend Developer (IAM) | https://in.linkedin.com/jobs/view/java-backend-developer-iam-at-3itech-global-4394436997
 4394451235 | Salesforce Sales cloud | https://in.linkedin.com/jobs/view/salesforce-sales-cloud-at-saap-technologies-4394451235
+4394450631 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-owlsure-4394450631
+4397927619 | Salesforce Developer - B2B Commerce Cloud | https://in.linkedin.com/jobs/view/salesforce-developer-b2b-commerce-cloud-at-lean-it-inc-4397927619
+4394454377 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-ampcus-tech-pvt-ltd-4394454377
+4394450623 | Salesforce Lead – Service Cloud | https://in.linkedin.com/jobs/view/salesforce-lead-%E2%80%93-service-cloud-at-daten-technology-solutions-4394450623
+4397776930 | Full Stack Software Developer (React, Java/Node JS) | https://in.linkedin.com/jobs/view/full-stack-software-developer-react-java-node-js-at-accellor-4397776930
+4394473147 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-welspun-world-4394473147
