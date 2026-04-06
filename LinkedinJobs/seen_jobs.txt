@@ -1936,3 +1936,5 @@
 4397786979 | AWS Cloud Engineer (Java + Spring Boot) - Run/Support experience | https://in.linkedin.com/jobs/view/aws-cloud-engineer-java-%2B-spring-boot-run-support-experience-at-innova-esi-4397786979
 4394479302 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-yati-technology-4394479302
 4398011524 | Associate Software Engineer | https://in.linkedin.com/jobs/view/associate-software-engineer-at-amgen-4398011524
+4394474561 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-getege-edtech-pvt-ltd-4394474561
+4397778927 | Salesforce Senior Advisory Architect | https://in.linkedin.com/jobs/view/salesforce-senior-advisory-architect-at-salesforce-4397778927
