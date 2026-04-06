@@ -1943,3 +1943,4 @@
 4398054085 | Full Stack Engineer (Angular with Java) | https://in.linkedin.com/jobs/view/full-stack-engineer-angular-with-java-at-solugenix-4398054085
 4398069216 | Lead Software Engineer - Salesforce | https://in.linkedin.com/jobs/view/lead-software-engineer-salesforce-at-jpmorganchase-4398069216
 4398073044 | Software Engineer III - Java FullStack | https://in.linkedin.com/jobs/view/software-engineer-iii-java-fullstack-at-jpmorganchase-4398073044
+4398089748 | Salesforce Senior Integration Developer/Architect (MT515ST RM 4071) | https://in.linkedin.com/jobs/view/salesforce-senior-integration-developer-architect-mt515st-rm-4071-at-source-right-4398089748
