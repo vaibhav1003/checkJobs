@@ -1917,3 +1917,7 @@
 4394417173 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-valuelabs-4394417173
 4397721394 | Salesforce Technical Architect - (Life Sciences Industry exp mandate) | https://in.linkedin.com/jobs/view/salesforce-technical-architect-life-sciences-industry-exp-mandate-at-salesforce-4397721394
 4394412642 | Java SDET | https://in.linkedin.com/jobs/view/java-sdet-at-tata-consultancy-services-4394412642
+4394443377 | Sr Salesforce Marketing cloud email Developer | https://in.linkedin.com/jobs/view/sr-salesforce-marketing-cloud-email-developer-at-havata-technologies-llp-4394443377
+4397756566 | Salesforce Developer with Amazon Connect | https://in.linkedin.com/jobs/view/salesforce-developer-with-amazon-connect-at-infotech-consultancy-4397756566
+4394448356 | Salesforce Experience cloud and Sales Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-experience-cloud-and-sales-cloud-developer-at-havata-technologies-llp-4394448356
+4394438702 | Software Engineer (Java, React & Python) | https://in.linkedin.com/jobs/view/software-engineer-java-react-python-at-franklin-templeton-4394438702
