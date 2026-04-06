@@ -1934,3 +1934,5 @@
 4397781823 | Salesforce Developer V | https://in.linkedin.com/jobs/view/salesforce-developer-v-at-aditi-consulting-4397781823
 4394466545 | Technical Lead-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-lead-enterprise-apps-at-birlasoft-4394466545
 4397786979 | AWS Cloud Engineer (Java + Spring Boot) - Run/Support experience | https://in.linkedin.com/jobs/view/aws-cloud-engineer-java-%2B-spring-boot-run-support-experience-at-innova-esi-4397786979
+4394479302 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-yati-technology-4394479302
+4398011524 | Associate Software Engineer | https://in.linkedin.com/jobs/view/associate-software-engineer-at-amgen-4398011524
