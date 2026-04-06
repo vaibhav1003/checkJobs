@@ -1921,3 +1921,5 @@
 4397756566 | Salesforce Developer with Amazon Connect | https://in.linkedin.com/jobs/view/salesforce-developer-with-amazon-connect-at-infotech-consultancy-4397756566
 4394448356 | Salesforce Experience cloud and Sales Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-experience-cloud-and-sales-cloud-developer-at-havata-technologies-llp-4394448356
 4394438702 | Software Engineer (Java, React & Python) | https://in.linkedin.com/jobs/view/software-engineer-java-react-python-at-franklin-templeton-4394438702
+4397764660 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-tata-consultancy-services-4397764660
+4394436997 | Java Backend Developer (IAM) | https://in.linkedin.com/jobs/view/java-backend-developer-iam-at-3itech-global-4394436997
