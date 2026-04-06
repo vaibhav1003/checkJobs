@@ -1930,3 +1930,6 @@
 4394450623 | Salesforce Lead – Service Cloud | https://in.linkedin.com/jobs/view/salesforce-lead-%E2%80%93-service-cloud-at-daten-technology-solutions-4394450623
 4397776930 | Full Stack Software Developer (React, Java/Node JS) | https://in.linkedin.com/jobs/view/full-stack-software-developer-react-java-node-js-at-accellor-4397776930
 4394473147 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-welspun-world-4394473147
+4397786711 | Salesforce Developer (Apex, LWC) | https://in.linkedin.com/jobs/view/salesforce-developer-apex-lwc-at-salesforce-4397786711
+4397781823 | Salesforce Developer V | https://in.linkedin.com/jobs/view/salesforce-developer-v-at-aditi-consulting-4397781823
+4394466545 | Technical Lead-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-lead-enterprise-apps-at-birlasoft-4394466545
