@@ -1965,3 +1965,5 @@
 4395454836 | Lead Salesforce Developer | https://in.linkedin.com/jobs/view/lead-salesforce-developer-at-cg-vak-software-exports-ltd-4395454836
 4398567625 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4398567625
 4398582029 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4398582029
+4398595560 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-cgi-4398595560
+4398599458 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-cgi-4398599458
