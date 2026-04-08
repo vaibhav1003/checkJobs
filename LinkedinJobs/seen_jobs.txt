@@ -1967,3 +1967,6 @@
 4398582029 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4398582029
 4398595560 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-cgi-4398595560
 4398599458 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-cgi-4398599458
+4395927312 | Salesforce Data Cloud Consultant (Remote) | https://in.linkedin.com/jobs/view/salesforce-data-cloud-consultant-remote-at-adv-techminds-pvt-ltd-4395927312
+4398430098 | Associate Architect - Salesforce Job | https://in.linkedin.com/jobs/view/associate-architect-salesforce-job-at-yash-technologies-middle-east-4398430098
+4398963647 | Software Engineer III -Java, Kubernetes | https://in.linkedin.com/jobs/view/software-engineer-iii-java-kubernetes-at-jpmorganchase-4398963647
