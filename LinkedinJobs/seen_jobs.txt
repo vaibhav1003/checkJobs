@@ -1990,3 +1990,5 @@
 4399289369 | TypeScript & Java Developer | https://in.linkedin.com/jobs/view/typescript-java-developer-at-narwal-4399289369
 4399287352 | Software Engineering MTS - Demos | https://in.linkedin.com/jobs/view/software-engineering-mts-demos-at-griddable-io-4399287352
 4399292481 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-ultraviolet-cyber-4399292481
+4398492951 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-wall-street-consulting-services-llc-4398492951
+4395998284 | Principal Software Engineer - Salesforce | https://in.linkedin.com/jobs/view/principal-software-engineer-salesforce-at-blackbaud-india-4395998284
