@@ -1971,3 +1971,7 @@
 4398430098 | Associate Architect - Salesforce Job | https://in.linkedin.com/jobs/view/associate-architect-salesforce-job-at-yash-technologies-middle-east-4398430098
 4398963647 | Software Engineer III -Java, Kubernetes | https://in.linkedin.com/jobs/view/software-engineer-iii-java-kubernetes-at-jpmorganchase-4398963647
 4398981182 | Senior Full Stack Software Engineer (React + Java Spring Boot Microservices | DevOps) | https://in.linkedin.com/jobs/view/senior-full-stack-software-engineer-react-%2B-java-spring-boot-microservices-devops-at-cgi-4398981182
+4395944360 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-placeelements-hr-4395944360
+4395961290 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-people-prime-worldwide-4395961290
+4395955186 | Java Developer - (Immediate Joiner only) | https://in.linkedin.com/jobs/view/java-developer-immediate-joiner-only-at-innovya-technologies-4395955186
+4399211042 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-wall-street-consulting-services-llc-4399211042
