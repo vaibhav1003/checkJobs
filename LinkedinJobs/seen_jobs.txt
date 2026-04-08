@@ -1975,3 +1975,5 @@
 4395961290 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-people-prime-worldwide-4395961290
 4395955186 | Java Developer - (Immediate Joiner only) | https://in.linkedin.com/jobs/view/java-developer-immediate-joiner-only-at-innovya-technologies-4395955186
 4399211042 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-wall-street-consulting-services-llc-4399211042
+4398466260 | Java SpringBoot + Kafka Developer | https://in.linkedin.com/jobs/view/java-springboot-%2B-kafka-developer-at-hcltech-4398466260
+4395965148 | Salesforce Lead Consultant | https://in.linkedin.com/jobs/view/salesforce-lead-consultant-at-cloud-epitome-4395965148
