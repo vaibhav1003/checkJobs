@@ -1977,3 +1977,8 @@
 4399211042 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-wall-street-consulting-services-llc-4399211042
 4398466260 | Java SpringBoot + Kafka Developer | https://in.linkedin.com/jobs/view/java-springboot-%2B-kafka-developer-at-hcltech-4398466260
 4395965148 | Salesforce Lead Consultant | https://in.linkedin.com/jobs/view/salesforce-lead-consultant-at-cloud-epitome-4395965148
+4399216830 | Salesforce Developer - Consumer Goods Cloud | https://in.linkedin.com/jobs/view/salesforce-developer-consumer-goods-cloud-at-ntt-data-north-america-4399216830
+4399232410 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-the-glove-4399232410
+4399216900 | Salesforce Senior Success Guide (AMER/EMEA) | https://in.linkedin.com/jobs/view/salesforce-senior-success-guide-amer-emea-at-salesforce-ad-4399216900
+4398458890 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-as-technology-corporation-4398458890
+4399225679 | Azure Java Developer | https://in.linkedin.com/jobs/view/azure-java-developer-at-luxoft-4399225679
