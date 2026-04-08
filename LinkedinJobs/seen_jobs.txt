@@ -1987,3 +1987,5 @@
 4395968643 | ESaaS - SFDC - Lightning UI & JavaScript Development | https://in.linkedin.com/jobs/view/esaas-sfdc-lightning-ui-javascript-development-at-zensar-technologies-4395968643
 4395985647 | Software Engineering MTS - Demos | https://in.linkedin.com/jobs/view/software-engineering-mts-demos-at-salesforce-4395985647
 4395970566 | Lead Salesforce DevOps Engineer | https://in.linkedin.com/jobs/view/lead-salesforce-devops-engineer-at-algoleap-4395970566
+4399289369 | TypeScript & Java Developer | https://in.linkedin.com/jobs/view/typescript-java-developer-at-narwal-4399289369
+4399287352 | Software Engineering MTS - Demos | https://in.linkedin.com/jobs/view/software-engineering-mts-demos-at-griddable-io-4399287352
