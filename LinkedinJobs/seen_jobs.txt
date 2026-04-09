@@ -2005,3 +2005,5 @@
 4397208775 | Java AWS Developer | https://in.linkedin.com/jobs/view/java-aws-developer-at-frenzoft-4397208775
 4399830674 | Salesforce Success Architect - Agentforce | https://in.linkedin.com/jobs/view/salesforce-success-architect-agentforce-at-salesforce-4399830674
 4399823971 | Salesforce Success Architect - Data cloud | https://in.linkedin.com/jobs/view/salesforce-success-architect-data-cloud-at-salesforce-4399823971
+4397232059 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-prudent-technologies-and-consulting-inc-4397232059
+4397214360 | Principal Software Engineer - Salesforce | https://in.linkedin.com/jobs/view/principal-software-engineer-salesforce-at-blackbaud-india-4397214360
