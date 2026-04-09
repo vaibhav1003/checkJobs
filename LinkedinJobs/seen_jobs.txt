@@ -2008,3 +2008,7 @@
 4397232059 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-prudent-technologies-and-consulting-inc-4397232059
 4397214360 | Principal Software Engineer - Salesforce | https://in.linkedin.com/jobs/view/principal-software-engineer-salesforce-at-blackbaud-india-4397214360
 4399871178 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-qualizeal-4399871178
+4399885455 | Salesforce Health Cloud Engineer (High-touch) | https://in.linkedin.com/jobs/view/salesforce-health-cloud-engineer-high-touch-at-sanofi-4399885455
+4399875850 | Salesforce ATM Engineer | https://in.linkedin.com/jobs/view/salesforce-atm-engineer-at-sanofi-4399875850
+4397240093 | Technical Specialist-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-specialist-enterprise-apps-at-birlasoft-4397240093
+4399888347 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-qualizeal-4399888347
