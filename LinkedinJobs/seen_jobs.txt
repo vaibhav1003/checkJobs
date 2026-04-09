@@ -2019,3 +2019,5 @@
 4400214700 | Salesforce Success Architect - Data cloud | https://in.linkedin.com/jobs/view/salesforce-success-architect-data-cloud-at-griddable-io-4400214700
 4400245656 | Software Engineering MTS | https://in.linkedin.com/jobs/view/software-engineering-mts-at-salesforce-4400245656
 4385042447 | Customer Tech- SFMC architect-Senior Manager | https://in.linkedin.com/jobs/view/customer-tech-sfmc-architect-senior-manager-at-ey-4385042447
+4398857896 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-concentrix-4398857896
+4398865219 | Java Full Stack Developers | https://in.linkedin.com/jobs/view/java-full-stack-developers-at-concentrix-4398865219
