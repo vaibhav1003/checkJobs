@@ -2039,3 +2039,7 @@
 4400398862 | Salesforce Developer (Tech Lead) (MT515ST RM 4081) | https://in.linkedin.com/jobs/view/salesforce-developer-tech-lead-mt515st-rm-4081-at-source-right-4400398862
 4400514515 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4400514515
 4398112710 | Salesforce FSL Developer | https://in.linkedin.com/jobs/view/salesforce-fsl-developer-at-metasys-technologies-4398112710
+4400542551 | Engineer, Software - Java [T500-25192] | https://in.linkedin.com/jobs/view/engineer-software-java-t500-25192-at-tmus-global-solutions-4400542551
+4400543804 | Principal Software Engineer - Full Stack - Java, AVP | https://in.linkedin.com/jobs/view/principal-software-engineer-full-stack-java-avp-at-state-street-4400543804
+4400546522 | Principal Software Engineer - Java Backend, AVP | https://in.linkedin.com/jobs/view/principal-software-engineer-java-backend-avp-at-state-street-4400546522
+4400521183 | Senior Manager, User Experience | https://in.linkedin.com/jobs/view/senior-manager-user-experience-at-salesforce-4400521183
