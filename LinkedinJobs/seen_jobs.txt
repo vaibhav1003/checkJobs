@@ -2026,3 +2026,6 @@
 4397670992 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-people-prime-worldwide-4397670992
 4400360670 | Technical Architect- Salesforce | https://in.linkedin.com/jobs/view/technical-architect-salesforce-at-crowe-capability-center-%E2%80%93-india-4400360670
 4400371246 | Senior Quality Engineer - S&P Global | https://in.linkedin.com/jobs/view/senior-quality-engineer-s-p-global-at-jobs-via-efinancialcareers-4400371246
+4400373531 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-vmultiply-solutions-4400373531
+4398101385 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-prime-research-brazil-4398101385
+4397689349 | Backend Developer Java | https://in.linkedin.com/jobs/view/backend-developer-java-at-mempulse-technologies-private-limited-4397689349
