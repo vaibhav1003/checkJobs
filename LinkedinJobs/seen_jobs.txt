@@ -2022,3 +2022,7 @@
 4398857896 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-concentrix-4398857896
 4398865219 | Java Full Stack Developers | https://in.linkedin.com/jobs/view/java-full-stack-developers-at-concentrix-4398865219
 4400307983 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-india-insure-risk-management-insurance-broking-services-pvt-ltd-4400307983
+4397665562 | Java BPM Developer | https://in.linkedin.com/jobs/view/java-bpm-developer-at-cg-vak-software-exports-ltd-4397665562
+4397670992 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-people-prime-worldwide-4397670992
+4400360670 | Technical Architect- Salesforce | https://in.linkedin.com/jobs/view/technical-architect-salesforce-at-crowe-capability-center-%E2%80%93-india-4400360670
+4400371246 | Senior Quality Engineer - S&P Global | https://in.linkedin.com/jobs/view/senior-quality-engineer-s-p-global-at-jobs-via-efinancialcareers-4400371246
