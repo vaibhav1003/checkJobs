@@ -2053,3 +2053,4 @@
 4398739552 | AI ML Developer III - Java, Agentic AI | https://in.linkedin.com/jobs/view/ai-ml-developer-iii-java-agentic-ai-at-hackajob-4398739552
 4399328987 | Oracle Tech Architecture And Middleware-MuleSoft Developer-Senior | https://in.linkedin.com/jobs/view/oracle-tech-architecture-and-middleware-mulesoft-developer-senior-at-ey-4399328987
 4400916903 | Salesforce Sales/Service cloud Developer | https://in.linkedin.com/jobs/view/salesforce-sales-service-cloud-developer-at-tata-consultancy-services-4400916903
+4400937925 | Java GCP developer | https://in.linkedin.com/jobs/view/java-gcp-developer-at-htc-global-services-4400937925
