@@ -2049,3 +2049,5 @@
 4400624976 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4400624976
 4400665867 | Software Engineer III ( AWS , Springboot, Java) | https://in.linkedin.com/jobs/view/software-engineer-iii-aws-springboot-java-at-jpmorganchase-4400665867
 4398710960 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-talentgigs-4398710960
+4388320513 | Sr. Software Engineer - Salesforce Job | https://in.linkedin.com/jobs/view/sr-software-engineer-salesforce-job-at-yash-technologies-4388320513
+4398739552 | AI ML Developer III - Java, Agentic AI | https://in.linkedin.com/jobs/view/ai-ml-developer-iii-java-agentic-ai-at-hackajob-4398739552
