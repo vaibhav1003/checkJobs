@@ -2056,3 +2056,6 @@
 4400937925 | Java GCP developer | https://in.linkedin.com/jobs/view/java-gcp-developer-at-htc-global-services-4400937925
 4398789353 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-talentgigs-4398789353
 4398783480 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-shine-com-4398783480
+4398790498 | Software Engineer III - Salesforce Automation | https://in.linkedin.com/jobs/view/software-engineer-iii-salesforce-automation-at-hackajob-4398790498
+4398774762 | SFDC CPQ Developer | https://in.linkedin.com/jobs/view/sfdc-cpq-developer-at-tata-consultancy-services-4398774762
+4398797374 | Lead Software Engineer - Salesforce | https://in.linkedin.com/jobs/view/lead-software-engineer-salesforce-at-hackajob-4398797374
