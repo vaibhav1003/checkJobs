@@ -2084,3 +2084,5 @@
 4401068982 | Technical Lead | https://in.linkedin.com/jobs/view/technical-lead-at-enabled-analytics-4401068982
 4399530041 | Software Engineer - Java Springboot Developer_97504 | https://in.linkedin.com/jobs/view/software-engineer-java-springboot-developer-97504-at-mycareernet-4399530041
 4401320305 | Fullstack Engineer - Java or .Net Fullstack( SG 25, 26, 27, 28, 29, 30) | https://in.linkedin.com/jobs/view/fullstack-engineer-java-or-net-fullstack-sg-25-26-27-28-29-30-at-optum-india-4401320305
+4393573545 | Principal Software Engineer - Java Backend, AVP | https://in.linkedin.com/jobs/view/principal-software-engineer-java-backend-avp-at-state-street-4393573545
+4399618781 | Software Engineer, Principal Java | https://in.linkedin.com/jobs/view/software-engineer-principal-java-at-blackbaud-india-4399618781
