@@ -2086,3 +2086,6 @@
 4401320305 | Fullstack Engineer - Java or .Net Fullstack( SG 25, 26, 27, 28, 29, 30) | https://in.linkedin.com/jobs/view/fullstack-engineer-java-or-net-fullstack-sg-25-26-27-28-29-30-at-optum-india-4401320305
 4393573545 | Principal Software Engineer - Java Backend, AVP | https://in.linkedin.com/jobs/view/principal-software-engineer-java-backend-avp-at-state-street-4393573545
 4399618781 | Software Engineer, Principal Java | https://in.linkedin.com/jobs/view/software-engineer-principal-java-at-blackbaud-india-4399618781
+4399682033 | Senior Salesforce CPQ Developer | https://in.linkedin.com/jobs/view/senior-salesforce-cpq-developer-at-etg-digital-4399682033
+4401363698 | Java Platform Engineer - Java8 / Microservices / Kafka - India | https://in.linkedin.com/jobs/view/java-platform-engineer-java8-microservices-kafka-india-at-egen-4401363698
+4400000421 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-valuemomentum-4400000421
