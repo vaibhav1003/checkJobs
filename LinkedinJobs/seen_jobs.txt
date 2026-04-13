@@ -2070,3 +2070,9 @@
 4401058361 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-egen-4401058361
 4401046861 | Salesforce Technical Architect - CPQ / Revenue Cloud | https://in.linkedin.com/jobs/view/salesforce-technical-architect-cpq-revenue-cloud-at-osf-digital-4401046861
 4401053667 | Salesforce B2C Commerce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-b2c-commerce-solution-architect-at-osf-digital-4401053667
+4399524574 | Salesforce Developer - B2B Commerce Cloud | https://in.linkedin.com/jobs/view/salesforce-developer-b2b-commerce-cloud-at-lean-it-inc-4399524574
+4401060559 | Java Kafka Developer | https://in.linkedin.com/jobs/view/java-kafka-developer-at-persistent-systems-4401060559
+4401067185 | Java React Fullstack Developer | https://in.linkedin.com/jobs/view/java-react-fullstack-developer-at-persistent-systems-4401067185
+4399173166 | Salesforce Technical Architect /Senior Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-senior-technical-architect-at-evoke-technologies-4399173166
+4399517574 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-zettamine-labs-pvt-ltd-4399517574
+4401066198 | Salesforce Developer-LWC | https://in.linkedin.com/jobs/view/salesforce-developer-lwc-at-accellor-4401066198
