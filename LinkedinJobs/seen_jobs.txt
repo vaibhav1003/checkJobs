@@ -2059,3 +2059,8 @@
 4398790498 | Software Engineer III - Salesforce Automation | https://in.linkedin.com/jobs/view/software-engineer-iii-salesforce-automation-at-hackajob-4398790498
 4398774762 | SFDC CPQ Developer | https://in.linkedin.com/jobs/view/sfdc-cpq-developer-at-tata-consultancy-services-4398774762
 4398797374 | Lead Software Engineer - Salesforce | https://in.linkedin.com/jobs/view/lead-software-engineer-salesforce-at-hackajob-4398797374
+4401036153 | Senior Salesforce Developer with Voice Connect/Service Cloud expertise | https://in.linkedin.com/jobs/view/senior-salesforce-developer-with-voice-connect-service-cloud-expertise-at-infotech-consultancy-4401036153
+4399130065 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-live-connections-4399130065
+4401023714 | Salesforce Loyalty Cloud Architect | https://in.linkedin.com/jobs/view/salesforce-loyalty-cloud-architect-at-accellor-4401023714
+4401026457 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-livemindz-4401026457
+4399140124 | MS D365 CRM Developer | https://in.linkedin.com/jobs/view/ms-d365-crm-developer-at-people-prime-worldwide-4399140124
