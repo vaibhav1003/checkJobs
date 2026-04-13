@@ -2065,3 +2065,8 @@
 4401026457 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-livemindz-4401026457
 4399140124 | MS D365 CRM Developer | https://in.linkedin.com/jobs/view/ms-d365-crm-developer-at-people-prime-worldwide-4399140124
 4399388975 | Salesforce Loyalty Cloud Architect | https://in.linkedin.com/jobs/view/salesforce-loyalty-cloud-architect-at-accellor-4399388975
+4399154863 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-talentgigs-4399154863
+4399152753 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4399152753
+4401058361 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-egen-4401058361
+4401046861 | Salesforce Technical Architect - CPQ / Revenue Cloud | https://in.linkedin.com/jobs/view/salesforce-technical-architect-cpq-revenue-cloud-at-osf-digital-4401046861
+4401053667 | Salesforce B2C Commerce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-b2c-commerce-solution-architect-at-osf-digital-4401053667
