@@ -2076,3 +2076,5 @@
 4399173166 | Salesforce Technical Architect /Senior Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-senior-technical-architect-at-evoke-technologies-4399173166
 4399517574 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-zettamine-labs-pvt-ltd-4399517574
 4401066198 | Salesforce Developer-LWC | https://in.linkedin.com/jobs/view/salesforce-developer-lwc-at-accellor-4401066198
+4399611451 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4399611451
+4401066511 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-qnity-4401066511
