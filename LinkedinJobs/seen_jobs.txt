@@ -2079,3 +2079,8 @@
 4399611451 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4399611451
 4401066511 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-qnity-4401066511
 4399622794 | Senior Associate Consultant | https://in.linkedin.com/jobs/view/senior-associate-consultant-at-infosys-4399622794
+4399536984 | Salesforce CPQ Developer | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-at-ltm-4399536984
+4399507906 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-highradius-4399507906
+4401068982 | Technical Lead | https://in.linkedin.com/jobs/view/technical-lead-at-enabled-analytics-4401068982
+4399530041 | Software Engineer - Java Springboot Developer_97504 | https://in.linkedin.com/jobs/view/software-engineer-java-springboot-developer-97504-at-mycareernet-4399530041
+4401320305 | Fullstack Engineer - Java or .Net Fullstack( SG 25, 26, 27, 28, 29, 30) | https://in.linkedin.com/jobs/view/fullstack-engineer-java-or-net-fullstack-sg-25-26-27-28-29-30-at-optum-india-4401320305
