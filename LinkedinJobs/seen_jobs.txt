@@ -2104,3 +2104,6 @@
 4400765733 | java full satck Developer | https://in.linkedin.com/jobs/view/java-full-satck-developer-at-tata-consultancy-services-4400765733
 4400787361 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4400787361
 4401781680 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4401781680
+4401793816 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4401793816
+4402007160 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4402007160
+4400798109 | Salesforce Architect/ Tech Lead | https://in.linkedin.com/jobs/view/salesforce-architect-tech-lead-at-teksystems-4400798109
