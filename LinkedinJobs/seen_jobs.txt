@@ -2100,3 +2100,5 @@
 4401737896 | UI Path Developer | https://in.linkedin.com/jobs/view/ui-path-developer-at-accellor-4401737896
 4401760174 | Technical Lead | https://in.linkedin.com/jobs/view/technical-lead-at-enabled-analytics-4401760174
 4400767090 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-qloron-pvt-ltd-4400767090
+4400765163 | Java Developer with Spring, Hibernate, and Agile Expertise | https://in.linkedin.com/jobs/view/java-developer-with-spring-hibernate-and-agile-expertise-at-synechron-4400765163
+4400765733 | java full satck Developer | https://in.linkedin.com/jobs/view/java-full-satck-developer-at-tata-consultancy-services-4400765733
