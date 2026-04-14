@@ -2097,3 +2097,6 @@
 4401709714 | Software Engineer -Java | https://in.linkedin.com/jobs/view/software-engineer-java-at-netweb-software-4401709714
 4399761007 | Solution Architect - Salesforce Service Cloud | https://in.linkedin.com/jobs/view/solution-architect-salesforce-service-cloud-at-epam-systems-4399761007
 4401735374 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-xebia-4401735374
+4401737896 | UI Path Developer | https://in.linkedin.com/jobs/view/ui-path-developer-at-accellor-4401737896
+4401760174 | Technical Lead | https://in.linkedin.com/jobs/view/technical-lead-at-enabled-analytics-4401760174
+4400767090 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-qloron-pvt-ltd-4400767090
