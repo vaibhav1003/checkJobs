@@ -2102,3 +2102,5 @@
 4400767090 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-qloron-pvt-ltd-4400767090
 4400765163 | Java Developer with Spring, Hibernate, and Agile Expertise | https://in.linkedin.com/jobs/view/java-developer-with-spring-hibernate-and-agile-expertise-at-synechron-4400765163
 4400765733 | java full satck Developer | https://in.linkedin.com/jobs/view/java-full-satck-developer-at-tata-consultancy-services-4400765733
+4400787361 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4400787361
+4401781680 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4401781680
