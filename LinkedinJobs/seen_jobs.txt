@@ -2126,3 +2126,5 @@
 4402267076 | Senior Software Engineer - Salesforce, nCino, Apex, LWC, SOQL, Unit Testing, Agile | https://in.linkedin.com/jobs/view/senior-software-engineer-salesforce-ncino-apex-lwc-soql-unit-testing-agile-at-wells-fargo-4402267076
 4399916943 | Salesforce Field Service Lightning (FSL) Consultant | https://in.linkedin.com/jobs/view/salesforce-field-service-lightning-fsl-consultant-at-pi-one-technologies-%CF%80-1-4399916943
 4401416818 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4401416818
+4401421473 | Technical Specialist-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-specialist-enterprise-apps-at-birlasoft-4401421473
+4399951978 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-concentrix-4399951978
