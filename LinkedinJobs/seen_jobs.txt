@@ -2145,3 +2145,5 @@
 4399213739 | Salesforce Engineer | https://www.linkedin.com/jobs/view/salesforce-engineer-at-adt-4399213739
 4401478661 | Senior Salesforce Developer | https://www.linkedin.com/jobs/view/senior-salesforce-developer-at-v-soft-consulting-group-inc-4401478661
 4402569006 | Senior Salesforce Developer | https://www.linkedin.com/jobs/view/senior-salesforce-developer-at-accel-bi-corporation-4402569006
+4402298912 | Senior Salesforce Developer | https://ca.linkedin.com/jobs/view/senior-salesforce-developer-at-tamanna-technology-4402298912
+4313860933 | Salesforce Administrator | https://www.linkedin.com/jobs/view/salesforce-administrator-at-vaneck-4313860933
