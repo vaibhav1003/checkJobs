@@ -2119,3 +2119,10 @@
 4401401015 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-talentgigs-4401401015
 4401176702 | Salesforce Lead Consultant | https://in.linkedin.com/jobs/view/salesforce-lead-consultant-at-cloud-epitome-4401176702
 4402239174 | Salesforce Techno-Functional Senior Consultant (Sales & Marketing Cloud) | https://in.linkedin.com/jobs/view/salesforce-techno-functional-senior-consultant-sales-marketing-cloud-at-infotech-consultancy-4402239174
+4401410495 | Salesforce Administrator | https://in.linkedin.com/jobs/view/salesforce-administrator-at-outreach-4401410495
+4401199627 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-outreach-4401199627
+4401194639 | Software Engineer II- Salesforce Development | https://in.linkedin.com/jobs/view/software-engineer-ii-salesforce-development-at-hackajob-4401194639
+4401403494 | Software Engineer III - Salesforce Development | https://in.linkedin.com/jobs/view/software-engineer-iii-salesforce-development-at-hackajob-4401403494
+4402267076 | Senior Software Engineer - Salesforce, nCino, Apex, LWC, SOQL, Unit Testing, Agile | https://in.linkedin.com/jobs/view/senior-software-engineer-salesforce-ncino-apex-lwc-soql-unit-testing-agile-at-wells-fargo-4402267076
+4399916943 | Salesforce Field Service Lightning (FSL) Consultant | https://in.linkedin.com/jobs/view/salesforce-field-service-lightning-fsl-consultant-at-pi-one-technologies-%CF%80-1-4399916943
+4401416818 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4401416818
