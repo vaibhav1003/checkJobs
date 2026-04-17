@@ -2200,3 +2200,8 @@
 4402320710 | Salesforce Senior Technical Consultant | https://in.linkedin.com/jobs/view/salesforce-senior-technical-consultant-at-katzion-a-globallogic-company-4402320710
 4403163492 | Software Engineer II - Spring Boot/Java & app Support | https://in.linkedin.com/jobs/view/software-engineer-ii-spring-boot-java-app-support-at-jpmorganchase-4403163492
 4402342686 | Salesforce Identity Provider | https://in.linkedin.com/jobs/view/salesforce-identity-provider-at-ridik-a-subsidiary-of-clps-nasdaq-clps-4402342686
+4402357010 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-yati-technology-4402357010
+4402375015 | Lead Salesforce Developer | https://in.linkedin.com/jobs/view/lead-salesforce-developer-at-cg-vak-software-exports-ltd-4402375015
+4402360086 | Salesforce solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-technogen-india-pvt-ltd-4402360086
+4403183991 | Java Backend Developer (Freelancer) | https://in.linkedin.com/jobs/view/java-backend-developer-freelancer-at-deccan-ai-experts-4403183991
+4403193810 | Java Full Stack Engineer | https://in.linkedin.com/jobs/view/java-full-stack-engineer-at-response-informatics-4403193810
