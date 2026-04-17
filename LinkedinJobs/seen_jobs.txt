@@ -2205,3 +2205,5 @@
 4402360086 | Salesforce solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-technogen-india-pvt-ltd-4402360086
 4403183991 | Java Backend Developer (Freelancer) | https://in.linkedin.com/jobs/view/java-backend-developer-freelancer-at-deccan-ai-experts-4403183991
 4403193810 | Java Full Stack Engineer | https://in.linkedin.com/jobs/view/java-full-stack-engineer-at-response-informatics-4403193810
+4402367320 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-viseo-asia-4402367320
+4402378520 | Big Data Developer (Hadoop/Spark/Java) | https://in.linkedin.com/jobs/view/big-data-developer-hadoop-spark-java-at-s-p-global-4402378520
