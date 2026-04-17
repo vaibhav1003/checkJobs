@@ -2199,3 +2199,4 @@
 4402325245 | Software Engineer- Java,Microservices,Springboot,Kafka | https://in.linkedin.com/jobs/view/software-engineer-java-microservices-springboot-kafka-at-blue-yonder-4402325245
 4402320710 | Salesforce Senior Technical Consultant | https://in.linkedin.com/jobs/view/salesforce-senior-technical-consultant-at-katzion-a-globallogic-company-4402320710
 4403163492 | Software Engineer II - Spring Boot/Java & app Support | https://in.linkedin.com/jobs/view/software-engineer-ii-spring-boot-java-app-support-at-jpmorganchase-4403163492
+4402342686 | Salesforce Identity Provider | https://in.linkedin.com/jobs/view/salesforce-identity-provider-at-ridik-a-subsidiary-of-clps-nasdaq-clps-4402342686
