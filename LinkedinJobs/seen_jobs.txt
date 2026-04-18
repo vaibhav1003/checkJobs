@@ -2212,3 +2212,7 @@
 4402773056 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-softcom-inc-si-4402773056
 4402753225 | Software Engineer II - Spring Boot/Java & app Support | https://in.linkedin.com/jobs/view/software-engineer-ii-spring-boot-java-app-support-at-hackajob-4402753225
 4402798369 | D365 CRM Developer | https://in.linkedin.com/jobs/view/d365-crm-developer-at-talentgigs-4402798369
+4403029511 | Salesforce SCV Engineer | https://in.linkedin.com/jobs/view/salesforce-scv-engineer-at-sanofi-4403029511
+4403051483 | Salesforce Health Cloud Engineer (High-touch) | https://in.linkedin.com/jobs/view/salesforce-health-cloud-engineer-high-touch-at-sanofi-4403051483
+4403033490 | Salesforce ATM Engineer | https://in.linkedin.com/jobs/view/salesforce-atm-engineer-at-sanofi-4403033490
+4403035550 | Salesforce Health Cloud Engineer | https://in.linkedin.com/jobs/view/salesforce-health-cloud-engineer-at-sanofi-4403035550
