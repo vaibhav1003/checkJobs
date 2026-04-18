@@ -2211,3 +2211,4 @@
 4403487453 | Salesforce Administrator | https://in.linkedin.com/jobs/view/salesforce-administrator-at-billtrust-4403487453
 4402773056 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-softcom-inc-si-4402773056
 4402753225 | Software Engineer II - Spring Boot/Java & app Support | https://in.linkedin.com/jobs/view/software-engineer-ii-spring-boot-java-app-support-at-hackajob-4402753225
+4402798369 | D365 CRM Developer | https://in.linkedin.com/jobs/view/d365-crm-developer-at-talentgigs-4402798369
