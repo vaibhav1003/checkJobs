@@ -2219,3 +2219,5 @@
 4403091935 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-shine-com-4403091935
 4401261297 | Sr. Software Engineer - Salesforce Job | https://in.linkedin.com/jobs/view/sr-software-engineer-salesforce-job-at-yash-technologies-middle-east-4401261297
 4403318365 | Java Developer_4+Years | https://in.linkedin.com/jobs/view/java-developer-4%2Byears-at-zorba-ai-4403318365
+4403306544 | Application Engineer III - Java Developer | https://in.linkedin.com/jobs/view/application-engineer-iii-java-developer-at-swiss-re-4403306544
+4403891593 | Senior Manager - Data 360 | https://in.linkedin.com/jobs/view/senior-manager-data-360-at-salesforce-4403891593
