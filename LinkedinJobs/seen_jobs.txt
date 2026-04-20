@@ -2250,3 +2250,5 @@
 4401621683 | Salesforce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-ntt-data-inc-4401621683
 4404083158 | Salesforce Technical Architect - CPQ / Revenue Cloud | https://in.linkedin.com/jobs/view/salesforce-technical-architect-cpq-revenue-cloud-at-osf-digital-4404083158
 4404096122 | Salesforce B2C Commerce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-b2c-commerce-solution-architect-at-osf-digital-4404096122
+4401655542 | Salesforce Commerce Cloud Senior Developer | https://in.linkedin.com/jobs/view/salesforce-commerce-cloud-senior-developer-at-ntt-data-inc-4401655542
+4401672150 | Mulesoft Developer | https://in.linkedin.com/jobs/view/mulesoft-developer-at-ntt-data-inc-4401672150
