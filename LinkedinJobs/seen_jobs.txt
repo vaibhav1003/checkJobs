@@ -2238,3 +2238,5 @@
 4404069072 | Salesforce CPQ Developer | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-at-dextara-datamatics-4404069072
 4395964969 | Software Engineer III - Java FullStack | https://in.linkedin.com/jobs/view/software-engineer-iii-java-fullstack-at-hackajob-4395964969
 4403352607 | full stack java developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-shine-com-4403352607
+4404067716 | Salesforce Consultant (Data 360) | https://in.linkedin.com/jobs/view/salesforce-consultant-data-360-at-salesforce-4404067716
+4404078622 | Senior Salesforce Consultant (Data 360) | https://in.linkedin.com/jobs/view/senior-salesforce-consultant-data-360-at-salesforce-4404078622
