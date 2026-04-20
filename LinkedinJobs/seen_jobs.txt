@@ -2252,3 +2252,4 @@
 4404096122 | Salesforce B2C Commerce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-b2c-commerce-solution-architect-at-osf-digital-4404096122
 4401655542 | Salesforce Commerce Cloud Senior Developer | https://in.linkedin.com/jobs/view/salesforce-commerce-cloud-senior-developer-at-ntt-data-inc-4401655542
 4401672150 | Mulesoft Developer | https://in.linkedin.com/jobs/view/mulesoft-developer-at-ntt-data-inc-4401672150
+4403660285 | Java Full stack developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4403660285
