@@ -2247,3 +2247,6 @@
 4404312122 | Senior Salesforce Consultant (Data 360) | https://in.linkedin.com/jobs/view/senior-salesforce-consultant-data-360-at-griddable-io-4404312122
 4404071805 | Salesforce DevOps Architect | https://in.linkedin.com/jobs/view/salesforce-devops-architect-at-informatica-brasil-4404071805
 4404327050 | Salesforce DevOps Architect | https://in.linkedin.com/jobs/view/salesforce-devops-architect-at-griddable-io-4404327050
+4401621683 | Salesforce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-ntt-data-inc-4401621683
+4404083158 | Salesforce Technical Architect - CPQ / Revenue Cloud | https://in.linkedin.com/jobs/view/salesforce-technical-architect-cpq-revenue-cloud-at-osf-digital-4404083158
+4404096122 | Salesforce B2C Commerce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-b2c-commerce-solution-architect-at-osf-digital-4404096122
