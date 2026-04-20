@@ -2240,3 +2240,6 @@
 4403352607 | full stack java developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-shine-com-4403352607
 4404067716 | Salesforce Consultant (Data 360) | https://in.linkedin.com/jobs/view/salesforce-consultant-data-360-at-salesforce-4404067716
 4404078622 | Senior Salesforce Consultant (Data 360) | https://in.linkedin.com/jobs/view/senior-salesforce-consultant-data-360-at-salesforce-4404078622
+4401615960 | Salesforce Developer - (NPW) | https://in.linkedin.com/jobs/view/salesforce-developer-npw-at-milestone-technologies-inc-4401615960
+4404090170 | Salesforce Developer - OMS | https://in.linkedin.com/jobs/view/salesforce-developer-oms-at-osf-digital-4404090170
+4401624791 | MuleSoft Senior Developer | https://in.linkedin.com/jobs/view/mulesoft-senior-developer-at-ntt-data-inc-4401624791
