@@ -2243,3 +2243,7 @@
 4401615960 | Salesforce Developer - (NPW) | https://in.linkedin.com/jobs/view/salesforce-developer-npw-at-milestone-technologies-inc-4401615960
 4404090170 | Salesforce Developer - OMS | https://in.linkedin.com/jobs/view/salesforce-developer-oms-at-osf-digital-4404090170
 4401624791 | MuleSoft Senior Developer | https://in.linkedin.com/jobs/view/mulesoft-senior-developer-at-ntt-data-inc-4401624791
+4401640205 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-alliantgroup-4401640205
+4404312122 | Senior Salesforce Consultant (Data 360) | https://in.linkedin.com/jobs/view/senior-salesforce-consultant-data-360-at-griddable-io-4404312122
+4404071805 | Salesforce DevOps Architect | https://in.linkedin.com/jobs/view/salesforce-devops-architect-at-informatica-brasil-4404071805
+4404327050 | Salesforce DevOps Architect | https://in.linkedin.com/jobs/view/salesforce-devops-architect-at-griddable-io-4404327050
