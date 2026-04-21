@@ -2272,3 +2272,5 @@
 4403948418 | Salesforce Developer (Experience in Quote to cash) | https://in.linkedin.com/jobs/view/salesforce-developer-experience-in-quote-to-cash-at-outreach-4403948418
 4401944161 | Principal Software Engineer - Java | https://in.linkedin.com/jobs/view/principal-software-engineer-java-at-hexagon-r-d-india-4401944161
 4403958484 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-p99soft-4403958484
+4404804267 | Principal Engineer - Java | https://in.linkedin.com/jobs/view/principal-engineer-java-at-wells-fargo-4404804267
+4404819319 | Manager Content - Marketing CRM (HCP) | https://in.linkedin.com/jobs/view/manager-content-marketing-crm-hcp-at-amgen-4404819319
