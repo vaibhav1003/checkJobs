@@ -2279,3 +2279,5 @@
 4404824120 | Software Engineer- Java, Springboot | https://in.linkedin.com/jobs/view/software-engineer-java-springboot-at-optum-india-4404824120
 4404837510 | Proactive Monitoring Engineer | https://in.linkedin.com/jobs/view/proactive-monitoring-engineer-at-salesforce-4404837510
 4404831824 | FDE Data 360 — Manager ( Salesforce) | https://in.linkedin.com/jobs/view/fde-data-360-%E2%80%94-manager-salesforce-at-salesforce-4404831824
+4404876833 | Salesforce UI developer | https://in.linkedin.com/jobs/view/salesforce-ui-developer-at-cgi-4404876833
+4404888632 | Java developer | https://in.linkedin.com/jobs/view/java-developer-at-cgi-4404888632
