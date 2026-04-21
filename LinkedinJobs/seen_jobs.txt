@@ -2274,3 +2274,6 @@
 4403958484 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-p99soft-4403958484
 4404804267 | Principal Engineer - Java | https://in.linkedin.com/jobs/view/principal-engineer-java-at-wells-fargo-4404804267
 4404819319 | Manager Content - Marketing CRM (HCP) | https://in.linkedin.com/jobs/view/manager-content-marketing-crm-hcp-at-amgen-4404819319
+4404816811 | Salesforce Media Cloud Functional Developer | https://in.linkedin.com/jobs/view/salesforce-media-cloud-functional-developer-at-databeat-4404816811
+4404806768 | Proactive Monitoring Engineer | https://in.linkedin.com/jobs/view/proactive-monitoring-engineer-at-griddable-io-4404806768
+4404824120 | Software Engineer- Java, Springboot | https://in.linkedin.com/jobs/view/software-engineer-java-springboot-at-optum-india-4404824120
