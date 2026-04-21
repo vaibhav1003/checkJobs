@@ -2253,3 +2253,8 @@
 4401655542 | Salesforce Commerce Cloud Senior Developer | https://in.linkedin.com/jobs/view/salesforce-commerce-cloud-senior-developer-at-ntt-data-inc-4401655542
 4401672150 | Mulesoft Developer | https://in.linkedin.com/jobs/view/mulesoft-developer-at-ntt-data-inc-4401672150
 4403660285 | Java Full stack developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4403660285
+4401695382 | Associate Lead Consultant - Salesforce Job | https://in.linkedin.com/jobs/view/associate-lead-consultant-salesforce-job-at-yash-technologies-middle-east-4401695382
+4404515244 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4404515244
+4404511195 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4404511195
+4404397857 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-india-insure-risk-management-insurance-broking-services-pvt-ltd-4404397857
+4403679899 | Java Developer - PBN | https://in.linkedin.com/jobs/view/java-developer-pbn-at-juara-it-solutions-4403679899
