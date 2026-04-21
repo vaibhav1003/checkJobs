@@ -2267,3 +2267,5 @@
 4401918176 | Salesforce Marketing Automation Developer | https://in.linkedin.com/jobs/view/salesforce-marketing-automation-developer-at-crescent-techservices-4401918176
 4404549351 | Senior Salesforce CPQ Developer | https://in.linkedin.com/jobs/view/senior-salesforce-cpq-developer-at-emburse-4404549351
 4404529652 | Adobe Marketo Developer | https://in.linkedin.com/jobs/view/adobe-marketo-developer-at-infovision-inc-4404529652
+4404554269 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-mphasis-4404554269
+4403940053 | .NET Developer (Umbraco CMS Expert) - Immediate Joiner (Contractual) | https://in.linkedin.com/jobs/view/net-developer-umbraco-cms-expert-immediate-joiner-contractual-at-digital-business-people-4403940053
