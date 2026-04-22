@@ -2293,3 +2293,4 @@
 4404971400 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4404971400
 4404986068 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4404986068
 4402431411 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-ntt-data-inc-4402431411
+4404267895 | Java AWS Developer | https://in.linkedin.com/jobs/view/java-aws-developer-at-frenzoft-4404267895
