@@ -2302,3 +2302,4 @@
 4405246238 | Salesforce B2C Commerce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-b2c-commerce-solution-architect-at-osf-digital-4405246238
 4404288998 | Enterprise Java Developer | Java (8+), Spring, Hibernate, SQL, API Integration, Agile | https://in.linkedin.com/jobs/view/enterprise-java-developer-java-8%2B-spring-hibernate-sql-api-integration-agile-at-synechron-4404288998
 4404299349 | Enterprise Java Developer | Java (8+), Spring, Hibernate, APIs, Cloud (AWS/Azure), Security & Performance | https://in.linkedin.com/jobs/view/enterprise-java-developer-java-8%2B-spring-hibernate-apis-cloud-aws-azure-security-performance-at-synechron-4404299349
+4389705475 | Salesforce + Agentforce Manager | https://in.linkedin.com/jobs/view/salesforce-%2B-agentforce-manager-at-salesforce-4389705475
