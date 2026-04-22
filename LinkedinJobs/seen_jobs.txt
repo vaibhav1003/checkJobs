@@ -2288,3 +2288,8 @@
 4404930451 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-nulfinity-technologies-4404930451
 4404945299 | Manager of Software Engineer- Java, Sprint boot, Architecture and Design | https://in.linkedin.com/jobs/view/manager-of-software-engineer-java-sprint-boot-architecture-and-design-at-jpmorganchase-4404945299
 4404957096 | Software Engineer III - .Net , Java, Oracle databse | https://in.linkedin.com/jobs/view/software-engineer-iii-net-java-oracle-databse-at-jpmorganchase-4404957096
+4404975268 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-info-way-solutions-4404975268
+4404270249 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-people-prime-worldwide-4404270249
+4404971400 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4404971400
+4404986068 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4404986068
+4402431411 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-ntt-data-inc-4402431411
