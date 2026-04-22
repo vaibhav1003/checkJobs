@@ -2294,3 +2294,6 @@
 4404986068 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4404986068
 4402431411 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-ntt-data-inc-4402431411
 4404267895 | Java AWS Developer | https://in.linkedin.com/jobs/view/java-aws-developer-at-frenzoft-4404267895
+4405209081 | Salesforce QA Engineer | https://in.linkedin.com/jobs/view/salesforce-qa-engineer-at-accellor-4405209081
+4392177912 | Senior Consultant- Sales & Service- Salesforce Functional | https://in.linkedin.com/jobs/view/senior-consultant-sales-service-salesforce-functional-at-deloitte-4392177912
+4404283683 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4404283683
