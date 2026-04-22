@@ -2298,3 +2298,6 @@
 4392177912 | Senior Consultant- Sales & Service- Salesforce Functional | https://in.linkedin.com/jobs/view/senior-consultant-sales-service-salesforce-functional-at-deloitte-4392177912
 4404283683 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4404283683
 4402441049 | Principal Software Engineer - Java Full Stack Engineer | https://in.linkedin.com/jobs/view/principal-software-engineer-java-full-stack-engineer-at-mco-mycomplianceoffice-4402441049
+4405252514 | Software Engineer - Salesforce [T500-25410] | https://in.linkedin.com/jobs/view/software-engineer-salesforce-t500-25410-at-marriott-tech-accelerator-4405252514
+4405246238 | Salesforce B2C Commerce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-b2c-commerce-solution-architect-at-osf-digital-4405246238
+4404288998 | Enterprise Java Developer | Java (8+), Spring, Hibernate, SQL, API Integration, Agile | https://in.linkedin.com/jobs/view/enterprise-java-developer-java-8%2B-spring-hibernate-sql-api-integration-agile-at-synechron-4404288998
