@@ -2311,3 +2311,7 @@
 4405601500 | Java developer | https://in.linkedin.com/jobs/view/java-developer-at-people-tech-group-inc-4405601500
 4404729046 | Salesforce Nonprofit (NPSP) Consultant | https://in.linkedin.com/jobs/view/salesforce-nonprofit-npsp-consultant-at-skala-consultancy-services-4404729046
 4404711684 | Senior .NET Developer (Umbraco CMS Expert) - (Contractual) | https://in.linkedin.com/jobs/view/senior-net-developer-umbraco-cms-expert-contractual-at-digital-business-people-4404711684
+4404722375 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-kloudportal-%E2%84%A2-digital-engineering-company-4404722375
+4405609828 | Senior Salesforce Developer + CPQ | https://in.linkedin.com/jobs/view/senior-salesforce-developer-%2B-cpq-at-srs-consulting-inc-4405609828
+4404739230 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-speedmart-4404739230
+4338753805 | Salesforce/Agentforce Developer (Software Engineering, MTS) | https://in.linkedin.com/jobs/view/salesforce-agentforce-developer-software-engineering-mts-at-salesforce-4338753805
