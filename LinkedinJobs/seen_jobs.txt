@@ -2328,3 +2328,5 @@
 4404749273 | Application Development Consultant – Salesforce Service Cloud | https://in.linkedin.com/jobs/view/application-development-consultant-%E2%80%93-salesforce-service-cloud-at-the-goodyear-tire-rubber-company-4404749273
 4405671822 | Staff Java Engineer - Full Stack | https://in.linkedin.com/jobs/view/staff-java-engineer-full-stack-at-experian-4405671822
 4405825177 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4405825177
+4405865377 | Salesforce Commerce Cloud (SFCC) Developer | https://in.linkedin.com/jobs/view/salesforce-commerce-cloud-sfcc-developer-at-cgi-4405865377
+4405036284 | Senior Software Engineer - Salesforce | https://in.linkedin.com/jobs/view/senior-software-engineer-salesforce-at-blackbaud-india-4405036284
