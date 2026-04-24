@@ -2353,3 +2353,5 @@
 4405360283 | Assistant Manager – Salesforce – Einstein Analytics Developer _Hyderabad | https://in.linkedin.com/jobs/view/assistant-manager-%E2%80%93-salesforce-%E2%80%93-einstein-analytics-developer-hyderabad-at-deloitte-4405360283
 4403749452 | Product Support Engineer (BIS) (Boomi) | https://in.linkedin.com/jobs/view/product-support-engineer-bis-boomi-at-boomi-4403749452
 4406645410 | Salesforce AI / Agentforce Developer | https://in.linkedin.com/jobs/view/salesforce-ai-agentforce-developer-at-zensar-technologies-4406645410
+4405354632 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4405354632
+4405358638 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4405358638
