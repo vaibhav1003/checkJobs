@@ -2340,3 +2340,7 @@
 4405083673 | Java Developer (Java, AWS, Kubernetes) | https://in.linkedin.com/jobs/view/java-developer-java-aws-kubernetes-at-ascendion-4405083673
 4406154121 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-ingrain-systems-inc-4406154121
 4406145293 | ADP - Senior Manager, Digital Marketing. ( 0-0 yrs ) | https://in.linkedin.com/jobs/view/adp-senior-manager-digital-marketing-0-0-yrs-at-etcio-cloud-data-center-4406145293
+4403703788 | Customer Tech-Salesforce-Senior Developers | https://in.linkedin.com/jobs/view/customer-tech-salesforce-senior-developers-at-ey-4403703788
+4405094469 | Salesforce Marketing Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-at-spearsoft-4405094469
+4406170388 | Software Engineering MTS (Full Stack) | https://in.linkedin.com/jobs/view/software-engineering-mts-full-stack-at-salesforce-ad-4406170388
+4405313384 | Software Engineer III - Java, Kafka | https://in.linkedin.com/jobs/view/software-engineer-iii-java-kafka-at-hackajob-4405313384
