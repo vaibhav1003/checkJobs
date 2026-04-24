@@ -2332,3 +2332,4 @@
 4405036284 | Senior Software Engineer - Salesforce | https://in.linkedin.com/jobs/view/senior-software-engineer-salesforce-at-blackbaud-india-4405036284
 4405857820 | Software Engineer III- Java, Python, AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-python-aws-at-jpmorganchase-4405857820
 4405872548 | Software Engineer II- Java, Python, AWS | https://in.linkedin.com/jobs/view/software-engineer-ii-java-python-aws-at-jpmorganchase-4405872548
+4405092081 | MS D365 CRM Developer | https://in.linkedin.com/jobs/view/ms-d365-crm-developer-at-people-prime-worldwide-4405092081
