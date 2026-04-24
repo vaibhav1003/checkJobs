@@ -2355,3 +2355,4 @@
 4406645410 | Salesforce AI / Agentforce Developer | https://in.linkedin.com/jobs/view/salesforce-ai-agentforce-developer-at-zensar-technologies-4406645410
 4405354632 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4405354632
 4405358638 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4405358638
+4404107282 | Salesforce CPQ Architect | https://in.linkedin.com/jobs/view/salesforce-cpq-architect-at-carrier-4404107282
