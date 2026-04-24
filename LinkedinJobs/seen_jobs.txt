@@ -2346,3 +2346,7 @@
 4405313384 | Software Engineer III - Java, Kafka | https://in.linkedin.com/jobs/view/software-engineer-iii-java-kafka-at-hackajob-4405313384
 4406176210 | Sr Software Engineer - Salesforce | https://in.linkedin.com/jobs/view/sr-software-engineer-salesforce-at-mattel-inc-4406176210
 4406165963 | DocuSign CLM | https://in.linkedin.com/jobs/view/docusign-clm-at-info-way-solutions-4406165963
+4403736494 | Developer | https://in.linkedin.com/jobs/view/developer-at-ntt-data-inc-4403736494
+4403740400 | Developer | https://in.linkedin.com/jobs/view/developer-at-ntt-data-inc-4403740400
+4403741399 | Developer | https://in.linkedin.com/jobs/view/developer-at-ntt-data-inc-4403741399
+4406393254 | Salesforce Technical Lead | https://in.linkedin.com/jobs/view/salesforce-technical-lead-at-gspann-technologies-inc-4406393254
