@@ -2356,3 +2356,5 @@
 4405354632 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4405354632
 4405358638 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4405358638
 4404107282 | Salesforce CPQ Architect | https://in.linkedin.com/jobs/view/salesforce-cpq-architect-at-carrier-4404107282
+4406661307 | Software Engineer II ( AWS , Springboot, Java) | https://in.linkedin.com/jobs/view/software-engineer-ii-aws-springboot-java-at-jpmorganchase-4406661307
+4406669233 | Software Engineer III - Java/AWS/Mainframe | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-mainframe-at-jpmorganchase-4406669233
