@@ -2350,3 +2350,5 @@
 4403740400 | Developer | https://in.linkedin.com/jobs/view/developer-at-ntt-data-inc-4403740400
 4403741399 | Developer | https://in.linkedin.com/jobs/view/developer-at-ntt-data-inc-4403741399
 4406393254 | Salesforce Technical Lead | https://in.linkedin.com/jobs/view/salesforce-technical-lead-at-gspann-technologies-inc-4406393254
+4405360283 | Assistant Manager – Salesforce – Einstein Analytics Developer _Hyderabad | https://in.linkedin.com/jobs/view/assistant-manager-%E2%80%93-salesforce-%E2%80%93-einstein-analytics-developer-hyderabad-at-deloitte-4405360283
+4403749452 | Product Support Engineer (BIS) (Boomi) | https://in.linkedin.com/jobs/view/product-support-engineer-bis-boomi-at-boomi-4403749452
