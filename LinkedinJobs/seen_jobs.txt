@@ -2344,3 +2344,5 @@
 4405094469 | Salesforce Marketing Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-at-spearsoft-4405094469
 4406170388 | Software Engineering MTS (Full Stack) | https://in.linkedin.com/jobs/view/software-engineering-mts-full-stack-at-salesforce-ad-4406170388
 4405313384 | Software Engineer III - Java, Kafka | https://in.linkedin.com/jobs/view/software-engineer-iii-java-kafka-at-hackajob-4405313384
+4406176210 | Sr Software Engineer - Salesforce | https://in.linkedin.com/jobs/view/sr-software-engineer-salesforce-at-mattel-inc-4406176210
+4406165963 | DocuSign CLM | https://in.linkedin.com/jobs/view/docusign-clm-at-info-way-solutions-4406165963
