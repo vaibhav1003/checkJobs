@@ -2369,3 +2369,4 @@
 4406845875 | Systems Software Principal Engineer - Java | https://in.linkedin.com/jobs/view/systems-software-principal-engineer-java-at-ttec-digital-4406845875
 4406867234 | Fresher Java Developer | https://in.linkedin.com/jobs/view/fresher-java-developer-at-joveo-ai-4406867234
 4404170979 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-deloitte-4404170979
+4405774058 | Salesforce CPQ Architect | https://in.linkedin.com/jobs/view/salesforce-cpq-architect-at-carrier-4405774058
