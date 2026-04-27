@@ -2393,3 +2393,12 @@
 4405132517 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-aptimized-4405132517
 4406200633 | Application Developer (Salesforce) | https://in.linkedin.com/jobs/view/application-developer-salesforce-at-centrilogic-4406200633
 4407520036 | Software Engineer II-Java Developer | https://in.linkedin.com/jobs/view/software-engineer-ii-java-developer-at-jpmorganchase-4407520036
+4407515144 | Backend Java Developer with strong AWS experience | https://in.linkedin.com/jobs/view/backend-java-developer-with-strong-aws-experience-at-h3-technologies-llc-4407515144
+4406216770 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-hackajob-4406216770
+4406213975 | {
+  'jobTitle': 'Salesforce Trade Promotion Management Functional Lead Or Consultant',
+  'locationName': 'India',
+  'jobType': '!None!',
+  'workplaceType': 'HYBRID',
+  'companyName': 'Nextmetaforce'
+} | https://in.linkedin.com/jobs/view/%0A-jobtitle-salesforce-trade-promotion-management-functional-lead-or-consultant-%0A-locationname-india-%0A-jobtype-%21none%21-%0A-workplacetype-hybrid-%0A-companyname-nextmetaforce-%0A-at-nextmetaforce-4406213975
