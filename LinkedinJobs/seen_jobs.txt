@@ -2374,3 +2374,5 @@
 4407115443 | Fresher Java Developer | https://in.linkedin.com/jobs/view/fresher-java-developer-at-joveo-ai-4407115443
 4407105601 | Java Developer (Remote) | https://in.linkedin.com/jobs/view/java-developer-remote-at-joveo-ai-4407105601
 4405929151 | Software Engineer III - Java/AWS/Mainframe | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-mainframe-at-hackajob-4405929151
+4405941857 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4405941857
+4405946717 | Microsoft dynamics 365  CRM lead  & Sr Developer ( CRM _Azure) | https://in.linkedin.com/jobs/view/microsoft-dynamics-365-crm-lead-sr-developer-crm-azure-at-people-prime-worldwide-4405946717
