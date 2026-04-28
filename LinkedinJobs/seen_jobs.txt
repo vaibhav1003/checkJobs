@@ -2421,3 +2421,5 @@
 4408004375 | Salesforce Consultant | https://in.linkedin.com/jobs/view/salesforce-consultant-at-info-way-solutions-4408004375
 4407864118 | Salesforce Success Architect | https://in.linkedin.com/jobs/view/salesforce-success-architect-at-salesforce-4407864118
 4407887713 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-info-way-solutions-4407887713
+4406585668 | Salesforce FSC Lead Developer | https://in.linkedin.com/jobs/view/salesforce-fsc-lead-developer-at-cognizant-4406585668
+4408058001 | Software Engineer II - Java, AI, Kubernetes | https://in.linkedin.com/jobs/view/software-engineer-ii-java-ai-kubernetes-at-jpmorganchase-4408058001
