@@ -2402,3 +2402,5 @@
   'workplaceType': 'HYBRID',
   'companyName': 'Nextmetaforce'
 } | https://in.linkedin.com/jobs/view/%0A-jobtitle-salesforce-trade-promotion-management-functional-lead-or-consultant-%0A-locationname-india-%0A-jobtype-%21none%21-%0A-workplacetype-hybrid-%0A-companyname-nextmetaforce-%0A-at-nextmetaforce-4406213975
+4407815335 | Senior Software Engineer - Analytics Platform Development Java/Node/React/Lit | https://in.linkedin.com/jobs/view/senior-software-engineer-analytics-platform-development-java-node-react-lit-at-stacknexus-4407815335
+4407814316 | Salesforce Revenue Cloud | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-at-teamware-solutions-4407814316
