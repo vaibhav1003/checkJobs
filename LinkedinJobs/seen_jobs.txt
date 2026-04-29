@@ -2430,3 +2430,10 @@
 4408234662 | Technical Pre sales consultant | https://in.linkedin.com/jobs/view/technical-pre-sales-consultant-at-weekday-ai-yc-w21-4408234662
 4408227808 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-cgi-4408227808
 4408244030 | Java Developer (Freelancer) | https://in.linkedin.com/jobs/view/java-developer-freelancer-at-deccan-ai-experts-4408244030
+4406983009 | ESaaS - SFDC - Lightning UI & JavaScript Development | https://in.linkedin.com/jobs/view/esaas-sfdc-lightning-ui-javascript-development-at-zensar-technologies-4406983009
+4408243541 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-vandey-global-services-4408243541
+4408243589 | Salesforce SCV Engineer | https://in.linkedin.com/jobs/view/salesforce-scv-engineer-at-sanofi-4408243589
+4406964974 | Salesforce Senior Developer | https://in.linkedin.com/jobs/view/salesforce-senior-developer-at-ness-digital-engineering-4406964974
+4408256284 | Salesforce Health Cloud Engineer | https://in.linkedin.com/jobs/view/salesforce-health-cloud-engineer-at-sanofi-4408256284
+4408249481 | Salesforce ATM Engineer | https://in.linkedin.com/jobs/view/salesforce-atm-engineer-at-sanofi-4408249481
+4406987081 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4406987081
