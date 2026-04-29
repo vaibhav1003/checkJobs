@@ -2439,3 +2439,5 @@
 4406987081 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4406987081
 4408268968 | Salesforce Senior Developer | https://in.linkedin.com/jobs/view/salesforce-senior-developer-at-ness-digital-engineering-4408268968
 4406068458 | MuleSoft Senior Developer | https://in.linkedin.com/jobs/view/mulesoft-senior-developer-at-ntt-data-inc-4406068458
+4406403124 | Java Full Stack Developer with Travel Domain | https://in.linkedin.com/jobs/view/java-full-stack-developer-with-travel-domain-at-ntt-data-inc-4406403124
+4408544087 | Director, Technical Consulting | https://in.linkedin.com/jobs/view/director-technical-consulting-at-salesforce-4408544087
