@@ -2425,3 +2425,4 @@
 4408058001 | Software Engineer II - Java, AI, Kubernetes | https://in.linkedin.com/jobs/view/software-engineer-ii-java-ai-kubernetes-at-jpmorganchase-4408058001
 4408209101 | Software Engineer III - Java | https://in.linkedin.com/jobs/view/software-engineer-iii-java-at-jpmorganchase-4408209101
 4406032640 | Specialist / Team Lead - Salesforce Developer | https://in.linkedin.com/jobs/view/specialist-team-lead-salesforce-developer-at-accenture-in-india-4406032640
+4406969108 | MS Dynamics CRM Developer | https://in.linkedin.com/jobs/view/ms-dynamics-crm-developer-at-shine-com-4406969108
