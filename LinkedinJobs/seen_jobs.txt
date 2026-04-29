@@ -2426,3 +2426,7 @@
 4408209101 | Software Engineer III - Java | https://in.linkedin.com/jobs/view/software-engineer-iii-java-at-jpmorganchase-4408209101
 4406032640 | Specialist / Team Lead - Salesforce Developer | https://in.linkedin.com/jobs/view/specialist-team-lead-salesforce-developer-at-accenture-in-india-4406032640
 4406969108 | MS Dynamics CRM Developer | https://in.linkedin.com/jobs/view/ms-dynamics-crm-developer-at-shine-com-4406969108
+4406973361 | Software Engineer III- Java, Python, AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-python-aws-at-hackajob-4406973361
+4408234662 | Technical Pre sales consultant | https://in.linkedin.com/jobs/view/technical-pre-sales-consultant-at-weekday-ai-yc-w21-4408234662
+4408227808 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-cgi-4408227808
+4408244030 | Java Developer (Freelancer) | https://in.linkedin.com/jobs/view/java-developer-freelancer-at-deccan-ai-experts-4408244030
