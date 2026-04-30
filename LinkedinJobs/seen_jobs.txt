@@ -2441,3 +2441,12 @@
 4406068458 | MuleSoft Senior Developer | https://in.linkedin.com/jobs/view/mulesoft-senior-developer-at-ntt-data-inc-4406068458
 4406403124 | Java Full Stack Developer with Travel Domain | https://in.linkedin.com/jobs/view/java-full-stack-developer-with-travel-domain-at-ntt-data-inc-4406403124
 4408544087 | Director, Technical Consulting | https://in.linkedin.com/jobs/view/director-technical-consulting-at-salesforce-4408544087
+4406438784 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-charter-global-4406438784
+4406450017 | Senior Salesforce QA Engineer | https://in.linkedin.com/jobs/view/senior-salesforce-qa-engineer-at-charter-global-4406450017
+4408710989 | Staff Software Engineer - Java | https://in.linkedin.com/jobs/view/staff-software-engineer-java-at-matillion-4408710989
+4406448292 | Java Backend Developer – Airlines Domain | https://in.linkedin.com/jobs/view/java-backend-developer-%E2%80%93-airlines-domain-at-coforge-4406448292
+4407322629 | SFCC Senior Developer | https://in.linkedin.com/jobs/view/sfcc-senior-developer-at-people-prime-worldwide-4407322629
+4406441435 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-mygwork-lgbtq%2B-business-community-4406441435
+4407304747 | Java full stack Developer With React | https://in.linkedin.com/jobs/view/java-full-stack-developer-with-react-at-people-prime-worldwide-4407304747
+4407317656 | Java Full Stack Developers with cloud | Rihusoft Consulting & Services | https://in.linkedin.com/jobs/view/java-full-stack-developers-with-cloud-rihusoft-consulting-services-at-rihu-software-consulting-pvt-ltd-4407317656
+4407310699 | Microsoft dynamics 365  CRM lead  & Sr Developer ( CRM _Azure) | https://in.linkedin.com/jobs/view/microsoft-dynamics-365-crm-lead-sr-developer-crm-azure-at-people-prime-worldwide-4407310699
