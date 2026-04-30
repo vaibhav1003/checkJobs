@@ -2463,3 +2463,6 @@
 4407619030 | Consultant- Sales & Service- Salesforce DevOps | https://in.linkedin.com/jobs/view/consultant-sales-service-salesforce-devops-at-deloitte-4407619030
 4408796782 | Staff Engineer - Java,Scala,AWS | https://in.linkedin.com/jobs/view/staff-engineer-java-scala-aws-at-experian-4408796782
 4408753856 | Manager - Distribution Enablement - Salesforce | https://in.linkedin.com/jobs/view/manager-distribution-enablement-salesforce-at-invesco-4408753856
+4409029678 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4409029678
+4409033617 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4409033617
+4407602683 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4407602683
