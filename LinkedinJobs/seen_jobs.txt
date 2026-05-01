@@ -2470,3 +2470,5 @@
 4409068362 | 26-2252: Salesforce Platform Specialist & Analyst - Hyderabad, India | https://in.linkedin.com/jobs/view/26-2252-salesforce-platform-specialist-analyst-hyderabad-india-at-navitas-business-consulting-inc-4409068362
 4407634894 | Salesforce Administrator – Reporting | https://in.linkedin.com/jobs/view/salesforce-administrator-%E2%80%93-reporting-at-nextpower-4407634894
 4409107073 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-exatech-inc-4409107073
+4409121469 | Professional Service Automation (PSA) - Platform Developer | https://in.linkedin.com/jobs/view/professional-service-automation-psa-platform-developer-at-tungsten-automation-4409121469
+4406751319 | Java Microservices Developer | https://in.linkedin.com/jobs/view/java-microservices-developer-at-ntt-data-inc-4406751319
