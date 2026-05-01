@@ -2472,3 +2472,5 @@
 4409107073 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-exatech-inc-4409107073
 4409121469 | Professional Service Automation (PSA) - Platform Developer | https://in.linkedin.com/jobs/view/professional-service-automation-psa-platform-developer-at-tungsten-automation-4409121469
 4406751319 | Java Microservices Developer | https://in.linkedin.com/jobs/view/java-microservices-developer-at-ntt-data-inc-4406751319
+4407671643 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-devrabbit-it-solutions-4407671643
+4255557095 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-cloud-epitome-4255557095
