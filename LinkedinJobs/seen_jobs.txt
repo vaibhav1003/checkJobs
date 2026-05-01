@@ -2478,3 +2478,4 @@
 4407678669 | Salesforce Service Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-service-cloud-developer-at-spadtek-solutions-4407678669
 4407695637 | MS Dynamics CRM Developer | https://in.linkedin.com/jobs/view/ms-dynamics-crm-developer-at-shine-com-4407695637
 4409406739 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-exatech-inc-4409406739
+4407207882 | GTM Full Stack Developer | https://in.linkedin.com/jobs/view/gtm-full-stack-developer-at-backbase-4407207882
