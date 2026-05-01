@@ -2479,3 +2479,5 @@
 4407695637 | MS Dynamics CRM Developer | https://in.linkedin.com/jobs/view/ms-dynamics-crm-developer-at-shine-com-4407695637
 4409406739 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-exatech-inc-4409406739
 4407207882 | GTM Full Stack Developer | https://in.linkedin.com/jobs/view/gtm-full-stack-developer-at-backbase-4407207882
+4407231297 | Salesforce Developer - (NPW) | https://in.linkedin.com/jobs/view/salesforce-developer-npw-at-milestone-technologies-inc-4407231297
+4407966285 | Java Software Developer | https://in.linkedin.com/jobs/view/java-software-developer-at-wipro-enterprises-pvt-ltd-4407966285
