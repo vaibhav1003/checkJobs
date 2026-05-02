@@ -2481,3 +2481,5 @@
 4407207882 | GTM Full Stack Developer | https://in.linkedin.com/jobs/view/gtm-full-stack-developer-at-backbase-4407207882
 4407231297 | Salesforce Developer - (NPW) | https://in.linkedin.com/jobs/view/salesforce-developer-npw-at-milestone-technologies-inc-4407231297
 4407966285 | Java Software Developer | https://in.linkedin.com/jobs/view/java-software-developer-at-wipro-enterprises-pvt-ltd-4407966285
+4407979893 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-mully-technology-4407979893
+4407988987 | Java Developer || 8+ Years of Experience | https://in.linkedin.com/jobs/view/java-developer-8%2B-years-of-experience-at-people-prime-worldwide-4407988987
