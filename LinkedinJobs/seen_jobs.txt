@@ -2486,3 +2486,5 @@
 4409583553 | Java  Genrative Ai Engineer | https://in.linkedin.com/jobs/view/java-genrative-ai-engineer-at-mphasis-4409583553
 4409589398 | System Development Engineer, Salesforce & AWS Developer, Amazon Shipping | https://in.linkedin.com/jobs/view/system-development-engineer-salesforce-aws-developer-amazon-shipping-at-amazon-4409589398
 4407294585 | System Development Engineer, Salesforce & AWS Developer, Amazon Shipping | https://in.linkedin.com/jobs/view/system-development-engineer-salesforce-aws-developer-amazon-shipping-at-mygwork-lgbtq%2B-business-community-4407294585
+4408365440 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-shine-com-4408365440
+4408365458 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-mully-technology-4408365458
