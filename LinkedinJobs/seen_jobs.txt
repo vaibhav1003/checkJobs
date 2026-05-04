@@ -2513,3 +2513,5 @@
 4408669534 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4408669534
 4410065329 | Salesforce DevOps Success Architect | https://in.linkedin.com/jobs/view/salesforce-devops-success-architect-at-griddable-io-4410065329
 4410067305 | Manager, Forward Deployed Engineering (SF or AI background) | https://in.linkedin.com/jobs/view/manager-forward-deployed-engineering-sf-or-ai-background-at-griddable-io-4410067305
+4410089052 | Java AWS Developer | https://in.linkedin.com/jobs/view/java-aws-developer-at-capgemini-4410089052
+4410065740 | Full Stack Engineer (Angular with Java) | https://in.linkedin.com/jobs/view/full-stack-engineer-angular-with-java-at-solugenix-4410065740
