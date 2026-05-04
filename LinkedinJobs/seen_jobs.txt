@@ -2516,3 +2516,4 @@
 4410089052 | Java AWS Developer | https://in.linkedin.com/jobs/view/java-aws-developer-at-capgemini-4410089052
 4410065740 | Full Stack Engineer (Angular with Java) | https://in.linkedin.com/jobs/view/full-stack-engineer-angular-with-java-at-solugenix-4410065740
 4410237050 | Salesforce DevOps Success Architect | https://in.linkedin.com/jobs/view/salesforce-devops-success-architect-at-salesforce-ad-4410237050
+4410253922 | Salesforce DevOps Success Architect | https://in.linkedin.com/jobs/view/salesforce-devops-success-architect-at-informatica-brasil-4410253922
