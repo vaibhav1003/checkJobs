@@ -2504,3 +2504,6 @@
 4409896907 | Lead Salesforce Consultant | https://in.linkedin.com/jobs/view/lead-salesforce-consultant-at-osf-digital-4409896907
 4410005934 | Salesforce B2C Commerce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-b2c-commerce-solution-architect-at-osf-digital-4410005934
 4410004937 | Salesforce Technical Architect - CPQ / Revenue Cloud | https://in.linkedin.com/jobs/view/salesforce-technical-architect-cpq-revenue-cloud-at-osf-digital-4410004937
+4410049194 | Salesforce Developer, Hub Tech Tooling | https://in.linkedin.com/jobs/view/salesforce-developer-hub-tech-tooling-at-amazon-4410049194
+4410051590 | Associate Proactive Monitoring Engineer | https://in.linkedin.com/jobs/view/associate-proactive-monitoring-engineer-at-salesforce-4410051590
+4410050042 | Salesforce Consultant - Managed Services | https://in.linkedin.com/jobs/view/salesforce-consultant-managed-services-at-osf-digital-4410050042
