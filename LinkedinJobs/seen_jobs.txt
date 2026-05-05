@@ -2522,3 +2522,5 @@
 4408166011 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-coforge-4408166011
 4410505255 | Salesforce Marketing Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-at-ingrain-systems-inc-4410505255
 4408151927 | Salesforce Developer, Hub Tech Tooling | https://in.linkedin.com/jobs/view/salesforce-developer-hub-tech-tooling-at-mygwork-lgbtq%2B-business-community-4408151927
+4408173168 | Staff Software Engineer - Java, Spring Boot, Microservices | https://in.linkedin.com/jobs/view/staff-software-engineer-java-spring-boot-microservices-at-ivanti-4408173168
+4408165684 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-charter-global-4408165684
