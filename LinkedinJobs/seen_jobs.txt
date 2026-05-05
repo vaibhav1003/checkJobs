@@ -2529,3 +2529,6 @@
 4410536351 | Associate proactive Monitoring Engineer | https://in.linkedin.com/jobs/view/associate-proactive-monitoring-engineer-at-salesforce-ad-4410536351
 4408169770 | Java developer | https://in.linkedin.com/jobs/view/java-developer-at-ltm-4408169770
 4410557260 | Software Engineer /Full Stack, Java | https://in.linkedin.com/jobs/view/software-engineer-full-stack-java-at-wells-fargo-4410557260
+4408997961 | SFDC Health Cloud Technical Developers | https://in.linkedin.com/jobs/view/sfdc-health-cloud-technical-developers-at-zensar-technologies-4408997961
+4408185488 | Quality Engineer-Automation-Salesforce Testing-HYD | https://in.linkedin.com/jobs/view/quality-engineer-automation-salesforce-testing-hyd-at-ibm-4408185488
+4410563257 | Salesforce B2C Commerce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-b2c-commerce-solution-architect-at-osf-digital-4410563257
