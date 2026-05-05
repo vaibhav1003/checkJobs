@@ -2532,3 +2532,9 @@
 4408997961 | SFDC Health Cloud Technical Developers | https://in.linkedin.com/jobs/view/sfdc-health-cloud-technical-developers-at-zensar-technologies-4408997961
 4408185488 | Quality Engineer-Automation-Salesforce Testing-HYD | https://in.linkedin.com/jobs/view/quality-engineer-automation-salesforce-testing-hyd-at-ibm-4408185488
 4410563257 | Salesforce B2C Commerce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-b2c-commerce-solution-architect-at-osf-digital-4410563257
+4410564763 | Associate proactive Monitoring Engineer | https://in.linkedin.com/jobs/view/associate-proactive-monitoring-engineer-at-informatica-brasil-4410564763
+4410589339 | Associate proactive Monitoring Engineer | https://in.linkedin.com/jobs/view/associate-proactive-monitoring-engineer-at-salesforce-4410589339
+4409333837 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-s-p-global-4409333837
+4408403453 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-ntt-data-inc-4408403453
+4410567550 | Java Developer with Angular 13+ | https://in.linkedin.com/jobs/view/java-developer-with-angular-13%2B-at-sourcebae-4410567550
+4410599731 | Director, Technical Consulting | https://in.linkedin.com/jobs/view/director-technical-consulting-at-griddable-io-4410599731
