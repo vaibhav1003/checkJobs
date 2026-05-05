@@ -2524,3 +2524,8 @@
 4408151927 | Salesforce Developer, Hub Tech Tooling | https://in.linkedin.com/jobs/view/salesforce-developer-hub-tech-tooling-at-mygwork-lgbtq%2B-business-community-4408151927
 4408173168 | Staff Software Engineer - Java, Spring Boot, Microservices | https://in.linkedin.com/jobs/view/staff-software-engineer-java-spring-boot-microservices-at-ivanti-4408173168
 4408165684 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-charter-global-4408165684
+4410552147 | Associate Salesforce Developer | https://in.linkedin.com/jobs/view/associate-salesforce-developer-at-accellor-4410552147
+4408990460 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-azuro-technologies-iso-certified-4408990460
+4410536351 | Associate proactive Monitoring Engineer | https://in.linkedin.com/jobs/view/associate-proactive-monitoring-engineer-at-salesforce-ad-4410536351
+4408169770 | Java developer | https://in.linkedin.com/jobs/view/java-developer-at-ltm-4408169770
+4410557260 | Software Engineer /Full Stack, Java | https://in.linkedin.com/jobs/view/software-engineer-full-stack-java-at-wells-fargo-4410557260
