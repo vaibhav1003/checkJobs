@@ -2540,3 +2540,5 @@
 4410599731 | Director, Technical Consulting | https://in.linkedin.com/jobs/view/director-technical-consulting-at-griddable-io-4410599731
 4410726626 | Salesforce Administrator (Remote) | https://in.linkedin.com/jobs/view/salesforce-administrator-remote-at-hire-feed-4410726626
 4409359587 | SFCC Developer | https://in.linkedin.com/jobs/view/sfcc-developer-at-ampstek-4409359587
+4410759786 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4410759786
+4410757743 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4410757743
