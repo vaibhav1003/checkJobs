@@ -2560,3 +2560,5 @@
 4411220460 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4411220460
 4411220729 | IN_Associate_Vlocity_Enterprise Apps-SFDC_Advisory_Hyderabad | https://in.linkedin.com/jobs/view/in-associate-vlocity-enterprise-apps-sfdc-advisory-hyderabad-at-pwc-india-4411220729
 4409973372 | Java Full Stack Developer (4-6) | https://in.linkedin.com/jobs/view/java-full-stack-developer-4-6-at-jp-group-services-private-limited-4409973372
+4411238571 | IT Application Developer - PSA | https://in.linkedin.com/jobs/view/it-application-developer-psa-at-tungsten-automation-4411238571
+4411246767 | Salesforce Lead Architect | https://in.linkedin.com/jobs/view/salesforce-lead-architect-at-cgi-4411246767
