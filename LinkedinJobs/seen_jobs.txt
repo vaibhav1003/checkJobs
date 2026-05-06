@@ -2557,3 +2557,6 @@
 4409900971 | Salesforce/Agentforce Developer (Software Engineering, MTS) | https://in.linkedin.com/jobs/view/salesforce-agentforce-developer-software-engineering-mts-at-informatica-brasil-4409900971
 4410990825 | Salesforce Administrator | https://in.linkedin.com/jobs/view/salesforce-administrator-at-warner-bros-discovery-4410990825
 4411218019 | Salesforce Administrator _Process lead _ Hyderabad | https://in.linkedin.com/jobs/view/salesforce-administrator-process-lead-hyderabad-at-broadridge-india-4411218019
+4411220460 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4411220460
+4411220729 | IN_Associate_Vlocity_Enterprise Apps-SFDC_Advisory_Hyderabad | https://in.linkedin.com/jobs/view/in-associate-vlocity-enterprise-apps-sfdc-advisory-hyderabad-at-pwc-india-4411220729
+4409973372 | Java Full Stack Developer (4-6) | https://in.linkedin.com/jobs/view/java-full-stack-developer-4-6-at-jp-group-services-private-limited-4409973372
