@@ -2553,3 +2553,5 @@
 4409921698 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-mount-talent-consulting-pvt-ltd-4409921698
 4409914367 | Salesforce Support Engineer - Industries & Revenue Cloud | https://in.linkedin.com/jobs/view/salesforce-support-engineer-industries-revenue-cloud-at-informatica-brasil-4409914367
 4408845790 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-synechron-4408845790
+4399958150 | Java and spring boot AI developer - Associate 2 | https://in.linkedin.com/jobs/view/java-and-spring-boot-ai-developer-associate-2-at-pwc-acceleration-center-india-4399958150
+4409900971 | Salesforce/Agentforce Developer (Software Engineering, MTS) | https://in.linkedin.com/jobs/view/salesforce-agentforce-developer-software-engineering-mts-at-informatica-brasil-4409900971
