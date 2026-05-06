@@ -2544,3 +2544,9 @@
 4410757743 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4410757743
 4410906420 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4410906420
 4410958945 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-blue-spire-inc-4410958945
+4409794718 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-viraaj-hr-solutions-private-limited-4409794718
+4409780292 | Salesforce Revenue Cloud Developer (Billing) | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-developer-billing-at-s-p-global-4409780292
+4410966803 | Salesforce Support Engineer - Industries & Revenue Cloud | https://in.linkedin.com/jobs/view/salesforce-support-engineer-industries-revenue-cloud-at-salesforce-ad-4410966803
+4409795382 | Lead Software Engineer - Salesforce development, nCino, Apex, LWC, SOQL, Unit Testing, Agile, Gen AI | https://in.linkedin.com/jobs/view/lead-software-engineer-salesforce-development-ncino-apex-lwc-soql-unit-testing-agile-gen-ai-at-wells-fargo-4409795382
+4409790420 | Lead Software Engineer - Full Stack Core Java, React/Angular, SQL, Gen AI | https://in.linkedin.com/jobs/view/lead-software-engineer-full-stack-core-java-react-angular-sql-gen-ai-at-wells-fargo-4409790420
+4410985392 | Salesforce/Agentforce Developer (Software Engineering, MTS) | https://in.linkedin.com/jobs/view/salesforce-agentforce-developer-software-engineering-mts-at-salesforce-ad-4410985392
