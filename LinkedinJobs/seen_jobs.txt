@@ -2550,3 +2550,6 @@
 4409795382 | Lead Software Engineer - Salesforce development, nCino, Apex, LWC, SOQL, Unit Testing, Agile, Gen AI | https://in.linkedin.com/jobs/view/lead-software-engineer-salesforce-development-ncino-apex-lwc-soql-unit-testing-agile-gen-ai-at-wells-fargo-4409795382
 4409790420 | Lead Software Engineer - Full Stack Core Java, React/Angular, SQL, Gen AI | https://in.linkedin.com/jobs/view/lead-software-engineer-full-stack-core-java-react-angular-sql-gen-ai-at-wells-fargo-4409790420
 4410985392 | Salesforce/Agentforce Developer (Software Engineering, MTS) | https://in.linkedin.com/jobs/view/salesforce-agentforce-developer-software-engineering-mts-at-salesforce-ad-4410985392
+4409921698 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-mount-talent-consulting-pvt-ltd-4409921698
+4409914367 | Salesforce Support Engineer - Industries & Revenue Cloud | https://in.linkedin.com/jobs/view/salesforce-support-engineer-industries-revenue-cloud-at-informatica-brasil-4409914367
+4408845790 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-synechron-4408845790
