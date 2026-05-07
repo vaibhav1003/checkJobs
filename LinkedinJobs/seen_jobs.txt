@@ -2562,3 +2562,5 @@
 4409973372 | Java Full Stack Developer (4-6) | https://in.linkedin.com/jobs/view/java-full-stack-developer-4-6-at-jp-group-services-private-limited-4409973372
 4411238571 | IT Application Developer - PSA | https://in.linkedin.com/jobs/view/it-application-developer-psa-at-tungsten-automation-4411238571
 4411246767 | Salesforce Lead Architect | https://in.linkedin.com/jobs/view/salesforce-lead-architect-at-cgi-4411246767
+4411405063 | Ingrain Systems Inc - Salesforce Developer - SFDC Sales Cloud | https://in.linkedin.com/jobs/view/ingrain-systems-inc-salesforce-developer-sfdc-sales-cloud-at-ingrain-systems-inc-4411405063
+4409205786 | Associate Architect - Salesforce Job | https://in.linkedin.com/jobs/view/associate-architect-salesforce-job-at-yash-technologies-middle-east-4409205786
