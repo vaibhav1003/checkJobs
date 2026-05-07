@@ -2567,3 +2567,7 @@
 4409233607 | Staff Software Engineer - Java, Spring Boot, Microservices | https://in.linkedin.com/jobs/view/staff-software-engineer-java-spring-boot-microservices-at-ivanti-4409233607
 4411427558 | Java Full Stack Engineer- WIth Railroad/Transportation Domain- Hyderabad/Nagpur/Noida- Immediate to 30 days Joiners Only | https://in.linkedin.com/jobs/view/java-full-stack-engineer-with-railroad-transportation-domain-hyderabad-nagpur-noida-immediate-to-30-days-joiners-only-at-apto-solutions-executive-search-consultants-4411427558
 4411453165 | Senior Software Engineer - Senior Developer - Salesforce | https://in.linkedin.com/jobs/view/senior-software-engineer-senior-developer-salesforce-at-bristol-myers-squibb-4411453165
+4410480601 | Developer, IT Business Applications | https://in.linkedin.com/jobs/view/developer-it-business-applications-at-shure-india-4410480601
+4410486242 | Java Backend Developer(Kafka) | https://in.linkedin.com/jobs/view/java-backend-developer-kafka-at-enterprise-minds-inc-4410486242
+4409264600 | Lead SFDC Techno Functional Analyst | https://in.linkedin.com/jobs/view/lead-sfdc-techno-functional-analyst-at-nextpower-4409264600
+4401855842 | Software Engineer, Principal Java | https://in.linkedin.com/jobs/view/software-engineer-principal-java-at-blackbaud-india-4401855842
