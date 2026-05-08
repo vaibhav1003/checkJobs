@@ -2582,3 +2582,10 @@
 4409607118 | QA Engineer - Mobile Automation (Appium & Java) | https://in.linkedin.com/jobs/view/qa-engineer-mobile-automation-appium-java-at-mitchell-martin-inc-4409607118
 4411008654 | D365 CRM Developer | https://in.linkedin.com/jobs/view/d365-crm-developer-at-talentgigs-4411008654
 4409680430 | Salesforce B2C Commerce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-b2c-commerce-solution-architect-at-osf-digital-4409680430
+4410893954 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-dinoxo-4410893954
+4409662491 | Salesforce Developer - OMS | https://in.linkedin.com/jobs/view/salesforce-developer-oms-at-osf-digital-4409662491
+4409662713 | Senior Salesforce Developer - Revenue/CPQ | https://in.linkedin.com/jobs/view/senior-salesforce-developer-revenue-cpq-at-absyz-inc-4409662713
+4409682143 | Java + Kafka Developer | https://in.linkedin.com/jobs/view/java-%2B-kafka-developer-at-persistent-systems-4409682143
+4409666972 | MuleSoft Developer | https://in.linkedin.com/jobs/view/mulesoft-developer-at-ntt-data-north-america-4409666972
+4411034295 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-tata-consultancy-services-4411034295
+4409680792 | Salesforce Consultant - Managed Services | https://in.linkedin.com/jobs/view/salesforce-consultant-managed-services-at-osf-digital-4409680792
