@@ -2602,3 +2602,4 @@
 4411892257 | Salesforce Industry Cloud Vlocity Platform | https://in.linkedin.com/jobs/view/salesforce-industry-cloud-vlocity-platform-at-tata-consultancy-services-4411892257
 4411717911 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-redient-security-4411717911
 4411392874 | Salesforce/Agentforce Developer (Software Engineering, MTS) | https://in.linkedin.com/jobs/view/salesforce-agentforce-developer-software-engineering-mts-at-griddable-io-4411392874
+4411759673 | Java Full Stack Developer, Software Engineering | https://in.linkedin.com/jobs/view/java-full-stack-developer-software-engineering-at-s-p-global-4411759673
