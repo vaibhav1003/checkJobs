@@ -2592,3 +2592,4 @@
 4411871634 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-infotech-consultancy-4411871634
 4411875488 | Salesforce Commerce Cloud (SFCC) Developer | https://in.linkedin.com/jobs/view/salesforce-commerce-cloud-sfcc-developer-at-pineq-lab-technology-4411875488
 4411869674 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-info-services-4411869674
+4411374542 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-amrapali-ind-4411374542
