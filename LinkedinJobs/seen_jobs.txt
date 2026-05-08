@@ -2593,3 +2593,6 @@
 4411875488 | Salesforce Commerce Cloud (SFCC) Developer | https://in.linkedin.com/jobs/view/salesforce-commerce-cloud-sfcc-developer-at-pineq-lab-technology-4411875488
 4411869674 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-info-services-4411869674
 4411374542 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-amrapali-ind-4411374542
+4412135028 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4412135028
+4412137001 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4412137001
+4411394558 | Principal System Administrator ( Salesforce Service Cloud) | https://in.linkedin.com/jobs/view/principal-system-administrator-salesforce-service-cloud-at-model-n-4411394558
