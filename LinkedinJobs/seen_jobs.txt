@@ -2580,3 +2580,5 @@
 4411645225 | Sr Associate Software Engineer | https://in.linkedin.com/jobs/view/sr-associate-software-engineer-at-amgen-4411645225
 4410852570 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-nagaarjuna-construction-company-4410852570
 4409607118 | QA Engineer - Mobile Automation (Appium & Java) | https://in.linkedin.com/jobs/view/qa-engineer-mobile-automation-appium-java-at-mitchell-martin-inc-4409607118
+4411008654 | D365 CRM Developer | https://in.linkedin.com/jobs/view/d365-crm-developer-at-talentgigs-4411008654
+4409680430 | Salesforce B2C Commerce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-b2c-commerce-solution-architect-at-osf-digital-4409680430
