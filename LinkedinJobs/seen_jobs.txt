@@ -2600,3 +2600,5 @@
 4411887577 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-info-way-solutions-4411887577
 4411892686 | Automation Test Engineer | Selenium, Java, API & Database Testing, CI/CD & Agile Methodology | https://in.linkedin.com/jobs/view/automation-test-engineer-selenium-java-api-database-testing-ci-cd-agile-methodology-at-synechron-4411892686
 4411892257 | Salesforce Industry Cloud Vlocity Platform | https://in.linkedin.com/jobs/view/salesforce-industry-cloud-vlocity-platform-at-tata-consultancy-services-4411892257
+4411717911 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-redient-security-4411717911
+4411392874 | Salesforce/Agentforce Developer (Software Engineering, MTS) | https://in.linkedin.com/jobs/view/salesforce-agentforce-developer-software-engineering-mts-at-griddable-io-4411392874
