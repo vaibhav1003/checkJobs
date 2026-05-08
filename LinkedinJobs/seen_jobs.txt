@@ -2603,3 +2603,5 @@
 4411717911 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-redient-security-4411717911
 4411392874 | Salesforce/Agentforce Developer (Software Engineering, MTS) | https://in.linkedin.com/jobs/view/salesforce-agentforce-developer-software-engineering-mts-at-griddable-io-4411392874
 4411759673 | Java Full Stack Developer, Software Engineering | https://in.linkedin.com/jobs/view/java-full-stack-developer-software-engineering-at-s-p-global-4411759673
+4411707754 | Salesforce Alliances Lead | https://in.linkedin.com/jobs/view/salesforce-alliances-lead-at-jade-global-4411707754
+4411770321 | Data Lead - Marketing Platform Ops (M/SM) | https://in.linkedin.com/jobs/view/data-lead-marketing-platform-ops-m-sm-at-novartis-india-4411770321
