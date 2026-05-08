@@ -2596,3 +2596,7 @@
 4412135028 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4412135028
 4412137001 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4412137001
 4411394558 | Principal System Administrator ( Salesforce Service Cloud) | https://in.linkedin.com/jobs/view/principal-system-administrator-salesforce-service-cloud-at-model-n-4411394558
+4411717447 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-saika-technologies-inc-4411717447
+4411887577 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-info-way-solutions-4411887577
+4411892686 | Automation Test Engineer | Selenium, Java, API & Database Testing, CI/CD & Agile Methodology | https://in.linkedin.com/jobs/view/automation-test-engineer-selenium-java-api-database-testing-ci-cd-agile-methodology-at-synechron-4411892686
+4411892257 | Salesforce Industry Cloud Vlocity Platform | https://in.linkedin.com/jobs/view/salesforce-industry-cloud-vlocity-platform-at-tata-consultancy-services-4411892257
