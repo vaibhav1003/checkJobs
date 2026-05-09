@@ -2611,3 +2611,4 @@
 4411929902 | Java Developer || 8+ Years of Experience | https://in.linkedin.com/jobs/view/java-developer-8%2B-years-of-experience-at-people-prime-worldwide-4411929902
 4411952833 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-redient-security-4411952833
 4412429601 | Sr Quickbase Developer | https://in.linkedin.com/jobs/view/sr-quickbase-developer-at-cloudtern-solutions-4412429601
+4411974230 | Full Stack Developer (Java Springboot, Kafka, React, VibeCoding) | https://in.linkedin.com/jobs/view/full-stack-developer-java-springboot-kafka-react-vibecoding-at-forrce-infotech-solutions-india-private-limited-4411974230
