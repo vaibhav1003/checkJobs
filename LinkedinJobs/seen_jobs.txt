@@ -2605,3 +2605,5 @@
 4411759673 | Java Full Stack Developer, Software Engineering | https://in.linkedin.com/jobs/view/java-full-stack-developer-software-engineering-at-s-p-global-4411759673
 4411707754 | Salesforce Alliances Lead | https://in.linkedin.com/jobs/view/salesforce-alliances-lead-at-jade-global-4411707754
 4411770321 | Data Lead - Marketing Platform Ops (M/SM) | https://in.linkedin.com/jobs/view/data-lead-marketing-platform-ops-m-sm-at-novartis-india-4411770321
+4412404904 | Developer Specialist - TOMO - Tech Admin And Development | https://in.linkedin.com/jobs/view/developer-specialist-tomo-tech-admin-and-development-at-google-operations-center-4412404904
+4411911599 | Technical Architect - Salesforce Job | https://in.linkedin.com/jobs/view/technical-architect-salesforce-job-at-yash-technologies-middle-east-4411911599
