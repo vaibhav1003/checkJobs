@@ -2613,3 +2613,5 @@
 4412429601 | Sr Quickbase Developer | https://in.linkedin.com/jobs/view/sr-quickbase-developer-at-cloudtern-solutions-4412429601
 4411974230 | Full Stack Developer (Java Springboot, Kafka, React, VibeCoding) | https://in.linkedin.com/jobs/view/full-stack-developer-java-springboot-kafka-react-vibecoding-at-forrce-infotech-solutions-india-private-limited-4411974230
 4411973514 | Full Stack Java Developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-wellness360-4411973514
+4412315840 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-htc-global-services-4412315840
+4412304999 | Java AWS developer | https://in.linkedin.com/jobs/view/java-aws-developer-at-htc-global-services-4412304999
