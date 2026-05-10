@@ -2615,3 +2615,4 @@
 4411973514 | Full Stack Java Developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-wellness360-4411973514
 4412315840 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-htc-global-services-4412315840
 4412304999 | Java AWS developer | https://in.linkedin.com/jobs/view/java-aws-developer-at-htc-global-services-4412304999
+4412322609 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-flipped-ai-transforming-talent-acquisition-with-ai-4412322609
