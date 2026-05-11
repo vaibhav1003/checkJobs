@@ -2619,3 +2619,8 @@
 4412392102 | Senior Salesforce Developer – Hyderabad | https://in.linkedin.com/jobs/view/senior-salesforce-developer-%E2%80%93-hyderabad-at-umanist-na-4412392102
 4412385687 | Principal Full Stack Engineer (React / React Native / Java / Microservices) | https://in.linkedin.com/jobs/view/principal-full-stack-engineer-react-react-native-java-microservices-at-umanist-na-4412385687
 4412600197 | Software Engineer III - Java FullStack | https://in.linkedin.com/jobs/view/software-engineer-iii-java-fullstack-at-famu-national-alumni-association-4412600197
+4412638506 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-digile-4412638506
+4412631828 | Salesforce Platform Engineer | https://in.linkedin.com/jobs/view/salesforce-platform-engineer-at-nubax-data-labs-4412631828
+4412714317 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-ingrain-systems-inc-4412714317
+4412719235 | Java Full Stack Engineer- WIth Railroad/Transportation Domain- Hyderabad/Nagpur/Noida- Immediate to 30 days Joiners Only | https://in.linkedin.com/jobs/view/java-full-stack-engineer-with-railroad-transportation-domain-hyderabad-nagpur-noida-immediate-to-30-days-joiners-only-at-apto-solutions-executive-search-consultants-4412719235
+4412626641 | Microsoft dynamics 365  CRM lead  & Sr Developer ( CRM _Azure) | https://in.linkedin.com/jobs/view/microsoft-dynamics-365-crm-lead-sr-developer-crm-azure-at-people-prime-worldwide-4412626641
