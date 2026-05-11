@@ -2637,3 +2637,7 @@
 4413024944 | Senior Product Manager– Migration Solutions Architect and Program Manager - CPQ | https://in.linkedin.com/jobs/view/senior-product-manager%E2%80%93-migration-solutions-architect-and-program-manager-cpq-at-salesforce-4413024944
 4412908049 | Associate-Salesforce Developer | https://in.linkedin.com/jobs/view/associate-salesforce-developer-at-amgen-4412908049
 4412901329 | Senior Associate - Salesforce Engineer | https://in.linkedin.com/jobs/view/senior-associate-salesforce-engineer-at-amgen-4412901329
+4412942022 | Java React Fullstack Developer | https://in.linkedin.com/jobs/view/java-react-fullstack-developer-at-mphasis-4412942022
+4412933339 | Java + Kafka Developer | https://in.linkedin.com/jobs/view/java-%2B-kafka-developer-at-mphasis-4412933339
+4412940110 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4412940110
+4412937252 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-accenture-in-india-4412937252
