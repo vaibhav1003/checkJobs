@@ -2629,3 +2629,9 @@
 4412670588 | Senior Salesforce Experience Cloud Developer | https://in.linkedin.com/jobs/view/senior-salesforce-experience-cloud-developer-at-prudent-technologies-and-consulting-inc-4412670588
 4412656451 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-mully-technology-4412656451
 4412719422 | Einstein Analytics Engineer | https://in.linkedin.com/jobs/view/einstein-analytics-engineer-at-ntt-data-north-america-4412719422
+4412675654 | Salesforce QA Manual Test Engineer | https://in.linkedin.com/jobs/view/salesforce-qa-manual-test-engineer-at-prudent-technologies-and-consulting-inc-4412675654
+4412691147 | Salesforce Technical Lead | https://in.linkedin.com/jobs/view/salesforce-technical-lead-at-amrapali-ind-4412691147
+4412784376 | Quality Engineer, Salesforce [T500-25850] | https://in.linkedin.com/jobs/view/quality-engineer-salesforce-t500-25850-at-marriott-tech-accelerator-4412784376
+4412665579 | Salesforce Architect (Education Cloud mandatory) | https://in.linkedin.com/jobs/view/salesforce-architect-education-cloud-mandatory-at-netsmore-technologies-4412665579
+4413032795 | Salesforce Marketing Cloud Technical Lead | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-technical-lead-at-ameriprise-financial-services-llc-4413032795
+4413024944 | Senior Product Manager– Migration Solutions Architect and Program Manager - CPQ | https://in.linkedin.com/jobs/view/senior-product-manager%E2%80%93-migration-solutions-architect-and-program-manager-cpq-at-salesforce-4413024944
