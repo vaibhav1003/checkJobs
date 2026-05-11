@@ -2635,3 +2635,5 @@
 4412665579 | Salesforce Architect (Education Cloud mandatory) | https://in.linkedin.com/jobs/view/salesforce-architect-education-cloud-mandatory-at-netsmore-technologies-4412665579
 4413032795 | Salesforce Marketing Cloud Technical Lead | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-technical-lead-at-ameriprise-financial-services-llc-4413032795
 4413024944 | Senior Product Manager– Migration Solutions Architect and Program Manager - CPQ | https://in.linkedin.com/jobs/view/senior-product-manager%E2%80%93-migration-solutions-architect-and-program-manager-cpq-at-salesforce-4413024944
+4412908049 | Associate-Salesforce Developer | https://in.linkedin.com/jobs/view/associate-salesforce-developer-at-amgen-4412908049
+4412901329 | Senior Associate - Salesforce Engineer | https://in.linkedin.com/jobs/view/senior-associate-salesforce-engineer-at-amgen-4412901329
