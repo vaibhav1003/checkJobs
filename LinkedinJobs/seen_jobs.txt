@@ -2671,3 +2671,7 @@
 4410178794 | Technical Consultant - Salesforce Admin (GSS) | https://in.linkedin.com/jobs/view/technical-consultant-salesforce-admin-gss-at-argano-4410178794
 4413562857 | Java + Drool Developer | https://in.linkedin.com/jobs/view/java-%2B-drool-developer-at-persistent-systems-4413562857
 4410189498 | Staff Software Engineer - Java, Spring Boot, Microservices | https://in.linkedin.com/jobs/view/staff-software-engineer-java-spring-boot-microservices-at-ivanti-4410189498
+4413817272 | Java Full Stack Engineer (GCP+AI) | https://in.linkedin.com/jobs/view/java-full-stack-engineer-gcp%2Bai-at-ascendion-4413817272
+4410180778 | Technical Architect - Salesforce (GSS) | https://in.linkedin.com/jobs/view/technical-architect-salesforce-gss-at-argano-4410180778
+4410189258 | Oracle Tech Architecture And Middleware-MuleSoft Developer-Senior | https://in.linkedin.com/jobs/view/oracle-tech-architecture-and-middleware-mulesoft-developer-senior-at-ey-4410189258
+4413803088 | Business Process Architect - Salesforce | https://in.linkedin.com/jobs/view/business-process-architect-salesforce-at-the-goodyear-tire-rubber-company-4413803088
