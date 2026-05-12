@@ -2656,3 +2656,6 @@
 4413523168 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4413523168
 4413261826 | Principal Engineer – Java / .Net with AI first | https://in.linkedin.com/jobs/view/principal-engineer-%E2%80%93-java-net-with-ai-first-at-chubb-4413261826
 4413198990 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4413198990
+4410142233 | Salesforce Administrator | https://in.linkedin.com/jobs/view/salesforce-administrator-at-digile-4410142233
+4413289765 | Salesforce Developer 2 -5 years  Experience immediate joiner | https://in.linkedin.com/jobs/view/salesforce-developer-2-5-years-experience-immediate-joiner-at-fingertip-technologies-4413289765
+4413401208 | Sr.Salesforce Developer | https://in.linkedin.com/jobs/view/sr-salesforce-developer-at-accolite-4413401208
