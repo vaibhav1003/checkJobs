@@ -2686,3 +2686,10 @@
 4413880103 | Salesforce Consumer Goods | https://in.linkedin.com/jobs/view/salesforce-consumer-goods-at-ltimindtree-4413880103
 4413871432 | SFDC ServiceMax Developer | https://in.linkedin.com/jobs/view/sfdc-servicemax-developer-at-ltimindtree-4413871432
 4413945088 | Senior Salesforce Pre-Sales Solution Architect | https://in.linkedin.com/jobs/view/senior-salesforce-pre-sales-solution-architect-at-wilco-source-4413945088
+4410606043 | Lead Senior Associate | https://in.linkedin.com/jobs/view/lead-senior-associate-at-deloitte-4410606043
+4413896658 | ::URGENT OPENING:: Front End Engineer: Salesforce Marketing Cloud | https://in.linkedin.com/jobs/view/urgent-opening-front-end-engineer-salesforce-marketing-cloud-at-221-b-baker-st-4413896658
+4410604088 | Lead Senior Associate | https://in.linkedin.com/jobs/view/lead-senior-associate-at-deloitte-4410604088
+4410397431 | Assistant Manager | https://in.linkedin.com/jobs/view/assistant-manager-at-deloitte-4410397431
+4410381984 | Java Kafka Camel Developer | https://in.linkedin.com/jobs/view/java-kafka-camel-developer-at-persistent-systems-4410381984
+4410397313 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-persistent-systems-4410397313
+4410604045 | Java Drool Developer | https://in.linkedin.com/jobs/view/java-drool-developer-at-persistent-systems-4410604045
