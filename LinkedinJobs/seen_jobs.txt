@@ -2693,3 +2693,10 @@
 4410381984 | Java Kafka Camel Developer | https://in.linkedin.com/jobs/view/java-kafka-camel-developer-at-persistent-systems-4410381984
 4410397313 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-persistent-systems-4410397313
 4410604045 | Java Drool Developer | https://in.linkedin.com/jobs/view/java-drool-developer-at-persistent-systems-4410604045
+4414177063 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-persistent-systems-4414177063
+4414170154 | Full Stack Engineer - Java and React JS | https://in.linkedin.com/jobs/view/full-stack-engineer-java-and-react-js-at-apple-4414170154
+4414153768 | Software Engineer - Java, Spring Boot and Microservices | https://in.linkedin.com/jobs/view/software-engineer-java-spring-boot-and-microservices-at-apple-4414153768
+4414159661 | Full stack Engineer - Java & Angular/Vue | https://in.linkedin.com/jobs/view/full-stack-engineer-java-angular-vue-at-apple-4414159661
+4414163519 | Full Stack Engineer - Java & AngularJS/VueJS | https://in.linkedin.com/jobs/view/full-stack-engineer-java-angularjs-vuejs-at-apple-4414163519
+4414221123 | QA Automation Engineer – SAP / Salesforce (TOSCA, Selenium, Playwright) | https://in.linkedin.com/jobs/view/qa-automation-engineer-%E2%80%93-sap-salesforce-tosca-selenium-playwright-at-jade-global-4414221123
+4413992838 | Salesforce Success Architect | https://in.linkedin.com/jobs/view/salesforce-success-architect-at-griddable-io-4413992838
