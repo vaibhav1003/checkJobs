@@ -2675,3 +2675,6 @@
 4410180778 | Technical Architect - Salesforce (GSS) | https://in.linkedin.com/jobs/view/technical-architect-salesforce-gss-at-argano-4410180778
 4410189258 | Oracle Tech Architecture And Middleware-MuleSoft Developer-Senior | https://in.linkedin.com/jobs/view/oracle-tech-architecture-and-middleware-mulesoft-developer-senior-at-ey-4410189258
 4413803088 | Business Process Architect - Salesforce | https://in.linkedin.com/jobs/view/business-process-architect-salesforce-at-the-goodyear-tire-rubber-company-4413803088
+4413858370 | Salesforce Technical Architect (Immediate Joiner) | https://in.linkedin.com/jobs/view/salesforce-technical-architect-immediate-joiner-at-katzion-a-globallogic-company-4413858370
+4413851611 | Java backend developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-people-prime-worldwide-4413851611
+4413862279 | Java Developer || 8+ Years of Experience | https://in.linkedin.com/jobs/view/java-developer-8%2B-years-of-experience-at-people-prime-worldwide-4413862279
