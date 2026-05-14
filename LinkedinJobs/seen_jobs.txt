@@ -2705,3 +2705,5 @@
 4414442413 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-viraaj-hr-solutions-private-limited-4414442413
 4414416815 | Specialist Applications Development - Java Developer, microservices, spring boot, Kafka, Any database-MongoDB, Cassandra, Postgres | https://in.linkedin.com/jobs/view/specialist-applications-development-java-developer-microservices-spring-boot-kafka-any-database-mongodb-cassandra-postgres-at-at-t-4414416815
 4410688943 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-mygwork-lgbtq%2B-business-community-4410688943
+4414468204 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-avk-tech-solutions-4414468204
+4414478103 | Associate Engineer, Software Engineering (React, OOPS, Java) | https://in.linkedin.com/jobs/view/associate-engineer-software-engineering-react-oops-java-at-s-p-global-4414478103
