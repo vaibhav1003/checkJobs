@@ -2724,3 +2724,7 @@
 4414689437 | Salesforce Success Architect | https://in.linkedin.com/jobs/view/salesforce-success-architect-at-salesforce-4414689437
 4414688487 | Senior Success Guide - Salescloud | https://in.linkedin.com/jobs/view/senior-success-guide-salescloud-at-salesforce-4414688487
 4414700820 | Application Development Consultant – Salesforce Service Cloud | https://in.linkedin.com/jobs/view/application-development-consultant-%E2%80%93-salesforce-service-cloud-at-the-goodyear-tire-rubber-company-4414700820
+4414699166 | Salesforce DevOps Success Architect | https://in.linkedin.com/jobs/view/salesforce-devops-success-architect-at-salesforce-4414699166
+4411515560 | Software Engineer III - Java Backend Developer | https://in.linkedin.com/jobs/view/software-engineer-iii-java-backend-developer-at-candescent-4411515560
+4414695297 | SMTS, Zuora Revenue System Engineer | https://in.linkedin.com/jobs/view/smts-zuora-revenue-system-engineer-at-salesforce-4414695297
+4414689492 | Success Architect (Life Sciences Domain) | https://in.linkedin.com/jobs/view/success-architect-life-sciences-domain-at-salesforce-4414689492
