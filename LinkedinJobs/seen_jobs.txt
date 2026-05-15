@@ -2742,3 +2742,6 @@
 4415332653 | Technical Consultant / Senior Technical Consultant - Salesforce Loyalty Cloud | https://in.linkedin.com/jobs/view/technical-consultant-senior-technical-consultant-salesforce-loyalty-cloud-at-salesforce-ad-4415332653
 4415338629 | Technical Lead | https://in.linkedin.com/jobs/view/technical-lead-at-mphasis-4415338629
 4415361274 | Technical Consultant / Senior Technical Consultant - Salesforce Loyalty Cloud | https://in.linkedin.com/jobs/view/technical-consultant-senior-technical-consultant-salesforce-loyalty-cloud-at-informatica-brasil-4415361274
+4412018757 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-persistent-systems-4412018757
+4403346722 | Global Salesforce DevOps & Release Manager (Based in Hyderabad, India) | https://in.linkedin.com/jobs/view/global-salesforce-devops-release-manager-based-in-hyderabad-india-at-olympus-corporation-4403346722
+4415392413 | Specialist Software Engineer | https://in.linkedin.com/jobs/view/specialist-software-engineer-at-amgen-4415392413
