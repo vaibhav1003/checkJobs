@@ -2761,3 +2761,5 @@
 4360596660 | Principal Consultant - Apex | https://in.linkedin.com/jobs/view/principal-consultant-apex-at-datavail-4360596660
 4320530527 | Consultant - SAP CRM-Technical Job | https://in.linkedin.com/jobs/view/consultant-sap-crm-technical-job-at-yash-technologies-4320530527
 4415887302 | Salesforce Data Cloud Specialist | https://in.linkedin.com/jobs/view/salesforce-data-cloud-specialist-at-amgen-4415887302
+4383037525 | Salesforce Omnistudio Developer - Senior Associate | https://in.linkedin.com/jobs/view/salesforce-omnistudio-developer-senior-associate-at-pwc-acceleration-center-india-4383037525
+4415867570 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-mphasis-4415867570
