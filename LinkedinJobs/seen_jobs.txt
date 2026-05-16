@@ -2760,3 +2760,4 @@
 4400587062 | Senior Technical Writer | https://in.linkedin.com/jobs/view/senior-technical-writer-at-salesforce-4400587062
 4360596660 | Principal Consultant - Apex | https://in.linkedin.com/jobs/view/principal-consultant-apex-at-datavail-4360596660
 4320530527 | Consultant - SAP CRM-Technical Job | https://in.linkedin.com/jobs/view/consultant-sap-crm-technical-job-at-yash-technologies-4320530527
+4415887302 | Salesforce Data Cloud Specialist | https://in.linkedin.com/jobs/view/salesforce-data-cloud-specialist-at-amgen-4415887302
