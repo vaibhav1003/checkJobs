@@ -2767,3 +2767,5 @@
 4404124185 | Microsoft Dynamic CRM | https://in.linkedin.com/jobs/view/microsoft-dynamic-crm-at-concentrix-4404124185
 4415885366 | Sr Quickbase Developer | https://in.linkedin.com/jobs/view/sr-quickbase-developer-at-cloudtern-solutions-4415885366
 4412205400 | Sr. Software Engineer - Salesforce Job | https://in.linkedin.com/jobs/view/sr-software-engineer-salesforce-job-at-yash-technologies-middle-east-4412205400
+4415429173 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4415429173
+4416011914 | Java Developer (mwd) | https://in.linkedin.com/jobs/view/java-developer-mwd-at-zelo-recruitment-4416011914
