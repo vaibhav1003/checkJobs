@@ -2773,3 +2773,4 @@
 4416032368 | Java Developer (mwd) | https://in.linkedin.com/jobs/view/java-developer-mwd-at-zelo-recruitment-4416032368
 4416028534 | Java Developer (mwd) | https://in.linkedin.com/jobs/view/java-developer-mwd-at-zelo-recruitment-4416028534
 4416036587 | Java Developer (mwd) | https://in.linkedin.com/jobs/view/java-developer-mwd-at-zelo-recruitment-4416036587
+4416038185 | Java + Kafka Developer | https://in.linkedin.com/jobs/view/java-%2B-kafka-developer-at-persistent-systems-4416038185
