@@ -2794,3 +2794,5 @@
 4415611581 | Java Full Stack Lead / Sr Developer | https://in.linkedin.com/jobs/view/java-full-stack-lead-sr-developer-at-hydus-technologies-an-xtivia-company-4415611581
 4416257347 | Azure Java Developer with Kafka | https://in.linkedin.com/jobs/view/azure-java-developer-with-kafka-at-tata-consultancy-services-4416257347
 4416223868 | Senior Technical Consultant | https://in.linkedin.com/jobs/view/senior-technical-consultant-at-salesforce-4416223868
+4412807690 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-zensar-technologies-4412807690
+4412815613 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-tesslogs-it-solutions-4412815613
