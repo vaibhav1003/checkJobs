@@ -2818,3 +2818,7 @@
 4416648641 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-blue-spire-inc-4416648641
 4416609356 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-salesforce-ad-4416609356
 4416606416 | Senior Technical Consultant | https://in.linkedin.com/jobs/view/senior-technical-consultant-at-salesforce-ad-4416606416
+4415916291 | Software Developer  - Salesforce | https://in.linkedin.com/jobs/view/software-developer-salesforce-at-s-p-global-4415916291
+4416658658 | Software Engineering MTS - Demos | https://in.linkedin.com/jobs/view/software-engineering-mts-demos-at-salesforce-4416658658
+4416645853 | Senior Technical Consultant | https://in.linkedin.com/jobs/view/senior-technical-consultant-at-informatica-brasil-4416645853
+4416688318 | Senior Technical Consultant | https://in.linkedin.com/jobs/view/senior-technical-consultant-at-griddable-io-4416688318
