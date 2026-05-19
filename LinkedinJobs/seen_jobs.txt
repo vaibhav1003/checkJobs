@@ -2809,3 +2809,8 @@
 4412853232 | Associate Lead Consultant - Salesforce Job | https://in.linkedin.com/jobs/view/associate-lead-consultant-salesforce-job-at-yash-technologies-middle-east-4412853232
 4415427107 | Customer Relationship Management Developer | https://in.linkedin.com/jobs/view/customer-relationship-management-developer-at-2nd-brain-labs-4415427107
 4412883126 | Java developer | https://in.linkedin.com/jobs/view/java-developer-at-ltm-4412883126
+4416487492 | Engineer, Software - Salesforce [T500-26027] | https://in.linkedin.com/jobs/view/engineer-software-salesforce-t500-26027-at-tmus-global-solutions-4416487492
+4415774130 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4415774130
+4415744792 | Salesforce CPQ & Subscription Management Engineer | https://in.linkedin.com/jobs/view/salesforce-cpq-subscription-management-engineer-at-spearsoft-4415744792
+4415743629 | Salesforce CPQ Developer | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-at-quess-it-staffing-4415743629
+4415746813 | Mulesoft developer | https://in.linkedin.com/jobs/view/mulesoft-developer-at-frenzoft-4415746813
