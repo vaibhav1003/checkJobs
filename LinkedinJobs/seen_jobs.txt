@@ -2822,3 +2822,7 @@
 4416658658 | Software Engineering MTS - Demos | https://in.linkedin.com/jobs/view/software-engineering-mts-demos-at-salesforce-4416658658
 4416645853 | Senior Technical Consultant | https://in.linkedin.com/jobs/view/senior-technical-consultant-at-informatica-brasil-4416645853
 4416688318 | Senior Technical Consultant | https://in.linkedin.com/jobs/view/senior-technical-consultant-at-griddable-io-4416688318
+4415941150 | Senior Consultant (Salesforce) | https://in.linkedin.com/jobs/view/senior-consultant-salesforce-at-mtx-group-4415941150
+4416697914 | Sr. Developer-Commercial-Salesforce | https://in.linkedin.com/jobs/view/sr-developer-commercial-salesforce-at-mattel-inc-4416697914
+4415932638 | Full Stack Application Engineer (Angular, Java) | https://in.linkedin.com/jobs/view/full-stack-application-engineer-angular-java-at-swiss-re-4415932638
+4413336910 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-concentrix-4413336910
