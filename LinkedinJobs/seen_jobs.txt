@@ -2852,3 +2852,7 @@
 4416306543 | Platform Defense and Safety Engineer | https://in.linkedin.com/jobs/view/platform-defense-and-safety-engineer-at-salesforce-4416306543
 4417319284 | AI Engineer(Backend)- LMTS/SMTS/MTS | https://in.linkedin.com/jobs/view/ai-engineer-backend-lmts-smts-mts-at-griddable-io-4417319284
 4407892027 | Sr. Batch Operations Developer | https://in.linkedin.com/jobs/view/sr-batch-operations-developer-at-warner-bros-discovery-4407892027
+4417328687 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4417328687
+4417318851 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4417318851
+4417319836 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4417319836
+4416331023 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-cognizant-4416331023
