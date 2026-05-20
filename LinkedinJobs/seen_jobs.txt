@@ -2843,3 +2843,6 @@
 4416132783 | Software Engineer/Java Backend, Spring Boot, Kafka, Clouds | https://in.linkedin.com/jobs/view/software-engineer-java-backend-spring-boot-kafka-clouds-at-wells-fargo-4416132783
 4416137111 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-smart-ims-inc-4416137111
 4417090534 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4417090534
+4416185396 | Sr. Software Platform Engineer I | https://in.linkedin.com/jobs/view/sr-software-platform-engineer-i-at-metlife-4416185396
+4417077245 | Need Java Fullstack Developer with strong Angular Experience:: Location(s) :: Hyderabad, Pune, Mumbai, Bengaluru :: Onsite:: | https://in.linkedin.com/jobs/view/need-java-fullstack-developer-with-strong-angular-experience-location-s-hyderabad-pune-mumbai-bengaluru-onsite-at-synergy-technologies-4417077245
+4417339122 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4417339122
