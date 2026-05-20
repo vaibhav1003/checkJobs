@@ -2826,3 +2826,8 @@
 4416697914 | Sr. Developer-Commercial-Salesforce | https://in.linkedin.com/jobs/view/sr-developer-commercial-salesforce-at-mattel-inc-4416697914
 4415932638 | Full Stack Application Engineer (Angular, Java) | https://in.linkedin.com/jobs/view/full-stack-application-engineer-angular-java-at-swiss-re-4415932638
 4413336910 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-concentrix-4413336910
+4416984639 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4416984639
+4413374366 | Packaged/SaaS Application Engineer | https://in.linkedin.com/jobs/view/packaged-saas-application-engineer-at-accenture-in-india-4413374366
+4416979641 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4416979641
+4416980642 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4416980642
+4415498441 | ServiceNow Developer | https://in.linkedin.com/jobs/view/servicenow-developer-at-tata-consultancy-services-4415498441
