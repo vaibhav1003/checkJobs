@@ -2831,3 +2831,8 @@
 4416979641 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4416979641
 4416980642 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4416980642
 4415498441 | ServiceNow Developer | https://in.linkedin.com/jobs/view/servicenow-developer-at-tata-consultancy-services-4415498441
+4417025819 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4417025819
+4417023986 | Salesforce CPQ Billing | https://in.linkedin.com/jobs/view/salesforce-cpq-billing-at-teamware-solutions-4417023986
+4417039459 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-quest-global-4417039459
+4415996840 | Developer full stack - Java+ react/Python+ React and Node.js, AWS | https://in.linkedin.com/jobs/view/developer-full-stack-java%2B-react-python%2B-react-and-node-js-aws-at-tata-consultancy-services-4415996840
+4417039424 | Java Backend Developer + AWS | https://in.linkedin.com/jobs/view/java-backend-developer-%2B-aws-at-trinity-technology-solutions-llc-4417039424
