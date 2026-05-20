@@ -2836,3 +2836,10 @@
 4417039459 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-quest-global-4417039459
 4415996840 | Developer full stack - Java+ react/Python+ React and Node.js, AWS | https://in.linkedin.com/jobs/view/developer-full-stack-java%2B-react-python%2B-react-and-node-js-aws-at-tata-consultancy-services-4415996840
 4417039424 | Java Backend Developer + AWS | https://in.linkedin.com/jobs/view/java-backend-developer-%2B-aws-at-trinity-technology-solutions-llc-4417039424
+4417087752 | Customer tech-Salesforce -Senior Developer | https://in.linkedin.com/jobs/view/customer-tech-salesforce-senior-developer-at-ey-4417087752
+4416148614 | Salesforce Education Cloud - Senior Developer | https://in.linkedin.com/jobs/view/salesforce-education-cloud-senior-developer-at-evoke-technologies-4416148614
+4416159037 | Technical Specialist-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-specialist-enterprise-apps-at-birlasoft-4416159037
+4416149685 | Salesforce Education Cloud Architect | https://in.linkedin.com/jobs/view/salesforce-education-cloud-architect-at-evoke-technologies-4416149685
+4416132783 | Software Engineer/Java Backend, Spring Boot, Kafka, Clouds | https://in.linkedin.com/jobs/view/software-engineer-java-backend-spring-boot-kafka-clouds-at-wells-fargo-4416132783
+4416137111 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-smart-ims-inc-4416137111
+4417090534 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4417090534
