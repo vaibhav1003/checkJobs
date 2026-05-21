@@ -2869,3 +2869,9 @@
 4417480449 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-tata-consultancy-services-4417480449
 4416395649 | Java AWS Developer | https://in.linkedin.com/jobs/view/java-aws-developer-at-frenzoft-4416395649
 4417706905 | Salesforce developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-weekday-ai-yc-w21-4417706905
+4417776299 | Principal Software Engineer - Java Backend, AVP | https://in.linkedin.com/jobs/view/principal-software-engineer-java-backend-avp-at-state-street-4417776299
+4416536877 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4416536877
+4406169895 | JAVA Developer | https://in.linkedin.com/jobs/view/java-developer-at-tata-consultancy-services-4406169895
+4417721083 | Salesforce Conga CPQ Senior Developer | https://in.linkedin.com/jobs/view/salesforce-conga-cpq-senior-developer-at-tata-consultancy-services-4417721083
+4417757596 | Manager - Distribution Enablement - Salesforce | https://in.linkedin.com/jobs/view/manager-distribution-enablement-salesforce-at-invesco-4417757596
+4417719797 | Software Engineering MTS (Salesforce Developer) | https://in.linkedin.com/jobs/view/software-engineering-mts-salesforce-developer-at-salesforce-4417719797
