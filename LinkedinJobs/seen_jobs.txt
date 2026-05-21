@@ -2882,3 +2882,8 @@
 4417761863 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4417761863
 4385047240 | Manager - Tech Consulting - FS - CNS - TC - Technology Strategy & Transformation - Hyderabad | https://in.linkedin.com/jobs/view/manager-tech-consulting-fs-cns-tc-technology-strategy-transformation-hyderabad-at-ey-4385047240
 4385035629 | Manager - Tech Consulting - FS - CNS - TC - Technology Strategy & Transformation - Hyderabad | https://in.linkedin.com/jobs/view/manager-tech-consulting-fs-cns-tc-technology-strategy-transformation-hyderabad-at-ey-4385035629
+4417768681 | Java+ Angular Developer | https://in.linkedin.com/jobs/view/java%2B-angular-developer-at-persistent-systems-4417768681
+4417773451 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-mphasis-4417773451
+4417776761 | Full‑Stack Engineer (Java Spring Boot + React/Angular) / Consultant Specialist | https://in.linkedin.com/jobs/view/full%E2%80%91stack-engineer-java-spring-boot-%2B-react-angular-consultant-specialist-at-hsbc-4417776761
+4417791476 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-ntt-data-north-america-4417791476
+4418004643 | Software Engineering MTS (Salesforce Developer) | https://in.linkedin.com/jobs/view/software-engineering-mts-salesforce-developer-at-salesforce-ad-4418004643
