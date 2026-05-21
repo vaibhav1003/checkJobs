@@ -2860,3 +2860,11 @@
 4416373764 | QA Engineer – Salesforce Agentforce | https://in.linkedin.com/jobs/view/qa-engineer-%E2%80%93-salesforce-agentforce-at-people-prime-worldwide-4416373764
 4416374778 | Senior Developer – Salesforce Agentforce | https://in.linkedin.com/jobs/view/senior-developer-%E2%80%93-salesforce-agentforce-at-people-prime-worldwide-4416374778
 4416370356 | Salesforce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-katzion-a-globallogic-company-4416370356
+4416503153 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-giggso-4416503153
+4416508083 | Java Full stack Developer with Angular/React | https://in.linkedin.com/jobs/view/java-full-stack-developer-with-angular-react-at-crisil-4416508083
+4417492302 | Senior Salesforce Developer with Experience cloud and LWC expertise | https://in.linkedin.com/jobs/view/senior-salesforce-developer-with-experience-cloud-and-lwc-expertise-at-infotech-consultancy-4417492302
+4417499145 | Senior Salesforce Developer – Salesforce Cloud Voice ( SCV) & Amazon Connect | https://in.linkedin.com/jobs/view/senior-salesforce-developer-%E2%80%93-salesforce-cloud-voice-scv-amazon-connect-at-infotech-consultancy-4417499145
+4417490282 | Quality Engineer, Salesforce [T500-26097] | https://in.linkedin.com/jobs/view/quality-engineer-salesforce-t500-26097-at-marriott-tech-accelerator-4417490282
+4417477936 | Senior Salesforce Pre-Sales Solution Engineer | https://in.linkedin.com/jobs/view/senior-salesforce-pre-sales-solution-engineer-at-wilco-source-4417477936
+4417480449 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-tata-consultancy-services-4417480449
+4416395649 | Java AWS Developer | https://in.linkedin.com/jobs/view/java-aws-developer-at-frenzoft-4416395649
