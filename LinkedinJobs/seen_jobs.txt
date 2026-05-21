@@ -2857,3 +2857,6 @@
 4417319836 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4417319836
 4416331023 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-cognizant-4416331023
 4417418325 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4417418325
+4416373764 | QA Engineer – Salesforce Agentforce | https://in.linkedin.com/jobs/view/qa-engineer-%E2%80%93-salesforce-agentforce-at-people-prime-worldwide-4416373764
+4416374778 | Senior Developer – Salesforce Agentforce | https://in.linkedin.com/jobs/view/senior-developer-%E2%80%93-salesforce-agentforce-at-people-prime-worldwide-4416374778
+4416370356 | Salesforce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-katzion-a-globallogic-company-4416370356
