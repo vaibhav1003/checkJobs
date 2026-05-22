@@ -2921,3 +2921,6 @@
 4418185435 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4418185435
 4418171848 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4418171848
 4418189302 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4418189302
+4417186778 | Senior Analyst/Manager – Salesforce Administrator | https://in.linkedin.com/jobs/view/senior-analyst-manager-%E2%80%93-salesforce-administrator-at-desri-4417186778
+4418401877 | Java Full Stack Software Engineer - Junior | https://in.linkedin.com/jobs/view/java-full-stack-software-engineer-junior-at-cgi-4418401877
+4418199948 | Java Full Stack Software Engineer - Mid | https://in.linkedin.com/jobs/view/java-full-stack-software-engineer-mid-at-cgi-4418199948
