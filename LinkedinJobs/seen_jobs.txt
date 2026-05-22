@@ -2914,3 +2914,10 @@
 4418167732 | Sr Web Developer | https://in.linkedin.com/jobs/view/sr-web-developer-at-blue-yonder-4418167732
 4414352204 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-pipra-solutions-4414352204
 4414094746 | Manager - Distribution Enablement - Salesforce | https://in.linkedin.com/jobs/view/manager-distribution-enablement-salesforce-at-mygwork-lgbtq%2B-business-community-4414094746
+4418191713 | MTS/SMTS/LMTS - Software Engineer | https://in.linkedin.com/jobs/view/mts-smts-lmts-software-engineer-at-salesforce-4418191713
+4418189281 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4418189281
+4413669054 | GDE/MF - SAP Developer (M/F/D) | https://in.linkedin.com/jobs/view/gde-mf-sap-developer-m-f-d-at-basf-4413669054
+4418193075 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4418193075
+4418185435 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4418185435
+4418171848 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4418171848
+4418189302 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4418189302
