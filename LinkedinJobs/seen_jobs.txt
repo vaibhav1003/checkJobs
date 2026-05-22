@@ -2901,3 +2901,10 @@
 4413329411 | GDF/CS_Senior Developer | https://in.linkedin.com/jobs/view/gdf-cs-senior-developer-at-basf-4413329411
 4418065942 | AI Developer (Technical Support Solutions) | https://in.linkedin.com/jobs/view/ai-developer-technical-support-solutions-at-accolite-4418065942
 4418065835 | Senior Technical Writer | https://in.linkedin.com/jobs/view/senior-technical-writer-at-salesforce-4418065835
+4418094723 | Intermediate Developer - Java [T500-26143] | https://in.linkedin.com/jobs/view/intermediate-developer-java-t500-26143-at-cibc-4418094723
+4417115565 | Sr. Software Platform Engineer I | https://in.linkedin.com/jobs/view/sr-software-platform-engineer-i-at-metlife-4417115565
+4418072656 | D365 CRM Technical Developer | https://in.linkedin.com/jobs/view/d365-crm-technical-developer-at-teamware-solutions-4418072656
+4418083644 | Software Engineer/JAVA, Backend, Spring Boot, Microservices & GEN AI | https://in.linkedin.com/jobs/view/software-engineer-java-backend-spring-boot-microservices-gen-ai-at-wells-fargo-4418083644
+4418101360 | Java FullStack Developer - Assistant Manager | https://in.linkedin.com/jobs/view/java-fullstack-developer-assistant-manager-at-state-street-4418101360
+4414094835 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-mco-mycomplianceoffice-4414094835
+4418085588 | Principal Engineer - Java | https://in.linkedin.com/jobs/view/principal-engineer-java-at-wells-fargo-4418085588
