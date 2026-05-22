@@ -2895,3 +2895,9 @@
 4414053500 | Sr Salesforce Apex Developer | https://in.linkedin.com/jobs/view/sr-salesforce-apex-developer-at-yo-it-consulting-4414053500
 4416799439 | Salesforce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-katzion-a-globallogic-company-4416799439
 4416790616 | Playwright with Java Automation Engineer | https://in.linkedin.com/jobs/view/playwright-with-java-automation-engineer-at-zato-4416790616
+4418072538 | Senior Security Engineer | https://in.linkedin.com/jobs/view/senior-security-engineer-at-salesforce-4418072538
+4414076153 | ESaaS - SFDC - Lightning UI & JavaScript Development | https://in.linkedin.com/jobs/view/esaas-sfdc-lightning-ui-javascript-development-at-zensar-technologies-4414076153
+4414087423 | Senior Software Engineer | https://in.linkedin.com/jobs/view/senior-software-engineer-at-digile-4414087423
+4413329411 | GDF/CS_Senior Developer | https://in.linkedin.com/jobs/view/gdf-cs-senior-developer-at-basf-4413329411
+4418065942 | AI Developer (Technical Support Solutions) | https://in.linkedin.com/jobs/view/ai-developer-technical-support-solutions-at-accolite-4418065942
+4418065835 | Senior Technical Writer | https://in.linkedin.com/jobs/view/senior-technical-writer-at-salesforce-4418065835
