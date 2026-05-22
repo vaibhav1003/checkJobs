@@ -2908,3 +2908,6 @@
 4418101360 | Java FullStack Developer - Assistant Manager | https://in.linkedin.com/jobs/view/java-fullstack-developer-assistant-manager-at-state-street-4418101360
 4414094835 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-mco-mycomplianceoffice-4414094835
 4418085588 | Principal Engineer - Java | https://in.linkedin.com/jobs/view/principal-engineer-java-at-wells-fargo-4418085588
+4417154461 | Salesforce Consumer goods Developer/Automation Tester! | https://in.linkedin.com/jobs/view/salesforce-consumer-goods-developer-automation-tester%21-at-technogen-inc-4417154461
+4417146170 | Salesforce CPQ Developer | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-at-quess-it-staffing-4417146170
+4414354074 | Full Stack Engineer (Java and Angular) | https://in.linkedin.com/jobs/view/full-stack-engineer-java-and-angular-at-miratech-4414354074
