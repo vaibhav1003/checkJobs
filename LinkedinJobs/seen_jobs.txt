@@ -2887,3 +2887,4 @@
 4417776761 | Full‑Stack Engineer (Java Spring Boot + React/Angular) / Consultant Specialist | https://in.linkedin.com/jobs/view/full%E2%80%91stack-engineer-java-spring-boot-%2B-react-angular-consultant-specialist-at-hsbc-4417776761
 4417791476 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-ntt-data-north-america-4417791476
 4418004643 | Software Engineering MTS (Salesforce Developer) | https://in.linkedin.com/jobs/view/software-engineering-mts-salesforce-developer-at-salesforce-ad-4418004643
+4418044484 | Software Engineering MTS (Salesforce Developer) | https://in.linkedin.com/jobs/view/software-engineering-mts-salesforce-developer-at-informatica-brasil-4418044484
