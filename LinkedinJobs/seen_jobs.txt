@@ -2938,3 +2938,10 @@
 4414821379 | Salesforce Developer -   Field Service Lightning(FSL) | https://in.linkedin.com/jobs/view/salesforce-developer-field-service-lightning-fsl-at-whitefield-careers-4414821379
 4417535944 | Mulesoft developer | https://in.linkedin.com/jobs/view/mulesoft-developer-at-frenzoft-4417535944
 4414817446 | Senior Analyst - Agentforce | https://in.linkedin.com/jobs/view/senior-analyst-agentforce-at-novartis-india-4414817446
+4414826213 | GDF/BF - Digital Pricing Expert (m/f/d) | https://in.linkedin.com/jobs/view/gdf-bf-digital-pricing-expert-m-f-d-at-basf-4414826213
+4414823289 | GDF/BB - IT Program Architect (Salesforce and CRM Digital Solutions Expert) (m/f/d) | https://in.linkedin.com/jobs/view/gdf-bb-it-program-architect-salesforce-and-crm-digital-solutions-expert-%E2%80%AF-m-f-d-at-basf-4414823289
+4418625049 | Principal Solution Architect | https://in.linkedin.com/jobs/view/principal-solution-architect-at-amgen-4418625049
+4414807423 | GDE/FE - Software Engineer (m/f/d) | https://in.linkedin.com/jobs/view/gde-fe-software-engineer-m-f-d-at-basf-4414807423
+4414811369 | GDE/ME - SAP Developer (m/f/d) | https://in.linkedin.com/jobs/view/gde-me-sap-developer-m-f-d-at-basf-4414811369
+4414822283 | GDE/MC - SAP Developer (m/f/d) | https://in.linkedin.com/jobs/view/gde-mc-sap-developer-m-f-d-at-basf-4414822283
+4414375791 | GDB/ZI - Integration Platform Frontend Engineer (M/F/D) | https://in.linkedin.com/jobs/view/gdb-zi-integration-platform-frontend-engineer-m-f-d-at-basf-4414375791
