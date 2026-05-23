@@ -2935,3 +2935,6 @@
 4418600066 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-wells-fargo-4418600066
 4418485877 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-wells-fargo-4418485877
 4398863403 | Web Developer | https://in.linkedin.com/jobs/view/web-developer-at-accenture-in-india-4398863403
+4414821379 | Salesforce Developer -   Field Service Lightning(FSL) | https://in.linkedin.com/jobs/view/salesforce-developer-field-service-lightning-fsl-at-whitefield-careers-4414821379
+4417535944 | Mulesoft developer | https://in.linkedin.com/jobs/view/mulesoft-developer-at-frenzoft-4417535944
+4414817446 | Senior Analyst - Agentforce | https://in.linkedin.com/jobs/view/senior-analyst-agentforce-at-novartis-india-4414817446
