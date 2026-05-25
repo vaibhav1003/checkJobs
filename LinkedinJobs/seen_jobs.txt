@@ -2949,3 +2949,7 @@
 4417817091 | Senior Global Technical Salesforce Architect (Based in Hyderabad, India) | https://in.linkedin.com/jobs/view/senior-global-technical-salesforce-architect-based-in-hyderabad-india-at-olympus-corporation-4417817091
 4414857808 | Salesforce Technical Lead | https://in.linkedin.com/jobs/view/salesforce-technical-lead-at-gspann-technologies-inc-4414857808
 4418688675 | Systems Analyst | https://in.linkedin.com/jobs/view/systems-analyst-at-fedex-4418688675
+4418937177 | Salesforce Marketing Cloud Intelligence (MCI/Datorama) Developer | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-intelligence-mci-datorama-developer-at-innova-esi-4418937177
+4418928524 | Salesforce Consultant - Managed Services | https://in.linkedin.com/jobs/view/salesforce-consultant-managed-services-at-osf-digital-4418928524
+4418921629 | Salesforce Technical Architect - CPQ / Revenue Cloud | https://in.linkedin.com/jobs/view/salesforce-technical-architect-cpq-revenue-cloud-at-osf-digital-4418921629
+4418917474 | Salesforce B2C Commerce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-b2c-commerce-solution-architect-at-osf-digital-4418917474
