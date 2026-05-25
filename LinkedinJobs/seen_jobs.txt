@@ -2962,3 +2962,8 @@
 4417895527 | Salesforce - Senior Analyst - Hyderabad | https://in.linkedin.com/jobs/view/salesforce-senior-analyst-hyderabad-at-deloitte-4417895527
 4415209949 | Sr Salesforce Developer | https://in.linkedin.com/jobs/view/sr-salesforce-developer-at-zensar-technologies-4415209949
 4414898914 | GDF/BA - Salesforce Senior Specialist Digitalization (m/f/d) | https://in.linkedin.com/jobs/view/gdf-ba-salesforce-senior-specialist-digitalization-m-f-d-at-basf-4414898914
+4415209650 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-hcltech-4415209650
+4418954633 | Software Engineering MTS (Full Stack) - AI Generalist (Demo Tools & Platform Engineering) | https://in.linkedin.com/jobs/view/software-engineering-mts-full-stack-ai-generalist-demo-tools-platform-engineering-at-salesforce-4418954633
+4418968074 | Specialist Salesforce Architect | https://in.linkedin.com/jobs/view/specialist-salesforce-architect-at-amgen-4418968074
+4418951714 | Salesforce Revenue Cloud Senior Consultant | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-senior-consultant-at-ntt-data-north-america-4418951714
+4418961367 | Salesforce Revenue Cloud Senior Consultant | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-senior-consultant-at-ntt-data-north-america-4418961367
