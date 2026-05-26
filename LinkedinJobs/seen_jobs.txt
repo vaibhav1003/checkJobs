@@ -2977,3 +2977,8 @@
 4410069724 | Senior Enterprise Applications Administrator | https://in.linkedin.com/jobs/view/senior-enterprise-applications-administrator-at-jaggaer-4410069724
 4417878875 | AEM - Assistant Manager - Hyderabad | https://in.linkedin.com/jobs/view/aem-assistant-manager-hyderabad-at-deloitte-4417878875
 4418230139 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-milestone-technologies-inc-4418230139
+4415272198 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-tesslogs-it-solutions-4415272198
+4418240665 | Salesforce Omnistudio Developer | https://in.linkedin.com/jobs/view/salesforce-omnistudio-developer-at-edurun-group-4418240665
+4419142263 | Senior Success Guide | https://in.linkedin.com/jobs/view/senior-success-guide-at-salesforce-4419142263
+4418232693 | Java Developer III | https://in.linkedin.com/jobs/view/java-developer-iii-at-systechcorp-inc-4418232693
+4415276355 | Principal Software Engineer - Java Full Stack Engineer | https://in.linkedin.com/jobs/view/principal-software-engineer-java-full-stack-engineer-at-mco-mycomplianceoffice-4415276355
