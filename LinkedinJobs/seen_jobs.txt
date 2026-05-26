@@ -2995,3 +2995,9 @@
 4418283033 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-nextmetaforce-4418283033
 4416813208 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-kanerika-inc-4416813208
 4419456030 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4419456030
+4419503270 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-ntt-data-north-america-4419503270
+4419494339 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-ntt-data-north-america-4419494339
+4419516252 | AWS Java Developer | https://in.linkedin.com/jobs/view/aws-java-developer-at-cgi-4419516252
+4419511307 | AWS Java Developer | https://in.linkedin.com/jobs/view/aws-java-developer-at-cgi-4419511307
+4419492538 | Dynamic CRM Developer | https://in.linkedin.com/jobs/view/dynamic-crm-developer-at-infoway-solution-4419492538
+4419441861 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4419441861
