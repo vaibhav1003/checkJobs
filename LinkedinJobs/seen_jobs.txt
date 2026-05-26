@@ -2982,3 +2982,10 @@
 4419142263 | Senior Success Guide | https://in.linkedin.com/jobs/view/senior-success-guide-at-salesforce-4419142263
 4418232693 | Java Developer III | https://in.linkedin.com/jobs/view/java-developer-iii-at-systechcorp-inc-4418232693
 4415276355 | Principal Software Engineer - Java Full Stack Engineer | https://in.linkedin.com/jobs/view/principal-software-engineer-java-full-stack-engineer-at-mco-mycomplianceoffice-4415276355
+4419177276 | Salesforce SCV Engineer | https://in.linkedin.com/jobs/view/salesforce-scv-engineer-at-sanofi-4419177276
+4419169393 | Salesforce ATM Engineer | https://in.linkedin.com/jobs/view/salesforce-atm-engineer-at-sanofi-4419169393
+4419193796 | Senior Success Guide | https://in.linkedin.com/jobs/view/senior-success-guide-at-informatica-brasil-4419193796
+4419428961 | Senior Associate Software Engineer | https://in.linkedin.com/jobs/view/senior-associate-software-engineer-at-amgen-4419428961
+4419197695 | Senior Success Guide - SFMC | https://in.linkedin.com/jobs/view/senior-success-guide-sfmc-at-informatica-brasil-4419197695
+4410515399 | IN_Associate_ Tulip Developer__ Data Analytics _ Advisory _Hyderabad | https://in.linkedin.com/jobs/view/in-associate-tulip-developer-data-analytics-advisory-hyderabad-at-pwc-india-4410515399
+4419427980 | Senior Success Guide - SFMC | https://in.linkedin.com/jobs/view/senior-success-guide-sfmc-at-griddable-io-4419427980
