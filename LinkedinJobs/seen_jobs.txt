@@ -3001,3 +3001,5 @@
 4419511307 | AWS Java Developer | https://in.linkedin.com/jobs/view/aws-java-developer-at-cgi-4419511307
 4419492538 | Dynamic CRM Developer | https://in.linkedin.com/jobs/view/dynamic-crm-developer-at-infoway-solution-4419492538
 4419441861 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4419441861
+4419551883 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4419551883
+4419560244 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4419560244
