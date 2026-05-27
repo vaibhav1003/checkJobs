@@ -3004,3 +3004,5 @@
 4419551883 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4419551883
 4419560244 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4419560244
 4419588996 | Java Developer - Spring Boot | https://in.linkedin.com/jobs/view/java-developer-spring-boot-at-viamagus-4419588996
+4416882943 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-charter-global-4416882943
+4419818127 | Software Engineer - Java Full Stack Developer | https://in.linkedin.com/jobs/view/software-engineer-java-full-stack-developer-at-the-depository-trust-clearing-corporation-dtcc-4419818127
