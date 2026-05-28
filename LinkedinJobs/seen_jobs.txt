@@ -3057,3 +3057,5 @@
 4419078528 | Senior Consultant, Technical Transformation - Sales&Service - Salesforce Technical | https://in.linkedin.com/jobs/view/senior-consultant-technical-transformation-sales-service-salesforce-technical-at-deloitte-4419078528
 4420483168 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4420483168
 4419317550 | Product Manager - Salesforce | https://in.linkedin.com/jobs/view/product-manager-salesforce-at-thomson-reuters-4419317550
+4419345220 | Salesforce Apex Development(Health Cloud) - Senior Consultant, Managed Services - DFO&I - Customer | https://in.linkedin.com/jobs/view/salesforce-apex-development-health-cloud-senior-consultant-managed-services-dfo-i-customer-at-deloitte-4419345220
+4419346250 | Full Stack Java+Angular JS-Managed Services Engineer I-DFO&I-Customer | https://in.linkedin.com/jobs/view/full-stack-java%2Bangular-js-managed-services-engineer-i-dfo-i-customer-at-deloitte-4419346250
