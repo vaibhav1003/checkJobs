@@ -3036,3 +3036,9 @@
 4419001599 | Manufacturing Cloud Architect (Salesforce) | https://in.linkedin.com/jobs/view/manufacturing-cloud-architect-salesforce-at-orbion-infotech-4419001599
 4419010415 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-owlsure-4419010415
 4419006322 | Java Full Stack Engineer | https://in.linkedin.com/jobs/view/java-full-stack-engineer-at-prophecy-technologies-4419006322
+4420266944 | IT Application Developer - Salesforce | https://in.linkedin.com/jobs/view/it-application-developer-salesforce-at-tungsten-automation-4420266944
+4419035209 | Salesforce FSL Developer | https://in.linkedin.com/jobs/view/salesforce-fsl-developer-at-zorba-ai-4419035209
+4419030256 | Full Stack Java+React JS-Managed Services Engineer I-DFO&I-Customer | https://in.linkedin.com/jobs/view/full-stack-java%2Breact-js-managed-services-engineer-i-dfo-i-customer-at-deloitte-4419030256
+4419019654 | Full Stack Java+React JSManaged Services Engineer III-DFO&I-Customer | https://in.linkedin.com/jobs/view/full-stack-java%2Breact-jsmanaged-services-engineer-iii-dfo-i-customer-at-deloitte-4419019654
+4419018755 | Consultant, Technical Transformation - Salesforce Technical | https://in.linkedin.com/jobs/view/consultant-technical-transformation-salesforce-technical-at-deloitte-4419018755
+4419024413 | Full Stack Java+React JS-Managed Services Engineer II-DFO&I-Customer | https://in.linkedin.com/jobs/view/full-stack-java%2Breact-js-managed-services-engineer-ii-dfo-i-customer-at-deloitte-4419024413
