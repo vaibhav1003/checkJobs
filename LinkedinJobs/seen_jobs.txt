@@ -3042,3 +3042,6 @@
 4419019654 | Full Stack Java+React JSManaged Services Engineer III-DFO&I-Customer | https://in.linkedin.com/jobs/view/full-stack-java%2Breact-jsmanaged-services-engineer-iii-dfo-i-customer-at-deloitte-4419019654
 4419018755 | Consultant, Technical Transformation - Salesforce Technical | https://in.linkedin.com/jobs/view/consultant-technical-transformation-salesforce-technical-at-deloitte-4419018755
 4419024413 | Full Stack Java+React JS-Managed Services Engineer II-DFO&I-Customer | https://in.linkedin.com/jobs/view/full-stack-java%2Breact-js-managed-services-engineer-ii-dfo-i-customer-at-deloitte-4419024413
+4419059318 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-hariguru-solutions-4419059318
+4416179205 | salesforce developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-zepcruit-4416179205
+4417653372 | QA Engineer - Mobile Automation (Appium & Java) | https://in.linkedin.com/jobs/view/qa-engineer-mobile-automation-appium-java-at-mitchell-martin-inc-4417653372
