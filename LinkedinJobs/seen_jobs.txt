@@ -3045,3 +3045,8 @@
 4419059318 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-hariguru-solutions-4419059318
 4416179205 | salesforce developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-zepcruit-4416179205
 4417653372 | QA Engineer - Mobile Automation (Appium & Java) | https://in.linkedin.com/jobs/view/qa-engineer-mobile-automation-appium-java-at-mitchell-martin-inc-4417653372
+4419066911 | Salesforce Apex Development(Health Cloud) - Consultant, Managed Services - DFO&I - Customer | https://in.linkedin.com/jobs/view/salesforce-apex-development-health-cloud-consultant-managed-services-dfo-i-customer-at-deloitte-4419066911
+4419067858 | Senior Consultant, Technical Transformation - Sales & Service - Salesforce Billing Developer | https://in.linkedin.com/jobs/view/senior-consultant-technical-transformation-sales-service-salesforce-billing-developer-at-deloitte-4419067858
+4419087144 | Salesforce Revenue Cloud Advanced Functional - Consultant, Functional Transformation - Sales & Services- Customer | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-advanced-functional-consultant-functional-transformation-sales-services-customer-at-deloitte-4419087144
+4419080494 | Salesforce Apex Development - Senior Consultant, Managed Services - DFO&I - Customer | https://in.linkedin.com/jobs/view/salesforce-apex-development-senior-consultant-managed-services-dfo-i-customer-at-deloitte-4419080494
+4419066945 | Consultant - Sales & Service -Salesforce Functional Validation Fixed Term Hire | https://in.linkedin.com/jobs/view/consultant-sales-service-salesforce-functional-validation-fixed-term-hire-at-deloitte-4419066945
