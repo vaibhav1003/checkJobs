@@ -3059,3 +3059,8 @@
 4419317550 | Product Manager - Salesforce | https://in.linkedin.com/jobs/view/product-manager-salesforce-at-thomson-reuters-4419317550
 4419345220 | Salesforce Apex Development(Health Cloud) - Senior Consultant, Managed Services - DFO&I - Customer | https://in.linkedin.com/jobs/view/salesforce-apex-development-health-cloud-senior-consultant-managed-services-dfo-i-customer-at-deloitte-4419345220
 4419346250 | Full Stack Java+Angular JS-Managed Services Engineer I-DFO&I-Customer | https://in.linkedin.com/jobs/view/full-stack-java%2Bangular-js-managed-services-engineer-i-dfo-i-customer-at-deloitte-4419346250
+4420685763 | Salesforce Sr Developer | https://in.linkedin.com/jobs/view/salesforce-sr-developer-at-tata-consultancy-services-4420685763
+4419777252 | Salesforce Apex Development (Agentforce) - Consultant, Managed Services - DFO&I - Customer | https://in.linkedin.com/jobs/view/salesforce-apex-development-agentforce-consultant-managed-services-dfo-i-customer-at-deloitte-4419777252
+4419776232 | Salesforce Apex Development (Agentforce)-Senior Consultant, Managed Services-DFO&I-Customer | https://in.linkedin.com/jobs/view/salesforce-apex-development-agentforce-senior-consultant-managed-services-dfo-i-customer-at-deloitte-4419776232
+4417914106 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-mygwork-lgbtq%2B-business-community-4417914106
+4420691345 | Siebel Developers | https://in.linkedin.com/jobs/view/siebel-developers-at-tata-consultancy-services-4420691345
