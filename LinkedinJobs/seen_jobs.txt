@@ -3073,3 +3073,10 @@
 4421445557 | Java React JS Developer | https://in.linkedin.com/jobs/view/java-react-js-developer-at-prophecy-technologies-4421445557
 4421427966 | FullStack Java Developer | https://in.linkedin.com/jobs/view/fullstack-java-developer-at-viseo-4421427966
 4421711373 | Consultant Functional Transformation - Sales & Service -Salesforce Functional Validation Fixed Term Hire | https://in.linkedin.com/jobs/view/consultant-functional-transformation-sales-service-salesforce-functional-validation-fixed-term-hire-at-deloitte-4421711373
+4420945231 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-sourcingxpress-4420945231
+4420952347 | Salesforce/Agentforce Developer (Software Engineering, MTS) | https://in.linkedin.com/jobs/view/salesforce-agentforce-developer-software-engineering-mts-at-salesforce-4420952347
+4420942329 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-sourcingxpress-4420942329
+4422000736 | Salesforce Agentforce Dev Lead | https://in.linkedin.com/jobs/view/salesforce-agentforce-dev-lead-at-persistent-systems-4422000736
+4422002684 | Salesforce CPQ Lead Developer | https://in.linkedin.com/jobs/view/salesforce-cpq-lead-developer-at-persistent-systems-4422002684
+4411612604 | Salesforce Integration Lead | https://in.linkedin.com/jobs/view/salesforce-integration-lead-at-ntt-data-north-america-4411612604
+4420942302 | Salesforce Administrator | https://in.linkedin.com/jobs/view/salesforce-administrator-at-realpage-india-4420942302
