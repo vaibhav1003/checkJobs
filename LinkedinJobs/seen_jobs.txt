@@ -3098,3 +3098,6 @@
 4417931733 | Senior iOS Developer | https://in.linkedin.com/jobs/view/senior-ios-developer-at-frontial-technologies-4417931733
 4422524497 | Java Full stack developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4422524497
 4421316533 | Senior Software Engineer - Senior Developer - Salesforce | https://in.linkedin.com/jobs/view/senior-software-engineer-senior-developer-salesforce-at-bristol-myers-squibb-4421316533
+4411976289 | Sr Dashboard Developer - Tableau, ThoughtSpot | https://in.linkedin.com/jobs/view/sr-dashboard-developer-tableau-thoughtspot-at-mattel-inc-4411976289
+4411712839 | Technical Specialist-App Development | https://in.linkedin.com/jobs/view/technical-specialist-app-development-at-birlasoft-4411712839
+4402937810 | Full Stack Developer II | https://in.linkedin.com/jobs/view/full-stack-developer-ii-at-fedex-4402937810
