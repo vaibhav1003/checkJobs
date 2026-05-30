@@ -3094,3 +3094,5 @@
 4422016149 | Java Developer (5-8 Years), Pune/ Hyderabad | https://in.linkedin.com/jobs/view/java-developer-5-8-years-pune-hyderabad-at-tata-consultancy-services-4422016149
 4421247314 | Software Engineer - Main frame - JAVA and Python | https://in.linkedin.com/jobs/view/software-engineer-main-frame-java-and-python-at-optum-india-4421247314
 4421233752 | Lead Software Engineering - Java FSE - Springboot, Angular, Cloud | https://in.linkedin.com/jobs/view/lead-software-engineering-java-fse-springboot-angular-cloud-at-optum-india-4421233752
+4418315273 | Java Application Developer | https://in.linkedin.com/jobs/view/java-application-developer-at-frontial-technologies-4418315273
+4417931733 | Senior iOS Developer | https://in.linkedin.com/jobs/view/senior-ios-developer-at-frontial-technologies-4417931733
