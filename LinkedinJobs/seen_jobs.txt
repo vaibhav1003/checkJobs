@@ -3105,3 +3105,9 @@
 4418372009 | DEVELOPER L4 | https://in.linkedin.com/jobs/view/developer-l4-at-wipro-4418372009
 4336884482 | Azure Senior Developer | https://in.linkedin.com/jobs/view/azure-senior-developer-at-cushman-wakefield-4336884482
 4422565366 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-loyalty-juggernaut-4422565366
+4412383297 | Sales Manager - eCDS | https://in.linkedin.com/jobs/view/sales-manager-ecds-at-thermo-fisher-scientific-4412383297
+4421627779 | Developer II (ROR Developer) | https://in.linkedin.com/jobs/view/developer-ii-ror-developer-at-realpage-india-4421627779
+4422584695 | Developer II (ROR Developer) | https://in.linkedin.com/jobs/view/developer-ii-ror-developer-at-realpage-inc-4422584695
+4421629824 | Developer III-ROR | https://in.linkedin.com/jobs/view/developer-iii-ror-at-realpage-india-4421629824
+4422583523 | FIORI | https://in.linkedin.com/jobs/view/fiori-at-people-staffing-solutions-4422583523
+4422562946 | Developer III-ROR | https://in.linkedin.com/jobs/view/developer-iii-ror-at-realpage-inc-4422562946
