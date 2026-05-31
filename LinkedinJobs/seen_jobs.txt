@@ -3104,3 +3104,4 @@
 4418362094 | DEVELOPER L4 | https://in.linkedin.com/jobs/view/developer-l4-at-wipro-4418362094
 4418372009 | DEVELOPER L4 | https://in.linkedin.com/jobs/view/developer-l4-at-wipro-4418372009
 4336884482 | Azure Senior Developer | https://in.linkedin.com/jobs/view/azure-senior-developer-at-cushman-wakefield-4336884482
+4422565366 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-loyalty-juggernaut-4422565366
