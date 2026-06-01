@@ -3126,3 +3126,7 @@
 4291062898 | IN-Senior Associate_Salesforce QA_ Enterprise Apps-SFDC_Advisory_Hyderabad | https://in.linkedin.com/jobs/view/in-senior-associate-salesforce-qa-enterprise-apps-sfdc-advisory-hyderabad-at-pwc-india-4291062898
 4421830136 | Developer II | https://in.linkedin.com/jobs/view/developer-ii-at-realpage-india-4421830136
 4423235225 | Sr. Software Engineer | https://in.linkedin.com/jobs/view/sr-software-engineer-at-ansira-4423235225
+4421847995 | Full Stack Engineer (Angular with Java) | https://in.linkedin.com/jobs/view/full-stack-engineer-angular-with-java-at-solugenix-4421847995
+4421896767 | React Java Full Stack Developer (6189) | https://in.linkedin.com/jobs/view/react-java-full-stack-developer-6189-at-itd-4421896767
+4421895509 | Salesforce Revenue Cloud Lead Developer | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-lead-developer-at-ntt-data-north-america-4421895509
+4422107527 | Software Engineer - Java Backend | https://in.linkedin.com/jobs/view/software-engineer-java-backend-at-cgi-4422107527
