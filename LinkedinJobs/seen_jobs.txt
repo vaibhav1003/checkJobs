@@ -3132,3 +3132,9 @@
 4422107527 | Software Engineer - Java Backend | https://in.linkedin.com/jobs/view/software-engineer-java-backend-at-cgi-4422107527
 4422170627 | Principal Software Engineer - Java | https://in.linkedin.com/jobs/view/principal-software-engineer-java-at-willspired-solutions-4422170627
 4423893406 | SAP FICO, SAP MM & SALESFORCE DEVELOPER | https://in.linkedin.com/jobs/view/sap-fico-sap-mm-salesforce-developer-at-tata-consultancy-services-4423893406
+4423915447 | SFDC Developer | https://in.linkedin.com/jobs/view/sfdc-developer-at-zensar-technologies-4423915447
+4422396080 | Technical Consultant - Salesforce Field Services | https://in.linkedin.com/jobs/view/technical-consultant-salesforce-field-services-at-informatica-brasil-4422396080
+4422396073 | Technical Consultant / Senior Technical Consultant - Salesforce Loyalty Cloud | https://in.linkedin.com/jobs/view/technical-consultant-senior-technical-consultant-salesforce-loyalty-cloud-at-informatica-brasil-4422396073
+4422353102 | Technical Consultant / Senior Technical Consultant - Salesforce Loyalty Cloud | https://in.linkedin.com/jobs/view/technical-consultant-senior-technical-consultant-salesforce-loyalty-cloud-at-salesforce-ad-4422353102
+4419277061 | Java Kafka Engineer (Hyd-Walkin-6th Jun, 26) | https://in.linkedin.com/jobs/view/java-kafka-engineer-hyd-walkin-6th-jun-26-at-tata-consultancy-services-4419277061
+4422350395 | Technical Consultant - Salesforce Field Services | https://in.linkedin.com/jobs/view/technical-consultant-salesforce-field-services-at-salesforce-ad-4422350395
