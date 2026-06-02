@@ -3138,3 +3138,6 @@
 4422353102 | Technical Consultant / Senior Technical Consultant - Salesforce Loyalty Cloud | https://in.linkedin.com/jobs/view/technical-consultant-senior-technical-consultant-salesforce-loyalty-cloud-at-salesforce-ad-4422353102
 4419277061 | Java Kafka Engineer (Hyd-Walkin-6th Jun, 26) | https://in.linkedin.com/jobs/view/java-kafka-engineer-hyd-walkin-6th-jun-26-at-tata-consultancy-services-4419277061
 4422350395 | Technical Consultant - Salesforce Field Services | https://in.linkedin.com/jobs/view/technical-consultant-salesforce-field-services-at-salesforce-ad-4422350395
+4423940681 | Mulesoft-Integration Engineer II | https://in.linkedin.com/jobs/view/mulesoft-integration-engineer-ii-at-deloitte-4423940681
+4422422652 | Technical Consultant / Senior Technical Consultant - Salesforce Loyalty Cloud | https://in.linkedin.com/jobs/view/technical-consultant-senior-technical-consultant-salesforce-loyalty-cloud-at-griddable-io-4422422652
+4422409717 | Technical Consultant - Salesforce Field Services | https://in.linkedin.com/jobs/view/technical-consultant-salesforce-field-services-at-griddable-io-4422409717
