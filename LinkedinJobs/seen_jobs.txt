@@ -3149,3 +3149,6 @@
 4422639722 | Lead Engineer — Salesforce | https://in.linkedin.com/jobs/view/lead-engineer-%E2%80%94-salesforce-at-temenos-4422639722
 4422608376 | Software Engineering Lead - SFL | https://in.linkedin.com/jobs/view/software-engineering-lead-sfl-at-optum-india-4422608376
 4422647606 | Support Engineer - Salesforce | https://in.linkedin.com/jobs/view/support-engineer-salesforce-at-temenos-4422647606
+4424029418 | Salesforce CPQ Developer || Contract || Pan India | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-contract-pan-india-at-acestack-4424029418
+4422668974 | Java Developer with Azure DevOps | https://in.linkedin.com/jobs/view/java-developer-with-azure-devops-at-luxoft-4422668974
+4422676281 | Java Principal Engineer | https://in.linkedin.com/jobs/view/java-principal-engineer-at-verisk-4422676281
