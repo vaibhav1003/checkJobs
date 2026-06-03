@@ -3168,3 +3168,4 @@
 4424209527 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-yext-4424209527
 4422935968 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-ntt-data-north-america-4422935968
 4424244440 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-insight-global-4424244440
+4424252821 | Software Specialist Engineer II - Salesforce Software Engineer | https://in.linkedin.com/jobs/view/software-specialist-engineer-ii-salesforce-software-engineer-at-deloitte-4424252821
