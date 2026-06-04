@@ -3181,3 +3181,8 @@
 4424357154 | Salesforce Solutions Architect | https://in.linkedin.com/jobs/view/salesforce-solutions-architect-at-viseo-asia-4424357154
 4424319926 | Associate proactive Monitoring Engineer | https://in.linkedin.com/jobs/view/associate-proactive-monitoring-engineer-at-salesforce-4424319926
 4420521372 | Siebel Developer | https://in.linkedin.com/jobs/view/siebel-developer-at-tata-consultancy-services-4420521372
+4423372041 | Salesforce Agentforce Developer | https://in.linkedin.com/jobs/view/salesforce-agentforce-developer-at-dextara-datamatics-4423372041
+4424363730 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-cloud-peritus-4424363730
+4424355606 | Java-Software Engineer II | https://in.linkedin.com/jobs/view/java-software-engineer-ii-at-deloitte-4424355606
+4424345676 | Salesforce Experience Cloud Specialist | https://in.linkedin.com/jobs/view/salesforce-experience-cloud-specialist-at-criticalriver-inc-4424345676
+4423357791 | Salesforce Velocity Developer | https://in.linkedin.com/jobs/view/salesforce-velocity-developer-at-tata-consultancy-services-4423357791
