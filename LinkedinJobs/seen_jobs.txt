@@ -3206,3 +3206,7 @@
 4423545541 | Workday Config (Financials) | https://in.linkedin.com/jobs/view/workday-config-financials-at-salesforce-4423545541
 4423535949 | Zuora Revenue Systems Engineer | https://in.linkedin.com/jobs/view/zuora-revenue-systems-engineer-at-salesforce-4423535949
 4424439237 | Specialist Assistant Manager-Salesforce CRM-Hyderabad | https://in.linkedin.com/jobs/view/specialist-assistant-manager-salesforce-crm-hyderabad-at-deloitte-4424439237
+4423561681 | Software Engineering MTS - Demos | https://in.linkedin.com/jobs/view/software-engineering-mts-demos-at-salesforce-ad-4423561681
+4423573246 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-cgi-4423573246
+4423558910 | Senior Java Full Stack /Gen AI Developer (Java Full Stack + Gen AI) | https://in.linkedin.com/jobs/view/senior-java-full-stack-gen-ai-developer-java-full-stack-%2B-gen-ai-at-webilent-technology-inc-4423558910
+4423539247 | Staff Solutions Architect | https://in.linkedin.com/jobs/view/staff-solutions-architect-at-trinet-4423539247
