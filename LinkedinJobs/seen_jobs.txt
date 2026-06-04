@@ -3169,3 +3169,6 @@
 4422935968 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-ntt-data-north-america-4422935968
 4424244440 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-insight-global-4424244440
 4424252821 | Software Specialist Engineer II - Salesforce Software Engineer | https://in.linkedin.com/jobs/view/software-specialist-engineer-ii-salesforce-software-engineer-at-deloitte-4424252821
+4423078078 | Java Full Stack Developer (React) | https://in.linkedin.com/jobs/view/java-full-stack-developer-react-at-feuji-4423078078
+4423307397 | Mid Java Full Stack Developer with FICO | https://in.linkedin.com/jobs/view/mid-java-full-stack-developer-with-fico-at-cgi-4423307397
+4423315019 | Mid Java Full Stack Developer with FICO | https://in.linkedin.com/jobs/view/mid-java-full-stack-developer-with-fico-at-cgi-4423315019
