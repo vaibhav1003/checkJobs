@@ -3186,3 +3186,5 @@
 4424355606 | Java-Software Engineer II | https://in.linkedin.com/jobs/view/java-software-engineer-ii-at-deloitte-4424355606
 4424345676 | Salesforce Experience Cloud Specialist | https://in.linkedin.com/jobs/view/salesforce-experience-cloud-specialist-at-criticalriver-inc-4424345676
 4423357791 | Salesforce Velocity Developer | https://in.linkedin.com/jobs/view/salesforce-velocity-developer-at-tata-consultancy-services-4423357791
+4423367552 | Salesforce SFS Architect | https://in.linkedin.com/jobs/view/salesforce-sfs-architect-at-informatica-brasil-4423367552
+4420708432 | Senior Mulesoft Developer | https://in.linkedin.com/jobs/view/senior-mulesoft-developer-at-info-services-4420708432
