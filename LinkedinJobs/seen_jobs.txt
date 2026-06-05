@@ -3233,3 +3233,7 @@
 4424557700 | GIG-Customer Tech-Salesforce-data cloud developer-Senior | https://in.linkedin.com/jobs/view/gig-customer-tech-salesforce-data-cloud-developer-senior-at-ey-4424557700
 4424556847 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4424556847
 4424187357 | Salesforce Solution Architect - Service Cloud | https://in.linkedin.com/jobs/view/salesforce-solution-architect-service-cloud-at-opella-4424187357
+4424767962 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4424767962
+4415365737 | Software Engineer - Java Full Stack Developer | https://in.linkedin.com/jobs/view/software-engineer-java-full-stack-developer-at-the-depository-trust-clearing-corporation-dtcc-4415365737
+4424755024 | Salesforce Field Service Architect | https://in.linkedin.com/jobs/view/salesforce-field-service-architect-at-griddable-io-4424755024
+4421155717 | Java Backend Engineer | https://in.linkedin.com/jobs/view/java-backend-engineer-at-algoleap-4421155717
