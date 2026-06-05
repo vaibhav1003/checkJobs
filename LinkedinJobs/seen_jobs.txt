@@ -3237,3 +3237,6 @@
 4415365737 | Software Engineer - Java Full Stack Developer | https://in.linkedin.com/jobs/view/software-engineer-java-full-stack-developer-at-the-depository-trust-clearing-corporation-dtcc-4415365737
 4424755024 | Salesforce Field Service Architect | https://in.linkedin.com/jobs/view/salesforce-field-service-architect-at-griddable-io-4424755024
 4421155717 | Java Backend Engineer | https://in.linkedin.com/jobs/view/java-backend-engineer-at-algoleap-4421155717
+4424780324 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4424780324
+4424778373 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4424778373
+4413266921 | QA Analyst II (Manual + Salesforce Testing) | https://in.linkedin.com/jobs/view/qa-analyst-ii-manual-%2B-salesforce-testing-at-ice-4413266921
