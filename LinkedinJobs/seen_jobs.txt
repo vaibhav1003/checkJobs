@@ -3212,3 +3212,11 @@
 4423539247 | Staff Solutions Architect | https://in.linkedin.com/jobs/view/staff-solutions-architect-at-trinet-4423539247
 4423591811 | Software Engineering MTS - Demos | https://in.linkedin.com/jobs/view/software-engineering-mts-demos-at-informatica-brasil-4423591811
 4420777039 | Associate Architect - Salesforce Job | https://in.linkedin.com/jobs/view/associate-architect-salesforce-job-at-yash-technologies-middle-east-4420777039
+4424138619 | SFDC Developer | https://in.linkedin.com/jobs/view/sfdc-developer-at-wipro-4424138619
+4424514221 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-prudent-technologies-and-consulting-inc-4424514221
+4424169124 | Salesforce Functional Consultant - CPQ / RCA | https://in.linkedin.com/jobs/view/salesforce-functional-consultant-cpq-rca-at-osf-digital-4424169124
+4424132858 | MS Dynamics CRM Developer/Lead | https://in.linkedin.com/jobs/view/ms-dynamics-crm-developer-lead-at-tekskills-inc-4424132858
+4424515313 | Java full stack Developer With React | https://in.linkedin.com/jobs/view/java-full-stack-developer-with-react-at-people-prime-worldwide-4424515313
+4424169182 | Salesforce Technical Architect - CPQ / Revenue Cloud | https://in.linkedin.com/jobs/view/salesforce-technical-architect-cpq-revenue-cloud-at-osf-digital-4424169182
+4424163021 | Salesforce B2C Commerce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-b2c-commerce-solution-architect-at-osf-digital-4424163021
+4424510626 | Delivery Lead - AI/ML | https://in.linkedin.com/jobs/view/delivery-lead-ai-ml-at-amtrino-technologies-4424510626
