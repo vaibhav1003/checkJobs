@@ -3226,3 +3226,7 @@
 4421108216 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-persistent-systems-4421108216
 4424557368 | Technical Specialist-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-specialist-enterprise-apps-at-birlasoft-4424557368
 4424509943 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-persistent-systems-4424509943
+4424578040 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-viraaj-hr-solutions-private-limited-4424578040
+4424715247 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-ntt-data-north-america-4424715247
+4424549722 | Salesforce B2B Developer | https://in.linkedin.com/jobs/view/salesforce-b2b-developer-at-devrabbit-it-solutions-4424549722
+4424711319 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-ntt-data-north-america-4424711319
