@@ -3248,3 +3248,4 @@
 4424980226 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-htc-global-services-4424980226
 4424952991 | ServiceNow Developer | https://in.linkedin.com/jobs/view/servicenow-developer-at-lpl-financial-global-capability-center-4424952991
 4411329837 | Full Stack Engineer | https://in.linkedin.com/jobs/view/full-stack-engineer-at-north-bridge-strategy-4411329837
+4415375138 | Salesforce Senior Technical Architect /Technical Architect | https://in.linkedin.com/jobs/view/salesforce-senior-technical-architect-technical-architect-at-salesforce-4415375138
