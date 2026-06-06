@@ -3250,3 +3250,4 @@
 4411329837 | Full Stack Engineer | https://in.linkedin.com/jobs/view/full-stack-engineer-at-north-bridge-strategy-4411329837
 4415375138 | Salesforce Senior Technical Architect /Technical Architect | https://in.linkedin.com/jobs/view/salesforce-senior-technical-architect-technical-architect-at-salesforce-4415375138
 4425115319 | Senior Engineer – Amazon Connect/ Telephony- Hyderabad or Buenos Aires or Belgrade (Hybrid) | https://in.linkedin.com/jobs/view/senior-engineer-%E2%80%93-amazon-connect-telephony-hyderabad-or-buenos-aires-or-belgrade-hybrid-at-syneos-health-4425115319
+4424688115 | AI/ML Backend Engineer (Java) | https://in.linkedin.com/jobs/view/ai-ml-backend-engineer-java-at-cg-vak-software-exports-ltd-4424688115
