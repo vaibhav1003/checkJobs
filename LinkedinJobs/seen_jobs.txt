@@ -3245,3 +3245,6 @@
 4424776382 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4424776382
 4414938810 | Software Developer | https://in.linkedin.com/jobs/view/software-developer-at-advance-auto-parts-india-india-innovation-center-4414938810
 4424621993 | Full Stack Developer (Java + react) | https://in.linkedin.com/jobs/view/full-stack-developer-java-%2B-react-at-syren-4424621993
+4424980226 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-htc-global-services-4424980226
+4424952991 | ServiceNow Developer | https://in.linkedin.com/jobs/view/servicenow-developer-at-lpl-financial-global-capability-center-4424952991
+4411329837 | Full Stack Engineer | https://in.linkedin.com/jobs/view/full-stack-engineer-at-north-bridge-strategy-4411329837
