@@ -3254,3 +3254,9 @@
 4425111852 | Senior Associate Salesforce Business  Analyst | https://in.linkedin.com/jobs/view/senior-associate-salesforce-business-analyst-at-amgen-4425111852
 4424683046 | Service Now Developer | https://in.linkedin.com/jobs/view/service-now-developer-at-albireo-recruiters-4424683046
 4415073837 | Boomi Integration Developer, Staff | https://in.linkedin.com/jobs/view/boomi-integration-developer-staff-at-qualcomm-4415073837
+4424683202 | Fullstack Java With React-Software Engineer II | https://in.linkedin.com/jobs/view/fullstack-java-with-react-software-engineer-ii-at-deloitte-4424683202
+4424690146 | Fullstack Java With React-Software Engineer III | https://in.linkedin.com/jobs/view/fullstack-java-with-react-software-engineer-iii-at-deloitte-4424690146
+4424684219 | Microservices JAVA with Node JS-Software Engineer II | https://in.linkedin.com/jobs/view/microservices-java-with-node-js-software-engineer-ii-at-deloitte-4424684219
+4424692121 | Fullstack Java With Angular-Software Engineer II | https://in.linkedin.com/jobs/view/fullstack-java-with-angular-software-engineer-ii-at-deloitte-4424692121
+4424673345 | Microservices JAVA with Node JS-Software Engineer III | https://in.linkedin.com/jobs/view/microservices-java-with-node-js-software-engineer-iii-at-deloitte-4424673345
+4424676270 | Fullstack Java With Angular-Software Engineer III | https://in.linkedin.com/jobs/view/fullstack-java-with-angular-software-engineer-iii-at-deloitte-4424676270
