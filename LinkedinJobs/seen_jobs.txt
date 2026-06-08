@@ -3283,3 +3283,7 @@
 4425272557 | Fullstack Java With Angular-Software Engineer II | https://in.linkedin.com/jobs/view/fullstack-java-with-angular-software-engineer-ii-at-deloitte-4425272557
 4425626900 | QA Engineer - API Testing/Automation (Java) | https://in.linkedin.com/jobs/view/qa-engineer-api-testing-automation-java-at-blue-yonder-4425626900
 4425668837 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-ntt-data-north-america-4425668837
+4425257978 | ESaaS - SFDC - Lightning UI & JavaScript Development | https://in.linkedin.com/jobs/view/esaas-sfdc-lightning-ui-javascript-development-at-zensar-technologies-4425257978
+4416256813 | Software Engineer (Snowflake Developer) | https://in.linkedin.com/jobs/view/software-engineer-snowflake-developer-at-the-depository-trust-clearing-corporation-dtcc-4416256813
+4425665222 | Software Development Engineer - II | https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-amazon-4425665222
+4407184907 | Software Engineer II | https://in.linkedin.com/jobs/view/software-engineer-ii-at-isolved-4407184907
