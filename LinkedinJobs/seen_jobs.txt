@@ -3277,3 +3277,9 @@
 4425232712 | GIG-Customer tech-Salesforce-Senior Developers | https://in.linkedin.com/jobs/view/gig-customer-tech-salesforce-senior-developers-at-ey-4425232712
 4425089945 | Technical Specialist-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-specialist-enterprise-apps-at-birlasoft-4425089945
 4425638029 | Associate IS Engineer - Salesforce | https://in.linkedin.com/jobs/view/associate-is-engineer-salesforce-at-amgen-4425638029
+4425260857 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-call-quest-solution-4425260857
+4425624141 | Salesforce Platform developer II | https://in.linkedin.com/jobs/view/salesforce-platform-developer-ii-at-amgen-4425624141
+4425622214 | Software Engineering MTS | https://in.linkedin.com/jobs/view/software-engineering-mts-at-griddable-io-4425622214
+4425272557 | Fullstack Java With Angular-Software Engineer II | https://in.linkedin.com/jobs/view/fullstack-java-with-angular-software-engineer-ii-at-deloitte-4425272557
+4425626900 | QA Engineer - API Testing/Automation (Java) | https://in.linkedin.com/jobs/view/qa-engineer-api-testing-automation-java-at-blue-yonder-4425626900
+4425668837 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-ntt-data-north-america-4425668837
