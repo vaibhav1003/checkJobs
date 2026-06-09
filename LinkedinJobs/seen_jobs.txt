@@ -3287,3 +3287,5 @@
 4416256813 | Software Engineer (Snowflake Developer) | https://in.linkedin.com/jobs/view/software-engineer-snowflake-developer-at-the-depository-trust-clearing-corporation-dtcc-4416256813
 4425665222 | Software Development Engineer - II | https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-amazon-4425665222
 4407184907 | Software Engineer II | https://in.linkedin.com/jobs/view/software-engineer-ii-at-isolved-4407184907
+4425924758 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4425924758
+4425529180 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-hackajob-4425529180
