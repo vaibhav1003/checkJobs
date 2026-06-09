@@ -3289,3 +3289,6 @@
 4407184907 | Software Engineer II | https://in.linkedin.com/jobs/view/software-engineer-ii-at-isolved-4407184907
 4425924758 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4425924758
 4425529180 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-hackajob-4425529180
+4425562792 | Salesforce CPQ Developer || Contract || Pan India | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-contract-pan-india-at-acestack-4425562792
+4425973186 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-cgi-4425973186
+4425562588 | AI/ML Backend Engineer (Java) | https://in.linkedin.com/jobs/view/ai-ml-backend-engineer-java-at-cg-vak-software-exports-ltd-4425562588
