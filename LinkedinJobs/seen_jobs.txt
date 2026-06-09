@@ -3306,3 +3306,10 @@
 4425997355 | Salesforce Administrator _Process lead _ Hyderabad | https://in.linkedin.com/jobs/view/salesforce-administrator-process-lead-hyderabad-at-broadridge-india-4425997355
 4361275972 | Software Engineering PMTS | https://in.linkedin.com/jobs/view/software-engineering-pmts-at-salesforce-4361275972
 4414905036 | Principal Software Engineer / PMTS - Fullstack | https://in.linkedin.com/jobs/view/principal-software-engineer-pmts-fullstack-at-salesforce-4414905036
+4425862276 | Salesforce FSL(Field Service Lightning) Developer | https://in.linkedin.com/jobs/view/salesforce-fsl-field-service-lightning-developer-at-metasys-technologies-4425862276
+4422285856 | Senior Consultant | https://in.linkedin.com/jobs/view/senior-consultant-at-mtx-group-4422285856
+4422730107 | ESaaS - SFDC - Lightning UI & JavaScript Development | https://in.linkedin.com/jobs/view/esaas-sfdc-lightning-ui-javascript-development-at-zensar-technologies-4422730107
+4426304904 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4426304904
+4426316175 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4426316175
+4426309825 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4426309825
+4426354300 | Sr Associate IS Bus Sys Analyst | https://in.linkedin.com/jobs/view/sr-associate-is-bus-sys-analyst-at-amgen-4426354300
