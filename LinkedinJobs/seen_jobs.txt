@@ -3330,3 +3330,11 @@
 4426526316 | Software Engineer II | https://in.linkedin.com/jobs/view/software-engineer-ii-at-jpmorganchase-4426526316
 4426385909 | Service Engineer 2 | https://in.linkedin.com/jobs/view/service-engineer-2-at-providence-india-4426385909
 4426013932 | Java Full Stack Developer (Java 18+, SAP UI5, Microservices & REST APIs) | https://in.linkedin.com/jobs/view/java-full-stack-developer-java-18%2B-sap-ui5-microservices-rest-apis-at-vaikun-technologies-pvt-ltd-4426013932
+4426031786 | Sr Salesforce Developer | https://in.linkedin.com/jobs/view/sr-salesforce-developer-at-novbliss-4426031786
+4426750438 | Software Engineering, SMTS (Salesforce Developer) | https://in.linkedin.com/jobs/view/software-engineering-smts-salesforce-developer-at-salesforce-ad-4426750438
+4426047358 | GIG-Customer Tech-Salesforce-Senior Developers | https://in.linkedin.com/jobs/view/gig-customer-tech-salesforce-senior-developers-at-ey-4426047358
+4426737872 | Salesforce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-osi-digital-4426737872
+4420459178 | Principle Engineer – Java and Cloud (R-19336) | https://in.linkedin.com/jobs/view/principle-engineer-%E2%80%93-java-and-cloud-r-19336-at-dun-bradstreet-4420459178
+4426754385 | Salesforce-Senior Technical Architect | https://in.linkedin.com/jobs/view/salesforce-senior-technical-architect-at-salesforce-ad-4426754385
+4417494857 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-tekwissen-india-4417494857
+4423105683 | Lead II - Software Testing (SDET- Automation Testing, Playwright, Java, Selenium) | https://in.linkedin.com/jobs/view/lead-ii-software-testing-sdet-automation-testing-playwright-java-selenium-at-ust-4423105683
