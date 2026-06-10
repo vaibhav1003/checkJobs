@@ -3339,3 +3339,6 @@
 4417494857 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-tekwissen-india-4417494857
 4423105683 | Lead II - Software Testing (SDET- Automation Testing, Playwright, Java, Selenium) | https://in.linkedin.com/jobs/view/lead-ii-software-testing-sdet-automation-testing-playwright-java-selenium-at-ust-4423105683
 4427013186 | Software Engineering, SMTS (Salesforce Developer) | https://in.linkedin.com/jobs/view/software-engineering-smts-salesforce-developer-at-salesforce-4427013186
+4427034307 | Software Engineering, SMTS (Salesforce Developer) | https://in.linkedin.com/jobs/view/software-engineering-smts-salesforce-developer-at-griddable-io-4427034307
+4426084759 | AI/ML Backend Engineer (Java) | https://in.linkedin.com/jobs/view/ai-ml-backend-engineer-java-at-talentxo-4426084759
+4427024411 | Salesforce-Senior Technical Architect | https://in.linkedin.com/jobs/view/salesforce-senior-technical-architect-at-griddable-io-4427024411
