@@ -3364,3 +3364,8 @@
 4427180304 | Conversational Developer | https://in.linkedin.com/jobs/view/conversational-developer-at-dazn-india-4427180304
 4413620412 | Analyst | https://in.linkedin.com/jobs/view/analyst-at-globaldata-plc-4413620412
 4406561346 | Technical Specialist-App Development | https://in.linkedin.com/jobs/view/technical-specialist-app-development-at-birlasoft-4406561346
+4426612826 | Associate-Salesforce Local Admin- Hyderabad | https://in.linkedin.com/jobs/view/associate-salesforce-local-admin-hyderabad-at-deloitte-4426612826
+4426615205 | Java Microservice Developer | https://in.linkedin.com/jobs/view/java-microservice-developer-at-persistent-systems-4426615205
+4426289952 | Full Stack Developer (Java, Python & AI) | https://in.linkedin.com/jobs/view/full-stack-developer-java-python-ai-at-letitbex-ai-4426289952
+4427547684 | SMTS, Zuora Revenue System Engineer | https://in.linkedin.com/jobs/view/smts-zuora-revenue-system-engineer-at-griddable-io-4427547684
+4427532493 | SMTS, Zuora Revenue System Engineer | https://in.linkedin.com/jobs/view/smts-zuora-revenue-system-engineer-at-salesforce-4427532493
