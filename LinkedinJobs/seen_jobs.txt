@@ -3375,3 +3375,6 @@
 4427523730 | Software Engineering, MTS (SRE & Devops) | https://in.linkedin.com/jobs/view/software-engineering-mts-sre-devops-at-salesforce-4427523730
 4426644115 | Compensation Solutions Architect* | https://in.linkedin.com/jobs/view/compensation-solutions-architect-at-meltwater-4426644115
 4427583400 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4427583400
+4427617825 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4427617825
+4427623833 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4427623833
+4427635790 | Software Engineer - Java ,Kafka | https://in.linkedin.com/jobs/view/software-engineer-java-kafka-at-optum-india-4427635790
