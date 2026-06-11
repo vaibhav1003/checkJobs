@@ -3369,3 +3369,9 @@
 4426289952 | Full Stack Developer (Java, Python & AI) | https://in.linkedin.com/jobs/view/full-stack-developer-java-python-ai-at-letitbex-ai-4426289952
 4427547684 | SMTS, Zuora Revenue System Engineer | https://in.linkedin.com/jobs/view/smts-zuora-revenue-system-engineer-at-griddable-io-4427547684
 4427532493 | SMTS, Zuora Revenue System Engineer | https://in.linkedin.com/jobs/view/smts-zuora-revenue-system-engineer-at-salesforce-4427532493
+4427525697 | Data Scientist | https://in.linkedin.com/jobs/view/data-scientist-at-salesforce-4427525697
+4427586181 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4427586181
+4406454905 | Technical Architect | https://in.linkedin.com/jobs/view/technical-architect-at-algoleap-4406454905
+4427523730 | Software Engineering, MTS (SRE & Devops) | https://in.linkedin.com/jobs/view/software-engineering-mts-sre-devops-at-salesforce-4427523730
+4426644115 | Compensation Solutions Architect* | https://in.linkedin.com/jobs/view/compensation-solutions-architect-at-meltwater-4426644115
+4427583400 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4427583400
