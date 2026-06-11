@@ -3355,3 +3355,12 @@
 4427101480 | Software Engineer - Java springboot React | https://in.linkedin.com/jobs/view/software-engineer-java-springboot-react-at-optum-india-4427101480
 4423190704 | Software Engineer Salesforce | https://in.linkedin.com/jobs/view/software-engineer-salesforce-at-mattel-inc-4423190704
 4423639008 | Java developer | https://in.linkedin.com/jobs/view/java-developer-at-accelgrowth-technology-pvt-ltd-4423639008
+4427504441 | Software Engineer Salesforce | https://in.linkedin.com/jobs/view/software-engineer-salesforce-at-mattel-inc-4427504441
+4426239241 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-giggso-4426239241
+4426283767 | ESaaS - SFDC - Lightning UI & JavaScript Development | https://in.linkedin.com/jobs/view/esaas-sfdc-lightning-ui-javascript-development-at-zensar-technologies-4426283767
+4385362069 | Technical Support Engineer | https://in.linkedin.com/jobs/view/technical-support-engineer-at-salesforce-4385362069
+4426247537 | ESaaS - SFDC - Lightning UI & JavaScript Development | https://in.linkedin.com/jobs/view/esaas-sfdc-lightning-ui-javascript-development-at-zensar-technologies-4426247537
+4426238608 | QA / Test Automation Engineer (Salesforce Testing) | https://in.linkedin.com/jobs/view/qa-test-automation-engineer-salesforce-testing-at-zensar-technologies-4426238608
+4427180304 | Conversational Developer | https://in.linkedin.com/jobs/view/conversational-developer-at-dazn-india-4427180304
+4413620412 | Analyst | https://in.linkedin.com/jobs/view/analyst-at-globaldata-plc-4413620412
+4406561346 | Technical Specialist-App Development | https://in.linkedin.com/jobs/view/technical-specialist-app-development-at-birlasoft-4406561346
