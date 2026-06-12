@@ -3387,3 +3387,7 @@
 4427569958 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4427569958
 4427582442 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4427582442
 4427693220 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-ntt-data-north-america-4427693220
+4426924892 | Contract Technical Recruiter | https://in.linkedin.com/jobs/view/contract-technical-recruiter-at-brezq-4426924892
+4427938026 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-undocked-4427938026
+4424839397 | Senior Java Developer | https://in.linkedin.com/jobs/view/senior-java-developer-at-frontial-technologies-4424839397
+4426921346 | Java  Full Stack Developer-AWS/Azure | https://in.linkedin.com/jobs/view/java-full-stack-developer-aws-azure-at-zorba-ai-4426921346
