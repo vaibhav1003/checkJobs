@@ -3410,3 +3410,5 @@
 4428134724 | Salesforce Senior Developer | https://in.linkedin.com/jobs/view/salesforce-senior-developer-at-ntt-data-north-america-4428134724
 4428151461 | Java Frontend Developer | https://in.linkedin.com/jobs/view/java-frontend-developer-at-cgi-4428151461
 4428161479 | Principal Software Engineer - Java, AWS, RESTful | https://in.linkedin.com/jobs/view/principal-software-engineer-java-aws-restful-at-jpmorganchase-4428161479
+4428161379 | Software Engineering MTS - Compliance Automation & Tooling (Apex, Python) | https://in.linkedin.com/jobs/view/software-engineering-mts-compliance-automation-tooling-apex-python-at-salesforce-ad-4428161379
+4428189037 | Java AWS developer | https://in.linkedin.com/jobs/view/java-aws-developer-at-htc-global-services-4428189037
