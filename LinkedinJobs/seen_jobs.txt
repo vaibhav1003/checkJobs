@@ -3407,3 +3407,6 @@
 4426979442 | Java Developer 3 to 8 years | https://in.linkedin.com/jobs/view/java-developer-3-to-8-years-at-meslogic-it-solutions-4426979442
 4428131619 | Software Engineering MTS - Compliance Automation & Tooling (Apex, Python) | https://in.linkedin.com/jobs/view/software-engineering-mts-compliance-automation-tooling-apex-python-at-salesforce-4428131619
 4425300167 | MS-CRM technical - D365 CE Customizations Developer- Senior | https://in.linkedin.com/jobs/view/ms-crm-technical-d365-ce-customizations-developer-senior-at-ey-4425300167
+4428134724 | Salesforce Senior Developer | https://in.linkedin.com/jobs/view/salesforce-senior-developer-at-ntt-data-north-america-4428134724
+4428151461 | Java Frontend Developer | https://in.linkedin.com/jobs/view/java-frontend-developer-at-cgi-4428151461
+4428161479 | Principal Software Engineer - Java, AWS, RESTful | https://in.linkedin.com/jobs/view/principal-software-engineer-java-aws-restful-at-jpmorganchase-4428161479
