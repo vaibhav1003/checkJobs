@@ -3413,3 +3413,5 @@
 4428161379 | Software Engineering MTS - Compliance Automation & Tooling (Apex, Python) | https://in.linkedin.com/jobs/view/software-engineering-mts-compliance-automation-tooling-apex-python-at-salesforce-ad-4428161379
 4428189037 | Java AWS developer | https://in.linkedin.com/jobs/view/java-aws-developer-at-htc-global-services-4428189037
 4428172749 | Software Engineering MTS - Compliance Automation & Tooling (Apex, Python) | https://in.linkedin.com/jobs/view/software-engineering-mts-compliance-automation-tooling-apex-python-at-informatica-brasil-4428172749
+4425357371 | Software Developer 3 | https://in.linkedin.com/jobs/view/software-developer-3-at-oracle-4425357371
+4427266177 | Unity Developer | https://in.linkedin.com/jobs/view/unity-developer-at-magnarus-4427266177
