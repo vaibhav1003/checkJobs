@@ -3430,3 +3430,9 @@
 4425395019 | Full Stack Engineer (Ruby on Rails and React) | https://in.linkedin.com/jobs/view/full-stack-engineer-ruby-on-rails-and-react-at-accellor-4425395019
 4427409610 | Java Production Support Engineer (L2/L3) | https://in.linkedin.com/jobs/view/java-production-support-engineer-l2-l3-at-extio-technology-consulting-llp-4427409610
 4427427469 | Dell Boomi Integration Engineer | 3–7 Years | Hyderabad | API, Cloud & Enterprise Applications | https://in.linkedin.com/jobs/view/dell-boomi-integration-engineer-3%E2%80%937-years-hyderabad-api-cloud-enterprise-applications-at-clientcurve-4427427469
+4400266101 | Full Stack Developer I | https://in.linkedin.com/jobs/view/full-stack-developer-i-at-fedex-4400266101
+4335389988 | SDE II , Stores TA | https://in.linkedin.com/jobs/view/sde-ii-stores-ta-at-amazon-4335389988
+4335693819 | SDE2, CHEX | https://in.linkedin.com/jobs/view/sde2-chex-at-amazon-4335693819
+4358071194 | Software Engineer III | https://in.linkedin.com/jobs/view/software-engineer-iii-at-fanatics-4358071194
+4387790100 | Engineer II, Full Stack Reporting | https://in.linkedin.com/jobs/view/engineer-ii-full-stack-reporting-at-lpl-financial-global-capability-center-4387790100
+4398848719 | Lead I - Software Engineering | https://in.linkedin.com/jobs/view/lead-i-software-engineering-at-ust-4398848719
