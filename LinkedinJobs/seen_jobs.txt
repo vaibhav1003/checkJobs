@@ -3465,3 +3465,10 @@
 4429223523 | ServiceNow Application Developer | https://in.linkedin.com/jobs/view/servicenow-application-developer-at-sourcebae-4429223523
 4426457878 | Software Developer 3 | https://in.linkedin.com/jobs/view/software-developer-3-at-oracle-4426457878
 4426456846 | Software Developer 3 | https://in.linkedin.com/jobs/view/software-developer-3-at-oracle-4426456846
+4417893153 | Sr. Consultant - Salesforce Job | https://in.linkedin.com/jobs/view/sr-consultant-salesforce-job-at-yash-technologies-4417893153
+4429238676 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-deservely-technologies-4429238676
+4429509522 | Senior Success Guide | https://in.linkedin.com/jobs/view/senior-success-guide-at-informatica-brasil-4429509522
+4429232519 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-mphasis-4429232519
+4429241409 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-mphasis-4429241409
+4426495578 | Senior Success Guide | https://in.linkedin.com/jobs/view/senior-success-guide-at-salesforce-ad-4426495578
+4429269153 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4429269153
