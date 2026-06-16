@@ -3477,3 +3477,7 @@
 4426835164 | Salesforce Technical Lead | https://in.linkedin.com/jobs/view/salesforce-technical-lead-at-sourcingxpress-4426835164
 4429568811 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4429568811
 4426822239 | Software Developer (Java with Golang) | https://in.linkedin.com/jobs/view/software-developer-java-with-golang-at-kumaran-systems-4426822239
+4429584054 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4429584054
+4428069894 | Java SDET | https://in.linkedin.com/jobs/view/java-sdet-at-persistent-systems-4428069894
+4428068903 | Java SDET | https://in.linkedin.com/jobs/view/java-sdet-at-persistent-systems-4428068903
+4429596786 | Security Engineer III - Java, Springboot, AWS | https://in.linkedin.com/jobs/view/security-engineer-iii-java-springboot-aws-at-jpmorganchase-4429596786
