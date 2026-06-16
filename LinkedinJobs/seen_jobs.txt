@@ -3472,3 +3472,8 @@
 4429241409 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-mphasis-4429241409
 4426495578 | Senior Success Guide | https://in.linkedin.com/jobs/view/senior-success-guide-at-salesforce-ad-4426495578
 4429269153 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4429269153
+4429521520 | Consultant - Salesforce Core | https://in.linkedin.com/jobs/view/consultant-salesforce-core-at-etg-digital-4429521520
+4428056931 | Walkin Drive_ Hyderabad_20th June_ Salesforce developer | https://in.linkedin.com/jobs/view/walkin-drive-hyderabad-20th-june-salesforce-developer-at-tata-consultancy-services-4428056931
+4426835164 | Salesforce Technical Lead | https://in.linkedin.com/jobs/view/salesforce-technical-lead-at-sourcingxpress-4426835164
+4429568811 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4429568811
+4426822239 | Software Developer (Java with Golang) | https://in.linkedin.com/jobs/view/software-developer-java-with-golang-at-kumaran-systems-4426822239
