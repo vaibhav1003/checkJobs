@@ -3498,3 +3498,7 @@
 4429959220 | Salesforce Senior Developer | https://in.linkedin.com/jobs/view/salesforce-senior-developer-at-ntt-data-north-america-4429959220
 4428701825 | Specialist Applications Development - Java Developer, microservices, spring boot, Kafka, Any database-MongoDB, Cassandra, Postgres | https://in.linkedin.com/jobs/view/specialist-applications-development-java-developer-microservices-spring-boot-kafka-any-database-mongodb-cassandra-postgres-at-at-t-4428701825
 4429955275 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-ntt-data-north-america-4429955275
+4430108572 | Software Engineering MTS | https://in.linkedin.com/jobs/view/software-engineering-mts-at-salesforce-4430108572
+4429922326 | SSIS Developer, ETL, Dynamics CRM, Kingswaysoft / Senior Consultant Specialist | https://in.linkedin.com/jobs/view/ssis-developer-etl-dynamics-crm-kingswaysoft-senior-consultant-specialist-at-hsbc-4429922326
+4429994803 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-ntt-data-north-america-4429994803
+4429958882 | Salesforce Field Service Architect | https://in.linkedin.com/jobs/view/salesforce-field-service-architect-at-griddable-io-4429958882
