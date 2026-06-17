@@ -3493,3 +3493,8 @@
 4419427427 | Salesforce Revenue Cloud Architect | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-at-ntt-data-north-america-4419427427
 4427338533 | AI/ML Backend Engineer (Java) | https://in.linkedin.com/jobs/view/ai-ml-backend-engineer-java-at-call-for-referral-4427338533
 4429937439 | Full Stack Java Engineer | https://in.linkedin.com/jobs/view/full-stack-java-engineer-at-prodapt-4429937439
+4427345519 | ::URGENT OPENING:: Agentforce Specialist and Lead Salesforce Developer | https://in.linkedin.com/jobs/view/urgent-opening-agentforce-specialist-and-lead-salesforce-developer-at-221-b-baker-st-4427345519
+4428714194 | Salesforce Developer Lead | https://in.linkedin.com/jobs/view/salesforce-developer-lead-at-crisil-4428714194
+4429959220 | Salesforce Senior Developer | https://in.linkedin.com/jobs/view/salesforce-senior-developer-at-ntt-data-north-america-4429959220
+4428701825 | Specialist Applications Development - Java Developer, microservices, spring boot, Kafka, Any database-MongoDB, Cassandra, Postgres | https://in.linkedin.com/jobs/view/specialist-applications-development-java-developer-microservices-spring-boot-kafka-any-database-mongodb-cassandra-postgres-at-at-t-4428701825
+4429955275 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-ntt-data-north-america-4429955275
