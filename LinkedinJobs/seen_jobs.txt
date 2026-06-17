@@ -3486,3 +3486,10 @@
 4427327122 | Salesforce Data cloud consultant | https://in.linkedin.com/jobs/view/salesforce-data-cloud-consultant-at-hypersoft-technologies-limited-4427327122
 4428451812 | Backend Java Developer (E-commerce Platform) | https://in.linkedin.com/jobs/view/backend-java-developer-e-commerce-platform-at-enterprise-minds-inc-4428451812
 4428464406 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-people-prime-worldwide-4428464406
+4429799865 | Salesforce SCV Engineer | https://in.linkedin.com/jobs/view/salesforce-scv-engineer-at-sanofi-4429799865
+4428702054 | GIG-Customer Tech-Salesforce-Senior Developers | https://in.linkedin.com/jobs/view/gig-customer-tech-salesforce-senior-developers-at-ey-4428702054
+4428484596 | Technical Specialist-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-specialist-enterprise-apps-at-birlasoft-4428484596
+4428470757 | Full stack Developer (Java and React) | https://in.linkedin.com/jobs/view/full-stack-developer-java-and-react-at-code-ethics-4428470757
+4419427427 | Salesforce Revenue Cloud Architect | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-architect-at-ntt-data-north-america-4419427427
+4427338533 | AI/ML Backend Engineer (Java) | https://in.linkedin.com/jobs/view/ai-ml-backend-engineer-java-at-call-for-referral-4427338533
+4429937439 | Full Stack Java Engineer | https://in.linkedin.com/jobs/view/full-stack-java-engineer-at-prodapt-4429937439
