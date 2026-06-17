@@ -3481,3 +3481,8 @@
 4428069894 | Java SDET | https://in.linkedin.com/jobs/view/java-sdet-at-persistent-systems-4428069894
 4428068903 | Java SDET | https://in.linkedin.com/jobs/view/java-sdet-at-persistent-systems-4428068903
 4429596786 | Security Engineer III - Java, Springboot, AWS | https://in.linkedin.com/jobs/view/security-engineer-iii-java-springboot-aws-at-jpmorganchase-4429596786
+4428443691 | Salesforce Service Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-service-cloud-developer-at-spadtek-solutions-4428443691
+4429911177 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-dextara-datamatics-4429911177
+4427327122 | Salesforce Data cloud consultant | https://in.linkedin.com/jobs/view/salesforce-data-cloud-consultant-at-hypersoft-technologies-limited-4427327122
+4428451812 | Backend Java Developer (E-commerce Platform) | https://in.linkedin.com/jobs/view/backend-java-developer-e-commerce-platform-at-enterprise-minds-inc-4428451812
+4428464406 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-people-prime-worldwide-4428464406
