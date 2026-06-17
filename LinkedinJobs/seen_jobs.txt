@@ -3502,3 +3502,11 @@
 4429922326 | SSIS Developer, ETL, Dynamics CRM, Kingswaysoft / Senior Consultant Specialist | https://in.linkedin.com/jobs/view/ssis-developer-etl-dynamics-crm-kingswaysoft-senior-consultant-specialist-at-hsbc-4429922326
 4429994803 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-ntt-data-north-america-4429994803
 4429958882 | Salesforce Field Service Architect | https://in.linkedin.com/jobs/view/salesforce-field-service-architect-at-griddable-io-4429958882
+4427381844 | Senior Engineer | https://in.linkedin.com/jobs/view/senior-engineer-at-carrier-4427381844
+4427388777 | Salesforce CPQ Architect | https://in.linkedin.com/jobs/view/salesforce-cpq-architect-at-carrier-4427388777
+4429991150 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4429991150
+4429992173 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4429992173
+4425834769 | Assistant Manager - IT | https://in.linkedin.com/jobs/view/assistant-manager-it-at-metlife-4425834769
+4430104078 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4430104078
+4303883533 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-crunchyroll-4303883533
+4419826610 | Associate Software Developer | https://in.linkedin.com/jobs/view/associate-software-developer-at-advance-auto-parts-india-india-innovation-center-4419826610
