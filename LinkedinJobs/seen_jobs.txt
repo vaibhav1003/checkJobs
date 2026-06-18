@@ -3515,3 +3515,6 @@
 4430157585 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4430157585
 4430175765 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-golden-opportunities-4430175765
 4430132748 | Quality Engineer (System testing, API testing, Java-Selenium, SQL) | https://in.linkedin.com/jobs/view/quality-engineer-system-testing-api-testing-java-selenium-sql-at-optum-india-4430132748
+4429008596 | Senior Salesforce Consultant | https://in.linkedin.com/jobs/view/senior-salesforce-consultant-at-hj-software-private-limited-4429008596
+4430412560 | Software Engineering MTS - Demos | https://in.linkedin.com/jobs/view/software-engineering-mts-demos-at-salesforce-ad-4430412560
+4429003614 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4429003614
