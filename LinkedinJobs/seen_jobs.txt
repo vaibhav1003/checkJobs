@@ -3536,3 +3536,7 @@
 4430475300 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-ntt-data-north-america-4430475300
 4429316150 | Java Developer – Gen AI | https://in.linkedin.com/jobs/view/java-developer-%E2%80%93-gen-ai-at-persistent-systems-4429316150
 4430710218 | JAVA Microservices Developer | https://in.linkedin.com/jobs/view/java-microservices-developer-at-wipro-4430710218
+4430499957 | Java Full Stack Developer - Officer | https://in.linkedin.com/jobs/view/java-full-stack-developer-officer-at-state-street-4430499957
+4430732551 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-salesforce-ad-4430732551
+4429347095 | Salesforce CPQ Architect | https://in.linkedin.com/jobs/view/salesforce-cpq-architect-at-carrier-4429347095
+4430729677 | Salesforce Senior Technical Architect (CTA Aspirants) | https://in.linkedin.com/jobs/view/salesforce-senior-technical-architect-cta-aspirants-at-salesforce-ad-4430729677
