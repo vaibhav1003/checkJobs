@@ -3524,3 +3524,9 @@
 4430449566 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4430449566
 4430435727 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4430435727
 4402227770 | Full Stack Developer II | https://in.linkedin.com/jobs/view/full-stack-developer-ii-at-fedex-4402227770
+4429341148 | Lead salesforce Developer | https://in.linkedin.com/jobs/view/lead-salesforce-developer-at-team-geek-solutions-4429341148
+4429310522 | Mulesoft Developer | https://in.linkedin.com/jobs/view/mulesoft-developer-at-letitbex-ai-4429310522
+4429099308 | Software Engineering MTS - Demos | https://in.linkedin.com/jobs/view/software-engineering-mts-demos-at-informatica-brasil-4429099308
+4430473997 | Software Engineering MTS - Demos | https://in.linkedin.com/jobs/view/software-engineering-mts-demos-at-griddable-io-4430473997
+4419022580 | Full Stack Java+Angular JS-Managed Services Engineer II-DFO&I-Customer | https://in.linkedin.com/jobs/view/full-stack-java%2Bangular-js-managed-services-engineer-ii-dfo-i-customer-at-deloitte-4419022580
+4429317099 | Java React Full stack Engineer | https://in.linkedin.com/jobs/view/java-react-full-stack-engineer-at-persistent-systems-4429317099
