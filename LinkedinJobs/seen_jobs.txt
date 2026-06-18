@@ -3511,3 +3511,7 @@
 4303883533 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-crunchyroll-4303883533
 4419826610 | Associate Software Developer | https://in.linkedin.com/jobs/view/associate-software-developer-at-advance-auto-parts-india-india-innovation-center-4419826610
 4428763608 | Quality Assurance Engineer (Salesforce) | https://in.linkedin.com/jobs/view/quality-assurance-engineer-salesforce-at-modmed-india-4428763608
+4428787261 | Salesforce CPQ Developer | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-at-nbits-it-company-4428787261
+4430157585 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4430157585
+4430175765 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-golden-opportunities-4430175765
+4430132748 | Quality Engineer (System testing, API testing, Java-Selenium, SQL) | https://in.linkedin.com/jobs/view/quality-engineer-system-testing-api-testing-java-selenium-sql-at-optum-india-4430132748
