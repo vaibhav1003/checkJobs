@@ -3554,3 +3554,9 @@
 4430958032 | Salesforce Developer and Admin, ISS | https://in.linkedin.com/jobs/view/salesforce-developer-and-admin-iss-at-amazon-4430958032
 4429645378 | CRM Developer | https://in.linkedin.com/jobs/view/crm-developer-at-zoetis-4429645378
 4428251182 | Architect - Salesforce | https://in.linkedin.com/jobs/view/architect-salesforce-at-pepsico-4428251182
+4430979250 | Salesforce/Conga Software Engineer | https://in.linkedin.com/jobs/view/salesforce-conga-software-engineer-at-amgen-4430979250
+4430988399 | Senior Salesforce Developer (CPQ) | https://in.linkedin.com/jobs/view/senior-salesforce-developer-cpq-at-etg-digital-4430988399
+4422008599 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-persistent-systems-4422008599
+4428251626 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-persistent-systems-4428251626
+4428236741 | ServiceNow Developer (ITOM, ITAM, GRC, CRM, and SecOps) | https://in.linkedin.com/jobs/view/servicenow-developer-itom-itam-grc-crm-and-secops-at-tenth-revolution-group-4428236741
+4430953150 | Developer - Java [T500-26828] | https://in.linkedin.com/jobs/view/developer-java-t500-26828-at-cibc-india-4430953150
