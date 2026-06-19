@@ -3540,3 +3540,13 @@
 4430732551 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-salesforce-ad-4430732551
 4429347095 | Salesforce CPQ Architect | https://in.linkedin.com/jobs/view/salesforce-cpq-architect-at-carrier-4429347095
 4430729677 | Salesforce Senior Technical Architect (CTA Aspirants) | https://in.linkedin.com/jobs/view/salesforce-senior-technical-architect-cta-aspirants-at-salesforce-ad-4430729677
+4430767570 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-informatica-brasil-4430767570
+4430765759 | SQL Developer | https://in.linkedin.com/jobs/view/sql-developer-at-information-technology-4430765759
+4430757651 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4430757651
+4430772535 | Salesforce Senior Technical Architect (CTA Aspirants) | https://in.linkedin.com/jobs/view/salesforce-senior-technical-architect-cta-aspirants-at-informatica-brasil-4430772535
+4429356866 | SAP Fiori + BTP | https://in.linkedin.com/jobs/view/sap-fiori-%2B-btp-at-tata-consultancy-services-4429356866
+4430771431 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4430771431
+4430758699 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4430758699
+4430759608 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4430759608
+4430754745 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4430754745
+4429388021 | Programmer (Dev) - India | https://in.linkedin.com/jobs/view/programmer-dev-india-at-persistent-systems-4429388021
