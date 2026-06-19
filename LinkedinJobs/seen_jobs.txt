@@ -3551,3 +3551,6 @@
 4430754745 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4430754745
 4429388021 | Programmer (Dev) - India | https://in.linkedin.com/jobs/view/programmer-dev-india-at-persistent-systems-4429388021
 4429642360 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4429642360
+4430958032 | Salesforce Developer and Admin, ISS | https://in.linkedin.com/jobs/view/salesforce-developer-and-admin-iss-at-amazon-4430958032
+4429645378 | CRM Developer | https://in.linkedin.com/jobs/view/crm-developer-at-zoetis-4429645378
+4428251182 | Architect - Salesforce | https://in.linkedin.com/jobs/view/architect-salesforce-at-pepsico-4428251182
