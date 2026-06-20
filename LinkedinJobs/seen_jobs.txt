@@ -3570,3 +3570,5 @@
 4430072417 | Salesforce Data Cloud 360 Architect | https://in.linkedin.com/jobs/view/salesforce-data-cloud-360-architect-at-ekfrazo-technologies-private-limited-4430072417
 4420948436 | Salesforce Field Service Architect | https://in.linkedin.com/jobs/view/salesforce-field-service-architect-at-salesforce-4420948436
 4421728100 | Salesforce Devops - Senior Consultant, Managed Services - DFO&I - Customer | https://in.linkedin.com/jobs/view/salesforce-devops-senior-consultant-managed-services-dfo-i-customer-at-deloitte-4421728100
+4431337000 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-htc-global-services-4431337000
+4431320866 | Senior Salesforce Developer - 7+ yrs | https://in.linkedin.com/jobs/view/senior-salesforce-developer-7%2B-yrs-at-htc-global-services-4431320866
