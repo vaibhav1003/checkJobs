@@ -3565,3 +3565,8 @@
 4431156321 | Full Stack Engineer - React, Angular, Python or Java | https://in.linkedin.com/jobs/view/full-stack-engineer-react-angular-python-or-java-at-optum-india-4431156321
 4428500630 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-vneed-tech-solutions-llc-4428500630
 4430054683 | QA Engineer - API Testing/Automation (Java) | https://in.linkedin.com/jobs/view/qa-engineer-api-testing-automation-java-at-blue-yonder-4430054683
+4411609725 | Salesforce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-ntt-data-north-america-4411609725
+4421726125 | Full Stack Java+Angular JS - Managed Services Engineer II- DFO&I - Customer | https://in.linkedin.com/jobs/view/full-stack-java%2Bangular-js-managed-services-engineer-ii-dfo-i-customer-at-deloitte-4421726125
+4430072417 | Salesforce Data Cloud 360 Architect | https://in.linkedin.com/jobs/view/salesforce-data-cloud-360-architect-at-ekfrazo-technologies-private-limited-4430072417
+4420948436 | Salesforce Field Service Architect | https://in.linkedin.com/jobs/view/salesforce-field-service-architect-at-salesforce-4420948436
+4421728100 | Salesforce Devops - Senior Consultant, Managed Services - DFO&I - Customer | https://in.linkedin.com/jobs/view/salesforce-devops-senior-consultant-managed-services-dfo-i-customer-at-deloitte-4421728100
