@@ -3610,3 +3610,7 @@
 4431674580 | Software Engineer II (Java) | https://in.linkedin.com/jobs/view/software-engineer-ii-java-at-emburse-4431674580
 4431725541 | Technical Support Engineer | https://in.linkedin.com/jobs/view/technical-support-engineer-at-griddable-io-4431725541
 4431707023 | Salesforce QA Senior Consultant | https://in.linkedin.com/jobs/view/salesforce-qa-senior-consultant-at-ntt-data-north-america-4431707023
+4431745522 | Salesforce SCV Engineer | https://in.linkedin.com/jobs/view/salesforce-scv-engineer-at-sanofi-4431745522
+4431746530 | Salesforce ATM Engineer | https://in.linkedin.com/jobs/view/salesforce-atm-engineer-at-sanofi-4431746530
+4428952655 | Salesforce Omnistudio Developer - Senior Associate | https://in.linkedin.com/jobs/view/salesforce-omnistudio-developer-senior-associate-at-pwc-acceleration-center-india-4428952655
+4431699812 | Salesforce QA Senior Consultant | https://in.linkedin.com/jobs/view/salesforce-qa-senior-consultant-at-ntt-data-north-america-4431699812
