@@ -3593,3 +3593,13 @@
 4430323672 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-persistent-systems-4430323672
 4430321639 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-persistent-systems-4430321639
 4430320667 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-persistent-systems-4430320667
+4428913465 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-headway-tek-inc-4428913465
+4430390171 | Salesforce QA Engineer | https://in.linkedin.com/jobs/view/salesforce-qa-engineer-at-quadrafort-technologies-4430390171
+4431650605 | Senior Salesforce Developer – Salesforce Cloud Voice ( SCV) & Amazon Connect | https://in.linkedin.com/jobs/view/senior-salesforce-developer-%E2%80%93-salesforce-cloud-voice-scv-amazon-connect-at-infotech-consultancy-4431650605
+4431654306 | ADP - Lead Developer, Salesforce Marketing Cloud. ( 0-0 yrs ) | https://in.linkedin.com/jobs/view/adp-lead-developer-salesforce-marketing-cloud-0-0-yrs-at-etcio-cloud-data-center-4431654306
+4431648872 | Salesforce Functional Consultant - CPQ / RCA | https://in.linkedin.com/jobs/view/salesforce-functional-consultant-cpq-rca-at-osf-digital-4431648872
+4430377663 | Java AWS Developer (Spring Boot & Microservices) | https://in.linkedin.com/jobs/view/java-aws-developer-spring-boot-microservices-at-umanist-na-4430377663
+4428928000 | Lead Salesforce Agentforce Architect | https://in.linkedin.com/jobs/view/lead-salesforce-agentforce-architect-at-rabi-solutions-4428928000
+4431641465 | ADP - Solutions Architect ( 10-0 yrs ) | https://in.linkedin.com/jobs/view/adp-solutions-architect-10-0-yrs-at-etcio-cloud-data-center-4431641465
+4430399065 | GeoSpatial Developer Java | https://in.linkedin.com/jobs/view/geospatial-developer-java-at-cognizant-4430399065
+4431652881 | Salesforce B2C Commerce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-b2c-commerce-solution-architect-at-osf-digital-4431652881
