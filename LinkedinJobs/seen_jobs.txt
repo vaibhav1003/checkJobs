@@ -3636,3 +3636,5 @@
 4430878456 | Pega Developer | https://in.linkedin.com/jobs/view/pega-developer-at-coforge-4430878456
 4432223376 | Application Developer-SAP UX | https://in.linkedin.com/jobs/view/application-developer-sap-ux-at-ibm-4432223376
 4430897766 | Senior Business Development Manager | https://in.linkedin.com/jobs/view/senior-business-development-manager-at-capital-numbers-infotech-4430897766
+4431215788 | Salesforce AI / Agentforce Developer | https://in.linkedin.com/jobs/view/salesforce-ai-agentforce-developer-at-zensar-technologies-4431215788
+4432236213 | Quality Engineer, Salesforce [T500-26097] | https://in.linkedin.com/jobs/view/quality-engineer-salesforce-t500-26097-at-marriott-tech-accelerator-4432236213
