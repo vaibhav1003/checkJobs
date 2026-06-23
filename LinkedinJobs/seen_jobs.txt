@@ -3638,3 +3638,7 @@
 4430897766 | Senior Business Development Manager | https://in.linkedin.com/jobs/view/senior-business-development-manager-at-capital-numbers-infotech-4430897766
 4431215788 | Salesforce AI / Agentforce Developer | https://in.linkedin.com/jobs/view/salesforce-ai-agentforce-developer-at-zensar-technologies-4431215788
 4432236213 | Quality Engineer, Salesforce [T500-26097] | https://in.linkedin.com/jobs/view/quality-engineer-salesforce-t500-26097-at-marriott-tech-accelerator-4432236213
+4429460261 | Salesforce AI / Agentforce Developer | https://in.linkedin.com/jobs/view/salesforce-ai-agentforce-developer-at-zensar-technologies-4429460261
+4432257593 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-ntt-data-north-america-4432257593
+4431270348 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-ss-c-technologies-4431270348
+4432260871 | Engineer, IT Software - Java [T500-26911] | https://in.linkedin.com/jobs/view/engineer-it-software-java-t500-26911-at-ansr-4432260871
