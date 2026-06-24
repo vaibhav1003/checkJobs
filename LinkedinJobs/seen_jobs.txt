@@ -3660,3 +3660,5 @@
 4432524863 | Java Backend Engineer | https://in.linkedin.com/jobs/view/java-backend-engineer-at-ascendion-4432524863
 4432558337 | Salesforce B2B Commerce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-b2b-commerce-technical-architect-at-osf-digital-4432558337
 4424093051 | Salesforce Technical - Associate Business Transformation Architect - Sales & Service - Customer | https://in.linkedin.com/jobs/view/salesforce-technical-associate-business-transformation-architect-sales-service-customer-at-deloitte-4424093051
+4432561841 | Senior Salesforce Developer with Experience cloud and LWC expertise | https://in.linkedin.com/jobs/view/senior-salesforce-developer-with-experience-cloud-and-lwc-expertise-at-infotech-consultancy-4432561841
+4432580217 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4432580217
