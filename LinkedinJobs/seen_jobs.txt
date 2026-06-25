@@ -3674,3 +3674,12 @@
 4432875462 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-optum-india-4432875462
 4432882357 | Software Engineer - .NET, C# & React | https://in.linkedin.com/jobs/view/software-engineer-net-c%23-react-at-optum-india-4432882357
 4433003296 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4433003296
+4432163349 | Salesforce Service Cloud Developer || Contract || Pan India | https://in.linkedin.com/jobs/view/salesforce-service-cloud-developer-contract-pan-india-at-acestack-4432163349
+4433024032 | Product Manager_Salesforce CPQ | https://in.linkedin.com/jobs/view/product-manager-salesforce-cpq-at-forsys-inc-4433024032
+4432164369 | Salesforce CPQ Developer || Contract || Pan India | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-contract-pan-india-at-acestack-4432164369
+4433047235 | Software Developer 3 | https://in.linkedin.com/jobs/view/software-developer-3-at-oracle-4433047235
+4350160261 | Software Development Engineer | https://in.linkedin.com/jobs/view/software-development-engineer-at-inovalon-4350160261
+4433042361 | Software Developer 3 | https://in.linkedin.com/jobs/view/software-developer-3-at-oracle-4433042361
+4432114877 | Software Engineer II Workday Integrations | https://in.linkedin.com/jobs/view/software-engineer-ii-workday-integrations-at-bristol-myers-squibb-eu-policy-4432114877
+4409930223 | Software Engineer (ATG Ecommerce) | https://in.linkedin.com/jobs/view/software-engineer-atg-ecommerce-at-diligente-technologies-4409930223
+4433048197 | Software Engineer, Infrastructure | https://in.linkedin.com/jobs/view/software-engineer-infrastructure-at-vizlab-ventures-4433048197
