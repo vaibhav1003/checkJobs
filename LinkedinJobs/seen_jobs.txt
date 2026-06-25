@@ -3684,3 +3684,10 @@
 4409930223 | Software Engineer (ATG Ecommerce) | https://in.linkedin.com/jobs/view/software-engineer-atg-ecommerce-at-diligente-technologies-4409930223
 4433048197 | Software Engineer, Infrastructure | https://in.linkedin.com/jobs/view/software-engineer-infrastructure-at-vizlab-ventures-4433048197
 4432606241 | Senior Salesforce consultant | https://in.linkedin.com/jobs/view/senior-salesforce-consultant-at-hj-software-private-limited-4432606241
+4430215157 | Software Engineer II, Developer - Salesforce - Cell Therapy | https://in.linkedin.com/jobs/view/software-engineer-ii-developer-salesforce-cell-therapy-at-bristol-myers-squibb-eu-policy-4430215157
+4432628294 | Salesforce Mulesoft Developer | https://in.linkedin.com/jobs/view/salesforce-mulesoft-developer-at-flutter-entertainment-india-4432628294
+4424356609 | Java/Mainframe/Pega QA-Software Engineer II | https://in.linkedin.com/jobs/view/java-mainframe-pega-qa-software-engineer-ii-at-deloitte-4424356609
+4424363577 | Salesforce Data Cloud-Senior Consultant, Managed Services-Customer-DF&I | https://in.linkedin.com/jobs/view/salesforce-data-cloud-senior-consultant-managed-services-customer-df-i-at-deloitte-4424363577
+4424071765 | Salesforce CPQ - Consultant, Managed Services - DFO&I - Customer | https://in.linkedin.com/jobs/view/salesforce-cpq-consultant-managed-services-dfo-i-customer-at-deloitte-4424071765
+4424077454 | Salesforce CPQ - Senior Consultant, Managed Services - DFO&I - Customer | https://in.linkedin.com/jobs/view/salesforce-cpq-senior-consultant-managed-services-dfo-i-customer-at-deloitte-4424077454
+4424365553 | nCino / Salesforce - Manager, Technical Transformation | https://in.linkedin.com/jobs/view/ncino-salesforce-manager-technical-transformation-at-deloitte-4424365553
