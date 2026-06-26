@@ -3721,3 +3721,8 @@
 4433584618 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4433584618
 4432944047 | Business Development Specialist | https://in.linkedin.com/jobs/view/business-development-specialist-at-prudent-technologies-and-consulting-inc-4432944047
 4418920110 | Dotnet Developer | https://in.linkedin.com/jobs/view/dotnet-developer-at-tata-consultancy-services-4418920110
+4432972203 | Senior Salesforce Developer (Billing) | https://in.linkedin.com/jobs/view/senior-salesforce-developer-billing-at-s-p-global-4432972203
+4424355612 | Salesforce Data Cloud-Consultant, Managed Services- Customer-DF&I | https://in.linkedin.com/jobs/view/salesforce-data-cloud-consultant-managed-services-customer-df-i-at-deloitte-4424355612
+4432937947 | Java Fullstack (Angular) Developer | https://in.linkedin.com/jobs/view/java-fullstack-angular-developer-at-infosys-4432937947
+4432956594 | Java Developer (React.js, Spring Boot) | https://in.linkedin.com/jobs/view/java-developer-react-js-spring-boot-at-hylancer-4432956594
+4433831129 | Java Full Stack Developer (React, Spring Boot & AWS) | https://in.linkedin.com/jobs/view/java-full-stack-developer-react-spring-boot-aws-at-sky-systems-inc-skysys-4433831129
