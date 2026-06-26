@@ -3732,3 +3732,6 @@
 4433845904 | Industry Consulting Snr. Consultant | https://in.linkedin.com/jobs/view/industry-consulting-snr-consultant-at-ntt-data-north-america-4433845904
 4433863284 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-tata-consultancy-services-4433863284
 4433227700 | Senior Software Engineer - Architect, Consent & Campaign Management | https://in.linkedin.com/jobs/view/senior-software-engineer-architect-consent-campaign-management-at-bristol-myers-squibb-eu-policy-4433227700
+4430634376 | Software Engineer II, Developer - Salesforce - Cell Therapy | https://in.linkedin.com/jobs/view/software-engineer-ii-developer-salesforce-cell-therapy-at-bioksha-4430634376
+4433255609 | Senior QA Automation/ SDET (Selenium/Playwright, Java) | https://in.linkedin.com/jobs/view/senior-qa-automation-sdet-selenium-playwright-java-at-cg-vak-software-exports-ltd-4433255609
+4433869763 | Senior Specialist, Technical Product Management | https://in.linkedin.com/jobs/view/senior-specialist-technical-product-management-at-msd-4433869763
