@@ -3726,3 +3726,6 @@
 4432937947 | Java Fullstack (Angular) Developer | https://in.linkedin.com/jobs/view/java-fullstack-angular-developer-at-infosys-4432937947
 4432956594 | Java Developer (React.js, Spring Boot) | https://in.linkedin.com/jobs/view/java-developer-react-js-spring-boot-at-hylancer-4432956594
 4433831129 | Java Full Stack Developer (React, Spring Boot & AWS) | https://in.linkedin.com/jobs/view/java-full-stack-developer-react-spring-boot-aws-at-sky-systems-inc-skysys-4433831129
+4433821962 | Senior Software Engineer I - Salesforce [T500-25958] | https://in.linkedin.com/jobs/view/senior-software-engineer-i-salesforce-t500-25958-at-marriott-tech-accelerator-4433821962
+4433804094 | Agentic Engineers | https://in.linkedin.com/jobs/view/agentic-engineers-at-the-ksquare-group-4433804094
+4433849319 | Performance Engineer - MTS | https://in.linkedin.com/jobs/view/performance-engineer-mts-at-salesforce-4433849319
