@@ -3729,3 +3729,6 @@
 4433821962 | Senior Software Engineer I - Salesforce [T500-25958] | https://in.linkedin.com/jobs/view/senior-software-engineer-i-salesforce-t500-25958-at-marriott-tech-accelerator-4433821962
 4433804094 | Agentic Engineers | https://in.linkedin.com/jobs/view/agentic-engineers-at-the-ksquare-group-4433804094
 4433849319 | Performance Engineer - MTS | https://in.linkedin.com/jobs/view/performance-engineer-mts-at-salesforce-4433849319
+4433845904 | Industry Consulting Snr. Consultant | https://in.linkedin.com/jobs/view/industry-consulting-snr-consultant-at-ntt-data-north-america-4433845904
+4433863284 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-tata-consultancy-services-4433863284
+4433227700 | Senior Software Engineer - Architect, Consent & Campaign Management | https://in.linkedin.com/jobs/view/senior-software-engineer-architect-consent-campaign-management-at-bristol-myers-squibb-eu-policy-4433227700
