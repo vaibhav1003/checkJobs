@@ -3773,3 +3773,10 @@
 4433486033 | SFDC Test Engineer | https://in.linkedin.com/jobs/view/sfdc-test-engineer-at-infosys-4433486033
 4433486036 | Java Angular Developer | https://in.linkedin.com/jobs/view/java-angular-developer-at-infosys-4433486036
 4433470827 | Java Full Stack developer with React and NodeJS | https://in.linkedin.com/jobs/view/java-full-stack-developer-with-react-and-nodejs-at-infosys-4433470827
+4433463936 | SFCC full stack developer | https://in.linkedin.com/jobs/view/sfcc-full-stack-developer-at-infosys-4433463936
+4434245216 | Technical Support Engineer_Momentum | https://in.linkedin.com/jobs/view/technical-support-engineer-momentum-at-salesforce-4434245216
+4433463934 | Fullstack Developer | https://in.linkedin.com/jobs/view/fullstack-developer-at-infosys-4433463934
+4433465857 | Open Text Developer | https://in.linkedin.com/jobs/view/open-text-developer-at-infosys-4433465857
+4433462771 | Cloud Fullstack Developer | https://in.linkedin.com/jobs/view/cloud-fullstack-developer-at-carrier-4433462771
+4433462996 | IBM filenet Developer | https://in.linkedin.com/jobs/view/ibm-filenet-developer-at-infosys-4433462996
+4433471833 | React.js Developer | https://in.linkedin.com/jobs/view/react-js-developer-at-infosys-4433471833
