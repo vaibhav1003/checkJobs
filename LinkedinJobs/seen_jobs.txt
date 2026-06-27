@@ -3766,3 +3766,4 @@
 4434093342 | Software Engineer II | https://in.linkedin.com/jobs/view/software-engineer-ii-at-uber-4434093342
 4434205901 | Java Developer at Ticking Minds | https://in.linkedin.com/jobs/view/java-developer-at-ticking-minds-at-nextgen-infotech-pvt-ltd-4434205901
 4421127877 | Software Engineer III (Java, Springboot &Microservices) | https://in.linkedin.com/jobs/view/software-engineer-iii-java-springboot-microservices-at-candescent-4421127877
+4433472412 | Senior QA Automation/ SDET (Selenium/Playwright, Java) | https://in.linkedin.com/jobs/view/senior-qa-automation-sdet-selenium-playwright-java-at-cg-vak-software-exports-ltd-4433472412
