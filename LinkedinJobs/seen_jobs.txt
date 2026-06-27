@@ -3755,3 +3755,12 @@
 4434065344 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4434065344
 4434052747 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4434052747
 4434069042 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4434069042
+4434082957 | Applications Developer II | https://in.linkedin.com/jobs/view/applications-developer-ii-at-uber-4434082957
+4434096199 | Technical Program Manager II | https://in.linkedin.com/jobs/view/technical-program-manager-ii-at-uber-4434096199
+4434201119 | ServiceNow Developer | https://in.linkedin.com/jobs/view/servicenow-developer-at-tata-consultancy-services-4434201119
+4434099234 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-andor-tech-4434099234
+4430668830 | Software Engineer ( Java , AWS ) | https://in.linkedin.com/jobs/view/software-engineer-java-aws-at-infor-4430668830
+4434075787 | Software Engineer III - (ADLC , Python) | https://in.linkedin.com/jobs/view/software-engineer-iii-adlc-python-at-jpmorganchase-4434075787
+4434088770 | Manager, Technical Program Management | https://in.linkedin.com/jobs/view/manager-technical-program-management-at-uber-4434088770
+4434093336 | Software Engineer II | https://in.linkedin.com/jobs/view/software-engineer-ii-at-uber-4434093336
+4434093342 | Software Engineer II | https://in.linkedin.com/jobs/view/software-engineer-ii-at-uber-4434093342
