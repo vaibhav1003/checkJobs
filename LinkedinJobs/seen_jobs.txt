@@ -3795,3 +3795,12 @@
 4433625348 | Full-Stack UI Developer — Enterprise AI | https://in.linkedin.com/jobs/view/full-stack-ui-developer-%E2%80%94-enterprise-ai-at-hyrezy-tech-solutions-4433625348
 4405947819 | Software Engineer III | https://in.linkedin.com/jobs/view/software-engineer-iii-at-pdi-technologies-4405947819
 4434290994 | Java Full Stack Developer Azure/AWS - Walk-in | https://in.linkedin.com/jobs/view/java-full-stack-developer-azure-aws-walk-in-at-tata-consultancy-services-4434290994
+4433630282 | FIORI | https://in.linkedin.com/jobs/view/fiori-at-people-staffing-solutions-4433630282
+4433634066 | Spark Scala Developer | https://in.linkedin.com/jobs/view/spark-scala-developer-at-infosys-4433634066
+4433627404 | SAS Developer | https://in.linkedin.com/jobs/view/sas-developer-at-infosys-4433627404
+4429146172 | Java Web Developer | https://in.linkedin.com/jobs/view/java-web-developer-at-tata-consultancy-services-4429146172
+4434400611 | Frontend Engineer | https://in.linkedin.com/jobs/view/frontend-engineer-at-iocombats-4434400611
+4433619653 | Python+Spark Scala | https://in.linkedin.com/jobs/view/python%2Bspark-scala-at-infosys-4433619653
+4330455152 | ServiceNow Senior Developer | https://in.linkedin.com/jobs/view/servicenow-senior-developer-at-aveva-4330455152
+4434412033 | Dot Net Azure Developer | https://in.linkedin.com/jobs/view/dot-net-azure-developer-at-tata-consultancy-services-4434412033
+4433628407 | Python-AWS Bedrock Developer | https://in.linkedin.com/jobs/view/python-aws-bedrock-developer-at-infosys-4433628407
