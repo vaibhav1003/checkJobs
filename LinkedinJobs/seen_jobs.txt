@@ -3808,3 +3808,12 @@
 4433634926 | Salesforce CPQ Developer || Contract || Pan India | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-contract-pan-india-at-acestack-4433634926
 4431063285 | Senior Data Integration Architect / Engineer | https://in.linkedin.com/jobs/view/senior-data-integration-architect-engineer-at-jksolutions-consultancy-4431063285
 4433638968 | Full Stack Developer(Java With Angular) | https://in.linkedin.com/jobs/view/full-stack-developer-java-with-angular-at-tata-consultancy-services-4433638968
+4433680182 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-team-geek-solutions-4433680182
+4433659564 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-cloudologic-4433659564
+4433677319 | Salesforce DevOps Engineer | https://in.linkedin.com/jobs/view/salesforce-devops-engineer-at-intuition-it-%E2%80%93-intuitive-technology-recruitment-4433677319
+4433680287 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-regal-rexnord-4433680287
+4431092454 | Java Full Stack Developer (Outbound/Selfservice) | https://in.linkedin.com/jobs/view/java-full-stack-developer-outbound-selfservice-at-miratech-4431092454
+4433661347 | IBM Sterling Engineer/Developer (Java) | https://in.linkedin.com/jobs/view/ibm-sterling-engineer-developer-java-at-rapidbrains-4433661347
+4425084670 | Full Stack Java+React JS-Managed Services Engineer II-DFO&I-Customer | https://in.linkedin.com/jobs/view/full-stack-java%2Breact-js-managed-services-engineer-ii-dfo-i-customer-at-deloitte-4425084670
+4434112070 | Omni studio Developer (With CPQ and Agentforce Experience) | https://in.linkedin.com/jobs/view/omni-studio-developer-with-cpq-and-agentforce-experience-at-telus-digital-4434112070
+4433653775 | Java Backend Developer — Spring Boot (Telecom Domain) | https://in.linkedin.com/jobs/view/java-backend-developer-%E2%80%94-spring-boot-telecom-domain-at-team-geek-solutions-4433653775
