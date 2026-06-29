@@ -3804,3 +3804,7 @@
 4330455152 | ServiceNow Senior Developer | https://in.linkedin.com/jobs/view/servicenow-senior-developer-at-aveva-4330455152
 4434412033 | Dot Net Azure Developer | https://in.linkedin.com/jobs/view/dot-net-azure-developer-at-tata-consultancy-services-4434412033
 4433628407 | Python-AWS Bedrock Developer | https://in.linkedin.com/jobs/view/python-aws-bedrock-developer-at-infosys-4433628407
+4433651552 | Salesforce LWC | https://in.linkedin.com/jobs/view/salesforce-lwc-at-tata-consultancy-services-4433651552
+4433634926 | Salesforce CPQ Developer || Contract || Pan India | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-contract-pan-india-at-acestack-4433634926
+4431063285 | Senior Data Integration Architect / Engineer | https://in.linkedin.com/jobs/view/senior-data-integration-architect-engineer-at-jksolutions-consultancy-4431063285
+4433638968 | Full Stack Developer(Java With Angular) | https://in.linkedin.com/jobs/view/full-stack-developer-java-with-angular-at-tata-consultancy-services-4433638968
