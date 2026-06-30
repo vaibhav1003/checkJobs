@@ -3873,3 +3873,6 @@
 4435183720 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4435183720
 4435191145 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4435191145
 4435170877 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4435170877
+4435314366 | Software Engineering, SMTS (Salesforce Developer) | https://in.linkedin.com/jobs/view/software-engineering-smts-salesforce-developer-at-salesforce-ad-4435314366
+4435318188 | Software Test Engineer-SDET(Java ,Selenium) | https://in.linkedin.com/jobs/view/software-test-engineer-sdet-java-selenium-at-cgi-4435318188
+4435124642 | Principal Software Engineer - Java | https://in.linkedin.com/jobs/view/principal-software-engineer-java-at-hyland-4435124642
