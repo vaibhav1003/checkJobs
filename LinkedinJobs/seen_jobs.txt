@@ -3845,3 +3845,12 @@
 4434911161 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4434911161
 4434911156 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4434911156
 4434904316 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4434904316
+4431575620 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-hj-software-private-limited-4431575620
+4434951474 | Salesforce LWC Developer | https://in.linkedin.com/jobs/view/salesforce-lwc-developer-at-artmac-4434951474
+4431560927 | CRM Business Specialist | https://in.linkedin.com/jobs/view/crm-business-specialist-at-thinkwise-consulting-llp-4431560927
+4431583143 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4431583143
+4434931981 | Technical Specialist-App Development | https://in.linkedin.com/jobs/view/technical-specialist-app-development-at-birlasoft-4434931981
+4434924830 | Salesforce Manual QA | https://in.linkedin.com/jobs/view/salesforce-manual-qa-at-people-prime-worldwide-4434924830
+4431558957 | Oracle CPQ Developer | https://in.linkedin.com/jobs/view/oracle-cpq-developer-at-prophecy-technologies-4431558957
+4431579307 | GTM Engineer / RevOps Architect | https://in.linkedin.com/jobs/view/gtm-engineer-revops-architect-at-pinnacleu-4431579307
+4434961113 | ServiceNow Developer | https://in.linkedin.com/jobs/view/servicenow-developer-at-peoplelogic-4434961113
