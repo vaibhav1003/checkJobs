@@ -3876,3 +3876,12 @@
 4435314366 | Software Engineering, SMTS (Salesforce Developer) | https://in.linkedin.com/jobs/view/software-engineering-smts-salesforce-developer-at-salesforce-ad-4435314366
 4435318188 | Software Test Engineer-SDET(Java ,Selenium) | https://in.linkedin.com/jobs/view/software-test-engineer-sdet-java-selenium-at-cgi-4435318188
 4435124642 | Principal Software Engineer - Java | https://in.linkedin.com/jobs/view/principal-software-engineer-java-at-hyland-4435124642
+4435338843 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4435338843
+4435198207 | Sales Compensation Analyst | https://in.linkedin.com/jobs/view/sales-compensation-analyst-at-salesforce-4435198207
+4420931339 | AEP Developer | https://in.linkedin.com/jobs/view/aep-developer-at-capgemini-4420931339
+4434372125 | Data Associate, Salesforce Master Data | https://in.linkedin.com/jobs/view/data-associate-salesforce-master-data-at-s-p-global-4434372125
+4434351874 | Data Associate, Salesforce Master Data | https://in.linkedin.com/jobs/view/data-associate-salesforce-master-data-at-s-p-global-4434351874
+4435351398 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4435351398
+4434359726 | CCaaS / CRM Administrator | https://in.linkedin.com/jobs/view/ccaas-crm-administrator-at-intouchcx-4434359726
+4435195228 | Software Engineer II | https://in.linkedin.com/jobs/view/software-engineer-ii-at-microsoft-4435195228
+4435345116 | Javascript Developer - Remote Work | REF#296486 | https://in.linkedin.com/jobs/view/javascript-developer-remote-work-ref%23296486-at-bairesdev-4435345116
