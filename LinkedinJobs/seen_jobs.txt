@@ -3892,3 +3892,7 @@
 4432377363 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4432377363
 4432336564 | Salesforce Technical Lead | https://in.linkedin.com/jobs/view/salesforce-technical-lead-at-the-ksquare-group-4432336564
 4395294159 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4395294159
+4435558125 | Staff Software Engineer II - Java, Spring Boot, Microservices & Cloud | https://in.linkedin.com/jobs/view/staff-software-engineer-ii-java-spring-boot-microservices-cloud-at-blue-yonder-4435558125
+4432379248 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4432379248
+4432357699 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-digitalxnode-4432357699
+4435806838 | Engineer, IT Software - Java Fullstack [T500-27275] | https://in.linkedin.com/jobs/view/engineer-it-software-java-fullstack-t500-27275-at-ansr-4435806838
