@@ -3914,3 +3914,6 @@
 4430995663 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4430995663
 4435008475 | Salesforce Engineer | https://in.linkedin.com/jobs/view/salesforce-engineer-at-qloron-pvt-ltd-4435008475
 4435018359 | Salesforce Senior Developer/Consultant | https://in.linkedin.com/jobs/view/salesforce-senior-developer-consultant-at-infosys-4435018359
+4435041316 | Senior Software Engineer – Salesforce | https://in.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-salesforce-at-technogen-india-pvt-ltd-4435041316
+4432744558 | Senior Software Developer | https://in.linkedin.com/jobs/view/senior-software-developer-at-redient-security-4432744558
+4436178011 | NFR QA Engineer (Java / React / LLM / Capital Markets) | https://in.linkedin.com/jobs/view/nfr-qa-engineer-java-react-llm-capital-markets-at-dxc-technology-4436178011
