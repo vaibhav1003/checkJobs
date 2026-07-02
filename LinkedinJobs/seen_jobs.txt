@@ -3926,3 +3926,5 @@
 4435053447 | Salesforce TPM Support! | https://in.linkedin.com/jobs/view/salesforce-tpm-support%21-at-technogen-inc-4435053447
 4436186511 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-ntt-data-north-america-4436186511
 4436188353 | Environment Infrastructure Engineer | https://in.linkedin.com/jobs/view/environment-infrastructure-engineer-at-salesforce-4436188353
+4436308756 | Salesforce ATM Engineer | https://in.linkedin.com/jobs/view/salesforce-atm-engineer-at-sanofi-4436308756
+4436192522 | Java Full stack developer-React.js | https://in.linkedin.com/jobs/view/java-full-stack-developer-react-js-at-weekday-ai-yc-w21-4436192522
