@@ -3934,3 +3934,6 @@
 4435216036 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-gravity-infosolutions-inc-4435216036
 4435205485 | Salesforce Technical Architect (Certified) - FTE | https://in.linkedin.com/jobs/view/salesforce-technical-architect-certified-fte-at-gravity-infosolutions-inc-4435205485
 4435068123 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-kumaran-systems-4435068123
+4436377213 | Java SDET | https://in.linkedin.com/jobs/view/java-sdet-at-capgemini-4436377213
+4436360324 | Sr Associate, Web Strategy & Operations | https://in.linkedin.com/jobs/view/sr-associate-web-strategy-operations-at-amgen-4436360324
+4433109069 | Java Full stack Engineer | https://in.linkedin.com/jobs/view/java-full-stack-engineer-at-ust-4433109069
