@@ -3953,3 +3953,5 @@
 4436427859 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-state-street-4436427859
 4436421508 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-primematch-advantage-4436421508
 4435400872 | Software Engineer - Backend Java | https://in.linkedin.com/jobs/view/software-engineer-backend-java-at-kyndryl-4435400872
+4433158357 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-headway-tek-inc-4433158357
+4433159464 | "Java Developer" | https://in.linkedin.com/jobs/view/java-developer-at-coforge-4433159464
