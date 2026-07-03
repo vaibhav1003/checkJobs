@@ -3965,3 +3965,8 @@
 4435438528 | Sharepoint Developer | https://in.linkedin.com/jobs/view/sharepoint-developer-at-tata-consultancy-services-4435438528
 4436709922 | Software Engr II | https://in.linkedin.com/jobs/view/software-engr-ii-at-honeywell-aerospace-4436709922
 4407375804 | Sr. Software Engineer - Zoho Analytics Job | https://in.linkedin.com/jobs/view/sr-software-engineer-zoho-analytics-job-at-yash-technologies-4407375804
+4436736890 | Associate Software Engineer CRM | https://in.linkedin.com/jobs/view/associate-software-engineer-crm-at-amgen-4436736890
+4435450672 | SF Marketing Cloud Developer | https://in.linkedin.com/jobs/view/sf-marketing-cloud-developer-at-persistent-systems-4435450672
+4436738119 | MTS/SMTS - AI Platform & Orchestration, Offensive Security - Hyderabad | https://in.linkedin.com/jobs/view/mts-smts-ai-platform-orchestration-offensive-security-hyderabad-at-salesforce-4436738119
+4436725860 | MuleSoft Senior Developer | https://in.linkedin.com/jobs/view/mulesoft-senior-developer-at-ntt-data-north-america-4436725860
+4426946679 | Full Stack Developer I | https://in.linkedin.com/jobs/view/full-stack-developer-i-at-fedex-acc-4426946679
