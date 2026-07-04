@@ -4000,3 +4000,9 @@
 4433727823 | Full Stack Java Developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-wellness360-4433727823
 4436926710 | Fullstack Engineer | https://in.linkedin.com/jobs/view/fullstack-engineer-at-r3-consultant-4436926710
 4435734775 | Java Engineer (Java / Springboot / k8s/GCP- APIGEE) | https://in.linkedin.com/jobs/view/java-engineer-java-springboot-k8s-gcp-apigee-at-people-prime-worldwide-4435734775
+4408731925 | Senior CPQ Developer | https://in.linkedin.com/jobs/view/senior-cpq-developer-at-experian-4408731925
+4427955950 | Agentforce Technical Architect | https://in.linkedin.com/jobs/view/agentforce-technical-architect-at-salesforce-4427955950
+4433742403 | Salesforce and Workday QA (Hybrid and Fulltime) | https://in.linkedin.com/jobs/view/salesforce-and-workday-qa-hybrid-and-fulltime-at-techleno-pvt-ltd-4433742403
+4426966993 | Full Stack Development Consultant | https://in.linkedin.com/jobs/view/full-stack-development-consultant-at-the-goodyear-tire-rubber-company-4426966993
+4436938450 | Lead Software Engineer | https://in.linkedin.com/jobs/view/lead-software-engineer-at-wells-fargo-4436938450
+4436951110 | ServiceNow Developer | https://in.linkedin.com/jobs/view/servicenow-developer-at-pixelcode-technologies-4436951110
