@@ -3990,3 +3990,8 @@
 4435464923 | Senior Full-Stack Software Engineer (VMP) | https://in.linkedin.com/jobs/view/senior-full-stack-software-engineer-vmp-at-realpage-inc-4435464923
 4424894257 | Junior Data Engineer - Python | https://in.linkedin.com/jobs/view/junior-data-engineer-python-at-electronic-arts-ea-4424894257
 4425302195 | Junior Data Engineer - Python | https://in.linkedin.com/jobs/view/junior-data-engineer-python-at-electronic-arts-ea-4425302195
+4436901893 | DEVELOPER L4 | https://in.linkedin.com/jobs/view/developer-l4-at-wipro-4436901893
+4435709732 | IT Consulting | https://in.linkedin.com/jobs/view/it-consulting-at-infosys-4435709732
+4435708667 | Spark Scala Developer | https://in.linkedin.com/jobs/view/spark-scala-developer-at-infosys-4435708667
+4435713391 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-infosys-4435713391
+4435701987 | Informatica IICS Developer – Snowflake | https://in.linkedin.com/jobs/view/informatica-iics-developer-%E2%80%93-snowflake-at-infosys-4435701987
