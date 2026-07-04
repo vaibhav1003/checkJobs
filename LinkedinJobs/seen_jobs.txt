@@ -3995,3 +3995,7 @@
 4435708667 | Spark Scala Developer | https://in.linkedin.com/jobs/view/spark-scala-developer-at-infosys-4435708667
 4435713391 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-infosys-4435713391
 4435701987 | Informatica IICS Developer – Snowflake | https://in.linkedin.com/jobs/view/informatica-iics-developer-%E2%80%93-snowflake-at-infosys-4435701987
+4433732568 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-nexifyr-4433732568
+4433734213 | Area Sales Manager | https://in.linkedin.com/jobs/view/area-sales-manager-at-thermo-fisher-scientific-4433734213
+4433727823 | Full Stack Java Developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-wellness360-4433727823
+4436926710 | Fullstack Engineer | https://in.linkedin.com/jobs/view/fullstack-engineer-at-r3-consultant-4436926710
