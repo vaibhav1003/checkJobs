@@ -4037,3 +4037,8 @@
 4397606354 | Full Stack Developer I | https://in.linkedin.com/jobs/view/full-stack-developer-i-at-fedex-acc-4397606354
 4400370576 | Full Stack Developer Advisor | https://in.linkedin.com/jobs/view/full-stack-developer-advisor-at-fedex-4400370576
 4427504445 | Job Posting Title Senior Software Engineer-Service Now | https://in.linkedin.com/jobs/view/job-posting-title-senior-software-engineer-service-now-at-wells-fargo-4427504445
+4437114375 | Java Web Developer | https://in.linkedin.com/jobs/view/java-web-developer-at-tata-consultancy-services-4437114375
+4433787837 | Back End Developer | https://in.linkedin.com/jobs/view/back-end-developer-at-zocialone-4433787837
+4414802947 | Software Engineer - Python | https://in.linkedin.com/jobs/view/software-engineer-python-at-invoicecloud-inc-4414802947
+4436042419 | AI Developer | https://in.linkedin.com/jobs/view/ai-developer-at-thought-pilot-4436042419
+4433793748 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-jobsyme-4433793748
