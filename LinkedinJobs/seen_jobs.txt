@@ -4049,3 +4049,6 @@
 4414805498 | Senior Full-Stack Engineer (M/F/D) | https://in.linkedin.com/jobs/view/senior-full-stack-engineer-m-f-d-at-basf-4414805498
 4436049397 | Backend Developer (Python) | https://in.linkedin.com/jobs/view/backend-developer-python-at-zorba-ai-4436049397
 4432788218 | ServiceNow Developer(GRC) | https://in.linkedin.com/jobs/view/servicenow-developer-grc-at-providence-india-4432788218
+4436040849 | Software Developer | https://in.linkedin.com/jobs/view/software-developer-at-runcode-software-solutions-4436040849
+4436059036 | Full-Stack Developer (MERN) | https://in.linkedin.com/jobs/view/full-stack-developer-mern-at-runcode-software-solutions-4436059036
+4437127352 | Oracle Apps Technical | https://in.linkedin.com/jobs/view/oracle-apps-technical-at-triniti-corporation-4437127352
