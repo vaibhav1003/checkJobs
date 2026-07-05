@@ -4046,3 +4046,6 @@
 4432781563 | ServiceNow Developer(Service Portal) | https://in.linkedin.com/jobs/view/servicenow-developer-service-portal-at-providence-india-4432781563
 4437121181 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-tata-consultancy-services-4437121181
 4436051244 | Backend Developer (.NET Core) | https://in.linkedin.com/jobs/view/backend-developer-net-core-at-umanist-na-4436051244
+4414805498 | Senior Full-Stack Engineer (M/F/D) | https://in.linkedin.com/jobs/view/senior-full-stack-engineer-m-f-d-at-basf-4414805498
+4436049397 | Backend Developer (Python) | https://in.linkedin.com/jobs/view/backend-developer-python-at-zorba-ai-4436049397
+4432788218 | ServiceNow Developer(GRC) | https://in.linkedin.com/jobs/view/servicenow-developer-grc-at-providence-india-4432788218
