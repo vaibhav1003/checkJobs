@@ -4032,3 +4032,8 @@
 4436017546 | DEVELOPER L2 | https://in.linkedin.com/jobs/view/developer-l2-at-wipro-4436017546
 4436016576 | DEVELOPER L2 | https://in.linkedin.com/jobs/view/developer-l2-at-wipro-4436016576
 4436027119 | React Native Developer | https://in.linkedin.com/jobs/view/react-native-developer-at-infosys-4436027119
+4436026813 | Salesforce Business Analyst | https://in.linkedin.com/jobs/view/salesforce-business-analyst-at-audit-fox-by-revx-4436026813
+4436032512 | AI-Based RevOps / GTM Engineer | https://in.linkedin.com/jobs/view/ai-based-revops-gtm-engineer-at-audit-fox-by-revx-4436032512
+4397606354 | Full Stack Developer I | https://in.linkedin.com/jobs/view/full-stack-developer-i-at-fedex-acc-4397606354
+4400370576 | Full Stack Developer Advisor | https://in.linkedin.com/jobs/view/full-stack-developer-advisor-at-fedex-4400370576
+4427504445 | Job Posting Title Senior Software Engineer-Service Now | https://in.linkedin.com/jobs/view/job-posting-title-senior-software-engineer-service-now-at-wells-fargo-4427504445
