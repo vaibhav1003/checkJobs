@@ -4074,3 +4074,7 @@
 4436220331 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-welspun-world-4436220331
 4436205808 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4436205808
 4436216616 | Software Specialist Engineer II- Assistant Manager-Salesforce Einstein/CRM Analytics-Hyderabad | https://in.linkedin.com/jobs/view/software-specialist-engineer-ii-assistant-manager-salesforce-einstein-crm-analytics-hyderabad-at-deloitte-4436216616
+4437432919 | Software Engineer MTS (CMDB, Configuration Item) | https://in.linkedin.com/jobs/view/software-engineer-mts-cmdb-configuration-item-at-salesforce-4437432919
+4433972735 | Java Full Stack Developer - Angular | https://in.linkedin.com/jobs/view/java-full-stack-developer-angular-at-persistent-systems-4433972735
+4437442306 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4437442306
+4388529525 | Developer (ORMB + Java) | https://in.linkedin.com/jobs/view/developer-ormb-%2B-java-at-ice-4388529525
