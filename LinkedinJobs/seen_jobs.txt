@@ -4120,3 +4120,8 @@
 4436825760 | Senior Consultant - Salesforce | https://in.linkedin.com/jobs/view/senior-consultant-salesforce-at-mtx-group-4436825760
 4434575073 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-info-services-4434575073
 4437850762 | Software Engineering SMTS | https://in.linkedin.com/jobs/view/software-engineering-smts-at-salesforce-4437850762
+4437870520 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-cgi-4437870520
+4437858250 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4437858250
+4437865041 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4437865041
+4434578363 | Salesforce Power BI / Databricks Architect (m/f/d) | https://in.linkedin.com/jobs/view/salesforce-power-bi-databricks-architect-m-f-d-at-basf-4434578363
+4436857312 | Senior Solution Architect | https://in.linkedin.com/jobs/view/senior-solution-architect-at-cognizant-4436857312
