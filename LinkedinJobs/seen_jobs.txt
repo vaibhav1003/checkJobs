@@ -4116,3 +4116,7 @@
 4434550481 | Developer III - SFDC CPQ Developer | https://in.linkedin.com/jobs/view/developer-iii-sfdc-cpq-developer-at-ust-4434550481
 4437779893 | Technical Support Engineer | https://in.linkedin.com/jobs/view/technical-support-engineer-at-salesforce-4437779893
 4436819525 | SAP Specialist | https://in.linkedin.com/jobs/view/sap-specialist-at-tata-consultancy-services-4436819525
+4436821915 | Salesforce Lead Software Engineer | https://in.linkedin.com/jobs/view/salesforce-lead-software-engineer-at-principal-financial-group-4436821915
+4436825760 | Senior Consultant - Salesforce | https://in.linkedin.com/jobs/view/senior-consultant-salesforce-at-mtx-group-4436825760
+4434575073 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-info-services-4434575073
+4437850762 | Software Engineering SMTS | https://in.linkedin.com/jobs/view/software-engineering-smts-at-salesforce-4437850762
