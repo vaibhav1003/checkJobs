@@ -4094,3 +4094,7 @@
 4437499185 | Programmer/Analyst II, Ship With Amazon | https://in.linkedin.com/jobs/view/programmer-analyst-ii-ship-with-amazon-at-amazon-4437499185
 4437700328 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4437700328
 4437493769 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4437493769
+4437742436 | Salesforce QA Consultant | https://in.linkedin.com/jobs/view/salesforce-qa-consultant-at-artmac-4437742436
+4434517122 | Salesforce Developer CPQ and Revenue Cloud | https://in.linkedin.com/jobs/view/salesforce-developer-cpq-and-revenue-cloud-at-3itech-global-4434517122
+4436510161 | Senior CRM Data Migration Developer | https://in.linkedin.com/jobs/view/senior-crm-data-migration-developer-at-talentgigs-4436510161
+4436520116 | SAP CRM Consultant | https://in.linkedin.com/jobs/view/sap-crm-consultant-at-umanist-na-4436520116
