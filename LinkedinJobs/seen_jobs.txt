@@ -4106,3 +4106,6 @@
 4436523994 | Senior CRM Data Migration Developer | https://in.linkedin.com/jobs/view/senior-crm-data-migration-developer-at-talentgigs-4436523994
 4436548056 | Java Backend Engineer | https://in.linkedin.com/jobs/view/java-backend-engineer-at-artech-l-l-c-4436548056
 4437750838 | Software Engineer- Java | https://in.linkedin.com/jobs/view/software-engineer-java-at-optum-india-4437750838
+4436547696 | Salesforce / TrueContext Developer | https://in.linkedin.com/jobs/view/salesforce-truecontext-developer-at-metasys-technologies-4436547696
+4437780077 | Salesforce SCV Engineer | https://in.linkedin.com/jobs/view/salesforce-scv-engineer-at-sanofi-4437780077
+4436553662 | Senior Software Engineer | https://in.linkedin.com/jobs/view/senior-software-engineer-at-talentgigs-4436553662
