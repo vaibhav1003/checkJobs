@@ -4135,3 +4135,8 @@
 4438151577 | Dynamics Consultant | https://in.linkedin.com/jobs/view/dynamics-consultant-at-gspann-technologies-inc-4438151577
 4438110404 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4438110404
 4438101695 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4438101695
+4434827225 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-nexifyr-4434827225
+4438174549 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-artmac-4438174549
+4437002951 | Java React Developer | https://in.linkedin.com/jobs/view/java-react-developer-at-ltimindtree-4437002951
+4437007702 | Java Angular Developer | https://in.linkedin.com/jobs/view/java-angular-developer-at-ltimindtree-4437007702
+4436889710 | Senior CRM Data Migration Developer | https://in.linkedin.com/jobs/view/senior-crm-data-migration-developer-at-talentgigs-4436889710
