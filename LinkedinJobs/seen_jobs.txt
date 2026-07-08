@@ -4140,3 +4140,9 @@
 4437002951 | Java React Developer | https://in.linkedin.com/jobs/view/java-react-developer-at-ltimindtree-4437002951
 4437007702 | Java Angular Developer | https://in.linkedin.com/jobs/view/java-angular-developer-at-ltimindtree-4437007702
 4436889710 | Senior CRM Data Migration Developer | https://in.linkedin.com/jobs/view/senior-crm-data-migration-developer-at-talentgigs-4436889710
+4437731922 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-infotech-consultancy-4437731922
+4437031309 | Application Development Architect | https://in.linkedin.com/jobs/view/application-development-architect-at-the-goodyear-tire-rubber-company-4437031309
+4437038137 | Application Development Architect | https://in.linkedin.com/jobs/view/application-development-architect-at-the-goodyear-tire-rubber-company-4437038137
+4437015337 | Business Systems Engineer | https://in.linkedin.com/jobs/view/business-systems-engineer-at-syscloud-4437015337
+4434848012 | Developer Others | https://in.linkedin.com/jobs/view/developer-others-at-itc-infotech-4434848012
+4437024687 | Salesforce Architect - LifeScience domain | https://in.linkedin.com/jobs/view/salesforce-architect-lifescience-domain-at-live-connections-4437024687
