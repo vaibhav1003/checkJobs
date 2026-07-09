@@ -4185,3 +4185,6 @@
 4437372024 | Full Stack Java Developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-orcapod-4437372024
 4437336929 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-people-prime-worldwide-4437336929
 4437347636 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-people-prime-worldwide-4437347636
+4438619547 | Salesforce SCV Engineer | https://in.linkedin.com/jobs/view/salesforce-scv-engineer-at-sanofi-4438619547
+4437535284 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-avp-vigilant-technology-pvt-ltd-4437535284
+4437378617 | Java Engineer | Sr.Salesforce Developer | Platform Engineer | Data Engineer | https://in.linkedin.com/jobs/view/java-engineer-sr-salesforce-developer-platform-engineer-data-engineer-at-sid-information-technologies-4437378617
