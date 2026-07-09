@@ -4195,3 +4195,9 @@
 4437398927 | Data Migration Consultant | https://in.linkedin.com/jobs/view/data-migration-consultant-at-cloud-peritus-4437398927
 4438632894 | Software Engineering SMTS - AI Cloud | https://in.linkedin.com/jobs/view/software-engineering-smts-ai-cloud-at-salesforce-4438632894
 4435679436 | Salesforce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-process360-ltd-4435679436
+4437577020 | Associate-Salesforce Local Admin- Hyderabad | https://in.linkedin.com/jobs/view/associate-salesforce-local-admin-hyderabad-at-deloitte-4437577020
+4437555803 | Specialist -Salesforce Local Admin- Hyderabad | https://in.linkedin.com/jobs/view/specialist-salesforce-local-admin-hyderabad-at-deloitte-4437555803
+4435694149 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-persistent-systems-4435694149
+4435669948 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-persistent-systems-4435669948
+4435683689 | Java SDET | https://in.linkedin.com/jobs/view/java-sdet-at-persistent-systems-4435683689
+4438669712 | IN-Staff Software Engineer I - Java, Microservices & Springboot | https://in.linkedin.com/jobs/view/in-staff-software-engineer-i-java-microservices-springboot-at-blue-yonder-4438669712
