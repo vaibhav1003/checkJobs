@@ -4227,3 +4227,9 @@
 4439088640 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-xeroadss-4439088640
 4439065654 | Engineer, Software - Java [T500-27514] | https://in.linkedin.com/jobs/view/engineer-software-java-t500-27514-at-tmus-global-solutions-4439065654
 4435984811 | Google Hiring Application Engineer, Full Stack in Hyderabad - Cloud Platform, Java/Python, Career Growth | https://in.linkedin.com/jobs/view/google-hiring-application-engineer-full-stack-in-hyderabad-cloud-platform-java-python-career-growth-at-cloudsutra-4435984811
+4439090240 | Software Engineer I | https://in.linkedin.com/jobs/view/software-engineer-i-at-metlife-4439090240
+4439325414 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4439325414
+4439337094 | Full Stack Developer-Associate | https://in.linkedin.com/jobs/view/full-stack-developer-associate-at-fedex-4439337094
+4439334254 | Full Stack Developer-Associate | https://in.linkedin.com/jobs/view/full-stack-developer-associate-at-fedex-4439334254
+4438338770 | Full Stack Developer-Associate | https://in.linkedin.com/jobs/view/full-stack-developer-associate-at-fedex-acc-4438338770
+4438343587 | Full Stack Developer-Associate | https://in.linkedin.com/jobs/view/full-stack-developer-associate-at-fedex-acc-4438343587
