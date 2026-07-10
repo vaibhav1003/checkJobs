@@ -4235,3 +4235,6 @@
 4438343587 | Full Stack Developer-Associate | https://in.linkedin.com/jobs/view/full-stack-developer-associate-at-fedex-acc-4438343587
 4438356183 | SFDC Test Engineer | https://in.linkedin.com/jobs/view/sfdc-test-engineer-at-infosys-4438356183
 4439355958 | Lead Technical Writer | https://in.linkedin.com/jobs/view/lead-technical-writer-at-salesforce-ad-4439355958
+4439341893 | SNOW Developer with AI | https://in.linkedin.com/jobs/view/snow-developer-with-ai-at-cgi-4439341893
+4438330934 | Full-Stack Engineer (Laravel + React/TypeScript) | https://in.linkedin.com/jobs/view/full-stack-engineer-laravel-%2B-react-typescript-at-meghax-4438330934
+4438374323 | Platform Developer IC3 – CCM (ServiceNow) | https://in.linkedin.com/jobs/view/platform-developer-ic3-%E2%80%93-ccm-servicenow-at-360-technology-4438374323
