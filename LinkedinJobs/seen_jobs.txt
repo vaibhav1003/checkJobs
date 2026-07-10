@@ -4211,3 +4211,7 @@
 4437974189 | Full Stack DevOps Engineer (Java + DevOps) | https://in.linkedin.com/jobs/view/full-stack-devops-engineer-java-%2B-devops-at-talentmatics-4437974189
 4437970109 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-kumaran-systems-4437970109
 4437967259 | JAVA Automation QA Engineer | https://in.linkedin.com/jobs/view/java-automation-qa-engineer-at-highbrow-technology-inc-4437967259
+4419089008 | Salesforce Revenue Cloud Advanced Functional - Senior Consultant, Functional Transformation - Sales & Services- Customer | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-advanced-functional-senior-consultant-functional-transformation-sales-services-customer-at-deloitte-4419089008
+4437976096 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-zorba-ai-4437976096
+4435956435 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-adroit-india-4435956435
+4435949538 | Java Developer (P&C Insurance) | https://in.linkedin.com/jobs/view/java-developer-p-c-insurance-at-blitzenx-4435949538
