@@ -4205,3 +4205,9 @@
 4437559985 | IN-Staff Software Engineer I - Java, Microservices & Springboot | https://in.linkedin.com/jobs/view/in-staff-software-engineer-i-java-microservices-springboot-at-blue-yonder-4437559985
 4437588216 | Salesforce Platform Architect | https://in.linkedin.com/jobs/view/salesforce-platform-architect-at-aveva-4437588216
 4437931373 | Software Developer (Java) | https://in.linkedin.com/jobs/view/software-developer-java-at-abc-fitness-4437931373
+4435945453 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-nexifyr-4435945453
+4438875543 | Software Engineer III - Java, AWS, Kafka | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-kafka-at-jpmorganchase-4438875543
+4437957169 | Senior CRM Data Migration Developer | https://in.linkedin.com/jobs/view/senior-crm-data-migration-developer-at-talentgigs-4437957169
+4437974189 | Full Stack DevOps Engineer (Java + DevOps) | https://in.linkedin.com/jobs/view/full-stack-devops-engineer-java-%2B-devops-at-talentmatics-4437974189
+4437970109 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-kumaran-systems-4437970109
+4437967259 | JAVA Automation QA Engineer | https://in.linkedin.com/jobs/view/java-automation-qa-engineer-at-highbrow-technology-inc-4437967259
