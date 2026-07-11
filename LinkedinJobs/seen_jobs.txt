@@ -4238,3 +4238,5 @@
 4439341893 | SNOW Developer with AI | https://in.linkedin.com/jobs/view/snow-developer-with-ai-at-cgi-4439341893
 4438330934 | Full-Stack Engineer (Laravel + React/TypeScript) | https://in.linkedin.com/jobs/view/full-stack-engineer-laravel-%2B-react-typescript-at-meghax-4438330934
 4438374323 | Platform Developer IC3 – CCM (ServiceNow) | https://in.linkedin.com/jobs/view/platform-developer-ic3-%E2%80%93-ccm-servicenow-at-360-technology-4438374323
+4439373209 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-jobs-opportunity-4439373209
+4438392723 | Game Developer Java/libGDX - Remote | https://in.linkedin.com/jobs/view/game-developer-java-libgdx-remote-at-yo-it-consulting-4438392723
