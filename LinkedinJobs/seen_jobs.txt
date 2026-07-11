@@ -4269,3 +4269,5 @@
 4426912683 | AI Developer II | https://in.linkedin.com/jobs/view/ai-developer-ii-at-realpage-inc-4426912683
 4438949371 | Documentum Engineer | https://in.linkedin.com/jobs/view/documentum-engineer-at-infosys-4438949371
 4439572385 | ReactJS Developer | https://in.linkedin.com/jobs/view/reactjs-developer-at-dexaminds-4439572385
+4438951322 | Technical Specialist | https://in.linkedin.com/jobs/view/technical-specialist-at-carrier-4438951322
+4438947446 | Ab Initio Developer | https://in.linkedin.com/jobs/view/ab-initio-developer-at-infosys-4438947446
