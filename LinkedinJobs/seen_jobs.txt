@@ -4254,3 +4254,6 @@
 4438919717 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4438919717
 4421716315 | Salesforce Devops - Consultant, Managed Services - DFO&I - Customer | https://in.linkedin.com/jobs/view/salesforce-devops-consultant-managed-services-dfo-i-customer-at-deloitte-4421716315
 4438920715 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-viraaj-hr-solutions-private-limited-4438920715
+4430954625 | Senior Technical Consultant | https://in.linkedin.com/jobs/view/senior-technical-consultant-at-salesforce-4430954625
+4439550593 | Salesfore Agentforce Engineer | https://in.linkedin.com/jobs/view/salesfore-agentforce-engineer-at-accellor-4439550593
+4421720148 | Salesforce Technical - Associate Business Transformation Architect - Sales & Service - Customer | https://in.linkedin.com/jobs/view/salesforce-technical-associate-business-transformation-architect-sales-service-customer-at-deloitte-4421720148
