@@ -4251,3 +4251,6 @@
 4436600929 | Full Stack Software Engineer (Python & React) | https://in.linkedin.com/jobs/view/full-stack-software-engineer-python-react-at-mitchell-martin-inc-4436600929
 4424935501 | Senior Full Stack Java Developer (REMOTE) | https://in.linkedin.com/jobs/view/senior-full-stack-java-developer-remote-at-charles-river-laboratories-4424935501
 4436640935 | Full Stack Developer (.NET + React + Azure) | https://in.linkedin.com/jobs/view/full-stack-developer-net-%2B-react-%2B-azure-at-zetamicron-4436640935
+4438919717 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-viraaj-hr-solutions-private-limited-4438919717
+4421716315 | Salesforce Devops - Consultant, Managed Services - DFO&I - Customer | https://in.linkedin.com/jobs/view/salesforce-devops-consultant-managed-services-dfo-i-customer-at-deloitte-4421716315
+4438920715 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-viraaj-hr-solutions-private-limited-4438920715
