@@ -4242,3 +4242,12 @@
 4438392723 | Game Developer Java/libGDX - Remote | https://in.linkedin.com/jobs/view/game-developer-java-libgdx-remote-at-yo-it-consulting-4438392723
 4439520454 | Principle Engineer – Java and Cloud (R-19336) | https://in.linkedin.com/jobs/view/principle-engineer-%E2%80%93-java-and-cloud-r-19336-at-dun-bradstreet-4439520454
 4439524818 | Salesforce Engineer II, Service Cloud / Health Cloud- Hyderabad (hybrid) | https://in.linkedin.com/jobs/view/salesforce-engineer-ii-service-cloud-health-cloud-hyderabad-hybrid-at-syneos-health-4439524818
+4436660226 | Senior Specialist - Quality Engineering | https://in.linkedin.com/jobs/view/senior-specialist-quality-engineering-at-ltm-4436660226
+4362143164 | Full Stack Engineer - AI Platform | https://in.linkedin.com/jobs/view/full-stack-engineer-ai-platform-at-teradata-4362143164
+4439521757 | Mulesoft | https://in.linkedin.com/jobs/view/mulesoft-at-tata-consultancy-services-4439521757
+4436642962 | Full Stack Developer (JavaScript, ReactJS, AngularJS, C#) | https://in.linkedin.com/jobs/view/full-stack-developer-javascript-reactjs-angularjs-c%23-at-zetamicron-4436642962
+4436655669 | Full Stack Developer – Hyderabad | 4+ Yrs Experience | React, Angular, C# | https://in.linkedin.com/jobs/view/full-stack-developer-%E2%80%93-hyderabad-4%2B-yrs-experience-react-angular-c%23-at-zetamicron-4436655669
+4436641905 | Full Stack Developer (React + Angular + JavaScript + C#) | https://in.linkedin.com/jobs/view/full-stack-developer-react-%2B-angular-%2B-javascript-%2B-c%23-at-zetamicron-4436641905
+4436600929 | Full Stack Software Engineer (Python & React) | https://in.linkedin.com/jobs/view/full-stack-software-engineer-python-react-at-mitchell-martin-inc-4436600929
+4424935501 | Senior Full Stack Java Developer (REMOTE) | https://in.linkedin.com/jobs/view/senior-full-stack-java-developer-remote-at-charles-river-laboratories-4424935501
+4436640935 | Full Stack Developer (.NET + React + Azure) | https://in.linkedin.com/jobs/view/full-stack-developer-net-%2B-react-%2B-azure-at-zetamicron-4436640935
