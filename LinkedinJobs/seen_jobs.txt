@@ -4289,3 +4289,7 @@
 4410849216 | Engineer, IT EA DHI | https://in.linkedin.com/jobs/view/engineer-it-ea-dhi-at-micron-technology-4410849216
 4438986365 | Salesforce CPQ Developer | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-at-tata-consultancy-services-4438986365
 4438974774 | Senior CRM Data Migration Developer | https://in.linkedin.com/jobs/view/senior-crm-data-migration-developer-at-talentgigs-4438974774
+4438994821 | Python+Spark Scala | https://in.linkedin.com/jobs/view/python%2Bspark-scala-at-infosys-4438994821
+4438985903 | Python Developer | https://in.linkedin.com/jobs/view/python-developer-at-recro-4438985903
+4439103256 | Python, Pyspark Developer | https://in.linkedin.com/jobs/view/python-pyspark-developer-at-infosys-4439103256
+4365272662 | Senior Full Stack Developer | https://in.linkedin.com/jobs/view/senior-full-stack-developer-at-ice-4365272662
