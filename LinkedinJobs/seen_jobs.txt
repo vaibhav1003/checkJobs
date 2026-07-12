@@ -4287,3 +4287,5 @@
 4433370868 | Full Stack Engineer | https://in.linkedin.com/jobs/view/full-stack-engineer-at-mphasis-4433370868
 4402119155 | Senior Software Engineer - Dynamics SL and .NET | https://in.linkedin.com/jobs/view/senior-software-engineer-dynamics-sl-and-net-at-fanatics-4402119155
 4410849216 | Engineer, IT EA DHI | https://in.linkedin.com/jobs/view/engineer-it-ea-dhi-at-micron-technology-4410849216
+4438986365 | Salesforce CPQ Developer | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-at-tata-consultancy-services-4438986365
+4438974774 | Senior CRM Data Migration Developer | https://in.linkedin.com/jobs/view/senior-crm-data-migration-developer-at-talentgigs-4438974774
