@@ -4271,3 +4271,12 @@
 4439572385 | ReactJS Developer | https://in.linkedin.com/jobs/view/reactjs-developer-at-dexaminds-4439572385
 4438951322 | Technical Specialist | https://in.linkedin.com/jobs/view/technical-specialist-at-carrier-4438951322
 4438947446 | Ab Initio Developer | https://in.linkedin.com/jobs/view/ab-initio-developer-at-infosys-4438947446
+4439596235 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4439596235
+4438951837 | Sitecore Engineer | https://in.linkedin.com/jobs/view/sitecore-engineer-at-infosys-4438951837
+4439586499 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4439586499
+4439593341 | DEVELOPER L4 | https://in.linkedin.com/jobs/view/developer-l4-at-wipro-4439593341
+4438966269 | Service Now integration Engineer | https://in.linkedin.com/jobs/view/service-now-integration-engineer-at-infosys-4438966269
+4438962412 | GenAI, Cloud & Backend Development (AWS/Azure, Python, APIs, ServiceNow) | https://in.linkedin.com/jobs/view/genai-cloud-backend-development-aws-azure-python-apis-servicenow-at-infosys-4438962412
+4438970218 | SSIS Developer | https://in.linkedin.com/jobs/view/ssis-developer-at-infosys-4438970218
+4439592346 | TECHNICAL LEAD L1 | https://in.linkedin.com/jobs/view/technical-lead-l1-at-wipro-4439592346
+4439702134 | TECHNICAL LEAD L1 | https://in.linkedin.com/jobs/view/technical-lead-l1-at-wipro-4439702134
