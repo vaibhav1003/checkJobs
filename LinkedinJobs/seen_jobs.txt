@@ -4327,3 +4327,9 @@
 4437619623 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-info-services-4437619623
 4440325219 | Director, Technical Consulting ( Salesforce Experience Mandatory ) | https://in.linkedin.com/jobs/view/director-technical-consulting-salesforce-experience-mandatory-at-salesforce-ad-4440325219
 4440312911 | Staff/ Lead Technical Writer | https://in.linkedin.com/jobs/view/staff-lead-technical-writer-at-salesforce-ad-4440312911
+4437633133 | Application Lead | https://in.linkedin.com/jobs/view/application-lead-at-accenture-in-india-4437633133
+4440082911 | Employee Success Data Engineer - Snowflake | https://in.linkedin.com/jobs/view/employee-success-data-engineer-snowflake-at-salesforce-4440082911
+4440315817 | Employee Success Data Engineer - Snowflake | https://in.linkedin.com/jobs/view/employee-success-data-engineer-snowflake-at-salesforce-ad-4440315817
+4440312664 | Application Engineer - II | https://in.linkedin.com/jobs/view/application-engineer-ii-at-vanguard-4440312664
+4440321274 | Application Engineer - II(AWMT) | https://in.linkedin.com/jobs/view/application-engineer-ii-awmt-at-vanguard-4440321274
+4440315595 | Application Engineer - II(AWMT) | https://in.linkedin.com/jobs/view/application-engineer-ii-awmt-at-vanguard-4440315595
