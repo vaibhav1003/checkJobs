@@ -4293,3 +4293,4 @@
 4438985903 | Python Developer | https://in.linkedin.com/jobs/view/python-developer-at-recro-4438985903
 4439103256 | Python, Pyspark Developer | https://in.linkedin.com/jobs/view/python-pyspark-developer-at-infosys-4439103256
 4365272662 | Senior Full Stack Developer | https://in.linkedin.com/jobs/view/senior-full-stack-developer-at-ice-4365272662
+4439115552 | Game Developer Java/libGDX - Remote | https://in.linkedin.com/jobs/view/game-developer-java-libgdx-remote-at-yo-it-consulting-4439115552
