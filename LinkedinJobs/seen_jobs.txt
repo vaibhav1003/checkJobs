@@ -4313,3 +4313,5 @@
 4438995556 | Java Spring Boot Developer – WES/WMS | https://in.linkedin.com/jobs/view/java-spring-boot-developer-%E2%80%93-wes-wms-at-arnsofttech-4438995556
 4437259275 | Java Full Stack Developer (Angular) – Telecom Domain | https://in.linkedin.com/jobs/view/java-full-stack-developer-angular-%E2%80%93-telecom-domain-at-headway-tek-inc-4437259275
 4439417070 | Senior CRM Data Migration Developer | https://in.linkedin.com/jobs/view/senior-crm-data-migration-developer-at-talentgigs-4439417070
+4439168236 | Technical Specialist-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-specialist-enterprise-apps-at-birlasoft-4439168236
+4440055460 | Full Stack Java Developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-idwteam-4440055460
