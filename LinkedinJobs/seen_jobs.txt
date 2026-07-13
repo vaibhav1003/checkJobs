@@ -4294,3 +4294,6 @@
 4439103256 | Python, Pyspark Developer | https://in.linkedin.com/jobs/view/python-pyspark-developer-at-infosys-4439103256
 4365272662 | Senior Full Stack Developer | https://in.linkedin.com/jobs/view/senior-full-stack-developer-at-ice-4365272662
 4439115552 | Game Developer Java/libGDX - Remote | https://in.linkedin.com/jobs/view/game-developer-java-libgdx-remote-at-yo-it-consulting-4439115552
+4437230982 | Senior Salesforce consultant | https://in.linkedin.com/jobs/view/senior-salesforce-consultant-at-hj-software-private-limited-4437230982
+4439119781 | Senior CRM Data Migration Developer | https://in.linkedin.com/jobs/view/senior-crm-data-migration-developer-at-talentgigs-4439119781
+4437236435 | Technical Architect- Salesforce Job | https://in.linkedin.com/jobs/view/technical-architect-salesforce-job-at-yash-technologies-middle-east-4437236435
