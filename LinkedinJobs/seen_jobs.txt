@@ -4306,3 +4306,10 @@
 4439783357 | Roku Developer | https://in.linkedin.com/jobs/view/roku-developer-at-dazn-india-4439783357
 4439142420 | Full Stack Engineer | https://in.linkedin.com/jobs/view/full-stack-engineer-at-adb-safegate-4439142420
 4439143220 | Chatbot Developer | https://in.linkedin.com/jobs/view/chatbot-developer-at-baseforge-technologies-4439143220
+4439159468 | Technical Specialist-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-specialist-enterprise-apps-at-birlasoft-4439159468
+4439169241 | Functional Specialist-Enterprise Apps | https://in.linkedin.com/jobs/view/functional-specialist-enterprise-apps-at-birlasoft-4439169241
+4437277189 | Java Engineer (Spring Boot) | https://in.linkedin.com/jobs/view/java-engineer-spring-boot-at-jksolutions-consultancy-4437277189
+4440024302 | Salesforce Communications Cloud Architect | https://in.linkedin.com/jobs/view/salesforce-communications-cloud-architect-at-willware-technologies-4440024302
+4438995556 | Java Spring Boot Developer – WES/WMS | https://in.linkedin.com/jobs/view/java-spring-boot-developer-%E2%80%93-wes-wms-at-arnsofttech-4438995556
+4437259275 | Java Full Stack Developer (Angular) – Telecom Domain | https://in.linkedin.com/jobs/view/java-full-stack-developer-angular-%E2%80%93-telecom-domain-at-headway-tek-inc-4437259275
+4439417070 | Senior CRM Data Migration Developer | https://in.linkedin.com/jobs/view/senior-crm-data-migration-developer-at-talentgigs-4439417070
