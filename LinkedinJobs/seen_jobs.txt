@@ -4297,3 +4297,12 @@
 4437230982 | Senior Salesforce consultant | https://in.linkedin.com/jobs/view/senior-salesforce-consultant-at-hj-software-private-limited-4437230982
 4439119781 | Senior CRM Data Migration Developer | https://in.linkedin.com/jobs/view/senior-crm-data-migration-developer-at-talentgigs-4439119781
 4437236435 | Technical Architect- Salesforce Job | https://in.linkedin.com/jobs/view/technical-architect-salesforce-job-at-yash-technologies-middle-east-4437236435
+4437253325 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-digile-4437253325
+4439154234 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-fission-labs-4439154234
+4439780591 | SF ENGINEER (RELEASE/DEPLOYMENTS) | https://in.linkedin.com/jobs/view/sf-engineer-release-deployments-at-pmts-private-limited-4439780591
+4434581230 | SAP Developer (m/f/d) | https://in.linkedin.com/jobs/view/sap-developer-m-f-d-at-basf-4434581230
+4440013049 | Salesforce Functional Consultant - CPQ / RCA | https://in.linkedin.com/jobs/view/salesforce-functional-consultant-cpq-rca-at-osf-digital-4440013049
+4439116959 | Technical Specialist-App Development | https://in.linkedin.com/jobs/view/technical-specialist-app-development-at-birlasoft-4439116959
+4439783357 | Roku Developer | https://in.linkedin.com/jobs/view/roku-developer-at-dazn-india-4439783357
+4439142420 | Full Stack Engineer | https://in.linkedin.com/jobs/view/full-stack-engineer-at-adb-safegate-4439142420
+4439143220 | Chatbot Developer | https://in.linkedin.com/jobs/view/chatbot-developer-at-baseforge-technologies-4439143220
