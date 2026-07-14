@@ -4382,3 +4382,7 @@
 4437695926 | Servicenow Developer | https://in.linkedin.com/jobs/view/servicenow-developer-at-niad-group-4437695926
 4438013148 | Teamcenter Developer | https://in.linkedin.com/jobs/view/teamcenter-developer-at-pepsico-4438013148
 4440837698 | Software Engineer III | https://in.linkedin.com/jobs/view/software-engineer-iii-at-jpmorganchase-4440837698
+4438031265 | Software Developer 2 | https://in.linkedin.com/jobs/view/software-developer-2-at-oracle-4438031265
+4438019256 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-enveda-4438019256
+4439891803 | GIG - Adobe - Experience Manager Frontend Developer | https://in.linkedin.com/jobs/view/gig-adobe-experience-manager-frontend-developer-at-ey-4439891803
+4438017293 | Python Developer | https://in.linkedin.com/jobs/view/python-developer-at-brillius-technologies-4438017293
