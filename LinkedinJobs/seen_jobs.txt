@@ -4341,3 +4341,7 @@
 4439462994 | Technical Specialist-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-specialist-enterprise-apps-at-birlasoft-4439462994
 4440362069 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4440362069
 4440358249 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4440358249
+4439801747 | Senior CRM Data Migration Developer | https://in.linkedin.com/jobs/view/senior-crm-data-migration-developer-at-talentgigs-4439801747
+4439493566 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4439493566
+4439820036 | Salesforce Trainer | https://in.linkedin.com/jobs/view/salesforce-trainer-at-oaktree-edutech-academy-4439820036
+4439491657 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4439491657
