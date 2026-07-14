@@ -4378,3 +4378,7 @@
 4439921076 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infosys-4439921076
 4439878163 | Principal Engineer Java Backend IRC298540 | https://in.linkedin.com/jobs/view/principal-engineer-java-backend-irc298540-at-globallogic-4439878163
 4439870854 | Lead Business Transformation Architect -Sales & Service -Salesforce CPQ Architect | https://in.linkedin.com/jobs/view/lead-business-transformation-architect-sales-service-salesforce-cpq-architect-at-deloitte-4439870854
+4439893153 | Application Engineer - II | https://in.linkedin.com/jobs/view/application-engineer-ii-at-vanguard-india-4439893153
+4437695926 | Servicenow Developer | https://in.linkedin.com/jobs/view/servicenow-developer-at-niad-group-4437695926
+4438013148 | Teamcenter Developer | https://in.linkedin.com/jobs/view/teamcenter-developer-at-pepsico-4438013148
+4440837698 | Software Engineer III | https://in.linkedin.com/jobs/view/software-engineer-iii-at-jpmorganchase-4440837698
