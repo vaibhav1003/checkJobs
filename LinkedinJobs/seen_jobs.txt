@@ -4386,3 +4386,4 @@
 4438019256 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-enveda-4438019256
 4439891803 | GIG - Adobe - Experience Manager Frontend Developer | https://in.linkedin.com/jobs/view/gig-adobe-experience-manager-frontend-developer-at-ey-4439891803
 4438017293 | Python Developer | https://in.linkedin.com/jobs/view/python-developer-at-brillius-technologies-4438017293
+4440835967 | Salesforce Technical Architect (ITSM) | https://in.linkedin.com/jobs/view/salesforce-technical-architect-itsm-at-salesforce-ad-4440835967
