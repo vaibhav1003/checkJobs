@@ -4387,3 +4387,12 @@
 4439891803 | GIG - Adobe - Experience Manager Frontend Developer | https://in.linkedin.com/jobs/view/gig-adobe-experience-manager-frontend-developer-at-ey-4439891803
 4438017293 | Python Developer | https://in.linkedin.com/jobs/view/python-developer-at-brillius-technologies-4438017293
 4440835967 | Salesforce Technical Architect (ITSM) | https://in.linkedin.com/jobs/view/salesforce-technical-architect-itsm-at-salesforce-ad-4440835967
+4438055584 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-birlasoft-4438055584
+4440885097 | DEVELOPER L4 | https://in.linkedin.com/jobs/view/developer-l4-at-wipro-4440885097
+4438052695 | Specialist CRM Software Engineer | https://in.linkedin.com/jobs/view/specialist-crm-software-engineer-at-bioksha-4438052695
+4440862600 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4440862600
+4440875194 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4440875194
+4440863716 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4440863716
+4440881168 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4440881168
+4440874352 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4440874352
+4440866681 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4440866681
