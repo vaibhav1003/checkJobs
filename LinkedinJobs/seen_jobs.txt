@@ -4421,3 +4421,5 @@
 4441203066 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-weekday-ai-yc-w21-4441203066
 4440997704 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-grid-dynamics-4440997704
 4440254229 | Senior Administrator: Amazon Connect and Service Cloud Voice | https://in.linkedin.com/jobs/view/senior-administrator-amazon-connect-and-service-cloud-voice-at-regal-rexnord-4440254229
+4441216900 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-accenture-in-india-4441216900
+4441225616 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-accenture-in-india-4441225616
