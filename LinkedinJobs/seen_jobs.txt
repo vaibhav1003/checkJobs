@@ -4403,3 +4403,9 @@
 4440899298 | Software Engineer III - Java, Appium, Selenium | https://in.linkedin.com/jobs/view/software-engineer-iii-java-appium-selenium-at-jpmorganchase-4440899298
 4440538099 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-luxoft-4440538099
 4326284036 | CRM Developer_Microsoft D365 | https://in.linkedin.com/jobs/view/crm-developer-microsoft-d365-at-mempulse-technologies-private-limited-4326284036
+4440211221 | Technical Specialist-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-specialist-enterprise-apps-at-birlasoft-4440211221
+4440971140 | Vice President of Engineering | https://in.linkedin.com/jobs/view/vice-president-of-engineering-at-forsys-inc-4440971140
+4440926354 | Lead Software Engineer/LMTS - Backend - Distributed Systems - Hyderabad | https://in.linkedin.com/jobs/view/lead-software-engineer-lmts-backend-distributed-systems-hyderabad-at-salesforce-4440926354
+4439976810 | SAP BTP Developer | https://in.linkedin.com/jobs/view/sap-btp-developer-at-ust-4439976810
+4440967038 | Appian Developer | https://in.linkedin.com/jobs/view/appian-developer-at-trufe-4440967038
+4440936788 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-tata-consultancy-services-4440936788
