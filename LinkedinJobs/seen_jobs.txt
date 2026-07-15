@@ -4430,3 +4430,8 @@
 4440243831 | Job Summary | https://in.linkedin.com/jobs/view/job-summary-at-david-s-ad-4440243831
 4441265420 | Software Engineer III - Full Stack | https://in.linkedin.com/jobs/view/software-engineer-iii-full-stack-at-jpmorganchase-4441265420
 4441271444 | Salesforce Senior Technical Manager (Salesforce Technical Architect experience is mandatory) | https://in.linkedin.com/jobs/view/salesforce-senior-technical-manager-salesforce-technical-architect-experience-is-mandatory-at-salesforce-ad-4441271444
+4441264476 | Full stack Engineer, Specialist | https://in.linkedin.com/jobs/view/full-stack-engineer-specialist-at-msd-4441264476
+4440276773 | Full Stack Developer(AWS) | https://in.linkedin.com/jobs/view/full-stack-developer-aws-at-shure-india-4440276773
+4440305939 | Application Engineer - III(AWMT) | https://in.linkedin.com/jobs/view/application-engineer-iii-awmt-at-vanguard-4440305939
+4440264301 | Full Stack Engineer | https://in.linkedin.com/jobs/view/full-stack-engineer-at-insight-global-4440264301
+4427845555 | Software Developer 3, Oracle Health | https://in.linkedin.com/jobs/view/software-developer-3-oracle-health-at-oracle-4427845555
