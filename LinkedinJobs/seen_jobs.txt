@@ -4464,3 +4464,7 @@
 4438724207 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-solenis-4438724207
 4441487568 | Senior CPQ Developer | https://in.linkedin.com/jobs/view/senior-cpq-developer-at-experian-4441487568
 4438718160 | Salesforce Service Cloud Voice Administrator | https://in.linkedin.com/jobs/view/salesforce-service-cloud-voice-administrator-at-green-start-management-consultancy-4438718160
+4441453652 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4441453652
+4437293900 | Java Full stack developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infolance-inc-4437293900
+4441456570 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4441456570
+4438701979 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-mully-technology-4438701979
