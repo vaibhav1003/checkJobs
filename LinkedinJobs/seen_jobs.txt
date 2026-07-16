@@ -4468,3 +4468,4 @@
 4437293900 | Java Full stack developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-infolance-inc-4437293900
 4441456570 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4441456570
 4438701979 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-mully-technology-4438701979
+4441620972 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4441620972
