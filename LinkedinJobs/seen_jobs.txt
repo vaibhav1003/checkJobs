@@ -4479,3 +4479,11 @@
 4441618143 | Product Developer | https://in.linkedin.com/jobs/view/product-developer-at-epicor-4441618143
 4438761157 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-carrier-4438761157
 4441635291 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4441635291
+4441687673 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4441687673
+4440575343 | Application Engineer - II | https://in.linkedin.com/jobs/view/application-engineer-ii-at-vanguard-4440575343
+4441671647 | Snowflake Developer | https://in.linkedin.com/jobs/view/snowflake-developer-at-keyloop-4441671647
+4438744973 | Application Software Engineer 2 | https://in.linkedin.com/jobs/view/application-software-engineer-2-at-oracle-4438744973
+4441692798 | Software Engineer 2 | https://in.linkedin.com/jobs/view/software-engineer-2-at-microsoft-4441692798
+4441125779 | SAS Developer | https://in.linkedin.com/jobs/view/sas-developer-at-infosys-4441125779
+4361458533 | Senior Software Engineer | https://in.linkedin.com/jobs/view/senior-software-engineer-at-inovalon-4361458533
+4441110288 | Full Stack Product Engineer (Internal Tools & Dashboard) | https://in.linkedin.com/jobs/view/full-stack-product-engineer-internal-tools-dashboard-at-quantumcona-4441110288
