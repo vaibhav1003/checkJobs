@@ -4520,3 +4520,9 @@
 4442133629 | Full Stack Engineer | https://in.linkedin.com/jobs/view/full-stack-engineer-at-accenture-in-india-4442133629
 4441353135 | Spark Scala Developer | https://in.linkedin.com/jobs/view/spark-scala-developer-at-infosys-4441353135
 4442127796 | Sr IT Engineer - SAP Commissions Developer | https://in.linkedin.com/jobs/view/sr-it-engineer-sap-commissions-developer-at-honeywell-technologies-4442127796
+4442166680 | Salesforce Technical Manager | https://in.linkedin.com/jobs/view/salesforce-technical-manager-at-salesforce-ad-4442166680
+4442166677 | Salesforce-Senior Technical Architect | https://in.linkedin.com/jobs/view/salesforce-senior-technical-architect-at-salesforce-ad-4442166677
+4441352528 | Senior Software Engineer II - Platform & Integrations (Backend) | https://in.linkedin.com/jobs/view/senior-software-engineer-ii-platform-integrations-backend-at-seismic-4441352528
+4442185004 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-salesforce-ad-4442185004
+4442181319 | Boomi Developer | https://in.linkedin.com/jobs/view/boomi-developer-at-keyloop-4442181319
+4442166676 | SFMC Architect (DC exp also required) | https://in.linkedin.com/jobs/view/sfmc-architect-dc-exp-also-required-at-salesforce-ad-4442166676
