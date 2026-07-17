@@ -4506,3 +4506,7 @@
 4419901885 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4419901885
 4441304059 | Techno-Facts is Hiring Fresher Java Developer | https://in.linkedin.com/jobs/view/techno-facts-is-hiring-fresher-java-developer-at-fresher-door-4441304059
 4441995282 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-weekday-ai-yc-w21-4441995282
+4441322468 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-carrier-4441322468
+4441988335 | Senior Technical Consultant - B2B | https://in.linkedin.com/jobs/view/senior-technical-consultant-b2b-at-salesforce-4441988335
+4441983193 | Principal Software Engineer - Java | https://in.linkedin.com/jobs/view/principal-software-engineer-java-at-entain-india-4441983193
+4432636928 | Principal Engineer (OpenSearch + Java) IRC298286 | https://in.linkedin.com/jobs/view/principal-engineer-opensearch-%2B-java-irc298286-at-globallogic-4432636928
