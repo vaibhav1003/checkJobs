@@ -4487,3 +4487,10 @@
 4441125779 | SAS Developer | https://in.linkedin.com/jobs/view/sas-developer-at-infosys-4441125779
 4361458533 | Senior Software Engineer | https://in.linkedin.com/jobs/view/senior-software-engineer-at-inovalon-4361458533
 4441110288 | Full Stack Product Engineer (Internal Tools & Dashboard) | https://in.linkedin.com/jobs/view/full-stack-product-engineer-internal-tools-dashboard-at-quantumcona-4441110288
+4441157102 | SFDC Agentforce Developer | https://in.linkedin.com/jobs/view/sfdc-agentforce-developer-at-spadtek-solutions-4441157102
+4441935328 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-runmap-infotech-private-ltd-4441935328
+4438786430 | Software Engineer, Senior (Salesforce) | https://in.linkedin.com/jobs/view/software-engineer-senior-salesforce-at-infor-4438786430
+4441151374 | SFDC CRMA Developer | https://in.linkedin.com/jobs/view/sfdc-crma-developer-at-spadtek-solutions-4441151374
+4441147681 | Senior Software Engineer | https://in.linkedin.com/jobs/view/senior-software-engineer-at-talentgigs-4441147681
+4438790233 | Java AWS Developer | https://in.linkedin.com/jobs/view/java-aws-developer-at-coforge-4438790233
+4441931590 | Senior Salesforce CPQ Developer (Revenue Cloud) | https://in.linkedin.com/jobs/view/senior-salesforce-cpq-developer-revenue-cloud-at-srs-consulting-inc-4441931590
