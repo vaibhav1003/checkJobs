@@ -4511,3 +4511,12 @@
 4441983193 | Principal Software Engineer - Java | https://in.linkedin.com/jobs/view/principal-software-engineer-java-at-entain-india-4441983193
 4432636928 | Principal Engineer (OpenSearch + Java) IRC298286 | https://in.linkedin.com/jobs/view/principal-engineer-opensearch-%2B-java-irc298286-at-globallogic-4432636928
 4442159803 | Mobile App Test Automation Engineer (Java, WireMock) | https://in.linkedin.com/jobs/view/mobile-app-test-automation-engineer-java-wiremock-at-sky-systems-inc-skysys-4442159803
+4442136573 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4442136573
+4442125928 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4442125928
+4442135994 | Software Engineering (SMTS / MTS) – Platform Engineering (Distributed Systems & Infrastructure) | https://in.linkedin.com/jobs/view/software-engineering-smts-mts-%E2%80%93-platform-engineering-distributed-systems-infrastructure-at-salesforce-4442135994
+4442183255 | Data Engineering Consultant - Snowflake, Salesforce CRM, SQL, Data Cloud | https://in.linkedin.com/jobs/view/data-engineering-consultant-snowflake-salesforce-crm-sql-data-cloud-at-optum-india-4442183255
+4442176522 | Manager IT | https://in.linkedin.com/jobs/view/manager-it-at-mattel-inc-4442176522
+4441332889 | Servicenow Developer | https://in.linkedin.com/jobs/view/servicenow-developer-at-infosys-4441332889
+4442133629 | Full Stack Engineer | https://in.linkedin.com/jobs/view/full-stack-engineer-at-accenture-in-india-4442133629
+4441353135 | Spark Scala Developer | https://in.linkedin.com/jobs/view/spark-scala-developer-at-infosys-4441353135
+4442127796 | Sr IT Engineer - SAP Commissions Developer | https://in.linkedin.com/jobs/view/sr-it-engineer-sap-commissions-developer-at-honeywell-technologies-4442127796
