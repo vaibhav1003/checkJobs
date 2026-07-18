@@ -4537,3 +4537,7 @@
 4442445468 | Data Engineer II - Databricks, Python/Java, PySpark | https://in.linkedin.com/jobs/view/data-engineer-ii-databricks-python-java-pyspark-at-jpmorganchase-4442445468
 4442434951 | Java Devops AWS Cloud Engineer | https://in.linkedin.com/jobs/view/java-devops-aws-cloud-engineer-at-mphasis-4442434951
 4415073838 | Staff Java Fullstack Developer ( Generative AI and agentic AI) | https://in.linkedin.com/jobs/view/staff-java-fullstack-developer-generative-ai-and-agentic-ai-at-qualcomm-4415073838
+4433893650 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4433893650
+4433897339 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4433897339
+4433894671 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4433894671
+4433884940 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4433884940
