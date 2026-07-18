@@ -4555,3 +4555,9 @@
 4414459959 | Software Development Engineer | https://in.linkedin.com/jobs/view/software-development-engineer-at-sid-global-solutions-4414459959
 4424184010 | Software Engineer 2 | https://in.linkedin.com/jobs/view/software-engineer-2-at-providence-india-4424184010
 4442482253 | SDE II, Amazon Exports and Expansions | https://in.linkedin.com/jobs/view/sde-ii-amazon-exports-and-expansions-at-amazon-4442482253
+4441736799 | IT Consulting | https://in.linkedin.com/jobs/view/it-consulting-at-infosys-4441736799
+4441743376 | Python Developer | https://in.linkedin.com/jobs/view/python-developer-at-infosys-4441743376
+4441747416 | SAS Developer | https://in.linkedin.com/jobs/view/sas-developer-at-infosys-4441747416
+4441738663 | SSIS Developer | https://in.linkedin.com/jobs/view/ssis-developer-at-infosys-4441738663
+4442479326 | Software Engineer, Infrastructure | https://in.linkedin.com/jobs/view/software-engineer-infrastructure-at-ossums-4442479326
+4414706701 | Software engineer II | https://in.linkedin.com/jobs/view/software-engineer-ii-at-cadence-4414706701
