@@ -4536,3 +4536,4 @@
 4439602429 | .NET Full Stack Developer - Kafka | https://in.linkedin.com/jobs/view/net-full-stack-developer-kafka-at-coforge-4439602429
 4442445468 | Data Engineer II - Databricks, Python/Java, PySpark | https://in.linkedin.com/jobs/view/data-engineer-ii-databricks-python-java-pyspark-at-jpmorganchase-4442445468
 4442434951 | Java Devops AWS Cloud Engineer | https://in.linkedin.com/jobs/view/java-devops-aws-cloud-engineer-at-mphasis-4442434951
+4415073838 | Staff Java Fullstack Developer ( Generative AI and agentic AI) | https://in.linkedin.com/jobs/view/staff-java-fullstack-developer-generative-ai-and-agentic-ai-at-qualcomm-4415073838
