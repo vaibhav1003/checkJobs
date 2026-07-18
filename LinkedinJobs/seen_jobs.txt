@@ -4534,3 +4534,5 @@
 4441392262 | .Net Core Senior Developer | https://in.linkedin.com/jobs/view/net-core-senior-developer-at-infosys-4441392262
 4439291582 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-nexifyr-4439291582
 4439602429 | .NET Full Stack Developer - Kafka | https://in.linkedin.com/jobs/view/net-full-stack-developer-kafka-at-coforge-4439602429
+4442445468 | Data Engineer II - Databricks, Python/Java, PySpark | https://in.linkedin.com/jobs/view/data-engineer-ii-databricks-python-java-pyspark-at-jpmorganchase-4442445468
+4442434951 | Java Devops AWS Cloud Engineer | https://in.linkedin.com/jobs/view/java-devops-aws-cloud-engineer-at-mphasis-4442434951
