@@ -4527,3 +4527,8 @@
 4442181319 | Boomi Developer | https://in.linkedin.com/jobs/view/boomi-developer-at-keyloop-4442181319
 4442166676 | SFMC Architect (DC exp also required) | https://in.linkedin.com/jobs/view/sfmc-architect-dc-exp-also-required-at-salesforce-ad-4442166676
 4442134878 | Software Engineer 2 | https://in.linkedin.com/jobs/view/software-engineer-2-at-microsoft-4442134878
+4442402672 | Technical Architect - Data Cloud | https://in.linkedin.com/jobs/view/technical-architect-data-cloud-at-salesforce-4442402672
+4441392226 | SFDC Test Engineer | https://in.linkedin.com/jobs/view/sfdc-test-engineer-at-infosys-4441392226
+4441380598 | Full Stack Developer Role | https://in.linkedin.com/jobs/view/full-stack-developer-role-at-techdome-4441380598
+4442405021 | System Dev Engineer, Engineering & IT | https://in.linkedin.com/jobs/view/system-dev-engineer-engineering-it-at-amazon-4442405021
+4441392262 | .Net Core Senior Developer | https://in.linkedin.com/jobs/view/net-core-senior-developer-at-infosys-4441392262
