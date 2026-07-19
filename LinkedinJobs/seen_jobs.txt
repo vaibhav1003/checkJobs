@@ -4576,3 +4576,8 @@
 4441793068 | JAVA BigQuery FullStack Developer with Google Cloud and DevOps | https://in.linkedin.com/jobs/view/java-bigquery-fullstack-developer-with-google-cloud-and-devops-at-tata-consultancy-services-4441793068
 4441789316 | Sales Analyst | https://in.linkedin.com/jobs/view/sales-analyst-at-nextpower-4441789316
 4441775913 | Sales Analyst | https://in.linkedin.com/jobs/view/sales-analyst-at-nextpower-4441775913
+4441790399 | Servicenow Developer | https://in.linkedin.com/jobs/view/servicenow-developer-at-infosys-4441790399
+4441785557 | Fullstack Developer | https://in.linkedin.com/jobs/view/fullstack-developer-at-infosys-4441785557
+4415359671 | Consultant - Apps Full Stack Engineer A2 | https://in.linkedin.com/jobs/view/consultant-apps-full-stack-engineer-a2-at-microsoft-4415359671
+4441776761 | Application Engineer - II | https://in.linkedin.com/jobs/view/application-engineer-ii-at-vanguard-india-4441776761
+4441784609 | SSIS Developer | https://in.linkedin.com/jobs/view/ssis-developer-at-infosys-4441784609
