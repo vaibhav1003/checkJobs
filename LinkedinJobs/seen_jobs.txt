@@ -4572,3 +4572,5 @@
 4402822988 | CX Business Analyst | https://in.linkedin.com/jobs/view/cx-business-analyst-at-ghx-4402822988
 4439092242 | Web Engineer II, API Developer Portal (L09) | https://in.linkedin.com/jobs/view/web-engineer-ii-api-developer-portal-l09-at-synchrony-4439092242
 4384874949 | Software Dev Engineer, Ship With Amazon, Ship With Amazon | https://in.linkedin.com/jobs/view/software-dev-engineer-ship-with-amazon-ship-with-amazon-at-amazon-4384874949
+4441785379 | Java big query full stack Developer | https://in.linkedin.com/jobs/view/java-big-query-full-stack-developer-at-tata-consultancy-services-4441785379
+4441793068 | JAVA BigQuery FullStack Developer with Google Cloud and DevOps | https://in.linkedin.com/jobs/view/java-bigquery-fullstack-developer-with-google-cloud-and-devops-at-tata-consultancy-services-4441793068
