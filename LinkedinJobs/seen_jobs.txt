@@ -4562,3 +4562,4 @@
 4442479326 | Software Engineer, Infrastructure | https://in.linkedin.com/jobs/view/software-engineer-infrastructure-at-ossums-4442479326
 4414706701 | Software engineer II | https://in.linkedin.com/jobs/view/software-engineer-ii-at-cadence-4414706701
 4439642348 | Java Developer - Elastic Search | https://in.linkedin.com/jobs/view/java-developer-elastic-search-at-mully-technology-4439642348
+4439670524 | Associate JAVA Developer | https://in.linkedin.com/jobs/view/associate-java-developer-at-hexaknox-innovation-labs-4439670524
