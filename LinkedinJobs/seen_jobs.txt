@@ -4600,3 +4600,9 @@
 4442024374 | Salesforce Administrator (Immediate Joiner) | https://in.linkedin.com/jobs/view/salesforce-administrator-immediate-joiner-at-katzion-a-globallogic-company-4442024374
 4442022483 | Onbase Developer | https://in.linkedin.com/jobs/view/onbase-developer-at-coforge-4442022483
 4442028275 | SFDC Omni Studio Developer | https://in.linkedin.com/jobs/view/sfdc-omni-studio-developer-at-spadtek-solutions-4442028275
+4442596741 | Senior Software Engineer I - Salesforce [T500-27718] | https://in.linkedin.com/jobs/view/senior-software-engineer-i-salesforce-t500-27718-at-marriott-tech-accelerator-4442596741
+4442706169 | Senior Software Engineer II - Salesforce [T500-27717] | https://in.linkedin.com/jobs/view/senior-software-engineer-ii-salesforce-t500-27717-at-marriott-tech-accelerator-4442706169
+4442593787 | Engineering Manager - Salesforce [T500-27716] | https://in.linkedin.com/jobs/view/engineering-manager-salesforce-t500-27716-at-marriott-tech-accelerator-4442593787
+4442028606 | Commercial Run Tech Lead | https://in.linkedin.com/jobs/view/commercial-run-tech-lead-at-l-or%C3%A9al-4442028606
+4442580996 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-metlife-4442580996
+4442038458 | Technical Specialist-App Development | https://in.linkedin.com/jobs/view/technical-specialist-app-development-at-birlasoft-4442038458
