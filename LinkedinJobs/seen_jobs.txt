@@ -4608,3 +4608,5 @@
 4442038458 | Technical Specialist-App Development | https://in.linkedin.com/jobs/view/technical-specialist-app-development-at-birlasoft-4442038458
 4442713527 | Senior Manager, Software Engineering | https://in.linkedin.com/jobs/view/senior-manager-software-engineering-at-salesforce-4442713527
 4442075315 | Solution Architect (Cloud | AI | Data | Salesforce | SaaS) | https://in.linkedin.com/jobs/view/solution-architect-cloud-ai-data-salesforce-saas-at-p99soft-4442075315
+4434717291 | Technical Support Engineer, Senior 1 (Java) | https://in.linkedin.com/jobs/view/technical-support-engineer-senior-1-java-at-progress-software-4434717291
+4442089991 | Senior Data Integration Architect / Engineer | https://in.linkedin.com/jobs/view/senior-data-integration-architect-engineer-at-edubloom-talent-solutions-4442089991
