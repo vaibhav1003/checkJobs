@@ -4617,3 +4617,5 @@
 4442793781 | Software Engineer III | https://in.linkedin.com/jobs/view/software-engineer-iii-at-jpmorganchase-4442793781
 4442785824 | ServiceNow Developer/Administrator | https://in.linkedin.com/jobs/view/servicenow-developer-administrator-at-datavail-4442785824
 4442219159 | Senior - Software Engineer | https://in.linkedin.com/jobs/view/senior-software-engineer-at-hca-healthcare-india-4442219159
+4442242104 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-insight-global-4442242104
+4443020132 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-exatech-inc-4443020132
