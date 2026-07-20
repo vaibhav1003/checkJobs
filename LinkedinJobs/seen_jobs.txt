@@ -4589,3 +4589,10 @@
 4442546664 | Application Engineer - III | https://in.linkedin.com/jobs/view/application-engineer-iii-at-vanguard-4442546664
 4439681942 | Java Developer - ELK Stack | https://in.linkedin.com/jobs/view/java-developer-elk-stack-at-mully-technology-4439681942
 4442001412 | .Net+React JS Senior Developer | https://in.linkedin.com/jobs/view/net%2Breact-js-senior-developer-at-infosys-4442001412
+4442583065 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4442583065
+4442019072 | SFDC Agentforce Developer | https://in.linkedin.com/jobs/view/sfdc-agentforce-developer-at-spadtek-solutions-4442019072
+4441798973 | SFDC CRMA Developer | https://in.linkedin.com/jobs/view/sfdc-crma-developer-at-spadtek-solutions-4441798973
+4442581117 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4442581117
+4442564891 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4442564891
+4438203256 | ServiceNow Developer | https://in.linkedin.com/jobs/view/servicenow-developer-at-chubb-4438203256
+4442570711 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4442570711
