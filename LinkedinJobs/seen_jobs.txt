@@ -4606,3 +4606,5 @@
 4442028606 | Commercial Run Tech Lead | https://in.linkedin.com/jobs/view/commercial-run-tech-lead-at-l-or%C3%A9al-4442028606
 4442580996 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-metlife-4442580996
 4442038458 | Technical Specialist-App Development | https://in.linkedin.com/jobs/view/technical-specialist-app-development-at-birlasoft-4442038458
+4442713527 | Senior Manager, Software Engineering | https://in.linkedin.com/jobs/view/senior-manager-software-engineering-at-salesforce-4442713527
+4442075315 | Solution Architect (Cloud | AI | Data | Salesforce | SaaS) | https://in.linkedin.com/jobs/view/solution-architect-cloud-ai-data-salesforce-saas-at-p99soft-4442075315
