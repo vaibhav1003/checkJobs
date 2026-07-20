@@ -4582,3 +4582,10 @@
 4441776761 | Application Engineer - II | https://in.linkedin.com/jobs/view/application-engineer-ii-at-vanguard-india-4441776761
 4441784609 | SSIS Developer | https://in.linkedin.com/jobs/view/ssis-developer-at-infosys-4441784609
 4442556078 | Application Engineer - II | https://in.linkedin.com/jobs/view/application-engineer-ii-at-vanguard-4442556078
+4441790914 | SFCC full stack developer | https://in.linkedin.com/jobs/view/sfcc-full-stack-developer-at-infosys-4441790914
+4442012111 | Sales and Marketing Specialist | https://in.linkedin.com/jobs/view/sales-and-marketing-specialist-at-briefingiq-4442012111
+4441796682 | IT Consulting | https://in.linkedin.com/jobs/view/it-consulting-at-infosys-4441796682
+4442550667 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4442550667
+4442546664 | Application Engineer - III | https://in.linkedin.com/jobs/view/application-engineer-iii-at-vanguard-4442546664
+4439681942 | Java Developer - ELK Stack | https://in.linkedin.com/jobs/view/java-developer-elk-stack-at-mully-technology-4439681942
+4442001412 | .Net+React JS Senior Developer | https://in.linkedin.com/jobs/view/net%2Breact-js-senior-developer-at-infosys-4442001412
