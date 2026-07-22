@@ -4670,3 +4670,10 @@
 4442971066 | SFDC CRMA Developer | https://in.linkedin.com/jobs/view/sfdc-crma-developer-at-spadtek-solutions-4442971066
 4442909925 | Solutions Consultant | https://in.linkedin.com/jobs/view/solutions-consultant-at-zuddl-4442909925
 4443599459 | Software Development Engineer, Amazon | https://in.linkedin.com/jobs/view/software-development-engineer-amazon-at-amazon-4443599459
+4443734133 | Software Engineer III - Java, AWS, Kafka | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-kafka-at-jpmorganchase-4443734133
+4443737783 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-exatech-inc-4443737783
+4443109001 | Salesforce Manager/Senior Technical Manager (Salesforce Technical Architect experience is mandatory) | https://in.linkedin.com/jobs/view/salesforce-manager-senior-technical-manager-salesforce-technical-architect-experience-is-mandatory-at-salesforce-4443109001
+4443744920 | Salesforce Engineer | https://in.linkedin.com/jobs/view/salesforce-engineer-at-ic-4443744920
+4443752716 | MS Dynamics CRM Developer | https://in.linkedin.com/jobs/view/ms-dynamics-crm-developer-at-vysystems-4443752716
+4443759341 | CRM Application Developer (In-House Systems) | https://in.linkedin.com/jobs/view/crm-application-developer-in-house-systems-at-graystone-capital-4443759341
+4442958993 | JAVA Big Query Full Stack Developer with Google Cloud and DevOps | https://in.linkedin.com/jobs/view/java-big-query-full-stack-developer-with-google-cloud-and-devops-at-tata-consultancy-services-4442958993
