@@ -4692,3 +4692,6 @@
 4431930440 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4431930440
 4441062247 | Salesforce Omnistudio Developer - Senior Associate | https://in.linkedin.com/jobs/view/salesforce-omnistudio-developer-senior-associate-at-pwc-acceleration-center-india-4441062247
 4441056478 | Salesforce Revenue Cloud- Sr. Associate | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-sr-associate-at-pwc-acceleration-center-india-4441056478
+4443916668 | Java React Fullstack Developer | https://in.linkedin.com/jobs/view/java-react-fullstack-developer-at-mphasis-4443916668
+4443934391 | Java AWS Developer-HYD | https://in.linkedin.com/jobs/view/java-aws-developer-hyd-at-mphasis-4443934391
+4443921750 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-viamagus-4443921750
