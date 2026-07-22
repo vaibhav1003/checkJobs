@@ -4661,3 +4661,12 @@
 4443536991 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4443536991
 4443550481 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4443550481
 4443587154 | Senior Manager, Software Engineering | https://in.linkedin.com/jobs/view/senior-manager-software-engineering-at-salesforce-ad-4443587154
+4442932143 | Servicenow Developer | https://in.linkedin.com/jobs/view/servicenow-developer-at-infosys-4442932143
+4442970091 | SFDC Agentforce Developer | https://in.linkedin.com/jobs/view/sfdc-agentforce-developer-at-spadtek-solutions-4442970091
+4442970123 | SFDC Omni Studio Developer | https://in.linkedin.com/jobs/view/sfdc-omni-studio-developer-at-spadtek-solutions-4442970123
+4442920551 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-intellectt-inc-4442920551
+4443707035 | Software Development Engineer , Concessions Tech | https://in.linkedin.com/jobs/view/software-development-engineer-concessions-tech-at-amazon-4443707035
+4443595526 | Software Development Engineer , Concessions Tech | https://in.linkedin.com/jobs/view/software-development-engineer-concessions-tech-at-amazon-4443595526
+4442971066 | SFDC CRMA Developer | https://in.linkedin.com/jobs/view/sfdc-crma-developer-at-spadtek-solutions-4442971066
+4442909925 | Solutions Consultant | https://in.linkedin.com/jobs/view/solutions-consultant-at-zuddl-4442909925
+4443599459 | Software Development Engineer, Amazon | https://in.linkedin.com/jobs/view/software-development-engineer-amazon-at-amazon-4443599459
