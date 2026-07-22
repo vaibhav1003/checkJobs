@@ -4677,3 +4677,10 @@
 4443752716 | MS Dynamics CRM Developer | https://in.linkedin.com/jobs/view/ms-dynamics-crm-developer-at-vysystems-4443752716
 4443759341 | CRM Application Developer (In-House Systems) | https://in.linkedin.com/jobs/view/crm-application-developer-in-house-systems-at-graystone-capital-4443759341
 4442958993 | JAVA Big Query Full Stack Developer with Google Cloud and DevOps | https://in.linkedin.com/jobs/view/java-big-query-full-stack-developer-with-google-cloud-and-devops-at-tata-consultancy-services-4442958993
+4443113406 | Salesforce Service Cloud Voice Developer | https://in.linkedin.com/jobs/view/salesforce-service-cloud-voice-developer-at-tata-consultancy-services-4443113406
+4443902049 | Senior Developer | https://in.linkedin.com/jobs/view/senior-developer-at-guidehouse-4443902049
+4443787480 | Lead Developer | https://in.linkedin.com/jobs/view/lead-developer-at-guidehouse-4443787480
+4441018778 | Salesforce Revenue Cloud QA- Sr. Associate | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-qa-sr-associate-at-pwc-acceleration-center-india-4441018778
+4441030294 | Salesforce Revenue Cloud QA- Sr. Associate | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-qa-sr-associate-at-pwc-acceleration-center-india-4441030294
+4443127471 | Technical Specialist-App Development | https://in.linkedin.com/jobs/view/technical-specialist-app-development-at-birlasoft-4443127471
+4441037008 | Power Automate Developer | https://in.linkedin.com/jobs/view/power-automate-developer-at-coforge-4441037008
