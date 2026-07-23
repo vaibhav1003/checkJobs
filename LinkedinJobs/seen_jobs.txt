@@ -4740,3 +4740,5 @@
 4443844534 | AWS Engineer with Java and React -7 yrs (Gurgoan ,Noida, Hyderabad) | https://in.linkedin.com/jobs/view/aws-engineer-with-java-and-react-7-yrs-gurgoan-noida-hyderabad-at-funic-tech-4443844534
 4443870123 | Salesforce CRM Specialist | https://in.linkedin.com/jobs/view/salesforce-crm-specialist-at-appzime-technologies-4443870123
 4444430248 | Senior Salesforce CPQ Techno Functional Consultant | https://in.linkedin.com/jobs/view/senior-salesforce-cpq-techno-functional-consultant-at-resource-informatics-group-inc-4444430248
+4443866984 | Senior Software Engineer | https://in.linkedin.com/jobs/view/senior-software-engineer-at-principal-financial-group-4443866984
+4444466863 | Salesforce Business Analyst | https://in.linkedin.com/jobs/view/salesforce-business-analyst-at-hitachi-vantara-4444466863
