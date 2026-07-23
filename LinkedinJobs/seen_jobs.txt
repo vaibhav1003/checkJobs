@@ -4714,3 +4714,8 @@
 4444227659 | Java Back End Developer - Elastic Search | https://in.linkedin.com/jobs/view/java-back-end-developer-elastic-search-at-mully-technology-4444227659
 4444218307 | Salesforce- Technical Architect/ Senior Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-senior-technical-architect-at-salesforce-ad-4444218307
 4444218309 | Senior Technical Consultant | https://in.linkedin.com/jobs/view/senior-technical-consultant-at-salesforce-ad-4444218309
+4443467784 | SFDC Omni Studio Developer | https://in.linkedin.com/jobs/view/sfdc-omni-studio-developer-at-spadtek-solutions-4443467784
+4444263967 | Java Integration Developer with Salesforce | https://in.linkedin.com/jobs/view/java-integration-developer-with-salesforce-at-valethi-technologies-4444263967
+4444249852 | Software Engineer III-Java AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-java-aws-at-jpmorganchase-4444249852
+4444282075 | Java  Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-ftprotech-4444282075
+4444280401 | Boomi Integration Architect | https://in.linkedin.com/jobs/view/boomi-integration-architect-at-quadric-it-4444280401
