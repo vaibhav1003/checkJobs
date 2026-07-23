@@ -4747,3 +4747,11 @@
 4444497411 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4444497411
 4444711029 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4444711029
 4444473456 | Salesforce Operations & Data Quality Specialist | https://in.linkedin.com/jobs/view/salesforce-operations-data-quality-specialist-at-inry-4444473456
+4444477623 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4444477623
+4444478602 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4444478602
+4444722802 | Software Engineer III - Java Backend | https://in.linkedin.com/jobs/view/software-engineer-iii-java-backend-at-jpmorganchase-4444722802
+4444476514 | Senior AI Software Development Engineer | https://in.linkedin.com/jobs/view/senior-ai-software-development-engineer-at-f5-4444476514
+4444470756 | Senior AI Software Development Engineer | https://in.linkedin.com/jobs/view/senior-ai-software-development-engineer-at-f5-4444470756
+4444470757 | Senior AI Software Development Engineer | https://in.linkedin.com/jobs/view/senior-ai-software-development-engineer-at-f5-4444470757
+4444472768 | Principal AI Software Development Engineer | https://in.linkedin.com/jobs/view/principal-ai-software-development-engineer-at-f5-4444472768
+4444709134 | AI Transformation Practitioner | https://in.linkedin.com/jobs/view/ai-transformation-practitioner-at-accenture-in-india-4444709134
