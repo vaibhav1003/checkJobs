@@ -4710,3 +4710,7 @@
 4442720937 | Application Engineer - III | https://in.linkedin.com/jobs/view/application-engineer-iii-at-vanguard-4442720937
 4442726551 | Application Engineer - II PI Tech Core - Tax Form and Delivery | https://in.linkedin.com/jobs/view/application-engineer-ii-pi-tech-core-tax-form-and-delivery-at-vanguard-4442726551
 4441066651 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-brillius-technologies-4441066651
+4443470090 | Sr. Consultant - Salesforce Job | https://in.linkedin.com/jobs/view/sr-consultant-salesforce-job-at-yash-technologies-middle-east-4443470090
+4444227659 | Java Back End Developer - Elastic Search | https://in.linkedin.com/jobs/view/java-back-end-developer-elastic-search-at-mully-technology-4444227659
+4444218307 | Salesforce- Technical Architect/ Senior Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-senior-technical-architect-at-salesforce-ad-4444218307
+4444218309 | Senior Technical Consultant | https://in.linkedin.com/jobs/view/senior-technical-consultant-at-salesforce-ad-4444218309
