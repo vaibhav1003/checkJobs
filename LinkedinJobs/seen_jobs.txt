@@ -4737,3 +4737,6 @@
 4444442196 | Product Owner - Salesforce [T500-27814] | https://in.linkedin.com/jobs/view/product-owner-salesforce-t500-27814-at-tmus-global-solutions-4444442196
 4432389052 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4432389052
 4435053848 | Technical Specialist-App Development | https://in.linkedin.com/jobs/view/technical-specialist-app-development-at-birlasoft-4435053848
+4443844534 | AWS Engineer with Java and React -7 yrs (Gurgoan ,Noida, Hyderabad) | https://in.linkedin.com/jobs/view/aws-engineer-with-java-and-react-7-yrs-gurgoan-noida-hyderabad-at-funic-tech-4443844534
+4443870123 | Salesforce CRM Specialist | https://in.linkedin.com/jobs/view/salesforce-crm-specialist-at-appzime-technologies-4443870123
+4444430248 | Senior Salesforce CPQ Techno Functional Consultant | https://in.linkedin.com/jobs/view/senior-salesforce-cpq-techno-functional-consultant-at-resource-informatics-group-inc-4444430248
