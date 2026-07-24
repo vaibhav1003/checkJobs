@@ -4794,3 +4794,13 @@
 4444383096 | Salesforce Developer-Senior Analyst- Hyderabad | https://in.linkedin.com/jobs/view/salesforce-developer-senior-analyst-hyderabad-at-deloitte-4444383096
 4445201410 | Software Engineer II - Java, Spring Boot, Rest APIs, Microservices, SQL | https://in.linkedin.com/jobs/view/software-engineer-ii-java-spring-boot-rest-apis-microservices-sql-at-blue-yonder-4445201410
 4441843081 | Specialist Applications Development - Java Developer, microservices, spring boot, Kafka, Any database-MongoDB, Cassandra, Postgres | https://in.linkedin.com/jobs/view/specialist-applications-development-java-developer-microservices-spring-boot-kafka-any-database-mongodb-cassandra-postgres-at-at-t-4441843081
+4445235617 | Software Engineer III - Salesforce Testing | https://in.linkedin.com/jobs/view/software-engineer-iii-salesforce-testing-at-jpmorganchase-4445235617
+4445207473 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4445207473
+4445205583 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4445205583
+4444995896 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4444995896
+4444988853 | Hyperautomation Fullstack Developer | https://in.linkedin.com/jobs/view/hyperautomation-fullstack-developer-at-sanofi-4444988853
+4445228846 | Pega Developer | https://in.linkedin.com/jobs/view/pega-developer-at-cgi-4445228846
+4445208457 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4445208457
+4445211278 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4445211278
+4444996923 | Full Stack Engineer | https://in.linkedin.com/jobs/view/full-stack-engineer-at-accenture-in-india-4444996923
+4445216031 | Full Stack Engineer | https://in.linkedin.com/jobs/view/full-stack-engineer-at-accenture-in-india-4445216031
