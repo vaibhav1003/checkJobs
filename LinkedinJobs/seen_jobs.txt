@@ -4770,3 +4770,12 @@
 4444733802 | Software Engineer Data Analytics | https://in.linkedin.com/jobs/view/software-engineer-data-analytics-at-mattel-inc-4444733802
 4444306122 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4444306122
 4444760450 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4444760450
+4444306704 | MTS/SMTS/LMTS - Software Engineer | https://in.linkedin.com/jobs/view/mts-smts-lmts-software-engineer-at-salesforce-4444306704
+4394446816 | Software Development Engineer II | https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-nxtwave-4394446816
+4444093883 | Devops Engineer - MTS/SMTS | https://in.linkedin.com/jobs/view/devops-engineer-mts-smts-at-salesforce-4444093883
+4444917316 | Service NOW HRSD Developer | https://in.linkedin.com/jobs/view/service-now-hrsd-developer-at-alignity-4444917316
+4444912912 | DEVELOPER L4 | https://in.linkedin.com/jobs/view/developer-l4-at-wipro-4444912912
+4444922098 | ServiceNow Developer - ITAM, CMDB & Integrations | https://in.linkedin.com/jobs/view/servicenow-developer-itam-cmdb-integrations-at-alignity-4444922098
+4444088242 | SFDC CRMA Developer | https://in.linkedin.com/jobs/view/sfdc-crma-developer-at-spadtek-solutions-4444088242
+4444083355 | Software Engineer- Java | https://in.linkedin.com/jobs/view/software-engineer-java-at-optum-india-4444083355
+4444927437 | Assoc IT Developer | https://in.linkedin.com/jobs/view/assoc-it-developer-at-medtronic-4444927437
