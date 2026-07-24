@@ -4793,3 +4793,4 @@
 4436390230 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4436390230
 4444383096 | Salesforce Developer-Senior Analyst- Hyderabad | https://in.linkedin.com/jobs/view/salesforce-developer-senior-analyst-hyderabad-at-deloitte-4444383096
 4445201410 | Software Engineer II - Java, Spring Boot, Rest APIs, Microservices, SQL | https://in.linkedin.com/jobs/view/software-engineer-ii-java-spring-boot-rest-apis-microservices-sql-at-blue-yonder-4445201410
+4441843081 | Specialist Applications Development - Java Developer, microservices, spring boot, Kafka, Any database-MongoDB, Cassandra, Postgres | https://in.linkedin.com/jobs/view/specialist-applications-development-java-developer-microservices-spring-boot-kafka-any-database-mongodb-cassandra-postgres-at-at-t-4441843081
