@@ -4840,3 +4840,4 @@
 4407319689 | Software Engineer II | https://in.linkedin.com/jobs/view/software-engineer-ii-at-pdi-technologies-4407319689
 4445337502 | Sr Associate Software Engineer | https://in.linkedin.com/jobs/view/sr-associate-software-engineer-at-amgen-4445337502
 4348103197 | Full Stack Engineer III | https://in.linkedin.com/jobs/view/full-stack-engineer-iii-at-astreya-4348103197
+4445340586 | Senior Full Stack Engineer | https://in.linkedin.com/jobs/view/senior-full-stack-engineer-at-charles-schwab-4445340586
