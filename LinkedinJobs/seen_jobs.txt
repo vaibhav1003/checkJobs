@@ -4829,3 +4829,7 @@
 4436769579 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4436769579
 4436765866 | Application Support Engineer | https://in.linkedin.com/jobs/view/application-support-engineer-at-accenture-in-india-4436765866
 4436777486 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4436777486
+4445348448 | Salesforce Sales &Service Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-sales-service-cloud-developer-at-databeat-4445348448
+4445351279 | Salesforce Sales &Service Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-sales-service-cloud-developer-at-databeat-io-media-4445351279
+4445351268 | Salesforce Sales & Service Cloud Functional Consultant | https://in.linkedin.com/jobs/view/salesforce-sales-service-cloud-functional-consultant-at-databeat-4445351268
+4445345523 | Salesforce Sales & Service Cloud Functional Consultant | https://in.linkedin.com/jobs/view/salesforce-sales-service-cloud-functional-consultant-at-databeat-io-media-4445345523
