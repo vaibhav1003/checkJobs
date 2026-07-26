@@ -4846,3 +4846,7 @@
 4444811549 | Python+ETL+Pyspark | https://in.linkedin.com/jobs/view/python%2Betl%2Bpyspark-at-infosys-4444811549
 4444801783 | Software Engineer III - (Java  ,Python) | https://in.linkedin.com/jobs/view/software-engineer-iii-java-python-at-hackajob-4444801783
 4444698748 | Software Engineer III - Java | https://in.linkedin.com/jobs/view/software-engineer-iii-java-at-hackajob-4444698748
+4416939338 | Lead User Experience Designer | https://in.linkedin.com/jobs/view/lead-user-experience-designer-at-salesforce-4416939338
+4414791676 | Full Stack Developer | https://in.linkedin.com/jobs/view/full-stack-developer-at-align-technology-4414791676
+4444846024 | Databricks Engineer | https://in.linkedin.com/jobs/view/databricks-engineer-at-tata-consultancy-services-4444846024
+4444843216 | Software Engineer III - Big Data | https://in.linkedin.com/jobs/view/software-engineer-iii-big-data-at-hackajob-4444843216
