@@ -4844,3 +4844,5 @@
 4442354459 | Sr. Salesforce Developer/DataCloud Expert/TechLead/Architect | https://in.linkedin.com/jobs/view/sr-salesforce-developer-datacloud-expert-techlead-architect-at-sid-information-technologies-4442354459
 4444699803 | Software Engineer II - Big Data | https://in.linkedin.com/jobs/view/software-engineer-ii-big-data-at-hackajob-4444699803
 4444811549 | Python+ETL+Pyspark | https://in.linkedin.com/jobs/view/python%2Betl%2Bpyspark-at-infosys-4444811549
+4444801783 | Software Engineer III - (Java  ,Python) | https://in.linkedin.com/jobs/view/software-engineer-iii-java-python-at-hackajob-4444801783
+4444698748 | Software Engineer III - Java | https://in.linkedin.com/jobs/view/software-engineer-iii-java-at-hackajob-4444698748
