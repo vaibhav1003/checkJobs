@@ -4841,3 +4841,6 @@
 4445337502 | Sr Associate Software Engineer | https://in.linkedin.com/jobs/view/sr-associate-software-engineer-at-amgen-4445337502
 4348103197 | Full Stack Engineer III | https://in.linkedin.com/jobs/view/full-stack-engineer-iii-at-astreya-4348103197
 4445340586 | Senior Full Stack Engineer | https://in.linkedin.com/jobs/view/senior-full-stack-engineer-at-charles-schwab-4445340586
+4442354459 | Sr. Salesforce Developer/DataCloud Expert/TechLead/Architect | https://in.linkedin.com/jobs/view/sr-salesforce-developer-datacloud-expert-techlead-architect-at-sid-information-technologies-4442354459
+4444699803 | Software Engineer II - Big Data | https://in.linkedin.com/jobs/view/software-engineer-ii-big-data-at-hackajob-4444699803
+4444811549 | Python+ETL+Pyspark | https://in.linkedin.com/jobs/view/python%2Betl%2Bpyspark-at-infosys-4444811549
