@@ -4851,3 +4851,6 @@
 4444846024 | Databricks Engineer | https://in.linkedin.com/jobs/view/databricks-engineer-at-tata-consultancy-services-4444846024
 4444843216 | Software Engineer III - Big Data | https://in.linkedin.com/jobs/view/software-engineer-iii-big-data-at-hackajob-4444843216
 4444842366 | Software Engineer, Infrastructure | https://in.linkedin.com/jobs/view/software-engineer-infrastructure-at-banking-top-4444842366
+4425322337 | Senior Analyst - Marketing Platform Operations | https://in.linkedin.com/jobs/view/senior-analyst-marketing-platform-operations-at-novartis-india-4425322337
+4445606539 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-undocked-4445606539
+4387478064 | Sr Service Engineer | https://in.linkedin.com/jobs/view/sr-service-engineer-at-providence-india-4387478064
