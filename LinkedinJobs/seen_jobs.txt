@@ -4888,3 +4888,6 @@
 4445139790 | Lead Salesforce Data Cloud Developer | https://in.linkedin.com/jobs/view/lead-salesforce-data-cloud-developer-at-cloud-peritus-4445139790
 4442861105 | Power Platform Developer | https://in.linkedin.com/jobs/view/power-platform-developer-at-tech-mahindra-4442861105
 4445107057 | Technical Specialist-App Development | https://in.linkedin.com/jobs/view/technical-specialist-app-development-at-birlasoft-4445107057
+4442871352 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-coforge-4442871352
+4445129427 | TCS Hiring for Java Fullstack Developer for Hyderabad location | https://in.linkedin.com/jobs/view/tcs-hiring-for-java-fullstack-developer-for-hyderabad-location-at-tata-consultancy-services-4445129427
+4445985644 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-tata-consultancy-services-4445985644
