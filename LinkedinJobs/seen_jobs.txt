@@ -4875,3 +4875,8 @@
 4442397119 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-itester-inc-4442397119
 4445661913 | Full Stack Developer - GenAI | https://in.linkedin.com/jobs/view/full-stack-developer-genai-at-qualizeal-4445661913
 4444857873 | Junior Backend Developer | https://in.linkedin.com/jobs/view/junior-backend-developer-at-cloudhire-4444857873
+4444891500 | Salesforces Developer Order-to-Cash (OTC)  and CPQ | https://in.linkedin.com/jobs/view/salesforces-developer-order-to-cash-otc-and-cpq-at-crisil-4444891500
+4442804879 | Salesforce Analytics Developer | https://in.linkedin.com/jobs/view/salesforce-analytics-developer-at-one-step-omni-tech-services-4442804879
+4444880420 | Technical Lead | https://in.linkedin.com/jobs/view/technical-lead-at-cloud-peritus-4444880420
+4409246543 | Senior Developer | https://in.linkedin.com/jobs/view/senior-developer-at-epam-systems-4409246543
+4442846006 | Developer | https://in.linkedin.com/jobs/view/developer-at-explore-group-4442846006
