@@ -4884,3 +4884,7 @@
 4445130620 | Production Service Engineer, Staff  - Salesforce | https://in.linkedin.com/jobs/view/production-service-engineer-staff-salesforce-at-blackbaud-india-4445130620
 4445943488 | Senior Technical Consultant - Salesforce Field Services | https://in.linkedin.com/jobs/view/senior-technical-consultant-salesforce-field-services-at-salesforce-4445943488
 4444888964 | Technical Specialist-Salesforce Marketing Cloud Developer | https://in.linkedin.com/jobs/view/technical-specialist-salesforce-marketing-cloud-developer-at-birlasoft-4444888964
+4445964079 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-htc-global-services-4445964079
+4445139790 | Lead Salesforce Data Cloud Developer | https://in.linkedin.com/jobs/view/lead-salesforce-data-cloud-developer-at-cloud-peritus-4445139790
+4442861105 | Power Platform Developer | https://in.linkedin.com/jobs/view/power-platform-developer-at-tech-mahindra-4442861105
+4445107057 | Technical Specialist-App Development | https://in.linkedin.com/jobs/view/technical-specialist-app-development-at-birlasoft-4445107057
