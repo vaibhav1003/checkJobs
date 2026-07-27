@@ -4891,3 +4891,10 @@
 4442871352 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-coforge-4442871352
 4445129427 | TCS Hiring for Java Fullstack Developer for Hyderabad location | https://in.linkedin.com/jobs/view/tcs-hiring-for-java-fullstack-developer-for-hyderabad-location-at-tata-consultancy-services-4445129427
 4445985644 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-tata-consultancy-services-4445985644
+4445185227 | SFCC full stack developer | https://in.linkedin.com/jobs/view/sfcc-full-stack-developer-at-infosys-4445185227
+4446104120 | IN_Senior Manager_Salesforce Developer_Enterprise Apps-SFDC_Advisory_Hyderabad | https://in.linkedin.com/jobs/view/in-senior-manager-salesforce-developer-enterprise-apps-sfdc-advisory-hyderabad-at-pwc-india-4446104120
+4446118189 | Software Engineer SMTS | https://in.linkedin.com/jobs/view/software-engineer-smts-at-salesforce-4446118189
+4445976878 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4445976878
+4445979887 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4445979887
+4446105514 | Odoo Developer | https://in.linkedin.com/jobs/view/odoo-developer-at-harmony-gt-4446105514
+4445978908 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4445978908
