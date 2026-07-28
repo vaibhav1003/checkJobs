@@ -4938,3 +4938,6 @@
 4443295010 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-huntingcube-4443295010
 4446364507 | Salesforce Technical Architect - (Life Sciences Industry exp mandate) | https://in.linkedin.com/jobs/view/salesforce-technical-architect-life-sciences-industry-exp-mandate-at-salesforce-4446364507
 4446358813 | Software Engineering MTS/SMTS (Salesforce Developer) | https://in.linkedin.com/jobs/view/software-engineering-mts-smts-salesforce-developer-at-salesforce-4446358813
+4446386395 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-cgi-4446386395
+4446383594 | Software Engineer III - Java, Spring boot, Public cloud | https://in.linkedin.com/jobs/view/software-engineer-iii-java-spring-boot-public-cloud-at-jpmorganchase-4446383594
+4446391065 | Software Engineer III - Java, Appium, Selenium | https://in.linkedin.com/jobs/view/software-engineer-iii-java-appium-selenium-at-jpmorganchase-4446391065
