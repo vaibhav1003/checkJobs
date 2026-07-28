@@ -4932,3 +4932,7 @@
 4445723422 | Consultant, Software Engineer - India [SaaS Integration] | https://in.linkedin.com/jobs/view/consultant-software-engineer-india-saas-integration-at-nationwide-4445723422
 4446305069 | Regional Sales Lead - Salesforce | https://in.linkedin.com/jobs/view/regional-sales-lead-salesforce-at-osi-digital-4446305069
 4443278437 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4443278437
+4446326482 | Remote Java Developer | https://in.linkedin.com/jobs/view/remote-java-developer-at-turing-4446326482
+4445709513 | 🚀 Hiring: Senior / Staff Full Stack Engineer | Java | React | TypeScript | Pune (Hybrid) | 5+ years | Contract/Full-Time | Immediate Joiner | | https://in.linkedin.com/jobs/view/%F0%9F%9A%80-hiring-senior-staff-full-stack-engineer-java-react-typescript-pune-hybrid-5%2B-years-contract-full-time-immediate-joiner-at-strive4x-infotech-private-limited-4445709513
+4446320753 | Remote Java Backend Engineer | https://in.linkedin.com/jobs/view/remote-java-backend-engineer-at-turing-4446320753
+4443295010 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-huntingcube-4443295010
