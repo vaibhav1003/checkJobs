@@ -4915,3 +4915,8 @@
 4445463424 | Java Full Stack Developer / Backend Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-backend-developer-at-eidiko-systems-integrators-private-limited-4445463424
 4443200792 | Java Full Stack Developer with React and AWS | https://in.linkedin.com/jobs/view/java-full-stack-developer-with-react-and-aws-at-tata-consultancy-services-4443200792
 4443215803 | ETL + Java Selenium Engineer | https://in.linkedin.com/jobs/view/etl-%2B-java-selenium-engineer-at-edurun-group-4443215803
+4443241235 | Software Engineer - Java | https://in.linkedin.com/jobs/view/software-engineer-java-at-apple-4443241235
+4445467511 | Salesforces Developer Order-to-Cash (OTC)  and CPQ | https://in.linkedin.com/jobs/view/salesforces-developer-order-to-cash-otc-and-cpq-at-crisil-4445467511
+4443230395 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-milestone-technologies-inc-4443230395
+4443233239 | Software Engineer ( Java , AWS ) | https://in.linkedin.com/jobs/view/software-engineer-java-aws-at-infor-4443233239
+4443232409 | Java Backend Developer | https://in.linkedin.com/jobs/view/java-backend-developer-at-ntt-data-north-america-4443232409
