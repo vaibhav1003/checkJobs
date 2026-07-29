@@ -4983,3 +4983,4 @@
 4429255467 | Palantir Developer | https://in.linkedin.com/jobs/view/palantir-developer-at-algoleap-4429255467
 4446836296 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4446836296
 4437817566 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-ge-vernova-4437817566
+4437041805 | Java Full-Stack Developer | Spring Boot & React + CI/CD | https://in.linkedin.com/jobs/view/java-full-stack-developer-spring-boot-react-%2B-ci-cd-at-synechron-4437041805
