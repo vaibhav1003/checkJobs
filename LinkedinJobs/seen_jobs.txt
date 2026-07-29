@@ -4961,3 +4961,7 @@
 4446571297 | IT Technologist | https://in.linkedin.com/jobs/view/it-technologist-at-medtronic-4446571297
 4446542590 | Senior Consultant - Microsoft | https://in.linkedin.com/jobs/view/senior-consultant-microsoft-at-ttec-digital-4446542590
 4443693381 | Software Engineer, Senior | https://in.linkedin.com/jobs/view/software-engineer-senior-at-infor-4443693381
+4446563988 | Senior Software Engineer II - Salesforce [T500-27976] | https://in.linkedin.com/jobs/view/senior-software-engineer-ii-salesforce-t500-27976-at-marriott-tech-accelerator-4446563988
+4446580331 | Software Engineer III - Salesforce Testing | https://in.linkedin.com/jobs/view/software-engineer-iii-salesforce-testing-at-jpmorganchase-4446580331
+4418942705 | Senior Instructor | https://in.linkedin.com/jobs/view/senior-instructor-at-salesforce-4418942705
+4439986828 | IT Integration Engineer | https://in.linkedin.com/jobs/view/it-integration-engineer-at-veeva-systems-4439986828
