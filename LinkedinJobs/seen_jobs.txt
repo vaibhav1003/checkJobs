@@ -4941,3 +4941,12 @@
 4446386395 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-cgi-4446386395
 4446383594 | Software Engineer III - Java, Spring boot, Public cloud | https://in.linkedin.com/jobs/view/software-engineer-iii-java-spring-boot-public-cloud-at-jpmorganchase-4446383594
 4446391065 | Software Engineer III - Java, Appium, Selenium | https://in.linkedin.com/jobs/view/software-engineer-iii-java-appium-selenium-at-jpmorganchase-4446391065
+4446501822 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4446501822
+4446513499 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4446513499
+4446504892 | Full Stack Developer-Senior II | https://in.linkedin.com/jobs/view/full-stack-developer-senior-ii-at-fedex-4446504892
+4445793645 | Full Stack Developer-Senior II | https://in.linkedin.com/jobs/view/full-stack-developer-senior-ii-at-fedex-acc-4445793645
+4446389392 | Software Engineer II: Fullstack | https://in.linkedin.com/jobs/view/software-engineer-ii-fullstack-at-jpmorganchase-4446389392
+4446509741 | Software Dev Engineer II, AZA | https://in.linkedin.com/jobs/view/software-dev-engineer-ii-aza-at-amazon-4446509741
+4446512564 | Software Dev Engineer II, AZA | https://in.linkedin.com/jobs/view/software-dev-engineer-ii-aza-at-amazon-4446512564
+4445786200 | Forward Deployed Engineers | https://in.linkedin.com/jobs/view/forward-deployed-engineers-at-nustudio-ai-4445786200
+4445795802 | Python, Pyspark Developer | https://in.linkedin.com/jobs/view/python-pyspark-developer-at-infosys-4445795802
