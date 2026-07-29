@@ -4993,3 +4993,7 @@
 4438094349 | FBS Application Developer IV | https://in.linkedin.com/jobs/view/fbs-application-developer-iv-at-capgemini-4438094349
 4446861410 | Software Engineer II - Java, Springboot, AWS | https://in.linkedin.com/jobs/view/software-engineer-ii-java-springboot-aws-at-jpmorganchase-4446861410
 4446882055 | ServiceNow Consultant / Developer, CSM | https://in.linkedin.com/jobs/view/servicenow-consultant-developer-csm-at-optum-india-4446882055
+4446858911 | Senior Technical Consultant - Salesforce DevOps | https://in.linkedin.com/jobs/view/senior-technical-consultant-salesforce-devops-at-salesforce-ad-4446858911
+4446859806 | Associate proactive Monitoring Engineer | https://in.linkedin.com/jobs/view/associate-proactive-monitoring-engineer-at-salesforce-ad-4446859806
+4446877042 | Salesforce DevOps - Technical Architect | https://in.linkedin.com/jobs/view/salesforce-devops-technical-architect-at-salesforce-ad-4446877042
+4446868232 | Director, Technical Consulting ( Salesforce Experience Mandatory ) | https://in.linkedin.com/jobs/view/director-technical-consulting-salesforce-experience-mandatory-at-salesforce-ad-4446868232
