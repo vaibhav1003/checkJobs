@@ -4984,3 +4984,8 @@
 4446836296 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4446836296
 4437817566 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-ge-vernova-4437817566
 4437041805 | Java Full-Stack Developer | Spring Boot & React + CI/CD | https://in.linkedin.com/jobs/view/java-full-stack-developer-spring-boot-react-%2B-ci-cd-at-synechron-4437041805
+4446874320 | Full Stack Engineer | https://in.linkedin.com/jobs/view/full-stack-engineer-at-optum-india-4446874320
+4444139750 | Senior Software Engineer | https://in.linkedin.com/jobs/view/senior-software-engineer-at-the-hartford-india-4444139750
+4444172554 | Powerapps Developer | https://in.linkedin.com/jobs/view/powerapps-developer-at-g1-techsoft-4444172554
+4446822605 | Patient Experience iCare Exchange Python Engineer | https://in.linkedin.com/jobs/view/patient-experience-icare-exchange-python-engineer-at-sanofi-4446822605
+4446837535 | Software Engineer 2 | https://in.linkedin.com/jobs/view/software-engineer-2-at-microsoft-4446837535
