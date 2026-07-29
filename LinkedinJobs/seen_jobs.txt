@@ -4950,3 +4950,7 @@
 4446512564 | Software Dev Engineer II, AZA | https://in.linkedin.com/jobs/view/software-dev-engineer-ii-aza-at-amazon-4446512564
 4445786200 | Forward Deployed Engineers | https://in.linkedin.com/jobs/view/forward-deployed-engineers-at-nustudio-ai-4445786200
 4445795802 | Python, Pyspark Developer | https://in.linkedin.com/jobs/view/python-pyspark-developer-at-infosys-4445795802
+4446019510 | SFDC Omni Studio Developer | https://in.linkedin.com/jobs/view/sfdc-omni-studio-developer-at-spadtek-solutions-4446019510
+4446023232 | Software Engineer III - Salesforce Automation | https://in.linkedin.com/jobs/view/software-engineer-iii-salesforce-automation-at-hackajob-4446023232
+4443690132 | Salesforce Trainer | https://in.linkedin.com/jobs/view/salesforce-trainer-at-thesmartbridge-4443690132
+4446022250 | Software Engineer III - (Java/Cloud) | https://in.linkedin.com/jobs/view/software-engineer-iii-java-cloud-at-hackajob-4446022250
