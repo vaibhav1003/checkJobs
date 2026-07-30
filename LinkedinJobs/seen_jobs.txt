@@ -5014,3 +5014,7 @@
 4444540079 | MS Dynamics 365 CRM Developer | https://in.linkedin.com/jobs/view/ms-dynamics-365-crm-developer-at-runmap-infotech-private-ltd-4444540079
 4446708912 | Senior Salesforce Solution Architect - Lifesciences | https://in.linkedin.com/jobs/view/senior-salesforce-solution-architect-lifesciences-at-salesforce-4446708912
 4446714470 | Agentforce Consultant | https://in.linkedin.com/jobs/view/agentforce-consultant-at-absyz-inc-4446714470
+4446765797 | Salesforce Admin / Developer | https://in.linkedin.com/jobs/view/salesforce-admin-developer-at-ascendion-4446765797
+4446569868 | Senior Executive | https://in.linkedin.com/jobs/view/senior-executive-at-exl-4446569868
+4446763286 | Salesforce Release Manager | https://in.linkedin.com/jobs/view/salesforce-release-manager-at-capital-numbers-4446763286
+4446756776 | Software Engineering, LMTS (Backend + Infra) | https://in.linkedin.com/jobs/view/software-engineering-lmts-backend-%2B-infra-at-salesforce-4446756776
