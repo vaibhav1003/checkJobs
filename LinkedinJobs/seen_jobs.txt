@@ -5070,3 +5070,5 @@
 4447511655 | Engineer, Software - Java [T500-28105] | https://in.linkedin.com/jobs/view/engineer-software-java-t500-28105-at-tmus-global-solutions-4447511655
 4447133986 | Software Engineer III - Java | https://in.linkedin.com/jobs/view/software-engineer-iii-java-at-hackajob-4447133986
 4447157102 | Salesforce RCA Architect-Lead Business Transformation Architect-Sales & Services-Customer | https://in.linkedin.com/jobs/view/salesforce-rca-architect-lead-business-transformation-architect-sales-services-customer-at-deloitte-4447157102
+4447193458 | Java BE Engineer | https://in.linkedin.com/jobs/view/java-be-engineer-at-cognizant-4447193458
+4447599094 | Java Full stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-cgi-4447599094
