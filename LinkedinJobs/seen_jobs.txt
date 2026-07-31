@@ -5057,3 +5057,6 @@
 4447282672 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-wilco-source-4447282672
 4447278175 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-tata-consultancy-services-4447278175
 4430463209 | Salesforce Senior Technical Architect (CTA Aspirants) | https://in.linkedin.com/jobs/view/salesforce-senior-technical-architect-cta-aspirants-at-salesforce-4430463209
+4447288647 | Salesforce CPQ Developer | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-at-osf-digital-4447288647
+4446989867 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-valuelabs-4446989867
+4446997518 | Salesforce CPQ- Senior Consultant, Technical Transformation- Sales & Service- Customer | https://in.linkedin.com/jobs/view/salesforce-cpq-senior-consultant-technical-transformation-sales-service-customer-at-deloitte-4446997518
