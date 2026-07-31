@@ -5034,3 +5034,13 @@
 4446795777 | Application Engineer - II | https://in.linkedin.com/jobs/view/application-engineer-ii-at-vanguard-india-4446795777
 4447003831 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-saicon-4447003831
 4443787783 | Java Full Stack Developer - Officer | https://in.linkedin.com/jobs/view/java-full-stack-developer-officer-at-state-street-4443787783
+4447250776 | Software Engineer - Mulesoft Developer | https://in.linkedin.com/jobs/view/software-engineer-mulesoft-developer-at-cisco-4447250776
+4447249828 | Software Engineer - Mulesoft Developer | https://in.linkedin.com/jobs/view/software-engineer-mulesoft-developer-at-cisco-4447249828
+4446934526 | Salesforce QA | https://in.linkedin.com/jobs/view/salesforce-qa-at-htc-global-services-4446934526
+4447231323 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-accenture-in-india-4447231323
+4447216446 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4447216446
+4446958237 | IT Consulting | https://in.linkedin.com/jobs/view/it-consulting-at-infosys-4446958237
+4447252523 | Software Engineer III - Java | https://in.linkedin.com/jobs/view/software-engineer-iii-java-at-jpmorganchase-4447252523
+4445082071 | Engineer III, Software | https://in.linkedin.com/jobs/view/engineer-iii-software-at-thermo-fisher-scientific-4445082071
+4446954900 | Go Lang Developer | https://in.linkedin.com/jobs/view/go-lang-developer-at-tata-consultancy-services-4446954900
+4446908750 | Staff Engineer (OpenText) | https://in.linkedin.com/jobs/view/staff-engineer-opentext-at-nagarro-4446908750
