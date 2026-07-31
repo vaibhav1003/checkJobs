@@ -5044,3 +5044,11 @@
 4445082071 | Engineer III, Software | https://in.linkedin.com/jobs/view/engineer-iii-software-at-thermo-fisher-scientific-4445082071
 4446954900 | Go Lang Developer | https://in.linkedin.com/jobs/view/go-lang-developer-at-tata-consultancy-services-4446954900
 4446908750 | Staff Engineer (OpenText) | https://in.linkedin.com/jobs/view/staff-engineer-opentext-at-nagarro-4446908750
+4445086196 | Senior Salesforce Fullstack Developer | https://in.linkedin.com/jobs/view/senior-salesforce-fullstack-developer-at-azuro-technologies-iso-certified-4445086196
+4446965763 | SFDC Omni Studio Developer | https://in.linkedin.com/jobs/view/sfdc-omni-studio-developer-at-spadtek-solutions-4446965763
+4447284298 | Salesforce Project Manager | https://in.linkedin.com/jobs/view/salesforce-project-manager-at-salesforce-4447284298
+4446988439 | Junior Software Engineer | https://in.linkedin.com/jobs/view/junior-software-engineer-at-syscloud-4446988439
+4446986262 | Ruby on Rails Developer | https://in.linkedin.com/jobs/view/ruby-on-rails-developer-at-zaggle-4446986262
+4447284376 | ServiceNow Developer | https://in.linkedin.com/jobs/view/servicenow-developer-at-tata-consultancy-services-4447284376
+4446978272 | ASAP Developer | https://in.linkedin.com/jobs/view/asap-developer-at-hraize-4446978272
+4446993269 | FileNet Developer | https://in.linkedin.com/jobs/view/filenet-developer-at-tata-consultancy-services-4446993269
