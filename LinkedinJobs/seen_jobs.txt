@@ -5105,3 +5105,4 @@
 4438386779 | Ab Initio Admin + Developer Knowledge | https://in.linkedin.com/jobs/view/ab-initio-admin-%2B-developer-knowledge-at-infosys-4438386779
 4447487735 | Software Engineer III- Python,GenAI,AWS | https://in.linkedin.com/jobs/view/software-engineer-iii-python-genai-aws-at-hackajob-4447487735
 4447808435 | Google Data Engineer(GCP)(candidates with 6+ yrs exp only) | https://in.linkedin.com/jobs/view/google-data-engineer-gcp-candidates-with-6%2B-yrs-exp-only-at-tata-consultancy-services-4447808435
+4447617026 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-infosys-4447617026
