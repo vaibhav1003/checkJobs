@@ -5183,3 +5183,6 @@
 4446292497 | Java developer | https://in.linkedin.com/jobs/view/java-developer-at-artech-l-l-c-4446292497
 4446295435 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-lorven-technologies-inc-4446295435
 4448824121 | Java Microservices Developer | https://in.linkedin.com/jobs/view/java-microservices-developer-at-ignisov-consulting-services-4448824121
+4444520983 | Associate Salesforce Developer | https://in.linkedin.com/jobs/view/associate-salesforce-developer-at-accellor-4444520983
+4448827868 | Member Technical Staff (UI Developer or Full Stack- React.JS, Java) | https://in.linkedin.com/jobs/view/member-technical-staff-ui-developer-or-full-stack-react-js-java-at-model-n-4448827868
+4448851327 | Architect - Salesforce | https://in.linkedin.com/jobs/view/architect-salesforce-at-mattel-inc-4448851327
