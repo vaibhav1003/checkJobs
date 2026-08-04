@@ -5203,3 +5203,5 @@
 4448882552 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448882552
 4448884436 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448884436
 4448890332 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448890332
+4449040478 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-kagamierp-4449040478
+4449058443 | Software Engineer III - ( Java , Python) | https://in.linkedin.com/jobs/view/software-engineer-iii-java-python-at-jpmorganchase-4449058443
