@@ -5212,3 +5212,5 @@
 4449079391 | Software Engineer - Dynamics 365 CRM | https://in.linkedin.com/jobs/view/software-engineer-dynamics-365-crm-at-beyond-key-4449079391
 4448336202 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448336202
 4448592578 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-techcarrot-4448592578
+4449433830 | Software Engineer III — Fullstack (Java, Spring, AWS, React/UI) | https://in.linkedin.com/jobs/view/software-engineer-iii-%E2%80%94-fullstack-java-spring-aws-react-ui-at-jpmorganchase-4449433830
+4448929833 | Software Engineer - Java Full Stack, Angular, Kafka, CI/CD | https://in.linkedin.com/jobs/view/software-engineer-java-full-stack-angular-kafka-ci-cd-at-optum-india-4448929833
