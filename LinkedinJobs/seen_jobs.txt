@@ -5239,3 +5239,6 @@
 4449488149 | Technical Support Engineer | https://in.linkedin.com/jobs/view/technical-support-engineer-at-salesforce-ad-4449488149
 4449600591 | Analytics Engineer | https://in.linkedin.com/jobs/view/analytics-engineer-at-salesforce-4449600591
 4449491062 | Software Engineering-MTS-SDET | https://in.linkedin.com/jobs/view/software-engineering-mts-sdet-at-salesforce-ad-4449491062
+4449638761 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-credera-4449638761
+4448325382 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-accenture-in-india-4448325382
+4449632000 | Salesforce Success Architect - AMER Shifts (Salesforce Exp is mandatory) | https://in.linkedin.com/jobs/view/salesforce-success-architect-amer-shifts-salesforce-exp-is-mandatory-at-salesforce-4449632000
