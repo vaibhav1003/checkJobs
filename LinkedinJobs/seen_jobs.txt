@@ -5214,3 +5214,11 @@
 4448592578 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-techcarrot-4448592578
 4449433830 | Software Engineer III — Fullstack (Java, Spring, AWS, React/UI) | https://in.linkedin.com/jobs/view/software-engineer-iii-%E2%80%94-fullstack-java-spring-aws-react-ui-at-jpmorganchase-4449433830
 4448929833 | Software Engineer - Java Full Stack, Angular, Kafka, CI/CD | https://in.linkedin.com/jobs/view/software-engineer-java-full-stack-angular-kafka-ci-cd-at-optum-india-4448929833
+4448937273 | SFDC Omni Studio Developer | https://in.linkedin.com/jobs/view/sfdc-omni-studio-developer-at-spadtek-solutions-4448937273
+4448928579 | MS Dynamics 365 Sales Developer | https://in.linkedin.com/jobs/view/ms-dynamics-365-sales-developer-at-cognine-technologies-4448928579
+4447323945 | Backend Developer | https://in.linkedin.com/jobs/view/backend-developer-at-eicta-iit-kanpur-emerging-cto-ai-leadership-programme-4447323945
+4447363132 | Senior Software Engineer | https://in.linkedin.com/jobs/view/senior-software-engineer-at-octave-4447363132
+4447346816 | SAP Hybris Backend Developer | https://in.linkedin.com/jobs/view/sap-hybris-backend-developer-at-overt-minds-4447346816
+4448960106 | Full Stack Developer | https://in.linkedin.com/jobs/view/full-stack-developer-at-thoughtiv-4448960106
+4447330731 | Frontend Developer | https://in.linkedin.com/jobs/view/frontend-developer-at-eicta-iit-kanpur-emerging-cto-ai-leadership-programme-4447330731
+4448940014 | Senior Software Engineer I | https://in.linkedin.com/jobs/view/senior-software-engineer-i-at-optum-india-4448940014
