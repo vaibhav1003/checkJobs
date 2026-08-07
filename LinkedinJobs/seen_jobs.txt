@@ -5292,3 +5292,12 @@
 4448479060 | Senior Data Engineer | https://in.linkedin.com/jobs/view/senior-data-engineer-at-salesforce-ad-4448479060
 4450615893 | Java Full Stack Developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-paltech-4450615893
 4351239737 | Front End Developer | https://in.linkedin.com/jobs/view/front-end-developer-at-invoicecloud-inc-4351239737
+4448491614 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448491614
+4448481981 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448481981
+4448489402 | Software Engineer - Supply Chain Applications | https://in.linkedin.com/jobs/view/software-engineer-supply-chain-applications-at-rfgen-software-4448489402
+4448188996 | Full Stack (Java + React) | https://in.linkedin.com/jobs/view/full-stack-java-%2B-react-at-metlife-4448188996
+4450679704 | Software Engineer 2 | https://in.linkedin.com/jobs/view/software-engineer-2-at-stage-2-capital-4450679704
+4448194415 | Sr. Full Stack Software Engineer | https://in.linkedin.com/jobs/view/sr-full-stack-software-engineer-at-metlife-4448194415
+4448195328 | Sr. Full Stack Software Engineer | https://in.linkedin.com/jobs/view/sr-full-stack-software-engineer-at-metlife-4448195328
+4448190884 | Sr. Full Stack Software Engineer II | https://in.linkedin.com/jobs/view/sr-full-stack-software-engineer-ii-at-metlife-4448190884
+4426920023 | Fluent Commerce Developer | https://in.linkedin.com/jobs/view/fluent-commerce-developer-at-viseo-4426920023
