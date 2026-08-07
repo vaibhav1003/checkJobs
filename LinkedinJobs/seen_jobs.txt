@@ -5313,3 +5313,5 @@
 4450091186 | WordPress/CRM Developer | https://in.linkedin.com/jobs/view/wordpress-crm-developer-at-navtech-4450091186
 4448739611 | Program Architect | https://in.linkedin.com/jobs/view/program-architect-at-osf-digital-4448739611
 4441949156 | Software Engineering SMTS/LMTS | https://in.linkedin.com/jobs/view/software-engineering-smts-lmts-at-salesforce-4441949156
+4450091968 | Lead Salesforce Engineer - Data Cloud & Agentforce | https://in.linkedin.com/jobs/view/lead-salesforce-engineer-data-cloud-agentforce-at-blue-yonder-4450091968
+4448759749 | Lead Salesforce Engineer - Data Cloud & Agentforce | https://in.linkedin.com/jobs/view/lead-salesforce-engineer-data-cloud-agentforce-at-blue-yonder-4448759749
