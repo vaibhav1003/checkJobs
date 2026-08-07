@@ -5315,3 +5315,5 @@
 4441949156 | Software Engineering SMTS/LMTS | https://in.linkedin.com/jobs/view/software-engineering-smts-lmts-at-salesforce-4441949156
 4450091968 | Lead Salesforce Engineer - Data Cloud & Agentforce | https://in.linkedin.com/jobs/view/lead-salesforce-engineer-data-cloud-agentforce-at-blue-yonder-4450091968
 4448759749 | Lead Salesforce Engineer - Data Cloud & Agentforce | https://in.linkedin.com/jobs/view/lead-salesforce-engineer-data-cloud-agentforce-at-blue-yonder-4448759749
+4450313761 | Senior Salesforce Developer (Tech Lead Track) | https://in.linkedin.com/jobs/view/senior-salesforce-developer-tech-lead-track-at-umanist-na-4450313761
+4450313815 | Salesforce Technical Manager | https://in.linkedin.com/jobs/view/salesforce-technical-manager-at-criticalriver-inc-4450313815
