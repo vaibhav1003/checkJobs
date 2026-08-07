@@ -5301,3 +5301,5 @@
 4448195328 | Sr. Full Stack Software Engineer | https://in.linkedin.com/jobs/view/sr-full-stack-software-engineer-at-metlife-4448195328
 4448190884 | Sr. Full Stack Software Engineer II | https://in.linkedin.com/jobs/view/sr-full-stack-software-engineer-ii-at-metlife-4448190884
 4426920023 | Fluent Commerce Developer | https://in.linkedin.com/jobs/view/fluent-commerce-developer-at-viseo-4426920023
+4448713541 | Python Developer | https://in.linkedin.com/jobs/view/python-developer-at-tata-consultancy-services-4448713541
+4450039909 | Java developer | https://in.linkedin.com/jobs/view/java-developer-at-artech-l-l-c-4450039909
