@@ -5317,3 +5317,5 @@
 4448759749 | Lead Salesforce Engineer - Data Cloud & Agentforce | https://in.linkedin.com/jobs/view/lead-salesforce-engineer-data-cloud-agentforce-at-blue-yonder-4448759749
 4450313761 | Senior Salesforce Developer (Tech Lead Track) | https://in.linkedin.com/jobs/view/senior-salesforce-developer-tech-lead-track-at-umanist-na-4450313761
 4450313815 | Salesforce Technical Manager | https://in.linkedin.com/jobs/view/salesforce-technical-manager-at-criticalriver-inc-4450313815
+4450312029 | Salesforce Consultant (CRM Rebuild & Lead Management) | https://in.linkedin.com/jobs/view/salesforce-consultant-crm-rebuild-lead-management-at-8th-element-4450312029
+4450683857 | Technical Support Engineer - Accessibility | https://in.linkedin.com/jobs/view/technical-support-engineer-accessibility-at-salesforce-4450683857
