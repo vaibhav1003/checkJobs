@@ -5352,3 +5352,6 @@
 4451063354 | JAVA FULLSTACK | https://in.linkedin.com/jobs/view/java-fullstack-at-tata-consultancy-services-4451063354
 4449234721 | Senior Analyst- Brand Data Enablement | https://in.linkedin.com/jobs/view/senior-analyst-brand-data-enablement-at-novartis-india-4449234721
 4449252138 | Mern Stack Developer - Front and Backend | https://in.linkedin.com/jobs/view/mern-stack-developer-front-and-backend-at-rengy-4449252138
+4442159124 | Agentforce + LWC Developer | https://in.linkedin.com/jobs/view/agentforce-%2B-lwc-developer-at-ntt-data-north-america-4442159124
+4414713192 | Sales Analyst | https://in.linkedin.com/jobs/view/sales-analyst-at-nextpower-4414713192
+4414718128 | Sales Analyst | https://in.linkedin.com/jobs/view/sales-analyst-at-nextpower-4414718128
