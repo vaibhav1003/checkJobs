@@ -5347,3 +5347,8 @@
 4450306746 | Salesforce Marketing Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-at-align-technology-4450306746
 4451033486 | Product Designer | https://in.linkedin.com/jobs/view/product-designer-at-algorithmaliens-private-limited-4451033486
 4451015145 | Software Development Engineer - Test | https://in.linkedin.com/jobs/view/software-development-engineer-test-at-apple-4451015145
+4451065386 | Salesforce Industry Success Architect | https://in.linkedin.com/jobs/view/salesforce-industry-success-architect-at-salesforce-ad-4451065386
+4451069277 | Senior Data Engineer | https://in.linkedin.com/jobs/view/senior-data-engineer-at-salesforce-ad-4451069277
+4451063354 | JAVA FULLSTACK | https://in.linkedin.com/jobs/view/java-fullstack-at-tata-consultancy-services-4451063354
+4449234721 | Senior Analyst- Brand Data Enablement | https://in.linkedin.com/jobs/view/senior-analyst-brand-data-enablement-at-novartis-india-4449234721
+4449252138 | Mern Stack Developer - Front and Backend | https://in.linkedin.com/jobs/view/mern-stack-developer-front-and-backend-at-rengy-4449252138
