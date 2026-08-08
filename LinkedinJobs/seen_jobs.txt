@@ -5372,3 +5372,4 @@
 4433268949 | AWS Bedrock Developer + Python + Terraform | https://in.linkedin.com/jobs/view/aws-bedrock-developer-%2B-python-%2B-terraform-at-infosys-4433268949
 4449269319 | RShiny Developer | https://in.linkedin.com/jobs/view/rshiny-developer-at-hcltech-4449269319
 4441348850 | Renewal Specialist | https://in.linkedin.com/jobs/view/renewal-specialist-at-seismic-4441348850
+4422793875 | Staff Software Development Engineer L5 | https://in.linkedin.com/jobs/view/staff-software-development-engineer-l5-at-inovalon-4422793875
