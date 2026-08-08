@@ -5361,3 +5361,7 @@
 4432960122 | IT Consulting | https://in.linkedin.com/jobs/view/it-consulting-at-infosys-4432960122
 4291069021 | Senior Associate | https://in.linkedin.com/jobs/view/senior-associate-at-pwc-india-4291069021
 4414708424 | Sales Analyst | https://in.linkedin.com/jobs/view/sales-analyst-at-nextpower-4414708424
+4414714188 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-nextpower-4414714188
+4433259162 | Technical Lead-App Development | https://in.linkedin.com/jobs/view/technical-lead-app-development-at-birlasoft-4433259162
+4450902622 | Shopify Developer & Digital Marketing Builder | https://in.linkedin.com/jobs/view/shopify-developer-digital-marketing-builder-at-techdome-4450902622
+4451076252 | Software Engr I | https://in.linkedin.com/jobs/view/software-engr-i-at-honeywell-technologies-4451076252
