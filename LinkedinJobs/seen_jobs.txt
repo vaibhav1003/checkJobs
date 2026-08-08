@@ -5365,3 +5365,10 @@
 4433259162 | Technical Lead-App Development | https://in.linkedin.com/jobs/view/technical-lead-app-development-at-birlasoft-4433259162
 4450902622 | Shopify Developer & Digital Marketing Builder | https://in.linkedin.com/jobs/view/shopify-developer-digital-marketing-builder-at-techdome-4450902622
 4451076252 | Software Engr I | https://in.linkedin.com/jobs/view/software-engr-i-at-honeywell-technologies-4451076252
+4420119718 | SW Engineer II | https://in.linkedin.com/jobs/view/sw-engineer-ii-at-ncr-atleos-4420119718
+4450916473 | Software Engineer (Full Stack) | https://in.linkedin.com/jobs/view/software-engineer-full-stack-at-tecforce-4450916473
+4450919377 | Front End Engineer | https://in.linkedin.com/jobs/view/front-end-engineer-at-tecforce-4450919377
+4450925160 | iOS Engineer | https://in.linkedin.com/jobs/view/ios-engineer-at-tecforce-4450925160
+4433268949 | AWS Bedrock Developer + Python + Terraform | https://in.linkedin.com/jobs/view/aws-bedrock-developer-%2B-python-%2B-terraform-at-infosys-4433268949
+4449269319 | RShiny Developer | https://in.linkedin.com/jobs/view/rshiny-developer-at-hcltech-4449269319
+4441348850 | Renewal Specialist | https://in.linkedin.com/jobs/view/renewal-specialist-at-seismic-4441348850
