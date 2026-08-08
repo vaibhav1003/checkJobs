@@ -5356,3 +5356,8 @@
 4414713192 | Sales Analyst | https://in.linkedin.com/jobs/view/sales-analyst-at-nextpower-4414713192
 4414718128 | Sales Analyst | https://in.linkedin.com/jobs/view/sales-analyst-at-nextpower-4414718128
 4448944780 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-valuelabs-4448944780
+4415339609 | Sr Software Engineer | https://in.linkedin.com/jobs/view/sr-software-engineer-at-mattel-inc-4415339609
+4449254545 | WordPress/CRM Developer | https://in.linkedin.com/jobs/view/wordpress-crm-developer-at-navtech-4449254545
+4432960122 | IT Consulting | https://in.linkedin.com/jobs/view/it-consulting-at-infosys-4432960122
+4291069021 | Senior Associate | https://in.linkedin.com/jobs/view/senior-associate-at-pwc-india-4291069021
+4414708424 | Sales Analyst | https://in.linkedin.com/jobs/view/sales-analyst-at-nextpower-4414708424
