@@ -5374,3 +5374,4 @@
 4441348850 | Renewal Specialist | https://in.linkedin.com/jobs/view/renewal-specialist-at-seismic-4441348850
 4422793875 | Staff Software Development Engineer L5 | https://in.linkedin.com/jobs/view/staff-software-development-engineer-l5-at-inovalon-4422793875
 4451084639 | Full Stack Engineer - Assistant Manager | https://in.linkedin.com/jobs/view/full-stack-engineer-assistant-manager-at-state-street-4451084639
+4451086939 | Full Stack Developer – Java / MEAN Stack / PostgreSQL | https://in.linkedin.com/jobs/view/full-stack-developer-%E2%80%93-java-mean-stack-postgresql-at-wavity-inc-4451086939
