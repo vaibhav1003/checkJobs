@@ -5391,3 +5391,8 @@
 4449280936 | Software Engineer (Java , Spring Boot, Angular, SQL ) | https://in.linkedin.com/jobs/view/software-engineer-java-spring-boot-angular-sql-at-infor-4449280936
 4449500055 | Senior Full Stack Developer | https://in.linkedin.com/jobs/view/senior-full-stack-developer-at-the-synapse-space-4449500055
 4450950128 | Oracle EBS Developer | https://in.linkedin.com/jobs/view/oracle-ebs-developer-at-tata-consultancy-services-4450950128
+4414707228 | Application Development Consultant | https://in.linkedin.com/jobs/view/application-development-consultant-at-the-goodyear-tire-rubber-company-4414707228
+4421112022 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-infor-4421112022
+4421117047 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-infor-4421117047
+4414686495 | Senior Manager, Software Engineering (ERP Transformation) | https://in.linkedin.com/jobs/view/senior-manager-software-engineering-erp-transformation-at-salesforce-4414686495
+4439612184 | Software Engineer, Senior | https://in.linkedin.com/jobs/view/software-engineer-senior-at-infor-4439612184
