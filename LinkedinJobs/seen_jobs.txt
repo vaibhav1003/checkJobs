@@ -5400,3 +5400,5 @@
 4414723144 | Sales Operations Analyst | https://in.linkedin.com/jobs/view/sales-operations-analyst-at-nextpower-4414723144
 4374759473 | Senior Associate Software Engineering | https://in.linkedin.com/jobs/view/senior-associate-software-engineering-at-trimont-4374759473
 4433245817 | Sr Application Developer | https://in.linkedin.com/jobs/view/sr-application-developer-at-birlasoft-4433245817
+4450943862 | React JS Developer | https://in.linkedin.com/jobs/view/react-js-developer-at-infosys-4450943862
+4450942862 | Java Full Stack | https://in.linkedin.com/jobs/view/java-full-stack-at-infosys-4450942862
