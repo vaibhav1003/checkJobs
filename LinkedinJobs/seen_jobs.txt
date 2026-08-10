@@ -5435,3 +5435,6 @@
 4451513539 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4451513539
 4451518582 | Software Development Engineer III | https://in.linkedin.com/jobs/view/software-development-engineer-iii-at-f5-4451518582
 4451134293 | Salesforce DevOps Engineer | https://in.linkedin.com/jobs/view/salesforce-devops-engineer-at-criticalriver-inc-4451134293
+4451150272 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-s-p-global-4451150272
+4451182354 | GIG-Customer Tech-Salesforce-data cloud developer-Senior | https://in.linkedin.com/jobs/view/gig-customer-tech-salesforce-data-cloud-developer-senior-at-ey-4451182354
+4449560615 | Salesforce Developer II | https://in.linkedin.com/jobs/view/salesforce-developer-ii-at-astreya-4449560615
