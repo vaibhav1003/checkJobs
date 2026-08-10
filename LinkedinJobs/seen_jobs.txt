@@ -5421,3 +5421,9 @@
 4449540137 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-rivirtual-inc-4449540137
 4451108252 | SDE-1 | https://in.linkedin.com/jobs/view/sde-1-at-bu-consultants-4451108252
 4449543024 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-cxo-inc-4449543024
+4451105648 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-lorven-technologies-inc-4451105648
+4451101550 | Salesforce Marketing Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-at-ara-resources-pvt-ltd-4451101550
+4449538369 | Senior Software Engineer | https://in.linkedin.com/jobs/view/senior-software-engineer-at-tech-mahindra-4449538369
+4449545032 | Applications Programming Analyst (Power(BI, Apps, Automate), DAX, Python, Azure Data) | https://in.linkedin.com/jobs/view/applications-programming-analyst-power-bi-apps-automate-dax-python-azure-data-at-diebold-nixdorf-4449545032
+4451120628 | Java full stack developer | https://in.linkedin.com/jobs/view/java-full-stack-developer-at-live-connections-4451120628
+4451116592 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-carra-4451116592
