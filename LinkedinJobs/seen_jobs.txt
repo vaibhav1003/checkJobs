@@ -5440,3 +5440,5 @@
 4449560615 | Salesforce Developer II | https://in.linkedin.com/jobs/view/salesforce-developer-ii-at-astreya-4449560615
 4451185453 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-synechron-4451185453
 4449568638 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-milestone-technologies-inc-4449568638
+4451538433 | Technical Architect - Salesforce [T500-26831] | https://in.linkedin.com/jobs/view/technical-architect-salesforce-t500-26831-at-marriott-tech-accelerator-4451538433
+4451191422 | Salesforce Tester | https://in.linkedin.com/jobs/view/salesforce-tester-at-valuelabs-4451191422
