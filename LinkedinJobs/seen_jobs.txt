@@ -5414,3 +5414,10 @@
 4451381077 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4451381077
 4451363927 | DEVELOPER L4 | https://in.linkedin.com/jobs/view/developer-l4-at-wipro-4451363927
 4448197235 | Software Platform Engineer -II | https://in.linkedin.com/jobs/view/software-platform-engineer-ii-at-metlife-4448197235
+4451113325 | Sugar CRM Developer | https://in.linkedin.com/jobs/view/sugar-crm-developer-at-tata-consultancy-services-4451113325
+4451111261 | FDA Developer | https://in.linkedin.com/jobs/view/fda-developer-at-tata-consultancy-services-4451111261
+4449527604 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-itester-inc-4449527604
+4449538185 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-rivirtual-inc-4449538185
+4449540137 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-rivirtual-inc-4449540137
+4451108252 | SDE-1 | https://in.linkedin.com/jobs/view/sde-1-at-bu-consultants-4451108252
+4449543024 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-cxo-inc-4449543024
