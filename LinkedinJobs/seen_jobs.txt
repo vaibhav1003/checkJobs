@@ -5478,3 +5478,7 @@
 4451621873 | Scala Developer | https://in.linkedin.com/jobs/view/scala-developer-at-artech-l-l-c-4451621873
 4451657281 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4451657281
 4451671142 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4451671142
+4452443751 | Microsoft Dynamics Consultant | https://in.linkedin.com/jobs/view/microsoft-dynamics-consultant-at-brio-technologies-4452443751
+4433677345 | Technical Specialist-App Development | https://in.linkedin.com/jobs/view/technical-specialist-app-development-at-birlasoft-4433677345
+4449851158 | Siebel Developer | https://in.linkedin.com/jobs/view/siebel-developer-at-zettamine-labs-pvt-ltd-4449851158
+4452426728 | Senior Quality Engineer I - Salesforce Testing [T500-28018] | https://in.linkedin.com/jobs/view/senior-quality-engineer-i-salesforce-testing-t500-28018-at-marriott-tech-accelerator-4452426728
