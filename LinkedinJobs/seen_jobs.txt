@@ -5475,3 +5475,4 @@
 4452401729 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-mphasis-4452401729
 4451627755 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-mphasis-4451627755
 4451624878 | Salesloft Consultant | https://in.linkedin.com/jobs/view/salesloft-consultant-at-quess-it-staffing-4451624878
+4451621873 | Scala Developer | https://in.linkedin.com/jobs/view/scala-developer-at-artech-l-l-c-4451621873
