@@ -5464,3 +5464,8 @@
 4451892138 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4451892138
 4452105227 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4452105227
 4451493295 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-insight-global-4451493295
+4448301210 | Associate Software Engineer II | https://in.linkedin.com/jobs/view/associate-software-engineer-ii-at-metlife-4448301210
+4451600579 | VBCS Developer | https://in.linkedin.com/jobs/view/vbcs-developer-at-osi-digital-4451600579
+4452111856 | Integration Engineering - Software Engineer | https://in.linkedin.com/jobs/view/integration-engineering-software-engineer-at-apple-4452111856
+4452089962 | TECHNICAL LEAD L1 | https://in.linkedin.com/jobs/view/technical-lead-l1-at-wipro-4452089962
+4452057722 | Staff Software Engineer | https://in.linkedin.com/jobs/view/staff-software-engineer-at-demandbase-4452057722
