@@ -5499,3 +5499,11 @@
 4451914100 | Pega CDH developer | https://in.linkedin.com/jobs/view/pega-cdh-developer-at-tata-consultancy-services-4451914100
 4452611576 | React Developer | https://in.linkedin.com/jobs/view/react-developer-at-tekpioneers-4452611576
 4451927422 | Digital Apigee | https://in.linkedin.com/jobs/view/digital-apigee-at-tata-consultancy-services-4451927422
+4448188999 | Software Engineer I | https://in.linkedin.com/jobs/view/software-engineer-i-at-metlife-4448188999
+4452310036 | Technical Architect- Salesforce Job | https://in.linkedin.com/jobs/view/technical-architect-salesforce-job-at-yash-technologies-middle-east-4452310036
+4453003688 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4453003688
+4453011705 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4453011705
+4453022466 | Software Development Engineer , Concessions Tech | https://in.linkedin.com/jobs/view/software-development-engineer-concessions-tech-at-amazon-4453022466
+4453006541 | Software Development Engineer , Concessions Tech | https://in.linkedin.com/jobs/view/software-development-engineer-concessions-tech-at-amazon-4453006541
+4451980342 | Bounteous - Full Stack Developer - Python/React.js | https://in.linkedin.com/jobs/view/bounteous-full-stack-developer-python-react-js-at-accolite-4451980342
+4453007495 | TIBCO Developer | https://in.linkedin.com/jobs/view/tibco-developer-at-wipro-4453007495
