@@ -5507,3 +5507,9 @@
 4453006541 | Software Development Engineer , Concessions Tech | https://in.linkedin.com/jobs/view/software-development-engineer-concessions-tech-at-amazon-4453006541
 4451980342 | Bounteous - Full Stack Developer - Python/React.js | https://in.linkedin.com/jobs/view/bounteous-full-stack-developer-python-react-js-at-accolite-4451980342
 4453007495 | TIBCO Developer | https://in.linkedin.com/jobs/view/tibco-developer-at-wipro-4453007495
+4452372050 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-hj-software-private-limited-4452372050
+4453056416 | Kafka | https://in.linkedin.com/jobs/view/kafka-at-wipro-4453056416
+4452370050 | GW Billing dev | https://in.linkedin.com/jobs/view/gw-billing-dev-at-coforge-4452370050
+4453070452 | Windchill PLM Technical Developer | https://in.linkedin.com/jobs/view/windchill-plm-technical-developer-at-vmc-soft-technologies-inc-4453070452
+4453069302 | Java Full Stack Developer /MDM | https://in.linkedin.com/jobs/view/java-full-stack-developer-mdm-at-vmc-soft-technologies-inc-4453069302
+4452356093 | Java Software Engineer | https://in.linkedin.com/jobs/view/java-software-engineer-at-artech-l-l-c-4452356093
