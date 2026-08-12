@@ -5539,3 +5539,7 @@
 4453371106 | Application Engineer - I | https://in.linkedin.com/jobs/view/application-engineer-i-at-vanguard-4453371106
 4452729195 | Application Engineer - I | https://in.linkedin.com/jobs/view/application-engineer-i-at-vanguard-india-4452729195
 4452715690 | Application Engineer - II | https://in.linkedin.com/jobs/view/application-engineer-ii-at-vanguard-india-4452715690
+4453371788 | Salesforce Technical Lead | https://in.linkedin.com/jobs/view/salesforce-technical-lead-at-diligente-technologies-4453371788
+4453374440 | AI or ML Engineer | https://in.linkedin.com/jobs/view/ai-or-ml-engineer-at-optum-india-4453374440
+4453375382 | Genesys Developer | https://in.linkedin.com/jobs/view/genesys-developer-at-cgi-4453375382
+4453347798 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4453347798
