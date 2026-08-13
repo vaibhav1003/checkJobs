@@ -5545,3 +5545,6 @@
 4453347798 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4453347798
 4453346927 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4453346927
 4453366181 | Full Stack Engineer | https://in.linkedin.com/jobs/view/full-stack-engineer-at-gradera-4453366181
+4453659127 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-avensys-consulting-4453659127
+4453617879 | Software Engineer III - Full Stack | https://in.linkedin.com/jobs/view/software-engineer-iii-full-stack-at-jpmorganchase-4453617879
+4453348715 | Senior Consultant Specialist | https://in.linkedin.com/jobs/view/senior-consultant-specialist-at-hsbc-4453348715
