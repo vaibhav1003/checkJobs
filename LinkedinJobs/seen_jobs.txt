@@ -5579,3 +5579,6 @@
 4454058143 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-ss-c-technologies-4454058143
 4452994636 | Lead Software Engineer | https://in.linkedin.com/jobs/view/lead-software-engineer-at-principal-financial-group-4452994636
 4454020945 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4454020945
+4454024946 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4454024946
+4454029856 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4454029856
+4452991531 | Commerce - India | https://in.linkedin.com/jobs/view/commerce-india-at-fanatics-4452991531
