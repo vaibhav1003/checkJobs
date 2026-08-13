@@ -5543,3 +5543,5 @@
 4453374440 | AI or ML Engineer | https://in.linkedin.com/jobs/view/ai-or-ml-engineer-at-optum-india-4453374440
 4453375382 | Genesys Developer | https://in.linkedin.com/jobs/view/genesys-developer-at-cgi-4453375382
 4453347798 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4453347798
+4453346927 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4453346927
+4453366181 | Full Stack Engineer | https://in.linkedin.com/jobs/view/full-stack-engineer-at-gradera-4453366181
