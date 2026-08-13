@@ -5548,3 +5548,10 @@
 4453659127 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-avensys-consulting-4453659127
 4453617879 | Software Engineer III - Full Stack | https://in.linkedin.com/jobs/view/software-engineer-iii-full-stack-at-jpmorganchase-4453617879
 4453348715 | Senior Consultant Specialist | https://in.linkedin.com/jobs/view/senior-consultant-specialist-at-hsbc-4453348715
+4450461118 | Zoho Developer | https://in.linkedin.com/jobs/view/zoho-developer-at-hylenr-technologies-private-limited-4450461118
+4453659300 | MS Dynamics CRM Developer | https://in.linkedin.com/jobs/view/ms-dynamics-crm-developer-at-vysystems-4453659300
+4450454276 | Microsoft Dynamics Consultant | https://in.linkedin.com/jobs/view/microsoft-dynamics-consultant-at-deloitte-4450454276
+4452773693 | ABAP Developer | https://in.linkedin.com/jobs/view/abap-developer-at-infosys-4452773693
+4453652484 | sap Mobile platform Developer | https://in.linkedin.com/jobs/view/sap-mobile-platform-developer-at-vmc-soft-technologies-inc-4453652484
+4453650608 | ServiceNow Developer (ITSM) | https://in.linkedin.com/jobs/view/servicenow-developer-itsm-at-info-origin-inc-4453650608
+4450460117 | Area Sales Manager | https://in.linkedin.com/jobs/view/area-sales-manager-at-thermo-fisher-scientific-4450460117
