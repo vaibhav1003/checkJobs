@@ -5593,3 +5593,7 @@
 4450802560 | Azure Engineer | https://in.linkedin.com/jobs/view/azure-engineer-at-principle-pride-4450802560
 4453252595 | Sr Developer | https://in.linkedin.com/jobs/view/sr-developer-at-cognizant-4453252595
 4454094971 | Success Architect - B2B Commerce | https://in.linkedin.com/jobs/view/success-architect-b2b-commerce-at-salesforce-ad-4454094971
+4454315269 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-optum-india-4454315269
+4454313340 | Full-Stack Software Engineer (Frontend, Backend & Cloud) – Applied & Agentic AI Systems | https://in.linkedin.com/jobs/view/full-stack-software-engineer-frontend-backend-cloud-%E2%80%93-applied-agentic-ai-systems-at-roche-4454313340
+4454311394 | Full-Stack Software Engineer (Frontend, Backend & Cloud) – Applied & Agentic AI Systems | https://in.linkedin.com/jobs/view/full-stack-software-engineer-frontend-backend-cloud-%E2%80%93-applied-agentic-ai-systems-at-roche-4454311394
+4454316267 | Full-Stack Software Engineer (Frontend, Backend & Cloud) – Applied & Agentic AI Systems | https://in.linkedin.com/jobs/view/full-stack-software-engineer-frontend-backend-cloud-%E2%80%93-applied-agentic-ai-systems-at-roche-4454316267
