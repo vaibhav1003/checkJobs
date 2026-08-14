@@ -5627,3 +5627,5 @@
 4454536127 | Software Platform Engineer II | https://in.linkedin.com/jobs/view/software-platform-engineer-ii-at-metlife-4454536127
 4453568878 | Mulesoft Consultant | https://in.linkedin.com/jobs/view/mulesoft-consultant-at-infosys-4453568878
 4454555138 | Senior Servicenow Developer | https://in.linkedin.com/jobs/view/senior-servicenow-developer-at-medtronic-4454555138
+4453588267 | Salesforce Architect FSL | https://in.linkedin.com/jobs/view/salesforce-architect-fsl-at-metasys-technologies-4453588267
+4453561223 | Ruby on Rails Developer | https://in.linkedin.com/jobs/view/ruby-on-rails-developer-at-talentbridge-4453561223
