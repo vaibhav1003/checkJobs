@@ -5620,3 +5620,7 @@
 4454390356 | TECHNICAL LEAD | https://in.linkedin.com/jobs/view/technical-lead-at-coforge-4454390356
 4453570148 | SAP Commerce Cloud (SAP Hybris Commerce) | https://in.linkedin.com/jobs/view/sap-commerce-cloud-sap-hybris-commerce-at-tata-consultancy-services-4453570148
 4415616968 | Sales Analyst | https://in.linkedin.com/jobs/view/sales-analyst-at-nextpower-4415616968
+4454515198 | Full Stack Developer | https://in.linkedin.com/jobs/view/full-stack-developer-at-minfy-4454515198
+4453540019 | Full Stack Developer - Website | https://in.linkedin.com/jobs/view/full-stack-developer-website-at-keus-smart-home-4453540019
+4454398810 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-optum-india-4454398810
+4454512239 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-kumaran-systems-4454512239
