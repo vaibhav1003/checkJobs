@@ -5629,3 +5629,5 @@
 4454555138 | Senior Servicenow Developer | https://in.linkedin.com/jobs/view/senior-servicenow-developer-at-medtronic-4454555138
 4453588267 | Salesforce Architect FSL | https://in.linkedin.com/jobs/view/salesforce-architect-fsl-at-metasys-technologies-4453588267
 4453561223 | Ruby on Rails Developer | https://in.linkedin.com/jobs/view/ruby-on-rails-developer-at-talentbridge-4453561223
+4454552878 | Software Engineer II A - GBS IND | https://in.linkedin.com/jobs/view/software-engineer-ii-a-gbs-ind-at-bank-of-america-4454552878
+4453593366 | Duck Creek Billing Developer | https://in.linkedin.com/jobs/view/duck-creek-billing-developer-at-coforge-4453593366
