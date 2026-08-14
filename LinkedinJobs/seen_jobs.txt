@@ -5603,3 +5603,9 @@
 4454366178 | Software Engineer III-Java React full stack developer | https://in.linkedin.com/jobs/view/software-engineer-iii-java-react-full-stack-developer-at-jpmorganchase-4454366178
 4453502841 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-bu-consultants-4453502841
 4452461986 | Application Engineer | https://in.linkedin.com/jobs/view/application-engineer-at-vanguard-4452461986
+4453513448 | Dynamics 365 Developer | https://in.linkedin.com/jobs/view/dynamics-365-developer-at-qpact-4453513448
+4450871607 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-edurun-group-4450871607
+4453526173 | Dynamics Consultant | https://in.linkedin.com/jobs/view/dynamics-consultant-at-gspann-technologies-inc-4453526173
+4454368298 | Senior Hubspot Developer | https://in.linkedin.com/jobs/view/senior-hubspot-developer-at-techaivv-technologies-4454368298
+4453511465 | Enovia Developer | https://in.linkedin.com/jobs/view/enovia-developer-at-technogen-inc-4453511465
+4453525361 | Full Stack Developer – React & Python | https://in.linkedin.com/jobs/view/full-stack-developer-%E2%80%93-react-python-at-tata-consultancy-services-4453525361
