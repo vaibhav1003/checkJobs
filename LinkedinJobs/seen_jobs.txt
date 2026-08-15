@@ -5648,3 +5648,4 @@
 4454850162 | Software Engineer 2-1 | https://in.linkedin.com/jobs/view/software-engineer-2-1-at-stage-2-capital-4454850162
 4453760075 | Software Engineer, Staff A-1 | https://in.linkedin.com/jobs/view/software-engineer-staff-a-1-at-blackbaud-india-4453760075
 4454859639 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-exatech-inc-4454859639
+4454853894 | SnapLogic Developer | https://in.linkedin.com/jobs/view/snaplogic-developer-at-transvivo-solutions-4454853894
