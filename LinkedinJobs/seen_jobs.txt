@@ -5659,3 +5659,6 @@
 4451727325 | Senior Consultant - Tech Consulting - National - CNS - TC - Digital Engineering - Hyderabad | https://in.linkedin.com/jobs/view/senior-consultant-tech-consulting-national-cns-tc-digital-engineering-hyderabad-at-ey-4451727325
 4444660104 | ServiceNow Developer | https://in.linkedin.com/jobs/view/servicenow-developer-at-infosys-4444660104
 4453916222 | Senior Developer | https://in.linkedin.com/jobs/view/senior-developer-at-idfc-first-bank-4453916222
+4444384493 | Zuora Developer | https://in.linkedin.com/jobs/view/zuora-developer-at-ideagen-4444384493
+4436411492 | PEGA Developer | https://in.linkedin.com/jobs/view/pega-developer-at-cgi-4436411492
+4435449116 | RPA Developer | https://in.linkedin.com/jobs/view/rpa-developer-at-birlasoft-4435449116
