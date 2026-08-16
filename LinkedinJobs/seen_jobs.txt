@@ -5677,3 +5677,5 @@
 4455147705 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4455147705
 4455141779 | DEVELOPER L4 | https://in.linkedin.com/jobs/view/developer-l4-at-wipro-4455141779
 4455143755 | DEVELOPER L4 | https://in.linkedin.com/jobs/view/developer-l4-at-wipro-4455143755
+4453973520 | Senior Full Stack Engineer | https://in.linkedin.com/jobs/view/senior-full-stack-engineer-at-aure-4453973520
+4451771088 | Mobile Developer | https://in.linkedin.com/jobs/view/mobile-developer-at-giris-information-services-4451771088
