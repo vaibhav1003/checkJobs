@@ -5680,3 +5680,8 @@
 4453973520 | Senior Full Stack Engineer | https://in.linkedin.com/jobs/view/senior-full-stack-engineer-at-aure-4453973520
 4451771088 | Mobile Developer | https://in.linkedin.com/jobs/view/mobile-developer-at-giris-information-services-4451771088
 4451756930 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-sid-information-technologies-4451756930
+4455176864 | Software Engineering Architect- 6-9 years of proven experience as a Salesforce Developer with a strong understanding of Salesforce architecture and best practices. (Work Location- Hyderabad) | https://in.linkedin.com/jobs/view/software-engineering-architect-6-9-years-of-proven-experience-as-a-salesforce-developer-with-a-strong-understanding-of-salesforce-architecture-and-best-practices-work-location-hyderabad-at-cisco-4455176864
+4453973801 | Sailpoint | https://in.linkedin.com/jobs/view/sailpoint-at-tata-consultancy-services-4453973801
+4362385096 | Senior Software Engineer | https://in.linkedin.com/jobs/view/senior-software-engineer-at-simcorp-4362385096
+4427528918 | Integration Developer (SAP IS Expert) | https://in.linkedin.com/jobs/view/integration-developer-sap-is-expert-at-opella-4427528918
+4451785076 | FBS Guidewire - Application Developer III | https://in.linkedin.com/jobs/view/fbs-guidewire-application-developer-iii-at-capgemini-4451785076
