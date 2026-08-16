@@ -5685,3 +5685,5 @@
 4362385096 | Senior Software Engineer | https://in.linkedin.com/jobs/view/senior-software-engineer-at-simcorp-4362385096
 4427528918 | Integration Developer (SAP IS Expert) | https://in.linkedin.com/jobs/view/integration-developer-sap-is-expert-at-opella-4427528918
 4451785076 | FBS Guidewire - Application Developer III | https://in.linkedin.com/jobs/view/fbs-guidewire-application-developer-iii-at-capgemini-4451785076
+4451783540 | SAP BW | https://in.linkedin.com/jobs/view/sap-bw-at-zensar-technologies-4451783540
+4398141219 | Senior Software Engineer | https://in.linkedin.com/jobs/view/senior-software-engineer-at-seismic-4398141219
