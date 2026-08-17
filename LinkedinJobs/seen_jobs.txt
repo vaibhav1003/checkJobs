@@ -5703,3 +5703,7 @@
 4454236034 | Business System Engineer | https://in.linkedin.com/jobs/view/business-system-engineer-at-syscloud-4454236034
 4452244027 | Java Developer | https://in.linkedin.com/jobs/view/java-developer-at-hcltech-4452244027
 4452205646 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-itester-inc-4452205646
+4455237630 | Technical Architect - Analytics | https://in.linkedin.com/jobs/view/technical-architect-analytics-at-salesforce-4455237630
+4454256070 | Salesforce Technical Lead | https://in.linkedin.com/jobs/view/salesforce-technical-lead-at-tata-consultancy-services-4454256070
+4450496112 | Solution Engineer | https://in.linkedin.com/jobs/view/solution-engineer-at-floww-ai-4450496112
+4454235277 | Windchill PLM Developer | https://in.linkedin.com/jobs/view/windchill-plm-developer-at-tata-consultancy-services-4454235277
