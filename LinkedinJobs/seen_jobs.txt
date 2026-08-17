@@ -5691,3 +5691,4 @@
 4455212602 | APPLICATION ARCHITECT L1 | https://in.linkedin.com/jobs/view/application-architect-l1-at-wipro-4455212602
 4452218512 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-rivirtual-inc-4452218512
 4452200492 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-ai-vidya-4452200492
+4455233048 | Java Fullstack Developer | https://in.linkedin.com/jobs/view/java-fullstack-developer-at-exatech-inc-4455233048
