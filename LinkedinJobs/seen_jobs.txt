@@ -5712,3 +5712,5 @@
 4454258251 | Mendix Application Developer | https://in.linkedin.com/jobs/view/mendix-application-developer-at-artech-l-l-c-4454258251
 4452232795 | Accordion India - Associate - Salesforce CRM | https://in.linkedin.com/jobs/view/accordion-india-associate-salesforce-crm-at-accordion-india-4452232795
 4455258822 | Salesforce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-osf-digital-4455258822
+4455277771 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-runmap-infotech-private-ltd-4455277771
+4455270820 | Freelancing: Salesforce Data Cloud Developer | https://in.linkedin.com/jobs/view/freelancing-salesforce-data-cloud-developer-at-willware-technologies-4455270820
