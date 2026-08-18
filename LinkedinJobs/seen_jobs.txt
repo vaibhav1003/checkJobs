@@ -5735,3 +5735,8 @@
 4452539470 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-regal-rexnord-4452539470
 4452527487 | Full Stack Cloud Engineer | https://in.linkedin.com/jobs/view/full-stack-cloud-engineer-at-regal-rexnord-4452527487
 4452534501 | Software  Developer SQA | https://in.linkedin.com/jobs/view/software-developer-sqa-at-regal-rexnord-4452534501
+4454437863 | Software Developer (Java Full Stack / Python GenAI) | https://in.linkedin.com/jobs/view/software-developer-java-full-stack-python-genai-at-infosys-4454437863
+4454469367 | Python Developer — Web Scraping | https://in.linkedin.com/jobs/view/python-developer-%E2%80%94-web-scraping-at-cloudhire-4454469367
+4454446678 | AWS Bedrock Developer-Terraform-Python | https://in.linkedin.com/jobs/view/aws-bedrock-developer-terraform-python-at-infosys-4454446678
+4452537111 | Senior Software Engineer/.Net | https://in.linkedin.com/jobs/view/senior-software-engineer-net-at-the-hartford-india-4452537111
+4452525145 | Senior Software Engineer/.Net | https://in.linkedin.com/jobs/view/senior-software-engineer-net-at-the-hartford-india-4452525145
