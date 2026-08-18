@@ -5768,3 +5768,6 @@
 4455779842 | Salesforce Developer and Admin, ISS | https://in.linkedin.com/jobs/view/salesforce-developer-and-admin-iss-at-amazon-4455779842
 4454794103 | Salesforce Architect FSL | https://in.linkedin.com/jobs/view/salesforce-architect-fsl-at-metasys-technologies-4454794103
 4445476667 | Principal Technical Architect | https://in.linkedin.com/jobs/view/principal-technical-architect-at-cognizant-4445476667
+4455946234 | Software Engineering AMTS | https://in.linkedin.com/jobs/view/software-engineering-amts-at-salesforce-4455946234
+4455946138 | Senior Software Engineer | https://in.linkedin.com/jobs/view/senior-software-engineer-at-ayr-energy-4455946138
+4455748565 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4455748565
