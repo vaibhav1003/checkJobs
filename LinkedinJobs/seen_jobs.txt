@@ -5765,3 +5765,6 @@
 4452830006 | WordPress/CRM Developer | https://in.linkedin.com/jobs/view/wordpress-crm-developer-at-navtech-4452830006
 4455757928 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4455757928
 4455770120 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-cisco-4455770120
+4455779842 | Salesforce Developer and Admin, ISS | https://in.linkedin.com/jobs/view/salesforce-developer-and-admin-iss-at-amazon-4455779842
+4454794103 | Salesforce Architect FSL | https://in.linkedin.com/jobs/view/salesforce-architect-fsl-at-metasys-technologies-4454794103
+4445476667 | Principal Technical Architect | https://in.linkedin.com/jobs/view/principal-technical-architect-at-cognizant-4445476667
