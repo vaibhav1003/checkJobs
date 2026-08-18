@@ -5740,3 +5740,6 @@
 4454446678 | AWS Bedrock Developer-Terraform-Python | https://in.linkedin.com/jobs/view/aws-bedrock-developer-terraform-python-at-infosys-4454446678
 4452537111 | Senior Software Engineer/.Net | https://in.linkedin.com/jobs/view/senior-software-engineer-net-at-the-hartford-india-4452537111
 4452525145 | Senior Software Engineer/.Net | https://in.linkedin.com/jobs/view/senior-software-engineer-net-at-the-hartford-india-4452525145
+4455578321 | Senior Salesforce Business Analyst | https://in.linkedin.com/jobs/view/senior-salesforce-business-analyst-at-hitachi-digital-4455578321
+4454466556 | Senior Software Engineer | https://in.linkedin.com/jobs/view/senior-software-engineer-at-talentgigs-4454466556
+4455300410 | Cloud Engineer | https://in.linkedin.com/jobs/view/cloud-engineer-at-webologix-ltd-inc-4455300410
