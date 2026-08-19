@@ -5794,3 +5794,8 @@
 4452892740 | Full Stack Engineer | https://in.linkedin.com/jobs/view/full-stack-engineer-at-orbitekk-4452892740
 4454946829 | Scala Developer | https://in.linkedin.com/jobs/view/scala-developer-at-eliterecruitments-4454946829
 4452899842 | Smartcomm Developer | https://in.linkedin.com/jobs/view/smartcomm-developer-at-openteq-technologies-4452899842
+4454985277 | Mern Stack Developer | https://in.linkedin.com/jobs/view/mern-stack-developer-at-jobtrade-4454985277
+4454971277 | WordPress Developer & CRM Specialist | https://in.linkedin.com/jobs/view/wordpress-developer-crm-specialist-at-navtech-4454971277
+4453431054 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-birlasoft-4453431054
+4453428205 | Sales Development Representative | https://in.linkedin.com/jobs/view/sales-development-representative-at-keka-hr-4453428205
+4455908371 | Software Development Engineer - II | https://in.linkedin.com/jobs/view/software-development-engineer-ii-at-amazon-4455908371
