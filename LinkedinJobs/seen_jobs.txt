@@ -5817,3 +5817,9 @@
 4456316173 | AI Engineer | https://in.linkedin.com/jobs/view/ai-engineer-at-metlife-4456316173
 4456309984 | Software Engineer II | https://in.linkedin.com/jobs/view/software-engineer-ii-at-metlife-4456309984
 4456335878 | Full Stack Developer Submission Data and Content Generation & Reuse (AIDCG) - Pharma R&D | https://in.linkedin.com/jobs/view/full-stack-developer-submission-data-and-content-generation-reuse-aidcg-pharma-r-d-at-roche-4456335878
+4456387090 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4456387090
+4456374995 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4456374995
+4456380891 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4456380891
+4456395031 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4456395031
+4456335778 | Software engineer | https://in.linkedin.com/jobs/view/software-engineer-at-wells-fargo-4456335778
+4456330969 | Full Stack Developer Submission Data and Content Generation & Reuse (AIDCG) - Pharma R&D | https://in.linkedin.com/jobs/view/full-stack-developer-submission-data-and-content-generation-reuse-aidcg-pharma-r-d-at-roche-4456330969
