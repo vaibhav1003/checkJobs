@@ -5810,3 +5810,8 @@
 4456316359 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4456316359
 4455405174 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-people-prime-worldwide-4455405174
 4443299854 | Salesforce QE | https://in.linkedin.com/jobs/view/salesforce-qe-at-algoleap-4443299854
+4425743444 | Salesforce Service Cloud +Agentforce -Senior Associate | https://in.linkedin.com/jobs/view/salesforce-service-cloud-%2Bagentforce-senior-associate-at-pwc-acceleration-center-india-4425743444
+4446827130 | SW Engineer -- Workato Integrations | https://in.linkedin.com/jobs/view/sw-engineer-workato-integrations-at-jaggaer-4446827130
+4456319346 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4456319346
+4456313443 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4456313443
+4456316173 | AI Engineer | https://in.linkedin.com/jobs/view/ai-engineer-at-metlife-4456316173
