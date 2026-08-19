@@ -5787,3 +5787,10 @@
 4456109017 | Bounteous - Full Stack Developer - Generative AI | https://in.linkedin.com/jobs/view/bounteous-full-stack-developer-generative-ai-at-accolite-4456109017
 4454534668 | Application Engineer - III | https://in.linkedin.com/jobs/view/application-engineer-iii-at-vanguard-4454534668
 4456154384 | Data Engineer | https://in.linkedin.com/jobs/view/data-engineer-at-the-heineken-company-4456154384
+4454966170 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-thoughtfocus-4454966170
+4455928575 | SDE2, Stores TA | https://in.linkedin.com/jobs/view/sde2-stores-ta-at-amazon-4455928575
+4454951717 | Information Technology Sales Specialist | https://in.linkedin.com/jobs/view/information-technology-sales-specialist-at-talentgigs-4454951717
+4455932135 | Software Development Engineer , Concessions Tech | https://in.linkedin.com/jobs/view/software-development-engineer-concessions-tech-at-amazon-4455932135
+4452892740 | Full Stack Engineer | https://in.linkedin.com/jobs/view/full-stack-engineer-at-orbitekk-4452892740
+4454946829 | Scala Developer | https://in.linkedin.com/jobs/view/scala-developer-at-eliterecruitments-4454946829
+4452899842 | Smartcomm Developer | https://in.linkedin.com/jobs/view/smartcomm-developer-at-openteq-technologies-4452899842
