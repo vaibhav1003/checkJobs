@@ -5838,3 +5838,6 @@
 4456445703 | .Net Fullstack with Angular/ Reactjs (Software Engineer II) | https://in.linkedin.com/jobs/view/net-fullstack-with-angular-reactjs-software-engineer-ii-at-jpmorganchase-4456445703
 4456433874 | RPA Developer | https://in.linkedin.com/jobs/view/rpa-developer-at-solugenix-4456433874
 4455489442 | Software Engineer II, Full Stack | https://in.linkedin.com/jobs/view/software-engineer-ii-full-stack-at-google-4455489442
+4453843245 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-persistent-systems-4453843245
+4455613214 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-people-prime-worldwide-4455613214
+4453836240 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-vcm-logistics-private-limited-4453836240
