@@ -5858,3 +5858,5 @@
 4453876483 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-persistent-systems-4453876483
 4453872574 | Salesforce Marketing Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-at-persistent-systems-4453872574
 4455618987 | Saleforce Architect (Apex & Retail background is must) | https://in.linkedin.com/jobs/view/saleforce-architect-apex-retail-background-is-must-at-talentquell-4455618987
+4453883156 | Salesforce Programmer Developer | https://in.linkedin.com/jobs/view/salesforce-programmer-developer-at-persistent-systems-4453883156
+4453872921 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-persistent-systems-4453872921
