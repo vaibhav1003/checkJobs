@@ -5882,3 +5882,8 @@
 4454124336 | Senior Technical Consultant-Java | https://in.linkedin.com/jobs/view/senior-technical-consultant-java-at-argano-4454124336
 4456759577 | Specialist - Software Development & Engineering | https://in.linkedin.com/jobs/view/specialist-software-development-engineering-at-charles-schwab-india-4456759577
 4456749991 | Service now Developer | https://in.linkedin.com/jobs/view/service-now-developer-at-people-prime-worldwide-4456749991
+4457027663 | Mulesoft Developer | https://in.linkedin.com/jobs/view/mulesoft-developer-at-htc-global-services-4457027663
+4456028131 | Software Developer Advisor | https://in.linkedin.com/jobs/view/software-developer-advisor-at-fedex-acc-4456028131
+4456771646 | Software Developer Advisor | https://in.linkedin.com/jobs/view/software-developer-advisor-at-fedex-4456771646
+4456784957 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4456784957
+4444578523 | Software Developer 3 | https://in.linkedin.com/jobs/view/software-developer-3-at-oracle-4444578523
