@@ -5829,3 +5829,7 @@
 4456364972 | Data Engineer | https://in.linkedin.com/jobs/view/data-engineer-at-accenture-in-india-4456364972
 4453468694 | Sr.Software engineer | https://in.linkedin.com/jobs/view/sr-software-engineer-at-rapiscan-systems-4453468694
 4455439952 | Full Stack Developer | https://in.linkedin.com/jobs/view/full-stack-developer-at-sid-information-technologies-4455439952
+4453800853 | Sr. Consultant - Salesforce Job | https://in.linkedin.com/jobs/view/sr-consultant-salesforce-job-at-yash-technologies-middle-east-4453800853
+4456438543 | Staff Engineer | https://in.linkedin.com/jobs/view/staff-engineer-at-jmd-technologies-inc-4456438543
+4456421109 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-ge-vernova-4456421109
+4453499869 | Consultant - SAP CRM-Technical Job | https://in.linkedin.com/jobs/view/consultant-sap-crm-technical-job-at-yash-technologies-middle-east-4453499869
