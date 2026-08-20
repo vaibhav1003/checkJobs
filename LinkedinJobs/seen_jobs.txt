@@ -5855,3 +5855,6 @@
 4455616339 | Solutions Architect | https://in.linkedin.com/jobs/view/solutions-architect-at-technogen-india-pvt-ltd-4455616339
 4456458703 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4456458703
 4456466593 | Power Platform Engineer | https://in.linkedin.com/jobs/view/power-platform-engineer-at-sourcingxpress-4456466593
+4453876483 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-persistent-systems-4453876483
+4453872574 | Salesforce Marketing Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-at-persistent-systems-4453872574
+4455618987 | Saleforce Architect (Apex & Retail background is must) | https://in.linkedin.com/jobs/view/saleforce-architect-apex-retail-background-is-must-at-talentquell-4455618987
