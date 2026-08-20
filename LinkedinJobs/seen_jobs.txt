@@ -5833,3 +5833,8 @@
 4456438543 | Staff Engineer | https://in.linkedin.com/jobs/view/staff-engineer-at-jmd-technologies-inc-4456438543
 4456421109 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-ge-vernova-4456421109
 4453499869 | Consultant - SAP CRM-Technical Job | https://in.linkedin.com/jobs/view/consultant-sap-crm-technical-job-at-yash-technologies-middle-east-4453499869
+4456448832 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4456448832
+4456450848 | Full Stack Engineer - Java and React | https://in.linkedin.com/jobs/view/full-stack-engineer-java-and-react-at-optum-india-4456450848
+4456445703 | .Net Fullstack with Angular/ Reactjs (Software Engineer II) | https://in.linkedin.com/jobs/view/net-fullstack-with-angular-reactjs-software-engineer-ii-at-jpmorganchase-4456445703
+4456433874 | RPA Developer | https://in.linkedin.com/jobs/view/rpa-developer-at-solugenix-4456433874
+4455489442 | Software Engineer II, Full Stack | https://in.linkedin.com/jobs/view/software-engineer-ii-full-stack-at-google-4455489442
