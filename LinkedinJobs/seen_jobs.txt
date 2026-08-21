@@ -5904,3 +5904,5 @@
 4457091814 | Web Developer | https://in.linkedin.com/jobs/view/web-developer-at-accenture-in-india-4457091814
 4457098746 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4457098746
 4454186268 | Software Engineer (Custom Tech) | https://in.linkedin.com/jobs/view/software-engineer-custom-tech-at-two-circles-4454186268
+4446759647 | Manager/Senior Manager, Technical Consulting — Revenue Cloud Advanced(RCA) | https://in.linkedin.com/jobs/view/manager-senior-manager-technical-consulting-%E2%80%94-revenue-cloud-advanced-rca-at-salesforce-4446759647
+4456210168 | Microsoft Dynamics 365 CRM Consultant | https://in.linkedin.com/jobs/view/microsoft-dynamics-365-crm-consultant-at-teknikoz-4456210168
