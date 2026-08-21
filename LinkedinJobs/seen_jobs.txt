@@ -5906,3 +5906,6 @@
 4454186268 | Software Engineer (Custom Tech) | https://in.linkedin.com/jobs/view/software-engineer-custom-tech-at-two-circles-4454186268
 4446759647 | Manager/Senior Manager, Technical Consulting — Revenue Cloud Advanced(RCA) | https://in.linkedin.com/jobs/view/manager-senior-manager-technical-consulting-%E2%80%94-revenue-cloud-advanced-rca-at-salesforce-4446759647
 4456210168 | Microsoft Dynamics 365 CRM Consultant | https://in.linkedin.com/jobs/view/microsoft-dynamics-365-crm-consultant-at-teknikoz-4456210168
+4454198911 | Executive | Salesforce Developer | https://in.linkedin.com/jobs/view/executive-salesforce-developer-at-macquarie-group-4454198911
+4457313221 | Senior Lead Salesforce Developer [T500-28789] | https://in.linkedin.com/jobs/view/senior-lead-salesforce-developer-t500-28789-at-talent500-4457313221
+4452375243 | Salesforce AMS Lead | https://in.linkedin.com/jobs/view/salesforce-ams-lead-at-process360-ltd-4452375243
