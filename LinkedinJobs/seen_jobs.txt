@@ -5917,3 +5917,7 @@
 4456210946 | SalesForce OMS Tech Lead | https://in.linkedin.com/jobs/view/salesforce-oms-tech-lead-at-excellerate-consulting-4456210946
 4457348665 | Full Stack Engineer | https://in.linkedin.com/jobs/view/full-stack-engineer-at-accenture-in-india-4457348665
 4457332692 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4457332692
+4456264029 | Salesforce QA - Consultant, Managed Services - DFO&I - Customer | https://in.linkedin.com/jobs/view/salesforce-qa-consultant-managed-services-dfo-i-customer-at-deloitte-4456264029
+4456204663 | Sr Technical Lead-Data Engg | https://in.linkedin.com/jobs/view/sr-technical-lead-data-engg-at-birlasoft-4456204663
+4426410636 | IFS Cloud EAM and ERP - Senior Associate | https://in.linkedin.com/jobs/view/ifs-cloud-eam-and-erp-senior-associate-at-pwc-acceleration-center-india-4426410636
+4449633906 | Manager Software Development Engineer | https://in.linkedin.com/jobs/view/manager-software-development-engineer-at-amgen-4449633906
