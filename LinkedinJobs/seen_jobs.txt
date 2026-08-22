@@ -5952,3 +5952,6 @@
 4457523050 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4457523050
 4419071744 | Oracle Incentive Cloud - Consultant, Technical Transformation - Sales & Services- Customer | https://in.linkedin.com/jobs/view/oracle-incentive-cloud-consultant-technical-transformation-sales-services-customer-at-deloitte-4419071744
 4456644526 | WordPress Developer – Website to CRM Integration (Salesforce/HubSpot/Pipedrive/Zoho) | https://in.linkedin.com/jobs/view/wordpress-developer-%E2%80%93-website-to-crm-integration-salesforce-hubspot-pipedrive-zoho-at-navtech-4456644526
+4455031251 | WordPress Developer (CRM Integration Specialist) | https://in.linkedin.com/jobs/view/wordpress-developer-crm-integration-specialist-at-navtech-4455031251
+4447154486 | Technical Specialist-App Development | https://in.linkedin.com/jobs/view/technical-specialist-app-development-at-birlasoft-4447154486
+4401109049 | Full Stack Developer-Senior I | https://in.linkedin.com/jobs/view/full-stack-developer-senior-i-at-fedex-acc-4401109049
