@@ -5950,3 +5950,5 @@
 4438230344 | Technical Architect/Senior Technical Architect/Solution architect-Revenue Cloud | https://in.linkedin.com/jobs/view/technical-architect-senior-technical-architect-solution-architect-revenue-cloud-at-salesforce-4438230344
 4457503173 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4457503173
 4457523050 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4457523050
+4419071744 | Oracle Incentive Cloud - Consultant, Technical Transformation - Sales & Services- Customer | https://in.linkedin.com/jobs/view/oracle-incentive-cloud-consultant-technical-transformation-sales-services-customer-at-deloitte-4419071744
+4456644526 | WordPress Developer – Website to CRM Integration (Salesforce/HubSpot/Pipedrive/Zoho) | https://in.linkedin.com/jobs/view/wordpress-developer-%E2%80%93-website-to-crm-integration-salesforce-hubspot-pipedrive-zoho-at-navtech-4456644526
