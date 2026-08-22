@@ -5939,3 +5939,10 @@
 4457561624 | Software Engineer III | https://in.linkedin.com/jobs/view/software-engineer-iii-at-jpmorganchase-4457561624
 4457563654 | Software Engineer III | https://in.linkedin.com/jobs/view/software-engineer-iii-at-jpmorganchase-4457563654
 4457570565 | Software Engineer II- Java, AWS | https://in.linkedin.com/jobs/view/software-engineer-ii-java-aws-at-jpmorganchase-4457570565
+4455007843 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-infor-4455007843
+4456632218 | Senior Engineer | https://in.linkedin.com/jobs/view/senior-engineer-at-aure-4456632218
+4456644153 | Full Stack Developer / UI Developer (.NET Core & React JS) | https://in.linkedin.com/jobs/view/full-stack-developer-ui-developer-net-core-react-js-at-umanist-na-4456644153
+4457584297 | ServiceNow Developer | https://in.linkedin.com/jobs/view/servicenow-developer-at-info-origin-inc-4457584297
+4456641117 | ServiceNow Developer (ITSM) | https://in.linkedin.com/jobs/view/servicenow-developer-itsm-at-info-origin-inc-4456641117
+4455012863 | Software Engineer, Senior ( Data Warehouse ) | https://in.linkedin.com/jobs/view/software-engineer-senior-data-warehouse-at-infor-4455012863
+4455017775 | Software Engineer, Senior ( Data Warehouse ) | https://in.linkedin.com/jobs/view/software-engineer-senior-data-warehouse-at-infor-4455017775
