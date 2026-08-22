@@ -5969,3 +5969,5 @@
 4413538877 | Business Development and Client Strategy | https://in.linkedin.com/jobs/view/business-development-and-client-strategy-at-peepal-consulting-4413538877
 4408491368 | Senior Full Stack Developer | https://in.linkedin.com/jobs/view/senior-full-stack-developer-at-ice-4408491368
 4456668087 | Mainframe Developer & support specialist | https://in.linkedin.com/jobs/view/mainframe-developer-support-specialist-at-massmutual-india-4456668087
+4455029060 | Data Engineer | https://in.linkedin.com/jobs/view/data-engineer-at-synthlake-llc-4455029060
+4457856482 | Senior Software Engineer | https://in.linkedin.com/jobs/view/senior-software-engineer-at-wells-fargo-4457856482
