@@ -5965,3 +5965,7 @@
 4430930103 | Software Engineer III | https://in.linkedin.com/jobs/view/software-engineer-iii-at-ghx-india-4430930103
 4428232274 | Software Engineer III | https://in.linkedin.com/jobs/view/software-engineer-iii-at-ghx-4428232274
 4457598978 | Software Backend Engineer (JAVA) | https://in.linkedin.com/jobs/view/software-backend-engineer-java-at-agivant-technologies-4457598978
+4457855114 | Junior Automation Developer | https://in.linkedin.com/jobs/view/junior-automation-developer-at-eazerecruit-hr-private-limited-4457855114
+4413538877 | Business Development and Client Strategy | https://in.linkedin.com/jobs/view/business-development-and-client-strategy-at-peepal-consulting-4413538877
+4408491368 | Senior Full Stack Developer | https://in.linkedin.com/jobs/view/senior-full-stack-developer-at-ice-4408491368
+4456668087 | Mainframe Developer & support specialist | https://in.linkedin.com/jobs/view/mainframe-developer-support-specialist-at-massmutual-india-4456668087
