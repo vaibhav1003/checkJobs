@@ -5971,3 +5971,6 @@
 4456668087 | Mainframe Developer & support specialist | https://in.linkedin.com/jobs/view/mainframe-developer-support-specialist-at-massmutual-india-4456668087
 4455029060 | Data Engineer | https://in.linkedin.com/jobs/view/data-engineer-at-synthlake-llc-4455029060
 4457856482 | Senior Software Engineer | https://in.linkedin.com/jobs/view/senior-software-engineer-at-wells-fargo-4457856482
+4457852950 | DEVELOPER L4 | https://in.linkedin.com/jobs/view/developer-l4-at-wipro-4457852950
+4457861720 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4457861720
+4457874371 | Software Engineer II | https://in.linkedin.com/jobs/view/software-engineer-ii-at-insightsoftware-4457874371
