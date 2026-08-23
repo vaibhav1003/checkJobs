@@ -5987,3 +5987,6 @@
 4411617615 | SAP AI/ Developer | https://in.linkedin.com/jobs/view/sap-ai-developer-at-ntt-data-north-america-4411617615
 4310842363 | SrFullstack Developer | https://in.linkedin.com/jobs/view/srfullstack-developer-at-infovision-inc-4310842363
 4410480248 | Graphics Compiler – Python Tool Development | https://in.linkedin.com/jobs/view/graphics-compiler-%E2%80%93-python-tool-development-at-qualcomm-4410480248
+4455806188 | WordPress + CRM Integration Developer | https://in.linkedin.com/jobs/view/wordpress-%2B-crm-integration-developer-at-navtech-4455806188
+4436665693 | Process Automation Specialist | https://in.linkedin.com/jobs/view/process-automation-specialist-at-arcadis-4436665693
+4436681285 | Full-Stack Developer Manager | https://in.linkedin.com/jobs/view/full-stack-developer-manager-at-arcadis-4436681285
