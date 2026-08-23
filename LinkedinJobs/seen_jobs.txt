@@ -5980,3 +5980,10 @@
 4456681902 | SAP ABAP | https://in.linkedin.com/jobs/view/sap-abap-at-tata-consultancy-services-4456681902
 4436660827 | Software Engineer, Senior | https://in.linkedin.com/jobs/view/software-engineer-senior-at-infor-4436660827
 4421723152 | Anaplan - Senior Consultant Technical Transformation - Sales & Service - Customer | https://in.linkedin.com/jobs/view/anaplan-senior-consultant-technical-transformation-sales-service-customer-at-deloitte-4421723152
+4443274655 | Senior Specialist - Software Development & Engineering | https://in.linkedin.com/jobs/view/senior-specialist-software-development-engineering-at-charles-schwab-india-4443274655
+4411896092 | AI Engineer - India | https://in.linkedin.com/jobs/view/ai-engineer-india-at-cornerstone-ondemand-4411896092
+4400809760 | IND Staff Software Engineer | https://in.linkedin.com/jobs/view/ind-staff-software-engineer-at-the-hartford-india-4400809760
+4438308526 | Engineer-product security | https://in.linkedin.com/jobs/view/engineer-product-security-at-qualcomm-4438308526
+4411617615 | SAP AI/ Developer | https://in.linkedin.com/jobs/view/sap-ai-developer-at-ntt-data-north-america-4411617615
+4310842363 | SrFullstack Developer | https://in.linkedin.com/jobs/view/srfullstack-developer-at-infovision-inc-4310842363
+4410480248 | Graphics Compiler – Python Tool Development | https://in.linkedin.com/jobs/view/graphics-compiler-%E2%80%93-python-tool-development-at-qualcomm-4410480248
