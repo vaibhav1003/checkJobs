@@ -6014,3 +6014,5 @@
 4458174435 | MTS/SMTS/LMTS - Software Engineer | https://in.linkedin.com/jobs/view/mts-smts-lmts-software-engineer-at-salesforce-4458174435
 4458161430 | MSD CRM Technical | https://in.linkedin.com/jobs/view/msd-crm-technical-at-tata-consultancy-services-4458161430
 4456858676 | Snowflake Developer | https://in.linkedin.com/jobs/view/snowflake-developer-at-tata-consultancy-services-4456858676
+4458177937 | Fullstack Salesforce Developer | https://in.linkedin.com/jobs/view/fullstack-salesforce-developer-at-thompsons-hr-consulting-pvt-ltd-4458177937
+4419077636 | Oracle Incentive Cloud - Senior Consultant, Technical Transformation - Sales & Services- Customer | https://in.linkedin.com/jobs/view/oracle-incentive-cloud-senior-consultant-technical-transformation-sales-services-customer-at-deloitte-4419077636
