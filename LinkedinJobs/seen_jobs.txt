@@ -6009,3 +6009,8 @@
 4456859522 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-technocratic-solutions-4456859522
 4458158316 | Senior Salesforce Sales Cloud Consultant | https://in.linkedin.com/jobs/view/senior-salesforce-sales-cloud-consultant-at-artmac-4458158316
 4456843603 | MSD 365 CRM Technical | https://in.linkedin.com/jobs/view/msd-365-crm-technical-at-tata-consultancy-services-4456843603
+4458180304 | Member of Technical Staff, Software Engineering | https://in.linkedin.com/jobs/view/member-of-technical-staff-software-engineering-at-salesforce-4458180304
+4458177418 | Salesforce Lead | https://in.linkedin.com/jobs/view/salesforce-lead-at-vmc-soft-technologies-inc-4458177418
+4458174435 | MTS/SMTS/LMTS - Software Engineer | https://in.linkedin.com/jobs/view/mts-smts-lmts-software-engineer-at-salesforce-4458174435
+4458161430 | MSD CRM Technical | https://in.linkedin.com/jobs/view/msd-crm-technical-at-tata-consultancy-services-4458161430
+4456858676 | Snowflake Developer | https://in.linkedin.com/jobs/view/snowflake-developer-at-tata-consultancy-services-4456858676
