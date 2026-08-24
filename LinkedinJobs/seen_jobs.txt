@@ -5995,3 +5995,7 @@
 4458135000 | Salesforce Senior Developer | https://in.linkedin.com/jobs/view/salesforce-senior-developer-at-diligente-technologies-4458135000
 4458143365 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4458143365
 4458137200 | Apprentice | https://in.linkedin.com/jobs/view/apprentice-at-state-street-4458137200
+4455828254 | Sr. Software Engineer - Zoho Analytics Job | https://in.linkedin.com/jobs/view/sr-software-engineer-zoho-analytics-job-at-yash-technologies-middle-east-4455828254
+4455829395 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-rivirtual-inc-4455829395
+4455839341 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-ai-vidya-4455839341
+4456852137 | Python Backend Developer | https://in.linkedin.com/jobs/view/python-backend-developer-at-vivantify-technology-solutions-india-pvt-ltd-4456852137
