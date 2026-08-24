@@ -6024,3 +6024,5 @@
 4458223075 | Associate Technical Consultant | https://in.linkedin.com/jobs/view/associate-technical-consultant-at-salesforce-4458223075
 4458189624 | Technical Lead - Salesforce CPQ / RCA | https://in.linkedin.com/jobs/view/technical-lead-salesforce-cpq-rca-at-osf-digital-4458189624
 4456887419 | Technical Specialist-App Development | https://in.linkedin.com/jobs/view/technical-specialist-app-development-at-birlasoft-4456887419
+4456896890 | Salesforce Architect FSL | https://in.linkedin.com/jobs/view/salesforce-architect-fsl-at-metasys-technologies-4456896890
+4458223594 | Full Stack Engineer | https://in.linkedin.com/jobs/view/full-stack-engineer-at-accenture-in-india-4458223594
