@@ -5993,3 +5993,5 @@
 4455817068 | Senior Team Lead | https://in.linkedin.com/jobs/view/senior-team-lead-at-hcltech-4455817068
 4458117575 | AWS SQS, ASB messaging Developer | https://in.linkedin.com/jobs/view/aws-sqs-asb-messaging-developer-at-infosys-4458117575
 4458135000 | Salesforce Senior Developer | https://in.linkedin.com/jobs/view/salesforce-senior-developer-at-diligente-technologies-4458135000
+4458143365 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4458143365
+4458137200 | Apprentice | https://in.linkedin.com/jobs/view/apprentice-at-state-street-4458137200
