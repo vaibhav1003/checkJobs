@@ -6021,3 +6021,5 @@
 4456867605 | Technical Lead-Data Engg | https://in.linkedin.com/jobs/view/technical-lead-data-engg-at-birlasoft-4456867605
 4458188431 | Contract - Senior Salesforce Developer | https://in.linkedin.com/jobs/view/contract-senior-salesforce-developer-at-people-prime-worldwide-4458188431
 4439158513 | Technical Specialist-App Development | https://in.linkedin.com/jobs/view/technical-specialist-app-development-at-birlasoft-4439158513
+4458223075 | Associate Technical Consultant | https://in.linkedin.com/jobs/view/associate-technical-consultant-at-salesforce-4458223075
+4458189624 | Technical Lead - Salesforce CPQ / RCA | https://in.linkedin.com/jobs/view/technical-lead-salesforce-cpq-rca-at-osf-digital-4458189624
