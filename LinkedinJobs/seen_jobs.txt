@@ -6068,3 +6068,7 @@
 4458710084 | Flutter Developer | https://in.linkedin.com/jobs/view/flutter-developer-at-populace-world-solutions-4458710084
 4456910290 | Associate Technical Consultant-Java | https://in.linkedin.com/jobs/view/associate-technical-consultant-java-at-argano-4456910290
 4457464569 | Sr. Developer | https://in.linkedin.com/jobs/view/sr-developer-at-cognizant-4457464569
+4458742344 | Salesforce Net Zero Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-net-zero-cloud-developer-at-htc-global-services-4458742344
+4457448943 | Specialist Developer | https://in.linkedin.com/jobs/view/specialist-developer-at-absyz-inc-4457448943
+4457468169 | Technical Lead Developer | https://in.linkedin.com/jobs/view/technical-lead-developer-at-absyz-inc-4457468169
+4457483009 | ServiceMax Developer | https://in.linkedin.com/jobs/view/servicemax-developer-at-absyz-inc-4457483009
