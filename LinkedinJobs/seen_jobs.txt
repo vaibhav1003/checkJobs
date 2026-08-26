@@ -6100,3 +6100,6 @@
 4459126244 | Python Developer | https://in.linkedin.com/jobs/view/python-developer-at-insight-global-4459126244
 4459114566 | Full Stack Developer - Java+React | https://in.linkedin.com/jobs/view/full-stack-developer-java%2Breact-at-luxoft-4459114566
 4457234103 | Python Full Stack Developer | https://in.linkedin.com/jobs/view/python-full-stack-developer-at-coforge-4457234103
+4457691871 | Salesforce Architect FSL | https://in.linkedin.com/jobs/view/salesforce-architect-fsl-at-metasys-technologies-4457691871
+4457219259 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-indigrators-4457219259
+4457239192 | Software Developer | https://in.linkedin.com/jobs/view/software-developer-at-opentext-4457239192
