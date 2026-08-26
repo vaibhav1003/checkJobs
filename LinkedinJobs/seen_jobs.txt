@@ -6091,3 +6091,12 @@
 4448333749 | Packaged/SaaS Application Engineer | https://in.linkedin.com/jobs/view/packaged-saas-application-engineer-at-accenture-in-india-4448333749
 4448391316 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448391316
 4448371687 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448371687
+4457225076 | Senior Salesforce Consultant | https://in.linkedin.com/jobs/view/senior-salesforce-consultant-at-hj-software-private-limited-4457225076
+4457699078 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-technocratic-solutions-4457699078
+4457233010 | Application Developer-Cloud FullStack | https://in.linkedin.com/jobs/view/application-developer-cloud-fullstack-at-ibm-4457233010
+4457689746 | Technical Lead-App Development | https://in.linkedin.com/jobs/view/technical-lead-app-development-at-birlasoft-4457689746
+4457347907 | Application Engineer - II | https://in.linkedin.com/jobs/view/application-engineer-ii-at-vanguard-4457347907
+4457672035 | Python Developer | https://in.linkedin.com/jobs/view/python-developer-at-infosys-4457672035
+4459126244 | Python Developer | https://in.linkedin.com/jobs/view/python-developer-at-insight-global-4459126244
+4459114566 | Full Stack Developer - Java+React | https://in.linkedin.com/jobs/view/full-stack-developer-java%2Breact-at-luxoft-4459114566
+4457234103 | Python Full Stack Developer | https://in.linkedin.com/jobs/view/python-full-stack-developer-at-coforge-4457234103
