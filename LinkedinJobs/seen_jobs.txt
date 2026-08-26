@@ -6119,3 +6119,5 @@
 4457950863 | Salesforce Developer (LSHC) - Software Engineer II | https://in.linkedin.com/jobs/view/salesforce-developer-lshc-software-engineer-ii-at-deloitte-4457950863
 4459195918 | Sr Associate Software Engineer | https://in.linkedin.com/jobs/view/sr-associate-software-engineer-at-amgen-4459195918
 4449638677 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4449638677
+4457988087 | Technical Lead-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-lead-enterprise-apps-at-birlasoft-4457988087
+4449639667 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4449639667
