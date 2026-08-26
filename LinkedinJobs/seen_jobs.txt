@@ -6108,3 +6108,5 @@
 4448875511 | Salesforce Architect Manager | https://in.linkedin.com/jobs/view/salesforce-architect-manager-at-salesforce-4448875511
 4446729019 | Senior Technical Writer | https://in.linkedin.com/jobs/view/senior-technical-writer-at-salesforce-4446729019
 4459145680 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4459145680
+4459181116 | Salesforce Technical Lead | https://in.linkedin.com/jobs/view/salesforce-technical-lead-at-diligente-technologies-4459181116
+4459185099 | CRM Platforms & Salesforce Delivery Manager | https://in.linkedin.com/jobs/view/crm-platforms-salesforce-delivery-manager-at-diligente-technologies-4459185099
