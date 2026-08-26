@@ -6104,3 +6104,7 @@
 4457219259 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-indigrators-4457219259
 4457239192 | Software Developer | https://in.linkedin.com/jobs/view/software-developer-at-opentext-4457239192
 4459129091 | Salesforce QA Engineer | https://in.linkedin.com/jobs/view/salesforce-qa-engineer-at-thompsons-hr-consulting-pvt-ltd-4459129091
+4457908604 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-thoughtfocus-4457908604
+4448875511 | Salesforce Architect Manager | https://in.linkedin.com/jobs/view/salesforce-architect-manager-at-salesforce-4448875511
+4446729019 | Senior Technical Writer | https://in.linkedin.com/jobs/view/senior-technical-writer-at-salesforce-4446729019
+4459145680 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4459145680
