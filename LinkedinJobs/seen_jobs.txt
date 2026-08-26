@@ -6110,3 +6110,6 @@
 4459145680 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4459145680
 4459181116 | Salesforce Technical Lead | https://in.linkedin.com/jobs/view/salesforce-technical-lead-at-diligente-technologies-4459181116
 4459185099 | CRM Platforms & Salesforce Delivery Manager | https://in.linkedin.com/jobs/view/crm-platforms-salesforce-delivery-manager-at-diligente-technologies-4459185099
+4457922026 | Salesforce Technical Architect (Revenue Management / ARM Specialist) | https://in.linkedin.com/jobs/view/salesforce-technical-architect-revenue-management-arm-specialist-at-forsys-inc-4457922026
+4459173493 | Salesforce CPQ Production Support | https://in.linkedin.com/jobs/view/salesforce-cpq-production-support-at-people-prime-worldwide-4459173493
+4457916446 | S&S-SF DevOps - Manager, Program and Solution Management | https://in.linkedin.com/jobs/view/s-s-sf-devops-manager-program-and-solution-management-at-deloitte-4457916446
