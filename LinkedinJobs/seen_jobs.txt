@@ -6124,3 +6124,6 @@
 4459372298 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-experian-4459372298
 4459610081 | Lead Software Engineer- Salesforce | https://in.linkedin.com/jobs/view/lead-software-engineer-salesforce-at-jpmorganchase-4459610081
 4449049744 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4449049744
+4459610925 | Senior Implementation Consultant – CRM Data Migration | https://in.linkedin.com/jobs/view/senior-implementation-consultant-%E2%80%93-crm-data-migration-at-petadata-4459610925
+4459392943 | Full Stack Developer – AI & Data Integrations | https://in.linkedin.com/jobs/view/full-stack-developer-%E2%80%93-ai-data-integrations-at-petadata-4459392943
+4459388876 | Technical Change Manager | https://in.linkedin.com/jobs/view/technical-change-manager-at-jobcrexa-4459388876
