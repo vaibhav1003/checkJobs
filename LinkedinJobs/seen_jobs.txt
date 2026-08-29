@@ -6161,3 +6161,5 @@
 4424476185 | Sales Operations Analyst | https://in.linkedin.com/jobs/view/sales-operations-analyst-at-nextpower-4424476185
 4450379663 | Fullstack – Software Engineer II | https://in.linkedin.com/jobs/view/fullstack-%E2%80%93-software-engineer-ii-at-deloitte-4450379663
 4431811998 | Senior Consultant - Business Analysis (Functional) | https://in.linkedin.com/jobs/view/senior-consultant-business-analysis-functional-at-mtx-group-4431811998
+4460819920 | Salesforce Sales & Service cloud + Integration & Customization | https://in.linkedin.com/jobs/view/salesforce-sales-service-cloud-%2B-integration-customization-at-tata-consultancy-services-4460819920
+4460823737 | Peoplesoft CRM | https://in.linkedin.com/jobs/view/peoplesoft-crm-at-tata-consultancy-services-4460823737
