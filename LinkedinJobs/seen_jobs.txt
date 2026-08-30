@@ -6174,3 +6174,5 @@
 4459744260 | SAP FIORI BTP CAP | https://in.linkedin.com/jobs/view/sap-fiori-btp-cap-at-tata-consultancy-services-4459744260
 4459743271 | Pega Developer | https://in.linkedin.com/jobs/view/pega-developer-at-tata-consultancy-services-4459743271
 4458859058 | Web Developer | https://in.linkedin.com/jobs/view/web-developer-at-shaswa-dimension-software-solution-pvt-ltd-4458859058
+4461028357 | Technical Support Engineer | https://in.linkedin.com/jobs/view/technical-support-engineer-at-salesforce-ad-4461028357
+4461016528 | Customer Success Manager (Salesforce technical exp mandatory) | https://in.linkedin.com/jobs/view/customer-success-manager-salesforce-technical-exp-mandatory-at-salesforce-ad-4461016528
