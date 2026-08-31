@@ -6186,3 +6186,9 @@
 4460027569 | PHP Developer| Idea Gen| IRC303180 | https://in.linkedin.com/jobs/view/php-developer-idea-gen-irc303180-at-globallogic-4460027569
 4461094348 | Vulnerability Response Engineer | https://in.linkedin.com/jobs/view/vulnerability-response-engineer-at-salesforce-4461094348
 4461209985 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4461209985
+4459230614 | SAP Front End Developer - (m/f/d) | https://in.linkedin.com/jobs/view/sap-front-end-developer-m-f-d-at-basf-4459230614
+4461084153 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4461084153
+4461289305 | Success Architect - Sales Cloud | https://in.linkedin.com/jobs/view/success-architect-sales-cloud-at-salesforce-ad-4461289305
+4461282417 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4461282417
+4461285303 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4461285303
+4461284358 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4461284358
