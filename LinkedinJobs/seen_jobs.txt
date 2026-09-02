@@ -6222,3 +6222,11 @@
 4462131326 | IN_Manager_SMFC_SFDC_Advisory_Hyderabad | https://in.linkedin.com/jobs/view/in-manager-smfc-sfdc-advisory-hyderabad-at-pwc-india-4462131326
 4459928209 | FCCM Developer | https://in.linkedin.com/jobs/view/fccm-developer-at-adp-4459928209
 4460948100 | CRM D365 and F&O Developer | https://in.linkedin.com/jobs/view/crm-d365-and-f-o-developer-at-insight-international-uk-ltd-4460948100
+4459960168 | Salesforce Architect | https://in.linkedin.com/jobs/view/salesforce-architect-at-coforge-4459960168
+4459973181 | Developer III -SFDC Developer | https://in.linkedin.com/jobs/view/developer-iii-sfdc-developer-at-ust-4459973181
+4459948180 | salesforce Business Analyst | https://in.linkedin.com/jobs/view/salesforce-business-analyst-at-coforge-4459948180
+4459932669 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-coforge-4459932669
+4462400647 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4462400647
+4462189958 | Salesforce Training Content Creator | https://in.linkedin.com/jobs/view/salesforce-training-content-creator-at-ntt-data-north-america-4462189958
+4448362313 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4448362313
+4462406514 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4462406514
