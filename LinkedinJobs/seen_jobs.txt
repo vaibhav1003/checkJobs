@@ -6203,3 +6203,10 @@
 4462070943 | Software Engineer II - Snowflake & PL/SQL | https://in.linkedin.com/jobs/view/software-engineer-ii-snowflake-pl-sql-at-blue-yonder-4462070943
 4462029422 | Software Engineering MTS (Full Stack) - AI Generalist (Demo Tools & Platform Engineering) | https://in.linkedin.com/jobs/view/software-engineering-mts-full-stack-ai-generalist-demo-tools-platform-engineering-at-salesforce-4462029422
 4460644022 | Principal Product Solution Architect | https://in.linkedin.com/jobs/view/principal-product-solution-architect-at-highradius-4460644022
+4462035987 | Web Developer | https://in.linkedin.com/jobs/view/web-developer-at-accenture-in-india-4462035987
+4462055195 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4462055195
+4462048317 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4462048317
+4462062002 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4462062002
+4462056141 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4462056141
+4462042942 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4462042942
+4462092961 | DEVELOPER L3 | https://in.linkedin.com/jobs/view/developer-l3-at-wipro-4462092961
