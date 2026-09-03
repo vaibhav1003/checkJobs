@@ -6253,3 +6253,13 @@
 4450230508 | HTML Specialist | https://in.linkedin.com/jobs/view/html-specialist-at-cendyn-4450230508
 4461385875 | Information Technology Sales Specialist | https://in.linkedin.com/jobs/view/information-technology-sales-specialist-at-talentgigs-4461385875
 4462755656 | Software Engineer | https://in.linkedin.com/jobs/view/software-engineer-at-optum-india-4462755656
+4461397683 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-artech-l-l-c-4461397683
+4460498494 | Senior Consultant | https://in.linkedin.com/jobs/view/senior-consultant-at-virtusa-4460498494
+4460705360 | Senior Consultant | https://in.linkedin.com/jobs/view/senior-consultant-at-virtusa-4460705360
+4460704416 | Associate Architect | https://in.linkedin.com/jobs/view/associate-architect-at-virtusa-4460704416
+4462796489 | Architect - R01568499 | https://in.linkedin.com/jobs/view/architect-r01568499-at-brillio-4462796489
+4460716263 | Tech Lead | https://in.linkedin.com/jobs/view/tech-lead-at-virtusa-4460716263
+4462806364 | Architect-R01568498 | https://in.linkedin.com/jobs/view/architect-r01568498-at-brillio-4462806364
+4460719080 | Tech Lead | https://in.linkedin.com/jobs/view/tech-lead-at-virtusa-4460719080
+4460716308 | Conga CPQ Developer | https://in.linkedin.com/jobs/view/conga-cpq-developer-at-virtusa-4460716308
+4460701431 | Lead Software Engineer | https://in.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4460701431
