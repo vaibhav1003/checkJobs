@@ -6271,3 +6271,4 @@
 4462839013 | Salesforce DevOps - Senior Technical Architect | https://in.linkedin.com/jobs/view/salesforce-devops-senior-technical-architect-at-salesforce-4462839013
 4462831583 | Salesforce Success Architect | https://in.linkedin.com/jobs/view/salesforce-success-architect-at-salesforce-4462831583
 4461645256 | Technical Application Specialist (Microsoft Dynamics CRM) | https://in.linkedin.com/jobs/view/technical-application-specialist-microsoft-dynamics-crm-at-the-edge-partnership-the-edge-in-asia-4461645256
+4462871532 | Software Test Automation Engineer | https://in.linkedin.com/jobs/view/software-test-automation-engineer-at-sanofi-4462871532
