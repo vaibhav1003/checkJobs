@@ -6295,3 +6295,8 @@
 4461106813 | Full Stack Engineer 5 years+ | https://in.linkedin.com/jobs/view/full-stack-engineer-5-years%2B-at-speedlabs-4461106813
 4461949030 | AWS Bedrock Developer-Terraform-Python | https://in.linkedin.com/jobs/view/aws-bedrock-developer-terraform-python-at-infosys-4461949030
 4463140755 | Support Engineer, Int'l TechnologyEURegionalfund | https://in.linkedin.com/jobs/view/support-engineer-int-l-technologyeuregionalfund-at-amazon-4463140755
+4463314888 | Software Engineer - Salesforce Development | https://in.linkedin.com/jobs/view/software-engineer-salesforce-development-at-wells-fargo-4463314888
+4463320946 | Patient Strategy SalesForce Tech Lead | https://in.linkedin.com/jobs/view/patient-strategy-salesforce-tech-lead-at-roche-4463320946
+4463327403 | Patient Strategy - Integration Tech Lead | https://in.linkedin.com/jobs/view/patient-strategy-integration-tech-lead-at-roche-4463327403
+4461158099 | Agentforce Technical Manager (Salesforce experience mandatory) | https://in.linkedin.com/jobs/view/agentforce-technical-manager-salesforce-experience-mandatory-at-salesforce-ad-4461158099
+4463318869 | WORKATO DEVELOPER | https://in.linkedin.com/jobs/view/workato-developer-at-willware-technologies-4463318869
