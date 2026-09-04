@@ -6300,3 +6300,6 @@
 4463327403 | Patient Strategy - Integration Tech Lead | https://in.linkedin.com/jobs/view/patient-strategy-integration-tech-lead-at-roche-4463327403
 4461158099 | Agentforce Technical Manager (Salesforce experience mandatory) | https://in.linkedin.com/jobs/view/agentforce-technical-manager-salesforce-experience-mandatory-at-salesforce-ad-4461158099
 4463318869 | WORKATO DEVELOPER | https://in.linkedin.com/jobs/view/workato-developer-at-willware-technologies-4463318869
+4461966442 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-photonx-technologies-4461966442
+4461968492 | GIG - Customer Tech - Salesforce - Senior Developers | https://in.linkedin.com/jobs/view/gig-customer-tech-salesforce-senior-developers-at-ey-4461968492
+4463340227 | System Admin | https://in.linkedin.com/jobs/view/system-admin-at-starrez-inc-4463340227
