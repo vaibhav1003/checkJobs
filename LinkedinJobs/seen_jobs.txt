@@ -6338,3 +6338,8 @@
 4462362797 | Frontend Developer | https://in.linkedin.com/jobs/view/frontend-developer-at-everestdx-inc-4462362797
 4463704813 | Senior Systems Analyst | https://in.linkedin.com/jobs/view/senior-systems-analyst-at-sportatlas-4463704813
 4454554088 | Consultant Billing | https://in.linkedin.com/jobs/view/consultant-billing-at-experian-4454554088
+4463778246 | Senior Salesforce Developer (Hyderabad) | https://in.linkedin.com/jobs/view/senior-salesforce-developer-hyderabad-at-mindzvue-4463778246
+4462617512 | Developer | https://in.linkedin.com/jobs/view/developer-at-cognizant-4462617512
+4435024541 | Kofax KTA - Developer or Sr. Developer | https://in.linkedin.com/jobs/view/kofax-kta-developer-or-sr-developer-at-cognizant-4435024541
+4444017133 | Documentum Engineer | https://in.linkedin.com/jobs/view/documentum-engineer-at-infosys-4444017133
+4444008947 | Python-Pyspark Developer | https://in.linkedin.com/jobs/view/python-pyspark-developer-at-infosys-4444008947
