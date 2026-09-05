@@ -6329,3 +6329,11 @@
 4463685890 | Solutions Engineer – Full Stack & AI | https://in.linkedin.com/jobs/view/solutions-engineer-%E2%80%93-full-stack-ai-at-amgen-4463685890
 4463696860 | Microsoft Dynamics Consultant | https://in.linkedin.com/jobs/view/microsoft-dynamics-consultant-at-runmap-infotech-private-ltd-4463696860
 4463704148 | Sr Associate Test Automation Engineer | https://in.linkedin.com/jobs/view/sr-associate-test-automation-engineer-at-amgen-4463704148
+4462360778 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-tata-consultancy-services-4462360778
+4462370871 | Agentforce developer | https://in.linkedin.com/jobs/view/agentforce-developer-at-tata-consultancy-services-4462370871
+4463737235 | Full stack engineer (Python & GCP) | https://in.linkedin.com/jobs/view/full-stack-engineer-python-gcp-at-wells-fargo-4463737235
+4463721272 | Senior Manager, Technical Consulting | https://in.linkedin.com/jobs/view/senior-manager-technical-consulting-at-salesforce-4463721272
+4462356870 | Full Stack Java Developer | https://in.linkedin.com/jobs/view/full-stack-java-developer-at-kumaran-systems-4462356870
+4462365760 | SAP ABAP Developer | https://in.linkedin.com/jobs/view/sap-abap-developer-at-technogen-inc-4462365760
+4462362797 | Frontend Developer | https://in.linkedin.com/jobs/view/frontend-developer-at-everestdx-inc-4462362797
+4463704813 | Senior Systems Analyst | https://in.linkedin.com/jobs/view/senior-systems-analyst-at-sportatlas-4463704813
