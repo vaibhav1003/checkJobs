@@ -6343,3 +6343,13 @@
 4435024541 | Kofax KTA - Developer or Sr. Developer | https://in.linkedin.com/jobs/view/kofax-kta-developer-or-sr-developer-at-cognizant-4435024541
 4444017133 | Documentum Engineer | https://in.linkedin.com/jobs/view/documentum-engineer-at-infosys-4444017133
 4444008947 | Python-Pyspark Developer | https://in.linkedin.com/jobs/view/python-pyspark-developer-at-infosys-4444008947
+4463783920 | Azure Data Factory | https://in.linkedin.com/jobs/view/azure-data-factory-at-wipro-4463783920
+4463780919 | DEVELOPER L4 | https://in.linkedin.com/jobs/view/developer-l4-at-wipro-4463780919
+4463771901 | DEVELOPER L4 | https://in.linkedin.com/jobs/view/developer-l4-at-wipro-4463771901
+4463775972 | DEVELOPER L2 | https://in.linkedin.com/jobs/view/developer-l2-at-wipro-4463775972
+4463780916 | DEVELOPER L2 | https://in.linkedin.com/jobs/view/developer-l2-at-wipro-4463780916
+4463780917 | DEVELOPER L4 | https://in.linkedin.com/jobs/view/developer-l4-at-wipro-4463780917
+4463773950 | TECHNICAL LEAD L1 | https://in.linkedin.com/jobs/view/technical-lead-l1-at-wipro-4463773950
+4463792050 | TECHNICAL LEAD L1 | https://in.linkedin.com/jobs/view/technical-lead-l1-at-wipro-4463792050
+4464011080 | SAP Business Technology Platform (BTP)- CAPM | https://in.linkedin.com/jobs/view/sap-business-technology-platform-btp-capm-at-tata-consultancy-services-4464011080
+4463774963 | DEVELOPER L4 | https://in.linkedin.com/jobs/view/developer-l4-at-wipro-4463774963
