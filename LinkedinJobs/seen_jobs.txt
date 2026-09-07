@@ -6387,3 +6387,13 @@
 4462930932 | Salesforce Agentforce Architect- Full Time | https://in.linkedin.com/jobs/view/salesforce-agentforce-architect-full-time-at-gravity-infosolutions-inc-4462930932
 4464352027 | Sr. Data Engineer (Python & SQL exp. mandatory) | https://in.linkedin.com/jobs/view/sr-data-engineer-python-sql-exp-mandatory-at-salesforce-4464352027
 4464335586 | Senior Manager, Technical Consulting -Telecom/Comms domain (Salesforce Technical Architect exp mandatory) | https://in.linkedin.com/jobs/view/senior-manager-technical-consulting-telecom-comms-domain-salesforce-technical-architect-exp-mandatory-at-salesforce-4464335586
+4464392066 | Senior Technical Support Engineer (Salesforce Platform) | https://in.linkedin.com/jobs/view/senior-technical-support-engineer-salesforce-platform-at-model-n-4464392066
+4464367301 | Senior Salesforce Tester | https://in.linkedin.com/jobs/view/senior-salesforce-tester-at-azurity-pharmaceuticals-4464367301
+4464377758 | Salesforce Manager, Technical Consulting -Health domain (Salesforce Technical Architect experience mandatory) | https://in.linkedin.com/jobs/view/salesforce-manager-technical-consulting-health-domain-salesforce-technical-architect-experience-mandatory-at-salesforce-4464377758
+4464343745 | Application Engineer - II | https://in.linkedin.com/jobs/view/application-engineer-ii-at-vanguard-4464343745
+4462965774 | Application Engineer - II | https://in.linkedin.com/jobs/view/application-engineer-ii-at-vanguard-india-4462965774
+4464387211 | Application Developer | https://in.linkedin.com/jobs/view/application-developer-at-accenture-in-india-4464387211
+4462989173 | AWS Bedrock / Azure OpenAI Developer | https://in.linkedin.com/jobs/view/aws-bedrock-azure-openai-developer-at-infosys-4462989173
+4462968780 | Systems Development Engineer | https://in.linkedin.com/jobs/view/systems-development-engineer-at-google-4462968780
+4455257535 | Appian Developer | https://in.linkedin.com/jobs/view/appian-developer-at-the-depository-trust-clearing-corporation-dtcc-4455257535
+4462968963 | Sales Account Executive, Edtech India | https://in.linkedin.com/jobs/view/sales-account-executive-edtech-india-at-jove-4462968963
