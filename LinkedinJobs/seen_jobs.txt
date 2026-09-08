@@ -6424,3 +6424,10 @@
 4464618514 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4464618514
 4463514719 | Service Now Developer - Software Engineer II | https://in.linkedin.com/jobs/view/service-now-developer-software-engineer-ii-at-deloitte-4463514719
 4463539091 | SAP BTP AEM Developer | https://in.linkedin.com/jobs/view/sap-btp-aem-developer-at-tata-consultancy-services-4463539091
+4464693108 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-msd-4464693108
+4464688171 | Sr. Spclst , Technical Product Management | https://in.linkedin.com/jobs/view/sr-spclst-technical-product-management-at-msd-4464688171
+4464698052 | Spclst , Solution Architecture | https://in.linkedin.com/jobs/view/spclst-solution-architecture-at-msd-4464698052
+4464902014 | Spclst , Technical Support | https://in.linkedin.com/jobs/view/spclst-technical-support-at-msd-4464902014
+4464901156 | Success Architect | https://in.linkedin.com/jobs/view/success-architect-at-salesforce-ad-4464901156
+4464902145 | Agentforce Technical Architect( Salesforce exp is a must) | https://in.linkedin.com/jobs/view/agentforce-technical-architect-salesforce-exp-is-a-must-at-salesforce-ad-4464902145
+4464694209 | Salesforce Project Manager - Lifesciences | https://in.linkedin.com/jobs/view/salesforce-project-manager-lifesciences-at-salesforce-ad-4464694209
