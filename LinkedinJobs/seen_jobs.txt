@@ -6447,3 +6447,9 @@
 4465027370 | Director, Technical Consulting (Salesforce Enterprise Architect) | https://in.linkedin.com/jobs/view/director-technical-consulting-salesforce-enterprise-architect-at-salesforce-ad-4465027370
 4336961047 | Manager, Technical Consulting | https://in.linkedin.com/jobs/view/manager-technical-consulting-at-salesforce-4336961047
 4463810712 | Implementation Consultant | https://in.linkedin.com/jobs/view/implementation-consultant-at-beacon-li-4463810712
+4465039374 | Salesforce Developer - Loyalty Cloud | https://in.linkedin.com/jobs/view/salesforce-developer-loyalty-cloud-at-osf-digital-4465039374
+4463871066 | Salesforce Deveops | https://in.linkedin.com/jobs/view/salesforce-deveops-at-tata-consultancy-services-4463871066
+4465063349 | Packaged/SaaS App Engineering Lead | https://in.linkedin.com/jobs/view/packaged-saas-app-engineering-lead-at-accenture-in-india-4465063349
+4465045701 | Software Engineering SMTS (Performance/Database) | https://in.linkedin.com/jobs/view/software-engineering-smts-performance-database-at-salesforce-4465045701
+4463871101 | Technical Specialist-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-specialist-enterprise-apps-at-birlasoft-4463871101
+4465043708 | Instructors Senior-FY27-Q3 | https://in.linkedin.com/jobs/view/instructors-senior-fy27-q3-at-salesforce-4465043708
