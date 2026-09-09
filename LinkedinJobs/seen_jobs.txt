@@ -6453,3 +6453,6 @@
 4465045701 | Software Engineering SMTS (Performance/Database) | https://in.linkedin.com/jobs/view/software-engineering-smts-performance-database-at-salesforce-4465045701
 4463871101 | Technical Specialist-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-specialist-enterprise-apps-at-birlasoft-4463871101
 4465043708 | Instructors Senior-FY27-Q3 | https://in.linkedin.com/jobs/view/instructors-senior-fy27-q3-at-salesforce-4465043708
+4454732769 | Senior Consultant- Functional | https://in.linkedin.com/jobs/view/senior-consultant-functional-at-mtx-group-4454732769
+4433942440 | Service Now Integrations Specilist | https://in.linkedin.com/jobs/view/service-now-integrations-specilist-at-algoleap-4433942440
+4456106223 | Oracle CDM/MDM Developer III | https://in.linkedin.com/jobs/view/oracle-cdm-mdm-developer-iii-at-realpage-india-4456106223
