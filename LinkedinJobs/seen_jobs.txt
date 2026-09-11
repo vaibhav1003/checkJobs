@@ -6506,3 +6506,7 @@
 4464229380 | Architect - Salesforce | https://in.linkedin.com/jobs/view/architect-salesforce-at-pepsico-4464229380
 4466078834 | Solution Architect - Mulesoft | https://in.linkedin.com/jobs/view/solution-architect-mulesoft-at-osf-digital-4466078834
 4452446676 | IN_Associate_Salesforce QA_GCC_Advisory_Hyderabad | https://in.linkedin.com/jobs/view/in-associate-salesforce-qa-gcc-advisory-hyderabad-at-pwc-india-4452446676
+4466340803 | SF Architect | https://in.linkedin.com/jobs/view/sf-architect-at-sonata-software-4466340803
+4466378774 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4466378774
+4466402111 | Salesforce DevOps - Technical Architect | https://in.linkedin.com/jobs/view/salesforce-devops-technical-architect-at-salesforce-ad-4466402111
+4465145249 | Solution Architect | https://in.linkedin.com/jobs/view/solution-architect-at-seismic-4465145249
