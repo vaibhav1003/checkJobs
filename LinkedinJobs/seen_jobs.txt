@@ -6503,3 +6503,6 @@
 4464868528 | Senior Salesforce Developer – Apttus CPQ | https://in.linkedin.com/jobs/view/senior-salesforce-developer-%E2%80%93-apttus-cpq-at-capital-numbers-4464868528
 4466076744 | Technical Lead - Salesforce CPQ / RCA | https://in.linkedin.com/jobs/view/technical-lead-salesforce-cpq-rca-at-osf-digital-4466076744
 4466302463 | Lead Software Engineer | https://in.linkedin.com/jobs/view/lead-software-engineer-at-franklin-templeton-4466302463
+4464229380 | Architect - Salesforce | https://in.linkedin.com/jobs/view/architect-salesforce-at-pepsico-4464229380
+4466078834 | Solution Architect - Mulesoft | https://in.linkedin.com/jobs/view/solution-architect-mulesoft-at-osf-digital-4466078834
+4452446676 | IN_Associate_Salesforce QA_GCC_Advisory_Hyderabad | https://in.linkedin.com/jobs/view/in-associate-salesforce-qa-gcc-advisory-hyderabad-at-pwc-india-4452446676
