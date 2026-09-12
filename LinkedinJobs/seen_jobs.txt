@@ -6511,3 +6511,4 @@
 4466402111 | Salesforce DevOps - Technical Architect | https://in.linkedin.com/jobs/view/salesforce-devops-technical-architect-at-salesforce-ad-4466402111
 4465145249 | Solution Architect | https://in.linkedin.com/jobs/view/solution-architect-at-seismic-4465145249
 4464243323 | IFS Cloud EAM - Senior Associate | https://in.linkedin.com/jobs/view/ifs-cloud-eam-senior-associate-at-pwc-acceleration-center-india-4464243323
+4465840797 | Salesforce Net Zero Cloud QA | https://in.linkedin.com/jobs/view/salesforce-net-zero-cloud-qa-at-synectics-apac-4465840797
