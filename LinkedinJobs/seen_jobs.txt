@@ -6522,3 +6522,5 @@
 4466497726 | Sr. Associate Software Engineer | https://in.linkedin.com/jobs/view/sr-associate-software-engineer-at-amgen-4466497726
 4466497738 | Associate IS Engineer - DTI Marketing | https://in.linkedin.com/jobs/view/associate-is-engineer-dti-marketing-at-amgen-4466497738
 4466702687 | Associate IS Engineer - DTI Marketing | https://in.linkedin.com/jobs/view/associate-is-engineer-dti-marketing-at-amgen-4466702687
+4466734064 | Salesforce technical architect (revenue management / arm specialist) | https://in.linkedin.com/jobs/view/salesforce-technical-architect-revenue-management-arm-specialist-at-jobcrexa-4466734064
+4466738086 | Senior quality engineer i - salesforce testing [t500-28018] | https://in.linkedin.com/jobs/view/senior-quality-engineer-i-salesforce-testing-t500-28018-at-jobcrexa-4466738086
