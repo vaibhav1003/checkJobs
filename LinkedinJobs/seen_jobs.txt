@@ -6547,3 +6547,7 @@
 4465931009 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4465931009
 4467797042 | Solution Architect/Senior Solution Architect- Marketing Cloud Next | https://in.linkedin.com/jobs/view/solution-architect-senior-solution-architect-marketing-cloud-next-at-salesforce-ad-4467797042
 4467900029 | Product Security Engineer | https://in.linkedin.com/jobs/view/product-security-engineer-at-salesforce-ad-4467900029
+4467955744 | Salesforce Developer - Loyalty Cloud | https://in.linkedin.com/jobs/view/salesforce-developer-loyalty-cloud-at-osf-digital-4467955744
+4467954773 | Technical Lead - Salesforce CPQ / RCA | https://in.linkedin.com/jobs/view/technical-lead-salesforce-cpq-rca-at-osf-digital-4467954773
+4467937999 | Salesforce Data Cloud Engineer | https://in.linkedin.com/jobs/view/salesforce-data-cloud-engineer-at-nam-info-inc-4467937999
+4467960736 | Solution Architect - Mulesoft | https://in.linkedin.com/jobs/view/solution-architect-mulesoft-at-osf-digital-4467960736
