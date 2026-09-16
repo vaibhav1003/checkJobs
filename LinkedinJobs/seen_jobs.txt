@@ -6552,3 +6552,9 @@
 4467937999 | Salesforce Data Cloud Engineer | https://in.linkedin.com/jobs/view/salesforce-data-cloud-engineer-at-nam-info-inc-4467937999
 4467960736 | Solution Architect - Mulesoft | https://in.linkedin.com/jobs/view/solution-architect-mulesoft-at-osf-digital-4467960736
 4467980654 | Program Manager - Salesforce-CPQ | https://in.linkedin.com/jobs/view/program-manager-salesforce-cpq-at-salesforce-ad-4467980654
+4467997397 | Salesforce Developer and Admin, ISS | https://in.linkedin.com/jobs/view/salesforce-developer-and-admin-iss-at-amazon-4467997397
+4466865538 | Salesforce Data Cloud engineer | https://in.linkedin.com/jobs/view/salesforce-data-cloud-engineer-at-umanist-na-4466865538
+4468201157 | Salesforce Solutions Architect | https://in.linkedin.com/jobs/view/salesforce-solutions-architect-at-blue-spire-inc-4468201157
+4468236029 | AI CRM Developer / CRM Automation Engineer | https://in.linkedin.com/jobs/view/ai-crm-developer-crm-automation-engineer-at-uplers-4468236029
+4467976861 | Technical Delivery Manager - Data Engineering - RDT Pharma Medicines | https://in.linkedin.com/jobs/view/technical-delivery-manager-data-engineering-rdt-pharma-medicines-at-roche-4467976861
+4467999490 | Salesforce Admin | https://in.linkedin.com/jobs/view/salesforce-admin-at-capco-4467999490
