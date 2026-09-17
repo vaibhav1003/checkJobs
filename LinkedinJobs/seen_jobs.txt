@@ -6581,3 +6581,5 @@
 4468634800 | Application Support Engineer | https://in.linkedin.com/jobs/view/application-support-engineer-at-accenture-in-india-4468634800
 4457752991 | GTM Data Architect | https://in.linkedin.com/jobs/view/gtm-data-architect-at-gainsight-4457752991
 4466613870 | Senior Applications Engineer | https://in.linkedin.com/jobs/view/senior-applications-engineer-at-pegasystems-4466613870
+4468821371 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4468821371
+4468832043 | Senior Technical Consultant -Migration-Revenue Cloud/Marketing Cloud | https://in.linkedin.com/jobs/view/senior-technical-consultant-migration-revenue-cloud-marketing-cloud-at-salesforce-ad-4468832043
