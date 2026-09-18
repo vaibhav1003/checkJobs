@@ -6596,3 +6596,6 @@
 4466689632 | Engineering Manager | https://in.linkedin.com/jobs/view/engineering-manager-at-hj-software-private-limited-4466689632
 4469143966 | Senior Manager, Technical Consulting | https://in.linkedin.com/jobs/view/senior-manager-technical-consulting-at-salesforce-4469143966
 4466692563 | Pega Developer | https://in.linkedin.com/jobs/view/pega-developer-at-revolent-group-4466692563
+4466919108 | Implementation Engineer (Integrations Software) | https://in.linkedin.com/jobs/view/implementation-engineer-integrations-software-at-nova-module-4466919108
+4466693865 | Oracle CDP/Unity- Manager | https://in.linkedin.com/jobs/view/oracle-cdp-unity-manager-at-pwc-acceleration-center-india-4466693865
+4466905721 | Oracle Eloqua - Manager | https://in.linkedin.com/jobs/view/oracle-eloqua-manager-at-pwc-acceleration-center-india-4466905721
