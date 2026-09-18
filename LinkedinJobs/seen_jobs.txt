@@ -6583,3 +6583,4 @@
 4466613870 | Senior Applications Engineer | https://in.linkedin.com/jobs/view/senior-applications-engineer-at-pegasystems-4466613870
 4468821371 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4468821371
 4468832043 | Senior Technical Consultant -Migration-Revenue Cloud/Marketing Cloud | https://in.linkedin.com/jobs/view/senior-technical-consultant-migration-revenue-cloud-marketing-cloud-at-salesforce-ad-4468832043
+4469116628 | Salesforce DevOps - Technical Architect | https://in.linkedin.com/jobs/view/salesforce-devops-technical-architect-at-salesforce-4469116628
