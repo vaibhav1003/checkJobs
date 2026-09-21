@@ -6605,3 +6605,11 @@
 4424357607 | Five9- Senior Consultant, Technical Transformation- Sales & Service- Customer | https://in.linkedin.com/jobs/view/five9-senior-consultant-technical-transformation-sales-service-customer-at-deloitte-4424357607
 4467357054 | Salesforce Senior Developer (Service Cloud) | https://in.linkedin.com/jobs/view/salesforce-senior-developer-service-cloud-at-info-services-4467357054
 4469843215 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-vysystems-4469843215
+4469870045 | Salesforce Developer - Apex & LWC [T500-29522] | https://in.linkedin.com/jobs/view/salesforce-developer-apex-lwc-t500-29522-at-cibc-india-4469870045
+4468721058 | Salesforce Lead | https://in.linkedin.com/jobs/view/salesforce-lead-at-talentmatics-4468721058
+4469872561 | Senior Software Engineer - Architect, Consent & Campaign Management | https://in.linkedin.com/jobs/view/senior-software-engineer-architect-consent-campaign-management-at-bristol-myers-squibb-4469872561
+4467376935 | Senior Software Engineer - Architect, Consent & Campaign Management | https://in.linkedin.com/jobs/view/senior-software-engineer-architect-consent-campaign-management-at-bristol-myers-squibb-eu-policy-4467376935
+4468736165 | Technical Specialist-Enterprise Apps | https://in.linkedin.com/jobs/view/technical-specialist-enterprise-apps-at-birlasoft-4468736165
+4467364626 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4467364626
+4469861352 | Senior Specialist, Data Engineering | https://in.linkedin.com/jobs/view/senior-specialist-data-engineering-at-msd-4469861352
+4469870023 | Senior Specialist, Data Engineering | https://in.linkedin.com/jobs/view/senior-specialist-data-engineering-at-msd-4469870023
