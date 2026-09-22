@@ -6625,3 +6625,5 @@
 4468593700 | Application Architect-Salesforce | https://in.linkedin.com/jobs/view/application-architect-salesforce-at-ibm-4468593700
 4470454677 | Senior Veeva CRM Release Engineer | https://in.linkedin.com/jobs/view/senior-veeva-crm-release-engineer-at-msd-4470454677
 4468906310 | Senior Pega Developers | https://in.linkedin.com/jobs/view/senior-pega-developers-at-revolent-group-4468906310
+4459545446 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-kroll-4459545446
+4467612778 | Salesforce Developer - FSL | https://in.linkedin.com/jobs/view/salesforce-developer-fsl-at-absyz-inc-4467612778
