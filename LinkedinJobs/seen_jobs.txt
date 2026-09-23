@@ -6630,3 +6630,7 @@
 4470603976 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-cgi-4470603976
 4470625037 | SF/SFI Engineer | https://in.linkedin.com/jobs/view/sf-sfi-engineer-at-cgi-4470625037
 4470638235 | Software Engineer II A - GBS IND | https://in.linkedin.com/jobs/view/software-engineer-ii-a-gbs-ind-at-bank-of-america-4470638235
+4470677633 | Salesforce Developer - Loyalty Cloud | https://in.linkedin.com/jobs/view/salesforce-developer-loyalty-cloud-at-osf-digital-4470677633
+4469435056 | Senior Salesforce Revenue Cloud Developer | https://in.linkedin.com/jobs/view/senior-salesforce-revenue-cloud-developer-at-cloud-peritus-4469435056
+4469428069 | Urgent Hiring: Salesforce Developer | https://in.linkedin.com/jobs/view/urgent-hiring-salesforce-developer-at-greenleaf-hub-enterprises-4469428069
+4470904074 | Manager, Technical Consulting (Salesforce Lifesciences exp mandatory) | https://in.linkedin.com/jobs/view/manager-technical-consulting-salesforce-lifesciences-exp-mandatory-at-salesforce-4470904074
