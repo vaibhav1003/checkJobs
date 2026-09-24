@@ -6659,3 +6659,6 @@
 4469720855 | MFCS Development Consultant | https://in.linkedin.com/jobs/view/mfcs-development-consultant-at-qloron-pvt-ltd-4469720855
 4471442811 | Forward Deploy Engineer, AI Solutions - Lead | https://in.linkedin.com/jobs/view/forward-deploy-engineer-ai-solutions-lead-at-algoleap-4471442811
 4471439883 | Snow CSM Integration | https://in.linkedin.com/jobs/view/snow-csm-integration-at-algoleap-4471439883
+4470006093 | Customer- AM&C-Salesforce Marketing Cloud-Consultant Technical Transformation | https://in.linkedin.com/jobs/view/customer-am-c-salesforce-marketing-cloud-consultant-technical-transformation-at-deloitte-4470006093
+4469687929 | Customer- AM&C-Senior Salesforce Marketing Cloud- Senior Consultant Technical Transformation | https://in.linkedin.com/jobs/view/customer-am-c-senior-salesforce-marketing-cloud-senior-consultant-technical-transformation-at-deloitte-4469687929
+4471606876 | Senior Boomi Developer | https://in.linkedin.com/jobs/view/senior-boomi-developer-at-keyloop-4471606876
