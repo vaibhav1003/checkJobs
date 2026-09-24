@@ -6644,3 +6644,12 @@
 4471103454 | IN_Senior Associate_Salesforce QA_GCC_Advisory_Hyderabad | https://in.linkedin.com/jobs/view/in-senior-associate-salesforce-qa-gcc-advisory-hyderabad-at-pwc-india-4471103454
 4471122605 | Full Stack Developer – AI & Data Integrations | https://in.linkedin.com/jobs/view/full-stack-developer-%E2%80%93-ai-data-integrations-at-petadata-4471122605
 4455960409 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4455960409
+4471446161 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-nexturn-4471446161
+4471453232 | FDE - Agentforce | https://in.linkedin.com/jobs/view/fde-agentforce-at-concentrix-4471453232
+4471441698 | FDE - Agentforce | https://in.linkedin.com/jobs/view/fde-agentforce-at-concentrix-4471441698
+4469722177 | Associate Software Engineer - DTI Marketing | https://in.linkedin.com/jobs/view/associate-software-engineer-dti-marketing-at-amgen-4469722177
+4469713248 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4469713248
+4469701956 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4469701956
+4469713249 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4469713249
+4469702935 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4469702935
+4469706807 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4469706807
