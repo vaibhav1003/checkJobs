@@ -6653,3 +6653,9 @@
 4469713249 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4469713249
 4469702935 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4469702935
 4469706807 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4469706807
+4469732776 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-cloud-peritus-4469732776
+4469727508 | ServiceMax Asset 360 & ServiceMax Core Developer / Support | https://in.linkedin.com/jobs/view/servicemax-asset-360-servicemax-core-developer-support-at-qloron-pvt-ltd-4469727508
+4471455433 | Salesforce QE with Automation | https://in.linkedin.com/jobs/view/salesforce-qe-with-automation-at-algoleap-4471455433
+4469720855 | MFCS Development Consultant | https://in.linkedin.com/jobs/view/mfcs-development-consultant-at-qloron-pvt-ltd-4469720855
+4471442811 | Forward Deploy Engineer, AI Solutions - Lead | https://in.linkedin.com/jobs/view/forward-deploy-engineer-ai-solutions-lead-at-algoleap-4471442811
+4471439883 | Snow CSM Integration | https://in.linkedin.com/jobs/view/snow-csm-integration-at-algoleap-4471439883
