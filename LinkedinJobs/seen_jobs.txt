@@ -6664,3 +6664,9 @@
 4471606876 | Senior Boomi Developer | https://in.linkedin.com/jobs/view/senior-boomi-developer-at-keyloop-4471606876
 4471694309 | Software Engineering Lead-salesforce FSL | https://in.linkedin.com/jobs/view/software-engineering-lead-salesforce-fsl-at-optum-india-4471694309
 4471676505 | Application Lead | https://in.linkedin.com/jobs/view/application-lead-at-accenture-in-india-4471676505
+4471886252 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-credera-4471886252
+4471887870 | Salesforce Net Zero Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-net-zero-cloud-developer-at-htc-global-services-4471887870
+4471883155 | Salesforce Technical Lead | https://in.linkedin.com/jobs/view/salesforce-technical-lead-at-credera-4471883155
+4470137425 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4470137425
+4470130812 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4470130812
+4470131814 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4470131814
