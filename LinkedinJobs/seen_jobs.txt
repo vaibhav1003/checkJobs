@@ -6694,3 +6694,7 @@
 4472488567 | Technical Support Engineer | https://in.linkedin.com/jobs/view/technical-support-engineer-at-salesforce-4472488567
 4472702730 | MSD CRM Technical | https://in.linkedin.com/jobs/view/msd-crm-technical-at-tata-consultancy-services-4472702730
 4470844438 | Pega Developer | https://in.linkedin.com/jobs/view/pega-developer-at-lantiqx-4470844438
+4470866983 | Senior Salesforce Developer - FSL - 6+ Years | https://in.linkedin.com/jobs/view/senior-salesforce-developer-fsl-6%2B-years-at-absyz-inc-4470866983
+4471391069 | Software & Platform Engineering | https://in.linkedin.com/jobs/view/software-platform-engineering-at-lseg-4471391069
+4472734299 | Senior Technical Consultant - Revenue Cloud / Consumer Goods (Open) | https://in.linkedin.com/jobs/view/senior-technical-consultant-revenue-cloud-consumer-goods-open-at-salesforce-4472734299
+4472739077 | Software Engineer SMTS | https://in.linkedin.com/jobs/view/software-engineer-smts-at-salesforce-4472739077
