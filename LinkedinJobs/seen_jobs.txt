@@ -6713,3 +6713,8 @@
 4473251684 | Senior Data Engineer | https://in.linkedin.com/jobs/view/senior-data-engineer-at-salesforce-4473251684
 4469774305 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-engineering-square-4469774305
 4404087199 | Salesforce Revenue Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-developer-at-osf-digital-4404087199
+4472142825 | Salesforce Engineer | https://in.linkedin.com/jobs/view/salesforce-engineer-at-assetmark-global-wealth-4472142825
+4472146319 | Salesforce Delivery Manager – FSL | https://in.linkedin.com/jobs/view/salesforce-delivery-manager-%E2%80%93-fsl-at-metasys-technologies-4472146319
+4472157211 | Senior Technical Consultant | https://in.linkedin.com/jobs/view/senior-technical-consultant-at-salesforce-ad-4472157211
+4473766340 | Applications Development Principal Architect | https://in.linkedin.com/jobs/view/applications-development-principal-architect-at-telus-digital-4473766340
+4455575733 | AI/ML Technical Architect ( Salesforce exp is a must) | https://in.linkedin.com/jobs/view/ai-ml-technical-architect-salesforce-exp-is-a-must-at-salesforce-4455575733
