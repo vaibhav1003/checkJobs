@@ -6712,3 +6712,4 @@
 4471730874 | Package Specialist-Salesforce Technical Operations | https://in.linkedin.com/jobs/view/package-specialist-salesforce-technical-operations-at-ibm-4471730874
 4473251684 | Senior Data Engineer | https://in.linkedin.com/jobs/view/senior-data-engineer-at-salesforce-4473251684
 4469774305 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-engineering-square-4469774305
+4404087199 | Salesforce Revenue Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-developer-at-osf-digital-4404087199
