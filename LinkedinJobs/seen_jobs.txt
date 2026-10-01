@@ -6735,3 +6735,9 @@
 4472681851 | Salesforce Health Cloud Technical Lead | https://in.linkedin.com/jobs/view/salesforce-health-cloud-technical-lead-at-the-ksquare-group-4472681851
 4470941094 | CRM Data Architect | https://in.linkedin.com/jobs/view/crm-data-architect-at-azurity-pharmaceuticals-4470941094
 4472529353 | Pega Developer | https://in.linkedin.com/jobs/view/pega-developer-at-coforge-4472529353
+4474306501 | Salesforce Field Service Developer | https://in.linkedin.com/jobs/view/salesforce-field-service-developer-at-ntt-data-north-america-4474306501
+4472562272 | Salesforce Senior Developer/Consultant | https://in.linkedin.com/jobs/view/salesforce-senior-developer-consultant-at-infosys-4472562272
+4474309199 | Analyst - Salesforce Development [T500-29857] | https://in.linkedin.com/jobs/view/analyst-salesforce-development-t500-29857-at-h-e-services-india-4474309199
+4474316847 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4474316847
+4474324016 | Salesforce Field Service Architect | https://in.linkedin.com/jobs/view/salesforce-field-service-architect-at-ntt-data-north-america-4474324016
+4465658074 | CRM Solution/Data Architect (Senior Manager) – Pharma | https://in.linkedin.com/jobs/view/crm-solution-data-architect-senior-manager-%E2%80%93-pharma-at-azurity-pharmaceuticals-4465658074
