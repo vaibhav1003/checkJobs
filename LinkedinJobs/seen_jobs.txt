@@ -6731,3 +6731,7 @@
 4473977334 | MarTech Automation Specialist | https://in.linkedin.com/jobs/view/martech-automation-specialist-at-hitachi-vantara-4473977334
 4473936345 | Full Stack Developer – AI & Data Integrations | https://in.linkedin.com/jobs/view/full-stack-developer-%E2%80%93-ai-data-integrations-at-petadata-4473936345
 4472650762 | Associate Architect - Salesforce Development Job | https://in.linkedin.com/jobs/view/associate-architect-salesforce-development-job-at-yash-technologies-middle-east-4472650762
+4472687923 | Senior Salesforce consultant | https://in.linkedin.com/jobs/view/senior-salesforce-consultant-at-hj-software-private-limited-4472687923
+4472681851 | Salesforce Health Cloud Technical Lead | https://in.linkedin.com/jobs/view/salesforce-health-cloud-technical-lead-at-the-ksquare-group-4472681851
+4470941094 | CRM Data Architect | https://in.linkedin.com/jobs/view/crm-data-architect-at-azurity-pharmaceuticals-4470941094
+4472529353 | Pega Developer | https://in.linkedin.com/jobs/view/pega-developer-at-coforge-4472529353
