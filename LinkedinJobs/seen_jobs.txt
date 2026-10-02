@@ -6744,3 +6744,7 @@
 4474353180 | Salesforce Engineer - Data Cloud & Agentforce | https://in.linkedin.com/jobs/view/salesforce-engineer-data-cloud-agentforce-at-blue-yonder-4474353180
 4472582822 | Salesforce Engineer - Data Cloud & Agentforce | https://in.linkedin.com/jobs/view/salesforce-engineer-data-cloud-agentforce-at-blue-yonder-4472582822
 4472591980 | Pega Developer | https://in.linkedin.com/jobs/view/pega-developer-at-ntech-workforce-4472591980
+4474535318 | Senior Software Engineer Lead - FSL | https://in.linkedin.com/jobs/view/senior-software-engineer-lead-fsl-at-optum-india-4474535318
+4474527594 | Salesforce Architect - FSL | https://in.linkedin.com/jobs/view/salesforce-architect-fsl-at-optum-india-4474527594
+4474533198 | Success Architect | https://in.linkedin.com/jobs/view/success-architect-at-salesforce-ad-4474533198
+4472832289 | SalesOps - Senior Consultant, Technical Transformation - Customer | https://in.linkedin.com/jobs/view/salesops-senior-consultant-technical-transformation-customer-at-deloitte-4472832289
