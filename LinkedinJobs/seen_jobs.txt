@@ -6749,3 +6749,5 @@
 4474533198 | Success Architect | https://in.linkedin.com/jobs/view/success-architect-at-salesforce-ad-4474533198
 4472832289 | SalesOps - Senior Consultant, Technical Transformation - Customer | https://in.linkedin.com/jobs/view/salesops-senior-consultant-technical-transformation-customer-at-deloitte-4472832289
 4473118008 | Salesforce QA With Salesforce Automation | https://in.linkedin.com/jobs/view/salesforce-qa-with-salesforce-automation-at-hj-software-private-limited-4473118008
+4474721238 | Lead Software Engineer- Salesforce | https://in.linkedin.com/jobs/view/lead-software-engineer-salesforce-at-jpmorganchase-4474721238
+4455242666 | Mulesoft Senior Technical Consultant | https://in.linkedin.com/jobs/view/mulesoft-senior-technical-consultant-at-salesforce-4455242666
