@@ -6756,3 +6756,12 @@
 4475385252 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-datamatics-4475385252
 4475503768 | Digital Functional Expert, B2B Portal | https://in.linkedin.com/jobs/view/digital-functional-expert-b2b-portal-at-opella-4475503768
 4475549052 | Business Analyst, Q2C Rapid Delivery | https://in.linkedin.com/jobs/view/business-analyst-q2c-rapid-delivery-at-salesforce-4475549052
+4475599318 | Technical Lead - Salesforce CPQ / RCA | https://in.linkedin.com/jobs/view/technical-lead-salesforce-cpq-rca-at-osf-digital-4475599318
+4473649744 | Application Architect-Salesforce | https://in.linkedin.com/jobs/view/application-architect-salesforce-at-ibm-4473649744
+4475807927 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-next-generation-technology-inc-4475807927
+4475553892 | Zoho Business Applications Developer | https://in.linkedin.com/jobs/view/zoho-business-applications-developer-at-t-hub-4475553892
+4475555882 | Staff Salesforce Business Analyst | https://in.linkedin.com/jobs/view/staff-salesforce-business-analyst-at-trinet-4475555882
+4474297243 | Hyderabad Location: MuleSoft Developer / Implementation Engineer | https://in.linkedin.com/jobs/view/hyderabad-location-mulesoft-developer-implementation-engineer-at-artec-solutions-pvt-ltd-4474297243
+4473659567 | Oracle CPQ Technical Developer | https://in.linkedin.com/jobs/view/oracle-cpq-technical-developer-at-cricclubs-4473659567
+4474603155 | Custom AI - Software Engineer III - Sales & Service - Customer | https://in.linkedin.com/jobs/view/custom-ai-software-engineer-iii-sales-service-customer-at-deloitte-4474603155
+4474288687 | Custom AI - Software Engineer II - Sales & Service - Customer | https://in.linkedin.com/jobs/view/custom-ai-software-engineer-ii-sales-service-customer-at-deloitte-4474288687
