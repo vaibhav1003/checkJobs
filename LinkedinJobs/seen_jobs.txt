@@ -6765,3 +6765,6 @@
 4473659567 | Oracle CPQ Technical Developer | https://in.linkedin.com/jobs/view/oracle-cpq-technical-developer-at-cricclubs-4473659567
 4474603155 | Custom AI - Software Engineer III - Sales & Service - Customer | https://in.linkedin.com/jobs/view/custom-ai-software-engineer-iii-sales-service-customer-at-deloitte-4474603155
 4474288687 | Custom AI - Software Engineer II - Sales & Service - Customer | https://in.linkedin.com/jobs/view/custom-ai-software-engineer-ii-sales-service-customer-at-deloitte-4474288687
+4475876264 | Salesforce Agentforce Developer | https://in.linkedin.com/jobs/view/salesforce-agentforce-developer-at-cgi-4475876264
+4475862008 | Software Engineering MTS | https://in.linkedin.com/jobs/view/software-engineering-mts-at-salesforce-4475862008
+4474638249 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-peterson-technology-partners-4474638249
