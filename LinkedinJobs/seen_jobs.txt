@@ -6772,3 +6772,12 @@
 4474643736 | Technology analyst | https://in.linkedin.com/jobs/view/technology-analyst-at-infosys-4474643736
 4474666414 | Salesforce Technical Architect (Sales Cloud, Service Cloud, Heroku, MuleSoft) | https://in.linkedin.com/jobs/view/salesforce-technical-architect-sales-cloud-service-cloud-heroku-mulesoft-at-zoetis-4474666414
 4474665479 | Lead Salesforce QA Engineer | https://in.linkedin.com/jobs/view/lead-salesforce-qa-engineer-at-grey-parrot-systems-llc-4474665479
+4474685525 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-oloop-technology-solutions-4474685525
+4474037252 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-digile-4474037252
+4476160481 | Software Engineering MTS | https://in.linkedin.com/jobs/view/software-engineering-mts-at-salesforce-ad-4476160481
+4474687123 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-optum-4474687123
+4476162296 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4476162296
+4476165284 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4476165284
+4476166288 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4476166288
+4476156723 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4476156723
+4476167165 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4476167165
