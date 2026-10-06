@@ -6768,3 +6768,7 @@
 4475876264 | Salesforce Agentforce Developer | https://in.linkedin.com/jobs/view/salesforce-agentforce-developer-at-cgi-4475876264
 4475862008 | Software Engineering MTS | https://in.linkedin.com/jobs/view/software-engineering-mts-at-salesforce-4475862008
 4474638249 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-peterson-technology-partners-4474638249
+4474674165 | Senior Salesforce Developer – CPQ & Field Service Lightning (FSL) | https://in.linkedin.com/jobs/view/senior-salesforce-developer-%E2%80%93-cpq-field-service-lightning-fsl-at-grey-parrot-systems-llc-4474674165
+4474643736 | Technology analyst | https://in.linkedin.com/jobs/view/technology-analyst-at-infosys-4474643736
+4474666414 | Salesforce Technical Architect (Sales Cloud, Service Cloud, Heroku, MuleSoft) | https://in.linkedin.com/jobs/view/salesforce-technical-architect-sales-cloud-service-cloud-heroku-mulesoft-at-zoetis-4474666414
+4474665479 | Lead Salesforce QA Engineer | https://in.linkedin.com/jobs/view/lead-salesforce-qa-engineer-at-grey-parrot-systems-llc-4474665479
