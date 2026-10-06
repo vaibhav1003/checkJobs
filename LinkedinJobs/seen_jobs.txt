@@ -6781,3 +6781,9 @@
 4476166288 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4476166288
 4476156723 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4476156723
 4476167165 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4476167165
+4474081090 | Application Developer-Salesforce | https://in.linkedin.com/jobs/view/application-developer-salesforce-at-ibm-4474081090
+4474069686 | Application Developer-Salesforce | https://in.linkedin.com/jobs/view/application-developer-salesforce-at-ibm-4474069686
+4476305627 | Commerce Platform Developer | https://in.linkedin.com/jobs/view/commerce-platform-developer-at-ge-appliances-a-haier-company-4476305627
+4476306951 | Technical Lead - Salesforce CPQ / RCA | https://in.linkedin.com/jobs/view/technical-lead-salesforce-cpq-rca-at-osf-digital-4476306951
+4474073139 | Salesforce Marketing Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-developer-at-zettamine-labs-pvt-ltd-4474073139
+4474963105 | Sr. Integration Engineer | https://in.linkedin.com/jobs/view/sr-integration-engineer-at-cognida-4474963105
