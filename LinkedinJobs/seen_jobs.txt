@@ -6820,3 +6820,6 @@
 4475946096 | Senior Developer(E-Commerce)SFCC | https://in.linkedin.com/jobs/view/senior-developer-e-commerce-sfcc-at-vidaxl-4475946096
 4477141935 | Salesforce Business Analyst | https://in.linkedin.com/jobs/view/salesforce-business-analyst-at-crowe-capabilities-center-%E2%80%93-india-4477141935
 4477174098 | Engineer, SDET - AccelQ [T500-30005] | https://in.linkedin.com/jobs/view/engineer-sdet-accelq-t500-30005-at-tmus-global-solutions-4477174098
+4476170133 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4476170133
+4475967692 | Associate(Salesforce Analyst), Client Experience Center-Hyderabad - Hyderabad | https://in.linkedin.com/jobs/view/associate-salesforce-analyst-client-experience-center-hyderabad-hyderabad-at-deloitte-4475967692
+4477458985 | AI Technical Architect( Salesforce exp is a must) | https://in.linkedin.com/jobs/view/ai-technical-architect-salesforce-exp-is-a-must-at-salesforce-ad-4477458985
