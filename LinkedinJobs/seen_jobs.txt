@@ -6815,3 +6815,8 @@
 4477118931 | Package Specialist-Salesforce Technical Operations | https://in.linkedin.com/jobs/view/package-specialist-salesforce-technical-operations-at-ibm-4477118931
 4475753964 | Vice President of Solutions and Delivery-Salesforce | https://in.linkedin.com/jobs/view/vice-president-of-solutions-and-delivery-salesforce-at-forsys-inc-4475753964
 4475760795 | Software Engineering, SMTS (Full-Stack) - Java & React | https://in.linkedin.com/jobs/view/software-engineering-smts-full-stack-java-react-at-salesforce-4475760795
+4477117943 | Application Developer-Salesforce | https://in.linkedin.com/jobs/view/application-developer-salesforce-at-ibm-4477117943
+4475795384 | Business Systems Developer II | https://in.linkedin.com/jobs/view/business-systems-developer-ii-at-pdi-technologies-4475795384
+4475946096 | Senior Developer(E-Commerce)SFCC | https://in.linkedin.com/jobs/view/senior-developer-e-commerce-sfcc-at-vidaxl-4475946096
+4477141935 | Salesforce Business Analyst | https://in.linkedin.com/jobs/view/salesforce-business-analyst-at-crowe-capabilities-center-%E2%80%93-india-4477141935
+4477174098 | Engineer, SDET - AccelQ [T500-30005] | https://in.linkedin.com/jobs/view/engineer-sdet-accelq-t500-30005-at-tmus-global-solutions-4477174098
