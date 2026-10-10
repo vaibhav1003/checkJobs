@@ -6859,3 +6859,5 @@
 4475279572 | Lead Software Engineer | https://in.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4475279572
 4478047288 | Developer Advocate | https://in.linkedin.com/jobs/view/developer-advocate-at-salesforce-ad-4478047288
 4478049200 | AI Technical Architect( Salesforce exp is a must) | https://in.linkedin.com/jobs/view/ai-technical-architect-salesforce-exp-is-a-must-at-salesforce-ad-4478049200
+4477219593 | Senior Salesforce LWC Developer | https://in.linkedin.com/jobs/view/senior-salesforce-lwc-developer-at-csbusinesmgmt-in-4477219593
+4477217684 | Salesforce Administrator / Developer | https://in.linkedin.com/jobs/view/salesforce-administrator-developer-at-srm-technologies-4477217684
