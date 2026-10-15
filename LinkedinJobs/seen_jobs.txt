@@ -6918,3 +6918,7 @@
 4479823942 | Senior Technical Consultant - Data 360 (Mandatory) | https://in.linkedin.com/jobs/view/senior-technical-consultant-data-360-mandatory-at-salesforce-4479823942
 4479843118 | Data Engineering MTS/SMTS - ETL | https://in.linkedin.com/jobs/view/data-engineering-mts-smts-etl-at-salesforce-4479843118
 4479842372 | Salesforce Success Architect | https://in.linkedin.com/jobs/view/salesforce-success-architect-at-salesforce-4479842372
+4479046237 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4479046237
+4477307388 | Salesforce Architect and Platform Owner | https://in.linkedin.com/jobs/view/salesforce-architect-and-platform-owner-at-macquarie-group-4477307388
+4477312056 | Salesforce Revenue Cloud- Sr. Associate | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-sr-associate-at-pwc-acceleration-center-india-4477312056
+4479894361 | Nice CX One | https://in.linkedin.com/jobs/view/nice-cx-one-at-pronix-inc-4479894361
