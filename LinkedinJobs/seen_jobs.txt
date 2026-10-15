@@ -6910,3 +6910,11 @@
 4469705837 | Principal Consultant – Salesforce | https://in.linkedin.com/jobs/view/principal-consultant-%E2%80%93-salesforce-at-ttec-digital-4469705837
 4479801654 | Senior Technical Consultant - Data 360 (Mandatory) | https://in.linkedin.com/jobs/view/senior-technical-consultant-data-360-mandatory-at-salesforce-ad-4479801654
 4479791955 | Salesforce Success Architect | https://in.linkedin.com/jobs/view/salesforce-success-architect-at-salesforce-ad-4479791955
+4477079839 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-regal-rexnord-4477079839
+4478867660 | Salesforce EPC/ CPQ developer - PAN INDIA | https://in.linkedin.com/jobs/view/salesforce-epc-cpq-developer-pan-india-at-live-connections-4478867660
+4479825810 | Senior Salesforce Technical Consultant/Developer (Health Cloud/Health Exp mandatory) | https://in.linkedin.com/jobs/view/senior-salesforce-technical-consultant-developer-health-cloud-health-exp-mandatory-at-salesforce-4479825810
+4479831678 | Software Engineering AMTS | https://in.linkedin.com/jobs/view/software-engineering-amts-at-salesforce-4479831678
+4477096200 | [YC9EB644] Salesforce CPQ Consultant | https://in.linkedin.com/jobs/view/yc9eb644-salesforce-cpq-consultant-at-zettamine-labs-pvt-ltd-4477096200
+4479823942 | Senior Technical Consultant - Data 360 (Mandatory) | https://in.linkedin.com/jobs/view/senior-technical-consultant-data-360-mandatory-at-salesforce-4479823942
+4479843118 | Data Engineering MTS/SMTS - ETL | https://in.linkedin.com/jobs/view/data-engineering-mts-smts-etl-at-salesforce-4479843118
+4479842372 | Salesforce Success Architect | https://in.linkedin.com/jobs/view/salesforce-success-architect-at-salesforce-4479842372
