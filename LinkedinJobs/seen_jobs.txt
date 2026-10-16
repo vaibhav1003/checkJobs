@@ -6945,3 +6945,6 @@
 4480384436 | Senior Technical Consultant: Salesforce(Automotive Experience) | https://in.linkedin.com/jobs/view/senior-technical-consultant-salesforce-automotive-experience-at-salesforce-4480384436
 4480370832 | Systems Engineer-Force.com | https://in.linkedin.com/jobs/view/systems-engineer-force-com-at-salesforce-4480370832
 4480355531 | Senior CPQ Developer | https://in.linkedin.com/jobs/view/senior-cpq-developer-at-people-prime-worldwide-4480355531
+4477716067 | Salesforce Core Developer | https://in.linkedin.com/jobs/view/salesforce-core-developer-at-virtusa-4477716067
+4477399804 | Salesforce Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-cloud-developer-at-virtusa-4477399804
+4477714188 | Salesforce Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-cloud-developer-at-virtusa-4477714188
