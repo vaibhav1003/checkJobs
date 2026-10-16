@@ -6948,3 +6948,6 @@
 4477716067 | Salesforce Core Developer | https://in.linkedin.com/jobs/view/salesforce-core-developer-at-virtusa-4477716067
 4477399804 | Salesforce Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-cloud-developer-at-virtusa-4477399804
 4477714188 | Salesforce Cloud Developer | https://in.linkedin.com/jobs/view/salesforce-cloud-developer-at-virtusa-4477714188
+4480544353 | Data Engineering SMTS/LMTS- Revenue Analytics | https://in.linkedin.com/jobs/view/data-engineering-smts-lmts-revenue-analytics-at-salesforce-4480544353
+4480548596 | Data Engineering SMTS/LMTS- Revenue Analytics | https://in.linkedin.com/jobs/view/data-engineering-smts-lmts-revenue-analytics-at-salesforce-ad-4480548596
+4480397861 | Senior. Specialist, Software Engineering (MuleSoft Integration) | https://in.linkedin.com/jobs/view/senior-specialist-software-engineering-mulesoft-integration-at-msd-4480397861
