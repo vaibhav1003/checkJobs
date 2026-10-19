@@ -6958,3 +6958,5 @@
 4480220366 | Lead Salesforce Developer | https://in.linkedin.com/jobs/view/lead-salesforce-developer-at-neurealm-4480220366
 4480945896 | Salesforce Support Engineer - Industries & Revenue Cloud | https://in.linkedin.com/jobs/view/salesforce-support-engineer-industries-revenue-cloud-at-salesforce-ad-4480945896
 4480956626 | QE Consultant - Salesforce Testing [T500-28600] | https://in.linkedin.com/jobs/view/qe-consultant-salesforce-testing-t500-28600-at-cibc-india-4480956626
+4480974711 | Salesforce Technical Lead | https://in.linkedin.com/jobs/view/salesforce-technical-lead-at-qpact-4480974711
+4480230150 | Business Analyst | https://in.linkedin.com/jobs/view/business-analyst-at-tata-consultancy-services-4480230150
