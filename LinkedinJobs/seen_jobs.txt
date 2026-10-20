@@ -6962,3 +6962,10 @@
 4480230150 | Business Analyst | https://in.linkedin.com/jobs/view/business-analyst-at-tata-consultancy-services-4480230150
 4481518238 | Senior Technical Consultant - Agentforce (Salesforce development exp mandatory) | https://in.linkedin.com/jobs/view/senior-technical-consultant-agentforce-salesforce-development-exp-mandatory-at-salesforce-4481518238
 4481516247 | Salesforce Support Engineer - Industries & Revenue Cloud | https://in.linkedin.com/jobs/view/salesforce-support-engineer-industries-revenue-cloud-at-salesforce-4481516247
+4478668390 | Lead Software Engineer | https://in.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4478668390
+4480438744 | Salesforce Revenue Cloud / CPQ Consultant | https://in.linkedin.com/jobs/view/salesforce-revenue-cloud-cpq-consultant-at-us-based-law-firm-4480438744
+4481561130 | Senior Technical Consultant: Salesforce(Automotive Experience) | https://in.linkedin.com/jobs/view/senior-technical-consultant-salesforce-automotive-experience-at-salesforce-ad-4481561130
+4481554475 | Salesforce Support Engineer - Industries & Revenue Cloud | https://in.linkedin.com/jobs/view/salesforce-support-engineer-industries-revenue-cloud-at-salesforce-ad-4481554475
+4481541998 | Data Engineering SMTS/LMTS- Revenue Analytics | https://in.linkedin.com/jobs/view/data-engineering-smts-lmts-revenue-analytics-at-salesforce-ad-4481541998
+4478684731 | Lead Data Engineer | https://in.linkedin.com/jobs/view/lead-data-engineer-at-milestone-technologies-inc-4478684731
+4478672285 | Lead Software Engineer | https://in.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4478672285
