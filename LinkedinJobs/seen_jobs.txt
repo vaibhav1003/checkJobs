@@ -6970,3 +6970,5 @@
 4478684731 | Lead Data Engineer | https://in.linkedin.com/jobs/view/lead-data-engineer-at-milestone-technologies-inc-4478684731
 4478672285 | Lead Software Engineer | https://in.linkedin.com/jobs/view/lead-software-engineer-at-virtusa-4478672285
 4478904504 | Assistant Manager | https://in.linkedin.com/jobs/view/assistant-manager-at-deloitte-4478904504
+4480785228 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-zorba-ai-4480785228
+4480771546 | Data360 Engineer | https://in.linkedin.com/jobs/view/data360-engineer-at-artech-l-l-c-4480771546
