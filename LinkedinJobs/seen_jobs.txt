@@ -6986,3 +6986,6 @@
 4482094250 | Software Consultant - Revenue Cloud | https://in.linkedin.com/jobs/view/software-consultant-revenue-cloud-at-osf-digital-4482094250
 4481118302 | Senior Lead Developer | https://in.linkedin.com/jobs/view/senior-lead-developer-at-ust-4481118302
 4479436871 | Zoho Developer | https://in.linkedin.com/jobs/view/zoho-developer-at-ces-4479436871
+4482181688 | Engineering Manager, Salesforce & Oracle CPQ | https://in.linkedin.com/jobs/view/engineering-manager-salesforce-oracle-cpq-at-f5-4482181688
+4482168634 | Senior Implementation Consultant – CRM Data Migration | https://in.linkedin.com/jobs/view/senior-implementation-consultant-%E2%80%93-crm-data-migration-at-petadata-4482168634
+4482185126 | Full Stack Developer – AI & Data Integrations | https://in.linkedin.com/jobs/view/full-stack-developer-%E2%80%93-ai-data-integrations-at-petadata-4482185126
