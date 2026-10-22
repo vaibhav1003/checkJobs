@@ -7001,3 +7001,7 @@
 4481363582 | Sr. CRM Developer | https://in.linkedin.com/jobs/view/sr-crm-developer-at-accelerize-360-4481363582
 4482473276 | Technical Business Analyst – Salesforce | https://in.linkedin.com/jobs/view/technical-business-analyst-%E2%80%93-salesforce-at-people-prime-worldwide-4482473276
 4472551802 | Salesforce Testing Consultant | https://in.linkedin.com/jobs/view/salesforce-testing-consultant-at-infosys-4472551802
+4481393114 | Salesforce QA (L2) | https://in.linkedin.com/jobs/view/salesforce-qa-l2-at-ness-digital-engineering-4481393114
+4480051732 | Salesforce Tester | https://in.linkedin.com/jobs/view/salesforce-tester-at-saxon-global-4480051732
+4480056791 | Data Engineer | https://in.linkedin.com/jobs/view/data-engineer-at-algoleap-4480056791
+4479498300 | Workato Lead | https://in.linkedin.com/jobs/view/workato-lead-at-cv-logistics-ltd-4479498300
