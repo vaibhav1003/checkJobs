@@ -7007,3 +7007,12 @@
 4479498300 | Workato Lead | https://in.linkedin.com/jobs/view/workato-lead-at-cv-logistics-ltd-4479498300
 4480605134 | Salesforce Sr. Developer/Lead – Agentforce | Claude | LLM | AI Agent Building | Remote | https://in.linkedin.com/jobs/view/salesforce-sr-developer-lead-%E2%80%93-agentforce-claude-llm-ai-agent-building-remote-at-remote-wfh-india-4480605134
 4481647643 | Salesforce developer with ITSM | https://in.linkedin.com/jobs/view/salesforce-developer-with-itsm-at-infyshine-inc-4481647643
+4482833580 | Salesforce Developer-Lifesciences | https://in.linkedin.com/jobs/view/salesforce-developer-lifesciences-at-techaivv-technologies-4482833580
+4481673526 | Salesforces Developer Order-to-Cash (OTC)  and CPQ | https://in.linkedin.com/jobs/view/salesforces-developer-order-to-cash-otc-and-cpq-at-crisil-4481673526
+4480646593 | Senior Salesforce Developer (Service Cloud & Experience Cloud) | https://in.linkedin.com/jobs/view/senior-salesforce-developer-service-cloud-experience-cloud-at-the-ksquare-group-4480646593
+4481680163 | Salesforce Developer/Lead/Architect | https://in.linkedin.com/jobs/view/salesforce-developer-lead-architect-at-tata-consultancy-services-4481680163
+4481667965 | Salesforce Marketing Cloud Engagement Consultant/Developer - 5+ Years - Immediate joiner | https://in.linkedin.com/jobs/view/salesforce-marketing-cloud-engagement-consultant-developer-5%2B-years-immediate-joiner-at-synapseworks-ai-4481667965
+4480628433 | Salesforce Consultant | https://in.linkedin.com/jobs/view/salesforce-consultant-at-coforge-4480628433
+4480616655 | Agentforce Consultant - 5+ Years | https://in.linkedin.com/jobs/view/agentforce-consultant-5%2B-years-at-absyz-inc-4480616655
+4482837551 | Technical Architect- Salesforce Devops | https://in.linkedin.com/jobs/view/technical-architect-salesforce-devops-at-salesforce-4482837551
+4481656724 | Salesforce Data Architect | https://in.linkedin.com/jobs/view/salesforce-data-architect-at-crisil-4481656724
