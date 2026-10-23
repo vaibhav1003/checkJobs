@@ -7006,3 +7006,4 @@
 4480056791 | Data Engineer | https://in.linkedin.com/jobs/view/data-engineer-at-algoleap-4480056791
 4479498300 | Workato Lead | https://in.linkedin.com/jobs/view/workato-lead-at-cv-logistics-ltd-4479498300
 4480605134 | Salesforce Sr. Developer/Lead – Agentforce | Claude | LLM | AI Agent Building | Remote | https://in.linkedin.com/jobs/view/salesforce-sr-developer-lead-%E2%80%93-agentforce-claude-llm-ai-agent-building-remote-at-remote-wfh-india-4480605134
+4481647643 | Salesforce developer with ITSM | https://in.linkedin.com/jobs/view/salesforce-developer-with-itsm-at-infyshine-inc-4481647643
