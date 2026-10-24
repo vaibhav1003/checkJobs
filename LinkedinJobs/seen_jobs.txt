@@ -7016,3 +7016,7 @@
 4480616655 | Agentforce Consultant - 5+ Years | https://in.linkedin.com/jobs/view/agentforce-consultant-5%2B-years-at-absyz-inc-4480616655
 4482837551 | Technical Architect- Salesforce Devops | https://in.linkedin.com/jobs/view/technical-architect-salesforce-devops-at-salesforce-4482837551
 4481656724 | Salesforce Data Architect | https://in.linkedin.com/jobs/view/salesforce-data-architect-at-crisil-4481656724
+4483315356 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-apriden-4483315356
+4482603024 | MTX Campus Drive - Junior Associate Consultant (NRIIT, Guntur) | https://in.linkedin.com/jobs/view/mtx-campus-drive-junior-associate-consultant-nriit-guntur-at-mtx-group-4482603024
+4483306768 | Manager/Senior Manager, Technical Consulting — Revenue Cloud Advanced(RCA) | https://in.linkedin.com/jobs/view/manager-senior-manager-technical-consulting-%E2%80%94-revenue-cloud-advanced-rca-at-salesforce-4483306768
+4481015893 | Software Developer (Veeva Vault CRM / X-Pages) | https://in.linkedin.com/jobs/view/software-developer-veeva-vault-crm-x-pages-at-acuitas360-4481015893
