@@ -7027,3 +7027,6 @@
 4483501880 | TECHNICAL LEAD L1 | https://in.linkedin.com/jobs/view/technical-lead-l1-at-wipro-4483501880
 4483526684 | Five9 Contact Center Solutions Architect | https://in.linkedin.com/jobs/view/five9-contact-center-solutions-architect-at-tekskills-inc-4483526684
 4482926588 | Oracle CPQ Cloud Architect | https://in.linkedin.com/jobs/view/oracle-cpq-cloud-architect-at-forsys-inc-4482926588
+4483579525 | Salesforce Developer - Loyalty Cloud | https://in.linkedin.com/jobs/view/salesforce-developer-loyalty-cloud-at-osf-digital-4483579525
+4483565890 | Technical Lead - Salesforce CPQ / RCA | https://in.linkedin.com/jobs/view/technical-lead-salesforce-cpq-rca-at-osf-digital-4483565890
+4483575659 | Software Consultant - Revenue Cloud | https://in.linkedin.com/jobs/view/software-consultant-revenue-cloud-at-osf-digital-4483575659
