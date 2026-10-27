@@ -7030,3 +7030,7 @@
 4483579525 | Salesforce Developer - Loyalty Cloud | https://in.linkedin.com/jobs/view/salesforce-developer-loyalty-cloud-at-osf-digital-4483579525
 4483565890 | Technical Lead - Salesforce CPQ / RCA | https://in.linkedin.com/jobs/view/technical-lead-salesforce-cpq-rca-at-osf-digital-4483565890
 4483575659 | Software Consultant - Revenue Cloud | https://in.linkedin.com/jobs/view/software-consultant-revenue-cloud-at-osf-digital-4483575659
+4483278101 | Agentforce - Consultant, Technical Transformation- Sales & Service - Customer | https://in.linkedin.com/jobs/view/agentforce-consultant-technical-transformation-sales-service-customer-at-deloitte-4483278101
+4483739355 | Developer Advocate | https://in.linkedin.com/jobs/view/developer-advocate-at-salesforce-ad-4483739355
+4483738589 | Software Engineering MTS | https://in.linkedin.com/jobs/view/software-engineering-mts-at-salesforce-4483738589
+4483736510 | Manager/Senior Manager, Technical Consulting (Salesforce Exp mandatory) | https://in.linkedin.com/jobs/view/manager-senior-manager-technical-consulting-salesforce-exp-mandatory-at-salesforce-ad-4483736510
