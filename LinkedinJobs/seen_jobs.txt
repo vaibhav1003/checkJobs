@@ -7050,3 +7050,7 @@
 4484073002 | Salesforce Technical Lead | https://in.linkedin.com/jobs/view/salesforce-technical-lead-at-azurity-pharmaceuticals-4484073002
 4474697429 | Salesforce Administrator | https://in.linkedin.com/jobs/view/salesforce-administrator-at-redwood-software-4474697429
 4474033684 | Package Specialist-Salesforce Technical Operations | https://in.linkedin.com/jobs/view/package-specialist-salesforce-technical-operations-at-ibm-4474033684
+4474045269 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4474045269
+4484249211 | Manager/Senior Manager, Technical Consulting (Salesforce Exp mandatory) | https://in.linkedin.com/jobs/view/manager-senior-manager-technical-consulting-salesforce-exp-mandatory-at-salesforce-ad-4484249211
+4484246520 | Technical Architect — Tableau Next | https://in.linkedin.com/jobs/view/technical-architect-%E2%80%94-tableau-next-at-salesforce-ad-4484246520
+4484078746 | Technical Architect — Tableau Next | https://in.linkedin.com/jobs/view/technical-architect-%E2%80%94-tableau-next-at-salesforce-4484078746
