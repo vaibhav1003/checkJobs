@@ -7034,3 +7034,5 @@
 4483739355 | Developer Advocate | https://in.linkedin.com/jobs/view/developer-advocate-at-salesforce-ad-4483739355
 4483738589 | Software Engineering MTS | https://in.linkedin.com/jobs/view/software-engineering-mts-at-salesforce-4483738589
 4483736510 | Manager/Senior Manager, Technical Consulting (Salesforce Exp mandatory) | https://in.linkedin.com/jobs/view/manager-senior-manager-technical-consulting-salesforce-exp-mandatory-at-salesforce-ad-4483736510
+4484002742 | Platinum Consultant_CRM Technical | https://in.linkedin.com/jobs/view/platinum-consultant-crm-technical-at-ntt-data-business-solutions-4484002742
+4483795105 | Senior AI Developer - Finance Automation & Enterprise Integration | https://in.linkedin.com/jobs/view/senior-ai-developer-finance-automation-enterprise-integration-at-revvity-4483795105
