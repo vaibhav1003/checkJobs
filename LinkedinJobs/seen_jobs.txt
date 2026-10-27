@@ -7036,3 +7036,12 @@
 4483736510 | Manager/Senior Manager, Technical Consulting (Salesforce Exp mandatory) | https://in.linkedin.com/jobs/view/manager-senior-manager-technical-consulting-salesforce-exp-mandatory-at-salesforce-ad-4483736510
 4484002742 | Platinum Consultant_CRM Technical | https://in.linkedin.com/jobs/view/platinum-consultant-crm-technical-at-ntt-data-business-solutions-4484002742
 4483795105 | Senior AI Developer - Finance Automation & Enterprise Integration | https://in.linkedin.com/jobs/view/senior-ai-developer-finance-automation-enterprise-integration-at-revvity-4483795105
+4481836951 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-algoleap-4481836951
+4483602737 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-centotech-services-private-limited-4483602737
+4483605875 | Salesforce CPQ Developer | https://in.linkedin.com/jobs/view/salesforce-cpq-developer-at-cloud-peritus-4483605875
+4483605885 | Salesforce CLM Developer | https://in.linkedin.com/jobs/view/salesforce-clm-developer-at-cloud-peritus-4483605885
+4484021580 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-tachyon-technologies-4484021580
+4481880233 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4481880233
+4484026919 | Software Engineering MTS – Production Support & AI Automation | https://in.linkedin.com/jobs/view/software-engineering-mts-%E2%80%93-production-support-ai-automation-at-salesforce-4484026919
+4484010904 | Sr  Zoho CRM Developer | https://in.linkedin.com/jobs/view/sr-zoho-crm-developer-at-softobiz-4484010904
+4483610837 | Salesforce CLM Data Migration Testing Engineer | https://in.linkedin.com/jobs/view/salesforce-clm-data-migration-testing-engineer-at-cloud-peritus-4483610837
