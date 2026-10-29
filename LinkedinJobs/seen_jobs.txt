@@ -7077,3 +7077,5 @@
 4484933647 | Senior IT Developer | https://in.linkedin.com/jobs/view/senior-it-developer-at-medtronic-4484933647
 4484913490 | Analyst - Salesforce Development [T500-30507] | https://in.linkedin.com/jobs/view/analyst-salesforce-development-t500-30507-at-h-e-services-india-4484913490
 4476595228 | Salesforce Technical - Associate Business Transformation Architect - Sales & Service - Customer | https://in.linkedin.com/jobs/view/salesforce-technical-associate-business-transformation-architect-sales-service-customer-at-deloitte-4476595228
+4484986487 | Senior Salesforce QA Engineer | https://in.linkedin.com/jobs/view/senior-salesforce-qa-engineer-at-lpl-financial-global-capability-center-4484986487
+4484977374 | MarTech Automation Specialist | https://in.linkedin.com/jobs/view/martech-automation-specialist-at-jr-automation-4484977374
