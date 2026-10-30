@@ -7079,3 +7079,6 @@
 4476595228 | Salesforce Technical - Associate Business Transformation Architect - Sales & Service - Customer | https://in.linkedin.com/jobs/view/salesforce-technical-associate-business-transformation-architect-sales-service-customer-at-deloitte-4476595228
 4484986487 | Senior Salesforce QA Engineer | https://in.linkedin.com/jobs/view/senior-salesforce-qa-engineer-at-lpl-financial-global-capability-center-4484986487
 4484977374 | MarTech Automation Specialist | https://in.linkedin.com/jobs/view/martech-automation-specialist-at-jr-automation-4484977374
+4485228932 | Software Engineering AMTS | https://in.linkedin.com/jobs/view/software-engineering-amts-at-salesforce-4485228932
+4483411184 | Associate Architect - Salesforce Development Job | https://in.linkedin.com/jobs/view/associate-architect-salesforce-development-job-at-yash-technologies-middle-east-4483411184
+4484590903 | Workato Developer | https://in.linkedin.com/jobs/view/workato-developer-at-etg-digital-4484590903
