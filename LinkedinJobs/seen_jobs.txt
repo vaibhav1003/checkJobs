@@ -7092,3 +7092,7 @@
 4484860300 | Manager, Salesforce Development | https://in.linkedin.com/jobs/view/manager-salesforce-development-at-eci-software-solutions-4484860300
 4483445081 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4483445081
 4476800351 | Dynamics CRM Technical Consultant | https://in.linkedin.com/jobs/view/dynamics-crm-technical-consultant-at-infosys-4476800351
+4484883230 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-parexel-4484883230
+4485380200 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-htc-global-services-4485380200
+4484896191 | Senior Salesforce Functional Analyst(BA) | https://in.linkedin.com/jobs/view/senior-salesforce-functional-analyst-ba-at-parexel-4484896191
+4484895178 | Senior Salesforce Functional Analyst(QA) | https://in.linkedin.com/jobs/view/senior-salesforce-functional-analyst-qa-at-parexel-4484895178
