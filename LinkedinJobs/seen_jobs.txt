@@ -7088,3 +7088,7 @@
 4485304950 | Success Architect-Service-FY27-Q3-5 | https://in.linkedin.com/jobs/view/success-architect-service-fy27-q3-5-at-salesforce-ad-4485304950
 4483418932 | Siebel Developer | https://in.linkedin.com/jobs/view/siebel-developer-at-charter-global-4483418932
 4485320195 | Director, Salesforce Program Leader | https://in.linkedin.com/jobs/view/director-salesforce-program-leader-at-salesforce-ad-4485320195
+4484825936 | Applied AI Engineer Sales Force - Software Engineer II | https://in.linkedin.com/jobs/view/applied-ai-engineer-sales-force-software-engineer-ii-at-deloitte-4484825936
+4484860300 | Manager, Salesforce Development | https://in.linkedin.com/jobs/view/manager-salesforce-development-at-eci-software-solutions-4484860300
+4483445081 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4483445081
+4476800351 | Dynamics CRM Technical Consultant | https://in.linkedin.com/jobs/view/dynamics-crm-technical-consultant-at-infosys-4476800351
