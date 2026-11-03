@@ -7120,3 +7120,13 @@
 4478102129 | Enterprise Integrations Analyst* | https://in.linkedin.com/jobs/view/enterprise-integrations-analyst-at-meltwater-4478102129
 4486847614 | Application Development & Support Specialist | https://in.linkedin.com/jobs/view/application-development-support-specialist-at-vertiv-4486847614
 4486862272 | Software Engineer II - ServiceNow & Integration Hub | https://in.linkedin.com/jobs/view/software-engineer-ii-servicenow-integration-hub-at-blue-yonder-4486862272
+4477981924 | Sr Enterprise Integrations Analyst* | https://in.linkedin.com/jobs/view/sr-enterprise-integrations-analyst-at-meltwater-4477981924
+4477997402 | Enterprise Integrations Analyst* | https://in.linkedin.com/jobs/view/enterprise-integrations-analyst-at-meltwater-4477997402
+4487042679 | Salesforce Senior Technical Manager (Salesforce Technical Architect experience is mandatory) | https://in.linkedin.com/jobs/view/salesforce-senior-technical-manager-salesforce-technical-architect-experience-is-mandatory-at-salesforce-ad-4487042679
+4487057064 | Technical Business Analyst, Product & Pricing Operations | https://in.linkedin.com/jobs/view/technical-business-analyst-product-pricing-operations-at-salesforce-ad-4487057064
+4487038857 | Data Cloud/Data 360 Architect (MC experience also required) | https://in.linkedin.com/jobs/view/data-cloud-data-360-architect-mc-experience-also-required-at-salesforce-ad-4487038857
+4486880991 | Technical Business Analyst, Product & Pricing Operations | https://in.linkedin.com/jobs/view/technical-business-analyst-product-pricing-operations-at-salesforce-4486880991
+4477997401 | Staff Enterprise Integrations Analyst* | https://in.linkedin.com/jobs/view/staff-enterprise-integrations-analyst-at-meltwater-4477997401
+4484689823 | Senior Consultant - Functional | https://in.linkedin.com/jobs/view/senior-consultant-functional-at-mtx-group-4484689823
+4486895766 | Senior Test Engineer - Salesforce Testing | https://in.linkedin.com/jobs/view/senior-test-engineer-salesforce-testing-at-cgi-4486895766
+4487002515 | Senior Test Engineer- Salesforce Testing | https://in.linkedin.com/jobs/view/senior-test-engineer-salesforce-testing-at-cgi-4487002515
