@@ -7110,3 +7110,7 @@
 4486441634 | Success Architect-Salesforce Field Service | https://in.linkedin.com/jobs/view/success-architect-salesforce-field-service-at-salesforce-ad-4486441634
 4486442580 | Manager/Senior Manager, Technical Consulting (Salesforce Exp mandatory) | https://in.linkedin.com/jobs/view/manager-senior-manager-technical-consulting-salesforce-exp-mandatory-at-salesforce-ad-4486442580
 4486468091 | Siebel Support _ Tier 2 CTR | https://in.linkedin.com/jobs/view/siebel-support-tier-2-ctr-at-datavail-4486468091
+4486031205 | GIG - Senior Developer - Salesforce - Daikin | https://in.linkedin.com/jobs/view/gig-senior-developer-salesforce-daikin-at-ey-4486031205
+4486040119 | Salesforce Solution Architect | https://in.linkedin.com/jobs/view/salesforce-solution-architect-at-oloop-technology-solutions-4486040119
+4486003661 | Salesforce Administrator | https://in.linkedin.com/jobs/view/salesforce-administrator-at-artech-4486003661
+4484632634 | Architect/ Manager | https://in.linkedin.com/jobs/view/architect-manager-at-hj-software-private-limited-4484632634
