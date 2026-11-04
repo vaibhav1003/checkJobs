@@ -7130,3 +7130,4 @@
 4484689823 | Senior Consultant - Functional | https://in.linkedin.com/jobs/view/senior-consultant-functional-at-mtx-group-4484689823
 4486895766 | Senior Test Engineer - Salesforce Testing | https://in.linkedin.com/jobs/view/senior-test-engineer-salesforce-testing-at-cgi-4486895766
 4487002515 | Senior Test Engineer- Salesforce Testing | https://in.linkedin.com/jobs/view/senior-test-engineer-salesforce-testing-at-cgi-4487002515
+4487089377 | Milestone Technologies - Salesforce B2B Commerce Architect - Apex/Lightning Web Components | https://in.linkedin.com/jobs/view/milestone-technologies-salesforce-b2b-commerce-architect-apex-lightning-web-components-at-mti-4487089377
