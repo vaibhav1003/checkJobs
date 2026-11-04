@@ -7131,3 +7131,6 @@
 4486895766 | Senior Test Engineer - Salesforce Testing | https://in.linkedin.com/jobs/view/senior-test-engineer-salesforce-testing-at-cgi-4486895766
 4487002515 | Senior Test Engineer- Salesforce Testing | https://in.linkedin.com/jobs/view/senior-test-engineer-salesforce-testing-at-cgi-4487002515
 4487089377 | Milestone Technologies - Salesforce B2B Commerce Architect - Apex/Lightning Web Components | https://in.linkedin.com/jobs/view/milestone-technologies-salesforce-b2b-commerce-architect-apex-lightning-web-components-at-mti-4487089377
+4487223560 | Salesforce Developer | https://in.linkedin.com/jobs/view/salesforce-developer-at-andor-tech-4487223560
+4487215682 | Technical Lead - Salesforce CPQ / RCA | https://in.linkedin.com/jobs/view/technical-lead-salesforce-cpq-rca-at-osf-digital-4487215682
+4485059463 | Engineering Manager | https://in.linkedin.com/jobs/view/engineering-manager-at-hj-software-private-limited-4485059463
