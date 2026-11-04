@@ -7143,3 +7143,8 @@
 4487283819 | Business Analyst / Product Owner (Salesforce) | https://in.linkedin.com/jobs/view/business-analyst-product-owner-salesforce-at-allshore-technologies-4487283819
 4486358858 | HSO India | Senior CRM/Power Platform Developer | 8+ Years | https://in.linkedin.com/jobs/view/hso-india-senior-crm-power-platform-developer-8%2B-years-at-hso-4486358858
 4486378112 | Frontend Developer | https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4486378112
+4487291937 | Software Engineer III- Salesforce | https://in.linkedin.com/jobs/view/software-engineer-iii-salesforce-at-jpmorganchase-4487291937
+4487505419 | Software Engineer III- Salesforce | https://in.linkedin.com/jobs/view/software-engineer-iii-salesforce-at-jpmorganchase-4487505419
+4474047142 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4474047142
+4487527883 | Senior Implementation Consultant – CRM Data Migration | https://in.linkedin.com/jobs/view/senior-implementation-consultant-%E2%80%93-crm-data-migration-at-petadata-4487527883
+4487548165 | Salesforce Success Architect - Gen AI & Agentforce (EST & PST Timezone) | https://in.linkedin.com/jobs/view/salesforce-success-architect-gen-ai-agentforce-est-pst-timezone-at-salesforce-ad-4487548165
