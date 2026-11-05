@@ -7148,3 +7148,12 @@
 4474047142 | Package Consultant-Salesforce | https://in.linkedin.com/jobs/view/package-consultant-salesforce-at-ibm-4474047142
 4487527883 | Senior Implementation Consultant – CRM Data Migration | https://in.linkedin.com/jobs/view/senior-implementation-consultant-%E2%80%93-crm-data-migration-at-petadata-4487527883
 4487548165 | Salesforce Success Architect - Gen AI & Agentforce (EST & PST Timezone) | https://in.linkedin.com/jobs/view/salesforce-success-architect-gen-ai-agentforce-est-pst-timezone-at-salesforce-ad-4487548165
+4486589492 | Senior Salesforce Developer | https://in.linkedin.com/jobs/view/senior-salesforce-developer-at-teladoc-health-4486589492
+4485820136 | Application Developer-Salesforce | https://in.linkedin.com/jobs/view/application-developer-salesforce-at-ibm-4485820136
+4485818345 | Application Developer-Salesforce | https://in.linkedin.com/jobs/view/application-developer-salesforce-at-ibm-4485818345
+4486581804 | Module Lead - Salesforce Job | https://in.linkedin.com/jobs/view/module-lead-salesforce-job-at-yash-technologies-4486581804
+4486711116 | nCino / Salesforce- Analyst | https://in.linkedin.com/jobs/view/ncino-salesforce-analyst-at-deloitte-4486711116
+4486705160 | nCino / Salesforce -Consultant | https://in.linkedin.com/jobs/view/ncino-salesforce-consultant-at-deloitte-4486705160
+4487748286 | Custom Software Engineer | https://in.linkedin.com/jobs/view/custom-software-engineer-at-accenture-in-india-4487748286
+4486709129 | nCino / Salesforce - Senior Consultant , Technical Transformation | https://in.linkedin.com/jobs/view/ncino-salesforce-senior-consultant-technical-transformation-at-deloitte-4486709129
+4487710811 | Software Consultant - Revenue Cloud | https://in.linkedin.com/jobs/view/software-consultant-revenue-cloud-at-osf-digital-4487710811
