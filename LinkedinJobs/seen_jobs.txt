@@ -7173,3 +7173,5 @@
 4486984319 | Salesforce/Conga CPQ Solution Architect | https://in.linkedin.com/jobs/view/salesforce-conga-cpq-solution-architect-at-forsys-inc-4486984319
 4486231737 | Solutions Architect- Marketing Cloud | https://in.linkedin.com/jobs/view/solutions-architect-marketing-cloud-at-the-ksquare-group-4486231737
 4486975477 | Frontend Developer | https://in.linkedin.com/jobs/view/frontend-developer-at-scoutit-4486975477
+4492103929 | Integration Specialist | https://in.linkedin.com/jobs/view/integration-specialist-at-talentgigs-4492103929
+4492239286 | Salesforce QA + Automation | https://in.linkedin.com/jobs/view/salesforce-qa-%2B-automation-at-lumovy-technology-solutions-4492239286
