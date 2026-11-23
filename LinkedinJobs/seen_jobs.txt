@@ -7201,3 +7201,5 @@
 4491386835 | Salesforce Platform Administrator (m/f/d) | https://in.linkedin.com/jobs/view/salesforce-platform-administrator-m-f-d-at-basf-4491386835
 4493282161 | Lead Software Engineer | https://in.linkedin.com/jobs/view/lead-software-engineer-at-jpmorganchase-4493282161
 4493503199 | Integration Specialist | https://in.linkedin.com/jobs/view/integration-specialist-at-talentgigs-4493503199
+4493596356 | Integration Specialist | https://in.linkedin.com/jobs/view/integration-specialist-at-talentgigs-4493596356
+4493394683 | Technical Lead - Salesforce CPQ / RCA | https://in.linkedin.com/jobs/view/technical-lead-salesforce-cpq-rca-at-osf-digital-4493394683
