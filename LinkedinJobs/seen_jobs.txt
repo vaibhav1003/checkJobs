@@ -7212,3 +7212,6 @@
 4493013179 | Flutter Developer | https://in.linkedin.com/jobs/view/flutter-developer-at-forge-software-technologies-pvt-ltd-4493013179
 4494376166 | Salesforce Business Analyst | https://in.linkedin.com/jobs/view/salesforce-business-analyst-at-audit-fox-by-revx-4494376166
 4494328706 | Project - Consultant - Functional Transformation - Sales & Service - Veeva CRM Salesforce FQV | https://in.linkedin.com/jobs/view/project-consultant-functional-transformation-sales-service-veeva-crm-salesforce-fqv-at-deloitte-4494328706
+4494413423 | Senior Technical Consultant | https://in.linkedin.com/jobs/view/senior-technical-consultant-at-salesforce-ad-4494413423
+4494406779 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-salesforce-ad-4494406779
+4494174997 | Marketing Cloud Architect | https://in.linkedin.com/jobs/view/marketing-cloud-architect-at-people-prime-worldwide-4494174997
