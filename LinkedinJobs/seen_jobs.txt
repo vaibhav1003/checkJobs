@@ -7203,3 +7203,12 @@
 4493503199 | Integration Specialist | https://in.linkedin.com/jobs/view/integration-specialist-at-talentgigs-4493503199
 4493596356 | Integration Specialist | https://in.linkedin.com/jobs/view/integration-specialist-at-talentgigs-4493596356
 4493394683 | Technical Lead - Salesforce CPQ / RCA | https://in.linkedin.com/jobs/view/technical-lead-salesforce-cpq-rca-at-osf-digital-4493394683
+4494125051 | Software Engineer II | https://in.linkedin.com/jobs/view/software-engineer-ii-at-metlife-4494125051
+4486142808 | Senior Software Engineer | https://in.linkedin.com/jobs/view/senior-software-engineer-at-mphasis-4486142808
+4494128000 | Consultant - Salesforce Development [T500-29456] | https://in.linkedin.com/jobs/view/consultant-salesforce-development-t500-29456-at-cibc-india-4494128000
+4494378377 | Integration Specialist | https://in.linkedin.com/jobs/view/integration-specialist-at-talentgigs-4494378377
+4494105320 | Salesforce Technical Architect - B2B Commerce | https://in.linkedin.com/jobs/view/salesforce-technical-architect-b2b-commerce-at-salesforce-ad-4494105320
+4494334478 | Salesforce LWC- Manager, Technical Transformation - Sales & Service -Customer | https://in.linkedin.com/jobs/view/salesforce-lwc-manager-technical-transformation-sales-service-customer-at-deloitte-4494334478
+4493013179 | Flutter Developer | https://in.linkedin.com/jobs/view/flutter-developer-at-forge-software-technologies-pvt-ltd-4493013179
+4494376166 | Salesforce Business Analyst | https://in.linkedin.com/jobs/view/salesforce-business-analyst-at-audit-fox-by-revx-4494376166
+4494328706 | Project - Consultant - Functional Transformation - Sales & Service - Veeva CRM Salesforce FQV | https://in.linkedin.com/jobs/view/project-consultant-functional-transformation-sales-service-veeva-crm-salesforce-fqv-at-deloitte-4494328706
