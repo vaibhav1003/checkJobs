@@ -7215,3 +7215,6 @@
 4494413423 | Senior Technical Consultant | https://in.linkedin.com/jobs/view/senior-technical-consultant-at-salesforce-ad-4494413423
 4494406779 | Salesforce Technical Architect | https://in.linkedin.com/jobs/view/salesforce-technical-architect-at-salesforce-ad-4494406779
 4494174997 | Marketing Cloud Architect | https://in.linkedin.com/jobs/view/marketing-cloud-architect-at-people-prime-worldwide-4494174997
+4494765766 | Integration Specialist | https://in.linkedin.com/jobs/view/integration-specialist-at-talentgigs-4494765766
+4493081809 | QE Lead (Salesforce) | https://in.linkedin.com/jobs/view/qe-lead-salesforce-at-accellor-4493081809
+4494480343 | Manager, Technical Consulting - Revenue Cloud | https://in.linkedin.com/jobs/view/manager-technical-consulting-revenue-cloud-at-salesforce-4494480343
