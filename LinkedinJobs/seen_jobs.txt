@@ -7241,3 +7241,6 @@
 4487731930 | Senior Enterprise Applications Administrator | https://in.linkedin.com/jobs/view/senior-enterprise-applications-administrator-at-jaggaer-4487731930
 4495528263 | Associate Specialist, Veeva Configuration | https://in.linkedin.com/jobs/view/associate-specialist-veeva-configuration-at-msd-4495528263
 4495533456 | Software Engineer II - ServiceNow & Integration Hub | https://in.linkedin.com/jobs/view/software-engineer-ii-servicenow-integration-hub-at-blue-yonder-4495533456
+4486707110 | nCino / Salesforce - Manager, Technical Transformation | https://in.linkedin.com/jobs/view/ncino-salesforce-manager-technical-transformation-at-deloitte-4486707110
+4495093484 | Salesforce Functional- Senior Consultant, Functional Transformation- Sales & Service- Customer | https://in.linkedin.com/jobs/view/salesforce-functional-senior-consultant-functional-transformation-sales-service-customer-at-deloitte-4495093484
+4495575899 | Data 360 Architect | https://in.linkedin.com/jobs/view/data-360-architect-at-ttc-group-tech-talent-consulting-4495575899
